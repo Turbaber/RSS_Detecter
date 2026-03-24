@@ -1,0 +1,1122 @@
+{
+  "generated_at": "2026-03-23T17:33:42.167046+08:00",
+  "item_count_raw": 3307,
+  "item_count_profiled": 1551,
+  "summary": {
+    "avg_title_length": 99.05,
+    "avg_abstract_length": 1471.97
+  },
+  "top_authors": [
+    {
+      "author": "Xiaoping Liu",
+      "count": 27
+    },
+    {
+      "author": "Zhaowu Yu",
+      "count": 24
+    },
+    {
+      "author": "Limin Jiao",
+      "count": 20
+    },
+    {
+      "author": "Xuecao Li",
+      "count": 18
+    },
+    {
+      "author": "Peng Gong",
+      "count": 18
+    },
+    {
+      "author": "Xia Li",
+      "count": 17
+    },
+    {
+      "author": "Gang Xu",
+      "count": 16
+    },
+    {
+      "author": "Yong Liu",
+      "count": 15
+    },
+    {
+      "author": "Bin Chen",
+      "count": 15
+    },
+    {
+      "author": "Weilin Liao",
+      "count": 13
+    },
+    {
+      "author": "Weiqi Zhou",
+      "count": 12
+    },
+    {
+      "author": "Yuyu Zhou",
+      "count": 11
+    },
+    {
+      "author": "Ming Luo",
+      "count": 11
+    },
+    {
+      "author": "Wenze Yue",
+      "count": 9
+    },
+    {
+      "author": "Bo Huang",
+      "count": 9
+    },
+    {
+      "author": "Chao Yuan",
+      "count": 9
+    },
+    {
+      "author": "Jian Peng",
+      "count": 9
+    },
+    {
+      "author": "Qihao Weng",
+      "count": 9
+    },
+    {
+      "author": "Hannes Taubenböck",
+      "count": 9
+    },
+    {
+      "author": "Filip Biljecki",
+      "count": 9
+    }
+  ],
+  "top_venues": [
+    {
+      "venue": "Sustainable Cities and Society",
+      "count": 214
+    },
+    {
+      "venue": "Landscape and Urban Planning",
+      "count": 106
+    },
+    {
+      "venue": "Cities",
+      "count": 96
+    },
+    {
+      "venue": "Building and Environment",
+      "count": 89
+    },
+    {
+      "venue": "Nature Communications",
+      "count": 58
+    },
+    {
+      "venue": "Remote Sensing of Environment",
+      "count": 44
+    },
+    {
+      "venue": "Habitat International",
+      "count": 35
+    },
+    {
+      "venue": "Urban Forestry & Urban Greening",
+      "count": 35
+    },
+    {
+      "venue": "Nature Cities",
+      "count": 34
+    },
+    {
+      "venue": "International Journal of Geographical Information Science",
+      "count": 33
+    },
+    {
+      "venue": "Computers, Environment and Urban Systems",
+      "count": 31
+    },
+    {
+      "venue": "Proceedings of the National Academy of Sciences",
+      "count": 30
+    },
+    {
+      "venue": "Applied Geography",
+      "count": 29
+    },
+    {
+      "venue": "Science of The Total Environment",
+      "count": 29
+    },
+    {
+      "venue": "npj Urban Sustainability",
+      "count": 27
+    },
+    {
+      "venue": "Ecological Indicators",
+      "count": 24
+    },
+    {
+      "venue": "Scientific Data",
+      "count": 23
+    },
+    {
+      "venue": "Urban Climate",
+      "count": 22
+    },
+    {
+      "venue": "Nature",
+      "count": 22
+    },
+    {
+      "venue": "Environmental Science & Technology",
+      "count": 21
+    }
+  ],
+  "top_tags": [
+    {
+      "tag": "+++",
+      "count": 34
+    },
+    {
+      "tag": "***",
+      "count": 3
+    }
+  ],
+  "top_years": [
+    {
+      "year": "2025",
+      "count": 415
+    },
+    {
+      "year": "2024",
+      "count": 365
+    },
+    {
+      "year": "2023",
+      "count": 171
+    },
+    {
+      "year": "2022",
+      "count": 127
+    },
+    {
+      "year": "2021",
+      "count": 83
+    },
+    {
+      "year": "2026",
+      "count": 71
+    },
+    {
+      "year": "2020",
+      "count": 60
+    },
+    {
+      "year": "2019",
+      "count": 34
+    },
+    {
+      "year": "2018",
+      "count": 28
+    },
+    {
+      "year": "2017",
+      "count": 27
+    },
+    {
+      "year": "2016",
+      "count": 21
+    },
+    {
+      "year": "2015",
+      "count": 15
+    },
+    {
+      "year": "2013",
+      "count": 12
+    },
+    {
+      "year": "2014",
+      "count": 11
+    },
+    {
+      "year": "2012",
+      "count": 11
+    },
+    {
+      "year": "2005",
+      "count": 8
+    },
+    {
+      "year": "2007",
+      "count": 6
+    },
+    {
+      "year": "2010",
+      "count": 6
+    },
+    {
+      "year": "2011",
+      "count": 5
+    },
+    {
+      "year": "2008",
+      "count": 5
+    }
+  ],
+  "top_item_types": [
+    {
+      "item_type": "journalArticle",
+      "count": 1525
+    },
+    {
+      "item_type": "preprint",
+      "count": 13
+    },
+    {
+      "item_type": "book",
+      "count": 4
+    },
+    {
+      "item_type": "thesis",
+      "count": 4
+    },
+    {
+      "item_type": "bookSection",
+      "count": 2
+    },
+    {
+      "item_type": "report",
+      "count": 1
+    },
+    {
+      "item_type": "dataset",
+      "count": 1
+    },
+    {
+      "item_type": "webpage",
+      "count": 1
+    }
+  ],
+  "top_keywords": [
+    {
+      "keyword": "urban",
+      "score": 124.7735
+    },
+    {
+      "keyword": "heat",
+      "score": 53.4212
+    },
+    {
+      "keyword": "cities",
+      "score": 48.231
+    },
+    {
+      "keyword": "spatial",
+      "score": 47.8058
+    },
+    {
+      "keyword": "cooling",
+      "score": 39.1556
+    },
+    {
+      "keyword": "climate",
+      "score": 38.8401
+    },
+    {
+      "keyword": "global",
+      "score": 35.9788
+    },
+    {
+      "keyword": "land",
+      "score": 35.4163
+    },
+    {
+      "keyword": "building",
+      "score": 34.3167
+    },
+    {
+      "keyword": "china",
+      "score": 33.6184
+    },
+    {
+      "keyword": "temperature",
+      "score": 32.8104
+    },
+    {
+      "keyword": "data",
+      "score": 31.8692
+    },
+    {
+      "keyword": "green",
+      "score": 31.5916
+    },
+    {
+      "keyword": "exposure",
+      "score": 29.9731
+    },
+    {
+      "keyword": "park",
+      "score": 28.7283
+    },
+    {
+      "keyword": "surface",
+      "score": 28.4629
+    },
+    {
+      "keyword": "urbanization",
+      "score": 28.3419
+    },
+    {
+      "keyword": "extreme",
+      "score": 27.3183
+    },
+    {
+      "keyword": "areas",
+      "score": 27.2438
+    },
+    {
+      "keyword": "model",
+      "score": 26.8615
+    },
+    {
+      "keyword": "population",
+      "score": 26.7787
+    },
+    {
+      "keyword": "expansion",
+      "score": 24.6862
+    },
+    {
+      "keyword": "development",
+      "score": 24.5123
+    },
+    {
+      "keyword": "parks",
+      "score": 24.4044
+    },
+    {
+      "keyword": "city",
+      "score": 22.6961
+    },
+    {
+      "keyword": "lst",
+      "score": 22.1209
+    },
+    {
+      "keyword": "uhi",
+      "score": 21.4875
+    },
+    {
+      "keyword": "landscape",
+      "score": 21.4733
+    },
+    {
+      "keyword": "island",
+      "score": 20.656
+    },
+    {
+      "keyword": "thermal",
+      "score": 20.5148
+    },
+    {
+      "keyword": "models",
+      "score": 19.7922
+    },
+    {
+      "keyword": "health",
+      "score": 19.7258
+    },
+    {
+      "keyword": "space",
+      "score": 19.2466
+    },
+    {
+      "keyword": "morphology",
+      "score": 19.1134
+    },
+    {
+      "keyword": "area",
+      "score": 19.0423
+    },
+    {
+      "keyword": "planning",
+      "score": 18.6475
+    },
+    {
+      "keyword": "growth",
+      "score": 18.5538
+    },
+    {
+      "keyword": "form",
+      "score": 18.2255
+    },
+    {
+      "keyword": "warming",
+      "score": 17.3036
+    },
+    {
+      "keyword": "environment",
+      "score": 17.115
+    },
+    {
+      "keyword": "environmental",
+      "score": 17.103
+    },
+    {
+      "keyword": "rural",
+      "score": 16.887
+    },
+    {
+      "keyword": "air",
+      "score": 16.3672
+    },
+    {
+      "keyword": "density",
+      "score": 16.3394
+    },
+    {
+      "keyword": "energy",
+      "score": 16.1942
+    },
+    {
+      "keyword": "spaces",
+      "score": 15.8138
+    },
+    {
+      "keyword": "social",
+      "score": 15.792
+    },
+    {
+      "keyword": "extremes",
+      "score": 15.7703
+    },
+    {
+      "keyword": "intensity",
+      "score": 15.6755
+    },
+    {
+      "keyword": "local",
+      "score": 15.4656
+    }
+  ],
+  "top_keywords_focus": [
+    {
+      "keyword": "heat",
+      "score": 53.4212
+    },
+    {
+      "keyword": "cooling",
+      "score": 39.1556
+    },
+    {
+      "keyword": "climate",
+      "score": 38.8401
+    },
+    {
+      "keyword": "building",
+      "score": 34.3167
+    },
+    {
+      "keyword": "china",
+      "score": 33.6184
+    },
+    {
+      "keyword": "temperature",
+      "score": 32.8104
+    },
+    {
+      "keyword": "green",
+      "score": 31.5916
+    },
+    {
+      "keyword": "exposure",
+      "score": 29.9731
+    },
+    {
+      "keyword": "park",
+      "score": 28.7283
+    },
+    {
+      "keyword": "urbanization",
+      "score": 28.3419
+    },
+    {
+      "keyword": "extreme",
+      "score": 27.3183
+    },
+    {
+      "keyword": "population",
+      "score": 26.7787
+    },
+    {
+      "keyword": "expansion",
+      "score": 24.6862
+    },
+    {
+      "keyword": "parks",
+      "score": 24.4044
+    },
+    {
+      "keyword": "lst",
+      "score": 22.1209
+    },
+    {
+      "keyword": "uhi",
+      "score": 21.4875
+    },
+    {
+      "keyword": "landscape",
+      "score": 21.4733
+    },
+    {
+      "keyword": "island",
+      "score": 20.656
+    },
+    {
+      "keyword": "thermal",
+      "score": 20.5148
+    },
+    {
+      "keyword": "health",
+      "score": 19.7258
+    },
+    {
+      "keyword": "morphology",
+      "score": 19.1134
+    },
+    {
+      "keyword": "planning",
+      "score": 18.6475
+    },
+    {
+      "keyword": "growth",
+      "score": 18.5538
+    },
+    {
+      "keyword": "form",
+      "score": 18.2255
+    },
+    {
+      "keyword": "warming",
+      "score": 17.3036
+    },
+    {
+      "keyword": "rural",
+      "score": 16.887
+    },
+    {
+      "keyword": "air",
+      "score": 16.3672
+    },
+    {
+      "keyword": "density",
+      "score": 16.3394
+    },
+    {
+      "keyword": "energy",
+      "score": 16.1942
+    },
+    {
+      "keyword": "spaces",
+      "score": 15.8138
+    },
+    {
+      "keyword": "social",
+      "score": 15.792
+    },
+    {
+      "keyword": "extremes",
+      "score": 15.7703
+    },
+    {
+      "keyword": "intensity",
+      "score": 15.6755
+    },
+    {
+      "keyword": "ugs",
+      "score": 14.6231
+    },
+    {
+      "keyword": "carbon",
+      "score": 14.5951
+    },
+    {
+      "keyword": "vegetation",
+      "score": 14.4768
+    },
+    {
+      "keyword": "sustainable",
+      "score": 14.3996
+    },
+    {
+      "keyword": "height",
+      "score": 14.2781
+    },
+    {
+      "keyword": "human",
+      "score": 13.9847
+    },
+    {
+      "keyword": "learning",
+      "score": 13.9257
+    },
+    {
+      "keyword": "distribution",
+      "score": 13.3268
+    },
+    {
+      "keyword": "buildings",
+      "score": 13.0637
+    },
+    {
+      "keyword": "suhi",
+      "score": 13.0219
+    },
+    {
+      "keyword": "weather",
+      "score": 12.9442
+    },
+    {
+      "keyword": "index",
+      "score": 12.8028
+    },
+    {
+      "keyword": "inequality",
+      "score": 12.7727
+    },
+    {
+      "keyword": "public",
+      "score": 12.4828
+    },
+    {
+      "keyword": "influence",
+      "score": 12.4301
+    },
+    {
+      "keyword": "services",
+      "score": 12.4148
+    },
+    {
+      "keyword": "dynamics",
+      "score": 12.2988
+    }
+  ],
+  "top_phrases": [
+    {
+      "phrase": "urban heat",
+      "score": 28.287
+    },
+    {
+      "phrase": "heat island",
+      "score": 20.0733
+    },
+    {
+      "phrase": "urban form",
+      "score": 18.447
+    },
+    {
+      "phrase": "urban heat island",
+      "score": 17.8697
+    },
+    {
+      "phrase": "urban expansion",
+      "score": 17.7839
+    },
+    {
+      "phrase": "extreme heat",
+      "score": 16.9218
+    },
+    {
+      "phrase": "surface temperature",
+      "score": 15.8873
+    },
+    {
+      "phrase": "green space",
+      "score": 15.5057
+    },
+    {
+      "phrase": "land surface",
+      "score": 13.8877
+    },
+    {
+      "phrase": "machine learning",
+      "score": 13.4246
+    },
+    {
+      "phrase": "urban parks",
+      "score": 13.3545
+    },
+    {
+      "phrase": "urban morphology",
+      "score": 13.2787
+    },
+    {
+      "phrase": "urban areas",
+      "score": 12.8405
+    },
+    {
+      "phrase": "urban green",
+      "score": 12.1373
+    },
+    {
+      "phrase": "land surface temperature",
+      "score": 12.0463
+    },
+    {
+      "phrase": "urban land",
+      "score": 11.7034
+    },
+    {
+      "phrase": "green spaces",
+      "score": 11.6184
+    },
+    {
+      "phrase": "heat exposure",
+      "score": 11.0021
+    },
+    {
+      "phrase": "urban development",
+      "score": 10.9206
+    },
+    {
+      "phrase": "urban shrinkage",
+      "score": 10.6263
+    },
+    {
+      "phrase": "urban planning",
+      "score": 10.2785
+    },
+    {
+      "phrase": "built environment",
+      "score": 10.242
+    },
+    {
+      "phrase": "building height",
+      "score": 10.1973
+    },
+    {
+      "phrase": "urban rural",
+      "score": 9.6956
+    },
+    {
+      "phrase": "chinese cities",
+      "score": 9.444
+    },
+    {
+      "phrase": "sustainable development",
+      "score": 9.372
+    },
+    {
+      "phrase": "air temperature",
+      "score": 9.3044
+    },
+    {
+      "phrase": "park cooling",
+      "score": 8.8128
+    },
+    {
+      "phrase": "urban park",
+      "score": 8.7663
+    },
+    {
+      "phrase": "heat islands",
+      "score": 8.5644
+    },
+    {
+      "phrase": "remote sensing",
+      "score": 8.2159
+    },
+    {
+      "phrase": "extreme weather",
+      "score": 8.079
+    },
+    {
+      "phrase": "spatial heterogeneity",
+      "score": 8.0685
+    },
+    {
+      "phrase": "urban spatial",
+      "score": 7.9383
+    },
+    {
+      "phrase": "shrinking cities",
+      "score": 7.757
+    },
+    {
+      "phrase": "urban growth",
+      "score": 7.7035
+    },
+    {
+      "phrase": "land cover",
+      "score": 7.6243
+    },
+    {
+      "phrase": "surface urban",
+      "score": 7.392
+    },
+    {
+      "phrase": "surface urban heat",
+      "score": 7.3423
+    },
+    {
+      "phrase": "mental health",
+      "score": 7.3128
+    },
+    {
+      "phrase": "thermal environment",
+      "score": 7.0517
+    },
+    {
+      "phrase": "global warming",
+      "score": 6.9538
+    },
+    {
+      "phrase": "global urban",
+      "score": 6.9165
+    },
+    {
+      "phrase": "urban heat islands",
+      "score": 6.8887
+    },
+    {
+      "phrase": "population density",
+      "score": 6.7809
+    },
+    {
+      "phrase": "urban green space",
+      "score": 6.7574
+    },
+    {
+      "phrase": "energy consumption",
+      "score": 6.688
+    },
+    {
+      "phrase": "heat island uhi",
+      "score": 6.4133
+    },
+    {
+      "phrase": "island uhi",
+      "score": 6.4133
+    },
+    {
+      "phrase": "urban landscape",
+      "score": 6.37
+    }
+  ],
+  "recent_items": [
+    {
+      "title": "Toward equitable green spaces: Spatial patterns and determinants of accessibility and inequality across 314 Chinese cities",
+      "year": "2026",
+      "venue": "Cities",
+      "authors": [
+        "Luyao Wang",
+        "Xu Wang"
+      ],
+      "date_added": "2026-03-22T12:38:31Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001654",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Variation characteristics and segment differences of urban heat exposure risk in continuous time series: A comprehensive synchronous comparison of daily and hourly scales",
+      "year": "2026",
+      "venue": "Landscape and Urban Planning",
+      "authors": [
+        "Junmao Zhang",
+        "Xia Yao",
+        "Meixia Lin",
+        "Tao Lin",
+        "Yuan Chen"
+      ],
+      "date_added": "2026-03-20T06:43:53Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000113",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "An environmental justice study on spatial access to parks for youth by using an improved 2SFCA method in Wuhan, China",
+      "year": "2020",
+      "venue": "Cities",
+      "authors": [
+        "Lijun Xing",
+        "Yanfang Liu",
+        "Baoshun Wang",
+        "Yiheng Wang",
+        "Haijiang Liu"
+      ],
+      "date_added": "2026-03-12T09:25:57Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0264275118309545",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Public transport accessibility in villages in and around major Chinese cities",
+      "year": "2025",
+      "venue": "Nature Cities",
+      "authors": [
+        "Zihua Chen",
+        "Xiaowei Li",
+        "Bingzhi Liu",
+        "Shaohua Wang",
+        "Xiao Li"
+      ],
+      "date_added": "2026-03-11T03:24:52Z",
+      "url": "https://www.nature.com/articles/s44284-025-00277-z",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "CityVLM: Towards sustainable urban development via multi-view coordinated vision–language model",
+      "year": "2026",
+      "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "authors": [
+        "Junjue Wang",
+        "Weihao Xuan",
+        "Heli Qi",
+        "Zihang Chen",
+        "Hongruixuan Chen"
+      ],
+      "date_added": "2026-03-09T00:48:49Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004678",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Advancing climate justice for vulnerable groups: Optimizing spatial configuration of urban blue–green infrastructure to mitigate heat risks leveraging explainable machine learning",
+      "year": "2026",
+      "venue": "Sustainable Cities and Society",
+      "authors": [
+        "Qiqi Liu",
+        "Tian Hang",
+        "Mingxuan Wan",
+        "Youngkeun Song"
+      ],
+      "date_added": "2026-03-01T03:10:08Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2210670726001150",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Global inequalities in building infrastructure: A three-dimensional building perspective based on remote sensing",
+      "year": "2025",
+      "venue": "Habitat International",
+      "authors": [
+        "Xi Chen",
+        "Junfeng Xiong",
+        "Xuan Hou",
+        "Yuchen Liu",
+        "Qingyu Wu"
+      ],
+      "date_added": "2026-03-01T03:10:06Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0197397525003339",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Global disparities in 3D urban morphology shaped by building height and distributions",
+      "year": "2026",
+      "venue": "Science Bulletin",
+      "authors": [
+        "Yangzi Che",
+        "Xuecao Li",
+        "Ying Wu",
+        "Yucong Sun",
+        "Bingjie Li"
+      ],
+      "date_added": "2026-03-01T03:10:03Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S209592732600037X",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "How to identify urban heat inequity? A systematic literature review of scales, indicators, pathways, and future directions",
+      "year": "2026",
+      "venue": "Sustainable Cities and Society",
+      "authors": [
+        "Yue Lin",
+        "Hui Zeng"
+      ],
+      "date_added": "2026-03-01T03:10:00Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S221067072600017X",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Satellite mapping of every building’s function in urban China reveals deep built environment disparities",
+      "year": "2026",
+      "venue": "Nature Communications",
+      "authors": [
+        "Zhuohong Li",
+        "Linxin Li",
+        "Ting Hu",
+        "Mofan Cheng",
+        "Wei He"
+      ],
+      "date_added": "2026-03-01T03:09:57Z",
+      "url": "https://www.nature.com/articles/s41467-026-69589-5",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Degree of spatial interpretability",
+      "year": "2026",
+      "venue": "International Journal of Geographical Information Science",
+      "authors": [
+        "Haiyang Liu",
+        "Yongze Song",
+        "Wen Yi"
+      ],
+      "date_added": "2026-03-01T03:09:54Z",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2614335",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Bridging the thermal gap: Generating 10 m, 3-day land surface temperature via Landsat–Sentinel-2 fusion",
+      "year": "2026",
+      "venue": "Remote Sensing of Environment",
+      "authors": [
+        "Yuan Qi",
+        "Bo Huang",
+        "Min Zhao",
+        "Xiaolu Jiang",
+        "Wenfei Mao"
+      ],
+      "date_added": "2026-03-01T03:09:52Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006315",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Urban heat mitigation by green and blue infrastructure: Drivers, effectiveness, and future needs",
+      "year": "2024",
+      "venue": "The Innovation",
+      "authors": [
+        "Prashant Kumar",
+        "Sisay E. Debele",
+        "Soheila Khalili",
+        "Christos H. Halios",
+        "Jeetendra Sahani"
+      ],
+      "date_added": "2026-03-01T03:09:49Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666675824000262",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Environmental drivers of housing prices and thermal inequality using satellite imagery: A submarket approach",
+      "year": "2026",
+      "venue": "Habitat International",
+      "authors": [
+        "Ali Soltani",
+        "Chyi Lin Lee",
+        "Roghayeh Mirzaie",
+        "Mohsen Roohani Qadikolaei"
+      ],
+      "date_added": "2026-03-01T03:09:46Z",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0197397525003443",
+      "item_type": "journalArticle"
+    },
+    {
+      "title": "Synthesizing scientific literature with retrieval-augmented language models",
+      "year": "2026",
+      "venue": "Nature",
+      "authors": [
+        "Akari Asai",
+        "Jacqueline He",
+        "Rulin Shao",
+        "Weijia Shi",
+        "Amanpreet Singh"
+      ],
+      "date_added": "2026-02-28T12:27:44Z",
+      "url": "https://www.nature.com/articles/s41586-025-10072-4",
+      "item_type": "journalArticle"
+    }
+  ]
+}
