@@ -14,12 +14,13 @@ SEEN_PATH = BASE_DIR / "seen_items.json"
 OUTPUT_PATH = BASE_DIR / "rss_matches.json"
 DOCS_DIR = BASE_DIR / "docs"
 
-TOP_KW = 40
-TOP_PH = 30
+TOP_KW = 200
 
-HIGH_SCORE = 120
-MID_SCORE = 60
-MIN_SCORE = 20
+HIGH_SCORE = 12
+MID_SCORE = 7
+MIN_SCORE = 3
+
+TIER_WEIGHTS = [3, 2, 1]
 
 
 # 文本标准化
@@ -31,9 +32,22 @@ def norm(text):
 def load_profile():
     print("读取画像")
     profile = json.loads(PROFILE_PATH.read_text(encoding="utf-8"))
-    kw = {x["keyword"].lower(): float(x["score"]) for x in profile["top_keywords_focus"][:TOP_KW]}
-    ph = {x["phrase"].lower(): float(x["score"]) for x in profile["top_phrases"][:TOP_PH]}
-    return kw, ph
+    keyword_items = profile.get("keywords") or profile.get("top_keywords_focus") or profile.get("top_keywords") or []
+    keyword_items = keyword_items[:TOP_KW]
+    kw = {}
+
+    if not keyword_items:
+        return kw
+
+    total = len(keyword_items)
+    tier_count = len(TIER_WEIGHTS)
+
+    for idx, item in enumerate(keyword_items):
+        keyword = item["keyword"].lower()
+        tier_idx = min(idx * tier_count // total, tier_count - 1)
+        kw[keyword] = float(TIER_WEIGHTS[tier_idx])
+
+    return kw
 
 
 # 读取 RSS 源
@@ -62,16 +76,10 @@ def get_uid(entry):
 
 
 # 打分
-def score_text(text, kw_weights, ph_weights):
+def score_text(text, kw_weights):
     text = norm(text)
     score = 0.0
     kw_hits = []
-    ph_hits = []
-
-    for phrase, weight in ph_weights.items():
-        if phrase in text:
-            score += weight
-            ph_hits.append({"phrase": phrase, "score": round(weight, 4)})
 
     words = set(re.findall(r"[a-zA-Z][a-zA-Z\-]{2,}", text))
     for kw, weight in kw_weights.items():
@@ -79,7 +87,7 @@ def score_text(text, kw_weights, ph_weights):
             score += weight
             kw_hits.append({"keyword": kw, "score": round(weight, 4)})
 
-    return round(score, 4), kw_hits, ph_hits
+    return round(score, 4), kw_hits
 
 
 # 读取单个 RSS
@@ -110,8 +118,7 @@ def item_xml(item):
     pub = escape(item["published"] or "")
     desc = escape(
         f"Score: {score} | Feed: {item['feed_title']} | "
-        f"Keywords: {', '.join(x['keyword'] for x in item['matched_keywords'])} | "
-        f"Phrases: {', '.join(x['phrase'] for x in item['matched_phrases'])}\n\n"
+        f"Keywords: {', '.join(x['keyword'] for x in item['matched_keywords'])}\n\n"
         f"{item['summary']}"
     )
     guid = escape(item["link"] or item["title"])
@@ -142,7 +149,7 @@ def write_rss(items, title, out_path):
 
 # 主流程
 def main():
-    kw_weights, ph_weights = load_profile()
+    kw_weights = load_profile()
     rss_urls = load_rss_urls()
     seen = load_seen()
 
@@ -156,7 +163,7 @@ def main():
                 continue
 
             text = f"{item['title']} {item['summary']}"
-            score, kw_hits, ph_hits = score_text(text, kw_weights, ph_weights)
+            score, kw_hits = score_text(text, kw_weights)
             new_seen.add(uid)
 
             if score < MIN_SCORE:
@@ -169,7 +176,6 @@ def main():
                 "published": item["published"],
                 "feed_title": item["feed_title"],
                 "rss_url": item["rss_url"],
-                "matched_phrases": sorted(ph_hits, key=lambda x: x["score"], reverse=True),
                 "matched_keywords": sorted(kw_hits, key=lambda x: x["score"], reverse=True),
                 "summary": item["summary"],
             })
