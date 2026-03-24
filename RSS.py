@@ -2,6 +2,7 @@
 import json
 import re
 from pathlib import Path
+from datetime import datetime, timezone
 from xml.sax.saxutils import escape
 
 import feedparser
@@ -21,6 +22,7 @@ MID_SCORE = 7
 MIN_SCORE = 3
 
 TIER_WEIGHTS = [3, 2, 1]
+MAX_ITEMS_PER_FEED = 1000
 
 
 # 文本标准化
@@ -70,9 +72,52 @@ def save_seen(seen):
     SEEN_PATH.write_text(json.dumps(sorted(seen), ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def load_history():
+    print("读取历史命中")
+    if not OUTPUT_PATH.exists():
+        return []
+    return json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+
+
+def save_history(items):
+    print("保存 JSON")
+    OUTPUT_PATH.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 # 条目标识
 def get_uid(entry):
     return entry.get("id", "").strip() or entry.get("link", "").strip() or entry.get("title", "").strip()
+
+
+def history_key(item):
+    return item.get("link", "").strip() or item.get("title", "").strip()
+
+
+def history_timestamp(item):
+    return item.get("collected_at", "") or item.get("published", "") or ""
+
+
+def merge_history(history_items, new_items):
+    merged = {}
+
+    for item in history_items:
+        key = history_key(item)
+        if not key:
+            continue
+        item.setdefault("matched_keywords", [])
+        item.setdefault("summary", "")
+        item.setdefault("collected_at", "")
+        merged[key] = item
+
+    for item in new_items:
+        key = history_key(item)
+        if not key:
+            continue
+        merged[key] = item
+
+    merged_items = list(merged.values())
+    merged_items.sort(key=history_timestamp, reverse=True)
+    return merged_items
 
 
 # 打分
@@ -152,8 +197,9 @@ def main():
     kw_weights = load_profile()
     rss_urls = load_rss_urls()
     seen = load_seen()
+    history_items = load_history()
 
-    results = []
+    new_results = []
     new_seen = set()
 
     for rss_url in rss_urls:
@@ -169,28 +215,28 @@ def main():
             if score < MIN_SCORE:
                 continue
 
-            results.append({
+            new_results.append({
                 "score": score,
                 "title": item["title"],
                 "link": item["link"],
                 "published": item["published"],
+                "collected_at": datetime.now(timezone.utc).isoformat(),
                 "feed_title": item["feed_title"],
                 "rss_url": item["rss_url"],
                 "matched_keywords": sorted(kw_hits, key=lambda x: x["score"], reverse=True),
                 "summary": item["summary"],
             })
 
-    results.sort(key=lambda x: x["score"], reverse=True)
+    results = merge_history(history_items, new_results)
 
-    print("保存 JSON")
-    OUTPUT_PATH.write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8")
+    save_history(results)
 
     print("生成 RSS")
     DOCS_DIR.mkdir(exist_ok=True)
 
-    high = [x for x in results if x["score"] >= HIGH_SCORE]
-    mid = [x for x in results if MID_SCORE <= x["score"] < HIGH_SCORE]
-    low = [x for x in results if MIN_SCORE <= x["score"] < MID_SCORE]
+    high = [x for x in results if x["score"] >= HIGH_SCORE][:MAX_ITEMS_PER_FEED]
+    mid = [x for x in results if MID_SCORE <= x["score"] < HIGH_SCORE][:MAX_ITEMS_PER_FEED]
+    low = [x for x in results if MIN_SCORE <= x["score"] < MID_SCORE][:MAX_ITEMS_PER_FEED]
 
     write_rss(high, f"High Score Papers (>= {HIGH_SCORE})", DOCS_DIR / "high.xml")
     write_rss(mid, f"Mid Score Papers ({MID_SCORE} - {HIGH_SCORE})", DOCS_DIR / "mid.xml")
