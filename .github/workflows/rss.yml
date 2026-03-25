@@ -1,16 +1,18 @@
 name: RSS Scan
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "40 1 * * *"
-
-permissions:
-  contents: write
+    - cron: "5 1 * * *"   # 北京时间每天 09:05
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   scan:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: 拉取仓库
@@ -22,6 +24,8 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
 
       - name: 安装依赖
         run: python -m pip install -r requirements.txt
