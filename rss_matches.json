@@ -1,5 +1,2765 @@
 [
   {
+    "score": 16.0,
+    "title": "Spatiotemporal temperature variations induced by urban extreme heat events at the micro-scale",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000623?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620965+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Huifang Li, Shuman Shen, Meiling Gao, Yu Wu, Zhihua Wang, Huanfeng Shen</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Comprehensive characterization and evaluation of coupled LID system responses to extreme rainfall events",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000660?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620942+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Yiqun Han, Xiao-long Wu, Qing Liu, Ruijun Wang, Lei Cao</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Spatiotemporal dynamics of urban extreme heat under intensifying potential future heatwaves: Evidence from the Tokyo megalopolis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000702?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620921+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Dun Zhu, Xuefan Zhou, Gaofeng Deng, Ryozo Ooka</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "The impact of tree canopy cover and imperviousness on air temperature during summer using low cost sensors on public transportation in Rome, Italy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000635?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620898+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Andrea Cecilia, Lorenzo Marinelli, Costanza Borghi, Giampietro Casasanta, Gherardo Chirici, Alessandro Conidi, Marianna Conte, Juri Iurato, Igor Petenko, Stefania Argentini</p>"
+  },
+  {
+    "score": 20.0,
+    "title": "Optimizing urban heat mitigation strategies with shade sails, water bodies, and cooling fog in combination with green space",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000696?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620869+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Haojie Cheng, Chae Yeon Park, Chan Park</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Equity-oriented GIS-MCDA mapping of urban rooftops for green roofs and photovoltaic systems: competition and synergies in Padua, Italy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000714?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620842+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Abdullah Ahmadi, Daniele Codato, Francesca Peroni, Massimo De Marchi</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "LIDAR observations of building wakes at the Hong Kong International Airport and their numerical simulations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095525004365?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620819+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): K.W. Lo, P. Cheung, K.K. Lai, P.W. Chan</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Quantifying mobility-based seasonal individual heat exposure and the NEAP using multi-source spatiotemporal data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000593?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620799+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Yan Zhang, Mei-Po Kwan, Zhijie Zhang</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Quantifying ground temperature characteristics affected by underground buildings in spatial-temporal distributions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000337?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620778+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): You Tang, Yongqiang Luo, Ling Zhang, Jiang Chen, Xudong Tang, Zhenghong Wu</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Interplay between anthropogenic emissions, monsoon circulation, and trace metal deposition in rainwater over a rapidly urbanizing region of southwestern India",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000829?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620755+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Ranjeeta Dattatray Gawhane, Mahesh Nikam, Damodararao Karri, Vinayak Waghmare, Subrata Mukherjee, Krishnakant Budhavant, Naveen Gandhi, Padmakumari Burrala</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Analyzing the influence of temperature and seasonal variation on fine air pollution: Developing and validating a proxy for identifying cities with varying wood use levels",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000878?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620727+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Damian Chandia-Poblete, Thomas Cole-Hunter, Melissa Haswell, Kristiann C. Heesch</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Wind-driven chimney effect of vertical airflow induced by spatial patterns within the High-rise Tower-style Building",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000891?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620697+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Junrui Mi, Zhenxin Liu, Chao Zhang, Wenqing Shi, Yuanyuan Zhang, Hong Liao</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "A review of real-time control approaches in nature-based solutions for enhanced stormwater management: Applications in green and blue-green roof systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000659?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620674+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Shahrzad Hamidiaala, Hamidreza Shirkhani, Abdolmajid Mohammadian, Sophie Duchesne</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Evaluating inter-site similarity and model transferability for machine learning prediction of CO<sub>2</sub> and CH<sub>4</sub> concentrations across urban typologies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000611?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620650+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Seongjun Park, Hyojin Eom, Jaehong Lee, Jaewook Lee, Kwangbok Jeong, Seung-Muk Yi, Donghyun Rim, Qili Dai, Sangjae Jeong, Young Su Lee, Kwang-Joo Moon</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Thermal environment simulation and risk assessment in urban commercial areas under extreme high temperatures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600057X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620619+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Hanqian Chen, Huifang Li, Zhiheng Wang</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Land cover and socioeconomic vulnerability is associated with unequal warming in a hyper-arid city in Northwest Mexico",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000738?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620596+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "socioeconomic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Eric Sigala-Meza, Francisco José Del-Toro-Guerrero, Stephen Holmes Bullock, Ivett Zavala-Guillén, Rodrigo Méndez-Alonzo</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Quantifying the cooling performance of urban tree diversity using remote sensing: A case study of a semi-arid megacity (Xi'an, China)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000775?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620565+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Nuoting Hou, Sen Wang, Jianhong Liu, Lei Wang, Jun Wang, Xuhong Wang, Liu Yang, Nan Liu, Yu Zhu</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "The integrated influence of waterfront landscapes on thermal sensation, emotions, and perceived restorativeness from an urban microclimatic perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000684?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620539+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Li Li, Zixuan Zhang, Riyi Li, Wenhao Qiu, Kexin Zhou, Nan Zhang, Lihua Zhao, Qinglin Meng</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Impacts of urban aerosols and land use on clouds and precipitation in urban and adjacent non-urban areas",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000271?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620515+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Seoung Soo Lee, Jinho Choi, Kyong-Hwan Seo, Junshik Um, Hyunkyoung Kim, Chang Hoon Jung, Sang-Keun Song, Manguttathil G. Manoj</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Simplified physiological equivalent temperature (PET) estimation formula for the climate of Taiwan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000726?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620489+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Yi-Chen Wu, Andreas Matzarakis, Tzu-Ping Lin</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Numerical study on natural-ventilated pollutant transportation in street canyons with green infrastructure under vegetation-induced thermal conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000647?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620469+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Dongjin Cui, Tao Zhou, Guozhu Liang, Yue Fan, Cheuk Ming Mak</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Micro-scale diurnal thermal regimes and heat-carbon spatial decoupling in the downtown of Beijing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000799?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620444+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Yuhan Liu, Wenbao Lv, Xiangzheng Deng</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Urban heat exposure and outdoor occupational heat-related illnesses in Singapore – A nationwide time-stratified case crossover study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000787?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620423+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Anne Goei, Lucy Leong, Joel Aik</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Effects of urban canopy on kinematic and boundary layer structures of the landfalling Typhoon Lekima (2019)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000908?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620394+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Xiangyu Ao, Robert F. Rogers, Huan-Cong Liu, Hui Yu, Wei Huang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Quantifying climate comfort sensitivity for urban and beach tourism in China: An HCI-based attribution analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600088X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620372+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Yuxin Zhou, Wenli Lai, Jie Zhang, Chenyang Yuan, Wenjie Liu, Yichen Zhang, Wenyin Wu</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Designing and evaluating a Community-Centred Heat Early Warning System (CHEWS) for Nigerian slum communities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000246?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620349+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Olumuyiwa Bayode Adegun, Tobi Eniolu Morakinyo, Peter Elias</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "From green to spring: Enhancing urban temperature adaptation through a comprehensive ecological incentive",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000921?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620327+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Ze Chen, Bingqian Tu, Jingqi Dang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Translating urban climate research into practice: Practitioner evidence from Hong Kong on formats, barriers and adoption",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000817?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620306+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Yilin Lee, Edward Ng</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "A CFD Investigation of wind- and buoyancy-driven flows in urban street canyons: Assessment of wall-modelled LES and Reynolds number independence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000854?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620286+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Pu Gong, Giin Yu Amy Tan, Shiu Tong Thomas Ng, Xing Zheng</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Climate-adaptive urban drainage modeling: Assessing future flood hazards in Algiers, Algeria",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600074X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620262+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): El-khansa Lameche, Hamouda Boutaghane, Mohamed Saber, Kenji Tanaka, Asma Dahak, Sameh A. Kantoush, Tetsuya Sumi</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "A pathways framework for the climate change-mental health-violence nexus in informal settlements",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000751?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620237+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Samantha C. Winter</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "The influence of foliage density on the wall surface temperature: An analysis of <em>Hedera helix</em> cultivars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600060X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620201+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Marie De Groeve, Eda Kale, Anouk De Bock, Scott Allan Orr, Tim De Kock</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "The literature landscape on cities and climate change",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000805?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620177+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Urban Climate, Volume 66</p><p>Author(s): Ayyoob Sharifi, Karen C. Seto, Prince Dacosta Aboagye</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Light absorption properties of elemental carbon, primary/secondary brown carbon, and mineral dust at a semi-urban site in Mysuru, Southern India",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000830?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620157+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Ankur Bhardwaj, Diksha Haswani, Ramya Sunder Raman, S.V. Laxmi Prasad, B.M. Sadashiva Murthy, K.S. Lokesh</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Analysis of potential sources and influencing factors of O<sub>3</sub> pollution in the Hexi region based on XGBoost and SHAP models",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600091X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620131+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Peihao Wang, Haiping Luo, Mingxin Wang, Xiaowei Shang, Jie Song, Bo Zhao, Niannian Chen, Zhiyong Zheng, Qingyu Guan</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Source apportionment and diurnal dynamics from quasi real-time measurements of potentially toxic elements in PM<sub>10</sub> in a coastal industrial zone",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000970?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620103+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Javier Ramírez A., Tomás Claramunt A., Loreto Villacura M., Lorenzo Massimi, Manuel A. Leiva-Guzmán, Richard Toro A.</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Transboundary smog dynamics: A spatiotemporal assessment of brick kiln emission impacts in Central Punjab, Amritsar, and Ferozepur",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001008?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620069+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Ayesha Naz, Muhammad Farooq Iqbal, Muhammad Imran Shahzad, Muhammad Usman, Bilal Hassan</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Estimating multi-scale ventilation corridors in complex 3D urban space: A graph-based least-cost path model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000957?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620045+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Yifan Luo, Xinyu Yu, Majid Nazeer, Man Sing Wong, Jinxin Yang, Rui Zhu</p>"
+  },
+  {
+    "score": 23.0,
+    "title": "Terrain and season-dependent impacts of urban morphology on land surface temperature: A machine learning study of three Chinese cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000866?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.620022+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Hao Zhang, Bo Shu, Yang Wei, Yang Liu</p>"
+  },
+  {
+    "score": 18.0,
+    "title": "A novel framework for enhancing urban thermal mitigation by repairing spatial conflict areas between cold and heat island networks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000969?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.619997+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Jialong Xu, Zheng Guo, Sophia Shuang Chen</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Association between urban climate physical risk and depressive symptoms in middle-aged and older adults",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000945?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.619972+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Zheng Zhang, Huijie Xu, Jun Huang, Runjia Zhang, Xi Ling, Yaxi Yuan, Yuanyuan Wang</p>"
+  },
+  {
+    "score": 18.0,
+    "title": "Integrating multi-source remote sensing and ensemble machine learning to quantify the surface urban heat island in Oradea municipality, Romania",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001033?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.619946+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Manar El Kihel, Tudor Caciora, Cristian Grava, Radu-Cătălin Țarcă, Laila Saafadi, Abdessalam Ouallali</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "When cities face thermal stress: Spatial imbalances and nonlinear dynamics in the thermal environment-energy-carbon nexus across the YREB, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000933?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.619905+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Zhonglin Tang, Siyu Huang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "A framework for designing urban heat vulnerability assessment surveys: Insights from a scoping review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526000994?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.619873+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Sonal Gangrade, Jay Dhariwal</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Corrigendum to “Assessing barriers to participation in urban tree planting initiatives in Worcester, Massachusetts” [Urban For. Urban Green. 118 (2026) 129338]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001366?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461865+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 March 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Ksenia Smart, Deborah G. Martin, John Rogan, Nicholas Geron</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "The Interplay between Subterranean Greenery and Noise: Impacts of green density on occupants’ relaxation, intuition, and attention during wayfinding under varying noise levels",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001445?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461834+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 March 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Isabelle Y.S. Chan, Zhao Dong, Shimeng Li, Qing Guo, Yunzheng Zhang, Cary Cooper</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "The long-term effect of COVID-19 pandemic on the associations between neighbourhood greenness and mental health in Stockholm County, Sweden",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001494?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461800+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 March 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Östen Axelsson, Ashtyn Tracey Areal, Cecilia U. D Stenfors, Johan Ohlander, André Lauber, Anne-Sophie Merritt, Antonios Georgelis, Mare Lõhmus</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Allergenic pollen production in 14 cities in the Northeastern and Midwestern United States",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001500?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461764+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 March 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Daniel S.W. Katz, Keily A. Peralta</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Unraveling Multifactorial Drivers of Urban Phenology through Precise Quantification with High-Spatiotemporal NDVI Fusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001536?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461744+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 March 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Chunguang Hu, Xinyi Yang, Hui Zeng</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Effects of urban forest structure on land surface temperature: Subtropical versus temperate cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001639?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461722+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 March 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Xuefeng Kang, Jun Yang, Yuqing Zhang, Qiyue Zou, Zhe Li, Yanchu Feng, Xiangming Xiao, Jianhong (Cecilia) Xia</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Effectiveness of limited visual risk assessments in predicting urban tree storm failure in Wisconsin, U.S.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001093?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461696+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Larsen W. McBride, Ryan W. Klein, Andrew K. Koeser, Mysha K. Clarke, Richard J. Hauer, Thomas Ward, Timothy Bull, Chris Harchick</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Harnessing participatory science on a university campus to measure fine-scale urban plant phenology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001330?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461669+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Angela M. van Winden, Michelle J. Lee</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Achieving optimal cooling effects from urban vacant land re-greening using interpretable machine learning and multi-objective optimization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726000944?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461648+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Yujia Chen, Yang Gu, Junjie Luo, Lei Cao</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Evaluating the role of green infrastructure features in post-disaster recovery – Case Study of Beaumont, Texas after tropical storm imelda",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001032?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461623+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Zhihan Tao, Galen D. Newman, Yang Song, Siyu Yu, Lei Zou</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Embracing cultures, balancing autonomy, and finding solutions in international student-led campus community gardens: A participatory action research approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726000956?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461593+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Swayangsiddha Nayak, Lalita Dhal, Sheri Dorn, Julie H. Campbell</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Beyond top-down and street-view: Associating citywide indoor nature exposure to life expectancy with photorealistic 3D city models and deep learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001019?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461569+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Di Wei, Yi Lu, Maosu Li, Dongwei Liu, Hung Chak Ho, Chao Ren</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Establishment of native graminoids in roadside swales dominated by non-native grasses in Central Texas",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001135?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461541+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Jeffrey T. Hutchinson, Angela Maroti, Vikram Kapoor, Samer Dessouky</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Restoration outcome, perceived environmental quality, and greenspace characteristics: A path analysis of human-nature interaction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600110X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461519+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Birgit M. Probst, Stefanie Burger, Sophie Arzberger, Peter Annighöfer, Michael Suda, Monika Egerer</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Invertebrate biodiversity is greater in urban sites with nature-based solutions than control sites: A cross-continental study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001081?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461490+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Tom Wild, Andre L.C. Rochelle, Karl Evans</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Benefits of an urban isolated tree combined with ground covers for stormwater management through interception–infiltration–runoff processes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001068?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461467+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Xuexiu Zhao, Takashi Asawa</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Beyond public inventories: Remote sensing–based assessment of urban tree ecosystem services",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001226?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461441+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Andrea Sofía García de León, Thomas Rötzer, Tobias Leichtle, Stephan Pauleit, John Friesen, Klaus Martin, Tobias Ullmann, Hannes Taubenböck</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "A typo-morphological approach to frontage zones’ potential for urban green infrastructure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001238?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461408+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Julia Micklewright, Julia Schiller, Stephan Pauleit, Mark Michaeli</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Understanding barriers and enablers for the implementation of water-related nature-based solutions in the Andes: A mixed-methods study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600107X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461380+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Yarima Recalde Aza, Luz Karime Sánchez Galvis, Lucia Alexandra Popartan, Ignasi Rodríguez-Roda</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Spatial heterogeneity of biogenic VOC emissions and their potential contribution to secondary air pollution in three Chinese megacities: An exploratory assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001251?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461349+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Wen Dong, Danping Ma, Minghui Zhang, Xingbao Wang, Hanxing Zhou, Dongming Huang, Bo Yang, Xiaoai Jin, Jing Zhang, Yan Shi, Jian Chen, Yuan Ren</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatially contextualizing the social acceptability of nature restoration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001263?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461315+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Oriol Garcia-Antúnez, Lene Gernow, Christopher Mark Raymond, Natalie Marie Gulsrud, Anton Stahl Olafsson</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Coyote denning behavior in urban environments: An argument for more forests in cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001287?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461287+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Mohamed Khalil Meliane, Abby-Gayle A. Prieur, Stanley D. Gehrt, E. Hance Ellington</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Self-reported urban forest exposure and high blood pressure: A survey-based study of Florida residents over 45",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001123?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461264+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Christy C.V. Suhendy, Andrew K. Koeser, Ryan W. Klein, Laura A. Warner, Matilda van den Bosch, Gail Hansen</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Beyond tree cover: Vertical canopy structure is associated with the cooling impact of pocket parks in Mediterranean cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001111?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461235+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Eduardo Antenucci, Elena Di Pirro, Matilda van den Bosch, Rocco Pace, Bruno Lasserre, Marco Marchetti, Vittorio Garfì</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Students’ agency in campus greenspace: How guerrilla use informs the design of university greenspace",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600124X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461186+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Yarden Woolf</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "A lifecourse perspective on social connectedness via receptiveness to nature",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001214?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461163+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Emily J. Rugel, Ingrid Jarvis, Sara Barron, Kathleen L. Wolf</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Towards equitable nature-based outdoor activities in schools: Barriers, enablers and use patterns in Brussels",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001299?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461142+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Elsa Gallez, Amy Phillips, Frank Canters, Sylvie Gadeyne, Francesc Baró</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Identifying priority areas for vegetation optimization to improve the supply-demand match in heat mitigation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001305?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461115+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Tao Yu, Benyao Wang, Yixuan Yang, Xiangyun Li, Ying Zhong, Kejing Pei, Yinan Yang, Yujing Xie</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Integrated numerical modeling strategies for tree–wind interactions: A review and proposed assessment framework for resilient urban design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726000932?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461090+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Qirui Deng, Dongjin Cui, Lixiao Li, Pengfei Lin, Cheuk Ming Mak</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Enhancing well-being in older adults: A systematic review and meta-analysis of plant-based interventions and their effects on physical and psychological health",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001044?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461060+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Meijing Xu, Xue Gong, Mingxin Song, Ruihan Si, Feng Xu</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "How site environmental characteristics shape safety perception in urban green spaces: A scoping review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726000993?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461033+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 119</p><p>Author(s): Kunbei Zhai, Mei Yang, Siying Huang, Jinjin Zhu, Xinren Gu</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "On the incidental exposure of the general public to invasive forest pests through mainstream media",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001433?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.461008+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Bastien CASTAGNEYROL, Benno A. AUGUSTINUS, Zina DEVETAK, Tugba DOGAN, Tiia DRENKHAN-MAATEN, Renata GAGIĆ-SERDAR, Eva GROZNIK, Milica GRUBAČ, Andrija JUKIĆ, Milena LAKICEVIC, Liva LEGZDINA, Miia MÄNTTÄRI, Lazar PAVLOVIC, Nikola PERENDIJA, Leopold POLJAKOVIĆ-PAJNIK, Florentine SPAANS, Maude TOÏGO, Dragoş TOMA, Johanna WITZELL, Maarten DE GROOT</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "The associations between prenatal greenness exposure and neurodevelopment in early childhood: A birth cohort study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600138X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460959+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Zhen Wang, Xiaoxu Li, Weiyin Zhuang, Xuemei Liu, Xiuxiu Li, Lin Guo, Mengfan Li, Lizi Lin, Li Cai</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Data-driven interpretability of urban tree species classification from deep learning models and Satellite Image Time Series",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001007?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460932+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Clément Bressant, Romain Wenger, Anne Puissant, Pierre-Alexis Herrault</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Anthropogenic disturbance and plant drivers shape multitrophic arthropod dynamics in urban ecotones: Evidence from urban edge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001378?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460903+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Zhechen Zhou, Siqiang Wang, Chun Yin Chung, Yi Sun</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Educational farms as gendered spaces? A socio-behavioral analysis in Algiers",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001329?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460880+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Houda Saci, Chourouk Sihem Serrai, Marwa Afaifia, Kahina Amal Djiar, Maha Messaoudene</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Modulation of dispersion pathways in a unit-aspect-ratio vegetation–building canyon: Impacts of vegetation permeability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001354?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460857+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): G. Duan, Z. Bi, H. Wang, L. Zhao, T. Yang, X. Zheng, T. Takemi</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Changes in decomposition rates and nutrients of leaf litter and fine roots in urban tree species under ozone pollution",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001408?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460828+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Xiaofan Hou, Pin Li, Yuqian Sun, Chenhan Ma, Jing Fu, Weixia Huang, Zhuoran Zou</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Inter-annual and campaign-based diel dynamics of spring bird vocal activity in a central urban park",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001317?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460802+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Zitong Bai, Lingyang Meng, Zhiyong Qi, Shasha Jiang, Jiali Jin, Cheng Wang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Feed two birds with one tree? Multilayer bird-plant networks and the maintenance of biodiversity in urban environments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001342?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460777+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Pedro Amaral Anselmo, Pietro Kiyoshi Maruyama, Giulia Bagarolli D’Angelo, Ivan Sazima, Lucilene Brito, Paulo Antonio Silva, Camila Silveira Souza</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Reframing human–nature connectedness: A multi-scale agent-based model across time and region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001391?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460741+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Miles Richardson, Leon A. Richardson</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Temporal-spatial collaboration and divergence of visitation and satisfaction: A novel approach to urban park use efficiency",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001470?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460710+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Huimeng Wang, Jingyu Liu, Tao Pei, Yong Sun, Nan Wang, Yaohui Liu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Urban forest canopies are both source and sink for Pb and Hg deposition in subtropical southern China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001469?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460683+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Cheng Li, Dongqing Ji, Jin Wang, Heng Jiang, Xinyu Jiang, Cao Hao, Xiaodong Liu, Xiangdong Li, Jiong Cheng</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "A point cloud-based GVI evaluation method using a visibility decay model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600141X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460656+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Hao Guan, Fang Huang, Binfu Ge, Tongtong Lu, Jian Wang, Chaoyang Bian</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Planting methods shape interspecific competition and biodiversity in urban herbaceous communities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001421?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460632+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Shen-Yong Wang, Pei-Chun Chen, Yu-Yi Chen, Meng-Yuan Huang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "SATree: Structure-aware tree instance segmentation from 3D LiDAR point clouds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001548?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:06.460599+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 120</p><p>Author(s): Shenglan Du, Jantien Stoter, Julian F.P. Kooij, Liangliang Nan</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Mapping Urban Vulnerability to Compound Heat-Pollution Risks: A Mechanistic Framework for Resolving Trade-offs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726002131?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:05.809512+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 March 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Aijia Wang, Sai Liu, Ruijun Zhang, Shi-Jie Cao</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Recurring marine phosphorus spikes during major palaeozoic mass extinctions and climate change",
+    "link": "https://www.nature.com/articles/s41467-026-70701-y",
+    "published": "2026-03-24",
+    "collected_at": "2026-03-25T01:51:04.136258+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70701-y\">doi:10.1038/s41467-026-70701-y</a></p>Phosphorus locked in carbonate rocks from seven global sites shows simultaneous marine phosphorus spikes during major mass extinctions. Modelling ties high marine phosphorus to eutrophication, CO2 drawdown, and global cooling."
+  },
+  {
+    "score": 3.0,
+    "title": "SNX-mediated biogenesis of a plant-unique vesicle derived from the multivesicular body",
+    "link": "https://www.nature.com/articles/s41467-026-71067-x",
+    "published": "2026-03-24",
+    "collected_at": "2026-03-25T01:51:04.136156+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71067-x\">doi:10.1038/s41467-026-71067-x</a></p>Li et al. identify small spherical vesicles budding from plant multivesicular bodies as likely retrograde carriers and demonstrate that SNX proteins drive their formation, revealing a distinct mechanism for protein recycling during plant development."
+  },
+  {
+    "score": 4.0,
+    "title": "Daily briefing: We’ve just had the 11 hottest years on record",
+    "link": "https://www.nature.com/articles/d41586-026-00957-3",
+    "published": "2026-03-23",
+    "collected_at": "2026-03-25T01:51:03.780836+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00957-3\">doi:10.1038/d41586-026-00957-3</a></p>A new report shows that Earth’s climate is more out of balance than at any other time in recorded history. Plus, a lab-grown oesophagus and evidence that sperm whales headbutt."
+  },
+  {
+    "score": 5.0,
+    "title": "How the war in Iran is reshaping the energy landscape",
+    "link": "https://www.nature.com/articles/d41586-026-00932-y",
+    "published": "2026-03-24",
+    "collected_at": "2026-03-25T01:51:03.780745+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00932-y\">doi:10.1038/d41586-026-00932-y</a></p>As prices surge and governments scramble to respond, the crisis underscores an urgent need to rethink energy security."
+  },
+  {
+    "score": 4.0,
+    "title": "UK scraps airborne lab that tracks climate, pollution and weather systems",
+    "link": "https://www.nature.com/articles/d41586-026-00941-x",
+    "published": "2026-03-24",
+    "collected_at": "2026-03-25T01:51:03.780597+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00941-x\">doi:10.1038/d41586-026-00941-x</a></p>UK scraps airborne lab that tracks climate, pollution and weather systems"
+  },
+  {
+    "score": 6.0,
+    "title": "Systemic failure in industrial land governance: A geospatial audit of allocation, occupation and utilization in Shaggar City, Ethiopia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726001225?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:03.471885+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Land Use Policy, Volume 167</p><p>Author(s): Dejene Tesema Bulti, Temesgen Abraham Gebreselassie</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Before the ground breaks: Is inclusionary zoning a shield or a signal of gentrification?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726001171?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:03.471848+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Land Use Policy, Volume 167</p><p>Author(s): Lance Freeman, Yining Lei, Magda Maaoui</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Revealing the heterogeneity in rural livelihood adaptive strategies through farmers’ value perceptions: insights from a traditional agricultural system in China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526000779?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:51:01.550408+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Habitat International, Volume 171</p><p>Author(s): Bojie Wang, Siyuan He, Qingwen Min, Yehong Sun</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "[ASAP] Major Missing Source of Alkylated Polycyclic Aromatic Hydrocarbon Emissions from Oil Spill Volatilization",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c01728",
+    "published": "Mon, 23 Mar 2026 08:20:52 PDT",
+    "collected_at": "2026-03-25T01:50:59.962809+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c01728/asset/images/medium/es6c01728_0005.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c01728</div>"
+  },
+  {
+    "score": 5.0,
+    "title": "[ASAP] Potential Viral Regulation of Sulfur Cycling in Urban Sewer Sediments",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c15040",
+    "published": "Mon, 23 Mar 2026 06:04:06 PDT",
+    "collected_at": "2026-03-25T01:50:59.962744+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c15040/asset/images/medium/es5c15040_0006.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c15040</div>"
+  },
+  {
+    "score": 5.0,
+    "title": "[ASAP] Predifferentiation Neurotoxicity of GenX Exposure on hiPSC-Derived Cortical Neurons",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c13193",
+    "published": "Mon, 23 Mar 2026 11:17:06 PDT",
+    "collected_at": "2026-03-25T01:50:59.962720+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c13193/asset/images/medium/es5c13193_0006.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c13193</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Biogenic Carbon Storage in the Technosphere",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c09195",
+    "published": "Mon, 23 Mar 2026 03:43:26 PDT",
+    "collected_at": "2026-03-25T01:50:59.962696+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c09195/asset/images/medium/es5c09195_0006.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c09195</div>"
+  },
+  {
+    "score": 8.0,
+    "title": "[ASAP] Mixture-of-Experts Machine Learning Framework for Predictive Design of Biomass-Derived Hydrochar to Decarbonize Industrial Heat",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c01833",
+    "published": "Tue, 24 Mar 2026 04:06:47 PDT",
+    "collected_at": "2026-03-25T01:50:59.962673+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c01833/asset/images/medium/es6c01833_0009.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c01833</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Fate of Ultraviolet Absorbents in a Marine Ecosystem: Bioaccumulation, Tissue-Specific Distribution, and Trophic Transfer in the Yellow Sea",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c00203",
+    "published": "Tue, 24 Mar 2026 04:05:43 PDT",
+    "collected_at": "2026-03-25T01:50:59.962635+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c00203/asset/images/medium/es6c00203_0008.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c00203</div>"
+  },
+  {
+    "score": 8.0,
+    "title": "A Deep Learning Framework for Extreme Storm Surge Modeling Under Future Climate Scenarios",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007072?af=R",
+    "published": "Mon, 23 Mar 2026 01:43:20 -0700",
+    "collected_at": "2026-03-25T01:50:59.753076+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 3, March 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "Understanding employees' residential choices in connection to remote work during the COVID-19 pandemic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126002404?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.955995+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Cities, Volume 173</p><p>Author(s): Hoseok Sa, Qing Shen</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "How formal shapes informal: The case of informal businesses in mixed-use streets",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126002040?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.955975+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Cities, Volume 173</p><p>Author(s): Puneet Mishra, Uttam Kumar Roy</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Not whether, but when: Generational dynamics and pathways into domestic food gardening adoption in cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126001976?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.955953+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Cities, Volume 173</p><p>Author(s): Marie Asma Ben-Othmen, Mariia Ostapchuk</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Accessibility challenges for older adults and people with disabilities: An urban mobility perspective in the age of smart transport technologies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126001952?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.955921+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Cities, Volume 173</p><p>Author(s): Christos Karolemeas, Stefanos Tsigdinos, Erika Aliaj, Efthimios Bakogiannis, Alexandros Nikitas</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Biophilic Sensory Stimulation during Short Virtual-Reality Based Rest Enhances Stress and Cognitive Recovery: Evidence from a Stress-Recovery Protocol",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326003483?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836306+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 March 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Sanghee Kim, Seonghwan Yoon, Kweonhyoung Lee, Jihye Ryu, Seungyeon Choo, Yujeong Lee, Baekjun Kim</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Predicting emotional impact of adaptive façades through Machine Learning, A VR-based study with PAD assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326003471?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836273+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 March 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Florina Pantilimonescu-Cioancă, Umberto Alibrandi, Valentina Beatini</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Developing a physiological-parameter-based thermal sensation model for warm-biased outdoor settings: Step-down phase of the dynamic part",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326003513?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836197+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 March 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ying Jiang, Yongxin Xie, Hui Zhang, Jianlei Niu</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Data-Driven Predictive Modeling of User Stay Behavior from Audiovisual Simulation for Metro Commercial Space Design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232600346X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836155+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 24 March 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Yuze Li, Jie Zhang, Jingwen Tao, Lei Yu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326003306?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836114+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 May 2026</p><p><b>Source:</b> Building and Environment, Volume 295</p><p>Author(s): </p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Corrigendum to “Enhancing airtightness measurement reliability: Effects of measurement point duration and regression method” [Building and Environment 285 (2025) 113565]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326002222?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836070+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 May 2026</p><p><b>Source:</b> Building and Environment, Volume 295</p><p>Author(s): Ji Hye Kim, Ji Hoon Choi, Heegang Kim</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Corrigendum to “Performance and indoor environment study of convective-radiant coupled terminals: Insights from start-up and steady-state control modes” [Building and Environment 279 (2025) 113058]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326002568?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.836007+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 May 2026</p><p><b>Source:</b> Building and Environment, Volume 295</p><p>Author(s): Zixu Yang, Mingbin Yang, Bin Luo, Yichi Zhang, Wenxing Shi</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A mineral-based approach to cool asphalt pavements: Results from a field experiment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326002891?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.835920+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 May 2026</p><p><b>Source:</b> Building and Environment, Volume 296</p><p>Author(s): Fabrizio Orlando, Johannes Schindler, Peter Mikhailenko, Tobias Balmer, Philipp Hunziker, Joachim Schoelkopf</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Assessing spatial linkage of multiple ecosystem services in the Loess Plateau based on landscape types",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826000925?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-03-25T01:50:58.673652+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: May 2026</p><p><b>Source:</b> Applied Geography, Volume 190</p><p>Author(s): Binyao Han, Hao Wang, Le Hui, Yongqiang Xia, Zhuangzhuang Wang, Ying Luo, Xin Ye</p>"
+  },
+  {
     "score": 3.0,
     "title": "Urban Studies Best Article 2021",
     "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980221101094?ai=2b4&mi=ehikzz&af=R",
