@@ -1,5 +1,69 @@
 [
   {
+    "score": 5.0,
+    "title": "Contrasting selective signatures of gene expression plasticity in response to antifungal clotrimazole and common environmental stresses in yeast",
+    "link": "https://www.nature.com/articles/s41467-026-71153-0",
+    "published": "2026-03-25",
+    "collected_at": "2026-03-25T04:29:44.792443+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 25 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71153-0\">doi:10.1038/s41467-026-71153-0</a></p>Phenotypic plasticity lets organisms shift gene expression in changing environments, yet whether selection preserves it is debated. Using mutation-accumulation assays in yeast, this study finds selection maintains plasticity under novel clotrimazole, but salt/heat responses were largely neutral."
+  },
+  {
+    "score": 7.0,
+    "title": "In-situ revitalizing end-of-life MBR membranes via a curtain-type dynamic membrane process",
+    "link": "https://www.nature.com/articles/s41467-026-70969-0",
+    "published": "2026-03-25",
+    "collected_at": "2026-03-25T04:29:44.792393+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 25 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70969-0\">doi:10.1038/s41467-026-70969-0</a></p>Membrane bioreactors face sustainability issues due to waste. Here, authors propose upcycling end-of-life membranes into curtain-type dynamic membranes, reducing carbon emissions and environmental costs while maintaining filtration performance, offering a sustainable solution for water treatment."
+  },
+  {
+    "score": 3.0,
+    "title": "AI-revealed long-term spatio-temporal characteristics of yellow sea green tides",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2647380?af=R",
+    "published": "2026-03-25T04:22:12Z",
+    "collected_at": "2026-03-25T04:29:41.312984+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
     "score": 6.0,
     "title": "The maritime net zero framework matters far beyond shipping",
     "link": "https://www.nature.com/articles/s43247-026-03406-1",
