@@ -2,7 +2,7 @@ name: RSS Scan
 
 on:
   schedule:
-    - cron: "5 1 * * *"   # 北京时间每天 09:05
+    - cron: "15 2 * * *"   # 北京时间每天 10:15
   push:
     branches:
       - main
