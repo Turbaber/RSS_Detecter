@@ -1,5 +1,725 @@
 [
   {
+    "score": 8.0,
+    "title": "Heatwaves in coastal Shanghai megacity, China: Spatiotemporal characteristics, roles of atmospheric circulation and sea-land breezes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001264?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:39.490108+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Yue Ma, Yichen Yang, Yuchen Cao, Hanwei Yang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Environmental Injustice and Pedestrian Accessibility to Urban Parks: A Comparative Case Study in São Paulo, Brazil",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726001895?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:39.382003+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 April 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Cristiano Capellani Quaresma, Cristina Siqueira Cruz, Giovanni Sanesi, Edson Aparecida de Araújo Querido Oliveira, Diego de Melo Conti, Maurício Lamano Ferreira</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Car supremacy: Deconstructing the ideology driving our modal hierarchy",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261437938?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-04-10T02:00:00Z",
+    "collected_at": "2026-04-11T04:29:39.283218+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Cars have shaped modern life in profound ways, from restructuring our built environment to altering our notions of success. They have also had a variety of negative impacts—neighborhood destruction, resource wars, ill health, and environmental damage to ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Un-guided journeys: Tracing the multi-layered temporalities of Amager Commons in Copenhagen, Denmark",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261428397?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-04-10T01:58:09Z",
+    "collected_at": "2026-04-11T04:29:39.283162+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Based on collective walks, this article explores the entangled, multi-layered temporalities of Amager Commons, and how these might offer possibilities for new relationships with urban environments. The article draws on and contributes to scholarship on ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Constitutive AMPK activation prevents hepatocellular carcinoma development through inhibition of HNF4α activity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea8017?af=R",
+    "published": "2026-04-10T07:00:00Z",
+    "collected_at": "2026-04-11T04:29:38.628191+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 15, April 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Synergistic impact of marine heat waves and rapid intensification exacerbates tropical cyclone destructive power worldwide",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adu1733?af=R",
+    "published": "2026-04-10T07:00:00Z",
+    "collected_at": "2026-04-11T04:29:38.628068+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 15, April 2026. <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "Metabolite mimicry identifies butyrate analogs with select protective functions in the intestinal mucosa",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527863123?af=R",
+    "published": "2026-04-09T07:00:00Z",
+    "collected_at": "2026-04-11T04:29:37.993052+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 15, April 2026. <br />SignificanceButyrate is a well-studied microbial short-chain fatty acid that regulates a number of mucosal pathways and is paramount in maintaining intestinal integrity. In health, it is a major source of energy for colonocytes and regulates gene ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Variability in alluvial river width driven by intermittent bank collapse",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2525442123?af=R",
+    "published": "2026-04-09T07:00:00Z",
+    "collected_at": "2026-04-11T04:29:37.992947+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 15, April 2026. <br />SignificanceRiver width variability influences floodplain dynamics, ecosystem structure, and human activities. We identify three distinct spatial patterns of river width variability, driven by meander bends, mid-channel bars, and bank-line irregularities ..."
+  },
+  {
+    "score": 14.0,
+    "title": "Machine-learning emergent constraints on surface albedo feedback over Arctic land regions",
+    "link": "https://www.nature.com/articles/s41467-026-71779-0",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:36.759695+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71779-0\">doi:10.1038/s41467-026-71779-0</a></p>This study uses machine learning and ground data from the Arctic to constrain land albedo feedback. The projected feedback is reduced by 0.29–0.52 W m⁻² K⁻¹ and uncertainty by 45–55%, suggesting that climate models overestimate this key warming amplifier."
+  },
+  {
+    "score": 7.0,
+    "title": "Tandem bulk oxygen diffusion and surface reactions in reducible metal oxides control redox cycle dynamics",
+    "link": "https://www.nature.com/articles/s41467-026-71787-0",
+    "published": "2026-04-11",
+    "collected_at": "2026-04-11T04:29:36.759593+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71787-0\">doi:10.1038/s41467-026-71787-0</a></p>The interplay between bulk oxygen diffusion and surface reactions in reducible metal oxides is key in heterogeneous catalysts, yet direct measurements of their coupling through transient kinetics and in situ spectroscopies have been lacking. Here, the authors uncover complex H₂-driven dynamics in ceria–zirconia using transient mass spectrometry along with in-situ Raman, near-ambient pressure X-ray photoelectron spectroscopy, machine learning potential-based molecular simulations, and multiscale kinetic modeling."
+  },
+  {
+    "score": 3.0,
+    "title": "Early-career researchers reflect on influential papers",
+    "link": "https://www.nature.com/articles/s41558-026-02605-0",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:36.675431+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s41558-026-02605-0\">doi:10.1038/s41558-026-02605-0</a></p>As Nature Climate Change celebrates its 15 year anniversary, we look back at some of the journal’s published works. In this Viewpoint, seven early-career researchers discuss how these papers influenced their research and careers."
+  },
+  {
+    "score": 6.0,
+    "title": "Atlantic exceptionalism in the twentieth century",
+    "link": "https://www.nature.com/articles/s41558-026-02608-x",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:36.675386+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s41558-026-02608-x\">doi:10.1038/s41558-026-02608-x</a></p>The North Atlantic is exceptional in cooling during the twentieth century while the world warmed. Here we look back on an influential 2015 study that linked this cooling to a weakening of the Atlantic Meridional Overturning Circulation and consider the wider implications that this may have for climate, ecosystems and society."
+  },
+  {
+    "score": 3.0,
+    "title": "Research that captures a changing world",
+    "link": "https://www.nature.com/articles/s41558-026-02623-y",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:36.675344+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s41558-026-02623-y\">doi:10.1038/s41558-026-02623-y</a></p>This month marks 15 years since the first publication of Nature Climate Change. Here, we reflect on how both the world and research have changed, and discuss the impacts of memorable climate change science published in our pages."
+  },
+  {
+    "score": 3.0,
+    "title": "15 years of change",
+    "link": "https://www.nature.com/articles/s41558-026-02610-3",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:36.675299+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s41558-026-02610-3\">doi:10.1038/s41558-026-02610-3</a></p>Since Nature Climate Change was launched, not only has the journal itself changed but so have the subjects of the studies we publish on the Earth system and how societies interact with it. In this Infographic, we highlight a few examples of how the world differed when we started in 2011 compared with today."
+  },
+  {
+    "score": 8.0,
+    "title": "Community participation in protected-areas management: A systematic literature review based on the sustainable development goals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726001213?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:36.151515+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Land Use Policy, Volume 167</p><p>Author(s): Vahid Karimi, Elham Ahmadifard, Gerald G. Singh, Marzieh Keshavarz, Ezatollah Karami, Hossein Azadi, Masoud Yazdanpanah</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Public open space as a catalyst for income sorting in high-density urban areas: Evidence from Hong Kong",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726001444?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:36.151473+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Land Use Policy, Volume 167</p><p>Author(s): Ruiyang Wang, Shuai Shi, Siu Kei Wong, Huan Lu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "[ASAP] Correction to “Synergistic Tannic Acid-Fluoride Inhibition of Ammonia Emissions and Simultaneous Reduction of Methane and Odor Emissions from Livestock Waste”",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c01907",
+    "published": "Thu, 09 Apr 2026 12:00:50 PDT",
+    "collected_at": "2026-04-11T04:29:35.477354+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c01907</div>"
+  },
+  {
+    "score": 3.0,
+    "title": "[ASAP] Leveraging Large Language Models for Contextual Prioritization of Contaminants of Emerging Concern in Chemical Mixtures",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c01342",
+    "published": "Thu, 09 Apr 2026 06:05:25 PDT",
+    "collected_at": "2026-04-11T04:29:35.477326+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c01342/asset/images/medium/es6c01342_0005.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c01342</div>"
+  },
+  {
+    "score": 9.0,
+    "title": "[ASAP] Light Absorption Enhancement of Black Carbon Aerosols Constrained by Chemical Components and Sources in Urban Air: A Multicity Study",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c00068",
+    "published": "Thu, 09 Apr 2026 01:13:01 PDT",
+    "collected_at": "2026-04-11T04:29:35.477301+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c00068/asset/images/medium/es6c00068_0004.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c00068</div>"
+  },
+  {
+    "score": 7.0,
+    "title": "[ASAP] Arctic and Boreal Wildfires Impact Climate by Releasing Ancient Carbon and Light-Absorbing Particles",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c17130",
+    "published": "Thu, 09 Apr 2026 10:45:47 PDT",
+    "collected_at": "2026-04-11T04:29:35.477272+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c17130/asset/images/medium/es5c17130_0007.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c17130</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Why Antimicrobial Resistance Does Not Perpetually Expand in an Antibiotics-Free Environment: Insight from Quorum Sensing",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c16848",
+    "published": "Fri, 10 Apr 2026 03:24:22 PDT",
+    "collected_at": "2026-04-11T04:29:35.477049+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c16848/asset/images/medium/es5c16848_0006.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c16848</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Structure–Property Relationships for Moisture-Swing Direct Air Capture",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c16820",
+    "published": "Fri, 10 Apr 2026 04:14:13 PDT",
+    "collected_at": "2026-04-11T04:29:35.477006+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c16820/asset/images/medium/es5c16820_0009.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c16820</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "Carbon starvation facilitates low pH-dependent viral lysogeny and auxiliary metabolic potentials in paddy soils",
+    "link": "https://www.nature.com/articles/s43247-026-03479-y",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:34.801722+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03479-y\">doi:10.1038/s43247-026-03479-y</a></p>Soil viruses influence carbon cycling across pH gradients, with acidic soils showing greater lysogeny and carbon related genes, as revealed by viral communities recovered through size fractionation and tangential flow filtration from twelve paddy fields."
+  },
+  {
+    "score": 8.0,
+    "title": "Sustainably intensified fresh-market vegetable production with compact bed plasticulture",
+    "link": "https://www.nature.com/articles/s43247-026-03394-2",
+    "published": "2026-04-10",
+    "collected_at": "2026-04-11T04:29:34.801675+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "metrics",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03394-2\">doi:10.1038/s43247-026-03394-2</a></p>Compact bed plasticulture maintains or increases vegetable yields while reducing inputs, environmental impacts, carbon emissions, and production risks, based on field experiments with fresh-market pepper and assessments of multiple metrics."
+  },
+  {
+    "score": 6.0,
+    "title": "<em>Arbre Cité</em>: A game to promote reflection on urban nature",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126002830?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.730193+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: July 2026</p><p><b>Source:</b> Cities, Volume 174</p><p>Author(s): Franck Taillandier, Daniya Bakhou, Claire Baille</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Exploring socio-spatial mechanisms underlying urban activity patterns: A data-driven study of Chinese megacities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003082?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.730165+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: July 2026</p><p><b>Source:</b> Cities, Volume 174</p><p>Author(s): Liping Zhang, Feng Lan, Mengdan Guo, Xiaonan Zhao</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "City tournament and green innovation: Evidence from the Chinese civilized city selection policy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003331?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.730143+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: July 2026</p><p><b>Source:</b> Cities, Volume 174</p><p>Author(s): Lei Du, Kening Yang</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Evaluating spatial accessibility based on varying travel choices: A case study of accessing vaccine sites in Greater London",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126002751?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.730119+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: July 2026</p><p><b>Source:</b> Cities, Volume 174</p><p>Author(s): Siqin Wang, Shaokun Lyu, Meng Han, Huanfa Chen, Xiao Li</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Major roads are barriers to park use: Evidence from smartphone mobility data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003379?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.730079+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: July 2026</p><p><b>Source:</b> Cities, Volume 174</p><p>Author(s): Youngjae Won</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A review of hygroscopic composite materials: moisture buffering capacity assessment and hygrothermal models",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004051?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.626293+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xiaoying Li, Huibo Zhang, Hui Yu, Tong Hao</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Multi-Indicator Performance Prediction in Residential Buildings: A multimodal fusion method based on cross-attention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004087?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.626266+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jiequn Lu, Wangtu (Ato) Xu, Yanjie Wen</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Personal protective equipment increases inhalation exposure to skin-emitted bio-effluents",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004075?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-11T04:29:34.626219+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zhongjian Jia, Zhengtao Ai, Xiaochen Zhang, Zhengxuan Liu, Lexuan Zhong</p>"
+  },
+  {
     "score": 6.0,
     "title": "Understanding the impacts of decentralized circular water strategies for combined sewer overflow and urban flooding",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001185?dgcid=rss_sd_all",
