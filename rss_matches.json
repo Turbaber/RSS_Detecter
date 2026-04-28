@@ -1,5 +1,633 @@
 [
   {
+    "score": 15.0,
+    "title": "From urban heat island to thermal resilience: Lessons from low-cost microclimate monitoring in a small tropical island",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001446?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:42.714810+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Lefevre Alexandre, Malet-Damour Bruno, Boyer Harry, Rivière Garry</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "From Perception to Payment: How Cultural Ecosystem Services Drive Tourists' Willingness to Pay for Ecological Compensation in Urban Forest Parks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002049?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:42.622438+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yupei Liang, Yajun Wang, Na Gao, Minhui Lin</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Exploring the impact of POI cores accessibility on urban vitality in TODs and Emerging TODs: A novel Node-Place model across three TOD-ness typologies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600332X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:42.177575+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Mohammad Javad Jamshidi</p>"
+  },
+  {
+    "score": 17.0,
+    "title": "Private Cooling, Urban Heat, and the Limits of Collective Climate Action in Tropical Cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726003318?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:42.177532+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Natalia Borzino, Samuel Chng, Sarah Hian May Chan, Khant Min Naing, Yixuan Tay, Harvey Neo</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Broadening the discourse on mitigating carbon emissions from thawing permafrost",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326004548?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:41.828336+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Chunlin Song, Genxu Wang, Jiapei Ma</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Valuing climate information in context",
+    "link": "https://www.nature.com/articles/s42949-026-00395-0",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:41.002076+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s42949-026-00395-0\">doi:10.1038/s42949-026-00395-0</a></p>Valuing climate information in context"
+  },
+  {
+    "score": 3.0,
+    "title": "Long-term urban resilience trajectories following earthquakes",
+    "link": "https://www.nature.com/articles/s42949-026-00397-y",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:41.002043+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s42949-026-00397-y\">doi:10.1038/s42949-026-00397-y</a></p>Long-term urban resilience trajectories following earthquakes"
+  },
+  {
+    "score": 5.0,
+    "title": "Methane leakage thresholds for net climate benefits of wastewater biogas recovery",
+    "link": "https://www.nature.com/articles/s41893-026-01818-7",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:40.117601+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s41893-026-01818-7\">doi:10.1038/s41893-026-01818-7</a></p>Biogas recovery enables renewable energy production alongside waste treatment, but the climate benefits are compromised by methane leakage. Here the authors systematically assessed how to manage methane leakage for sustaining net climate benefits of wastewater biogas recovery."
+  },
+  {
+    "score": 6.0,
+    "title": "Methane leakage can erase the climate benefits of wastewater biogas recovery",
+    "link": "https://www.nature.com/articles/s41893-026-01805-y",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:40.117524+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s41893-026-01805-y\">doi:10.1038/s41893-026-01805-y</a></p>Wastewater utilities use anaerobic digestion and biogas utilization to reduce energy costs and emissions, but methane leakage can undermine both the climate benefits and project economics of these systems, especially as power grids decarbonize. Safeguarding climate integrity will require performance-based methane policies that pair robust monitoring with enforceable leakage thresholds and targeted leak detection and repair."
+  },
+  {
+    "score": 3.0,
+    "title": "Optically reconfigurable physical unclonable functions based on 2D MoS<sub>2</sub> ring-oscillator arrays for attack-resistant hardware authentication",
+    "link": "https://www.nature.com/articles/s41467-026-72557-8",
+    "published": "2026-04-28",
+    "collected_at": "2026-04-28T05:40:40.021306+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72557-8\">doi:10.1038/s41467-026-72557-8</a></p>Conventional Si-based physical unclonable functions (PUFs) are normally limited by limited entropy and lack of reconfigurability, exposing them to machine learning attacks. Here, the authors report optically reconfigurable PUFs based on 2D MoS2 ring-oscillator arrays, demonstrating machine-learning-attack-resistant image encryption."
+  },
+  {
+    "score": 7.0,
+    "title": "Advancing environmental sustainability research and policy in sport",
+    "link": "https://www.nature.com/articles/s41467-026-72583-6",
+    "published": "2026-04-28",
+    "collected_at": "2026-04-28T05:40:40.021136+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72583-6\">doi:10.1038/s41467-026-72583-6</a></p>Sport holds profound global social influence, yet its systemic environmental footprint is often overlooked in sustainable development governance. Although environmental initiatives have proliferated in professional sport, many remain limited to public relations—fragmented, symbolic, and inadequate to tackle structural challenges. To facilitate a transition, a scientific framework is needed that offers coherent, verifiable pathways, bridging the gap between isolated sport initiatives and the broader systems of global environmental governance."
+  },
+  {
+    "score": 5.0,
+    "title": "The current and future landscape of AI foundation models for cancer management",
+    "link": "https://www.nature.com/articles/s41467-026-72576-5",
+    "published": "2026-04-28",
+    "collected_at": "2026-04-28T05:40:40.021059+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72576-5\">doi:10.1038/s41467-026-72576-5</a></p>AI foundation models (FMs) are transforming cancer management and research. Here, we analyze the state-of-the-art FMs, discuss their impact on cancer management, and argue that the next generation of cancer AI FMs will be defined by multimodality, enhanced reasoning, maximized openness, and sustained human guidance."
+  },
+  {
+    "score": 8.0,
+    "title": "Increasing biodiversity and ecosystem functions along an age gradient of urban greenspaces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626000964?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:39.562989+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Landscape and Urban Planning, Volume 273</p><p>Author(s): Yerang Yang, Manuel Delgado-Baquerizo, Jaeyoung Yoo, Jiwon Choi, Jeongeun Yun, Hyun Ho Lee, R.Vonihanitrinaina D.Z. Andriamanantena, Jaehyun Lee, Hojeong Kang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Mapping China’s photovoltaic distribution and decarbonization capacity using a customized genetic algorithm-enhanced machine learning approach",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2664949?af=R",
+    "published": "2026-04-27T04:40:24Z",
+    "collected_at": "2026-04-28T05:40:39.003002+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "[ASAP] Machine Learning-Guided Synthetic Microbial Communities Enable Functional and Sustainable Degradation of Persistent Environmental Pollutants",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c01112",
+    "published": "Sun, 26 Apr 2026 09:38:56 PDT",
+    "collected_at": "2026-04-28T05:40:38.678248+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c01112/asset/images/medium/es6c01112_0007.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c01112</div>"
+  },
+  {
+    "score": 3.0,
+    "title": "[ASAP] Defining the “Point of No Return”: Thickness-Dependent Fragmentation Controls Nonlinear Microplastics Emissions from Agricultural Mulch Films",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c00814",
+    "published": "Sun, 26 Apr 2026 11:07:26 PDT",
+    "collected_at": "2026-04-28T05:40:38.678221+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c00814/asset/images/medium/es6c00814_0006.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c00814</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Physicochemical Properties, Molecular Structures, and Stability of Organo-Calcium Carbonate Complexes: The Critical Role of Carbon Sources, Formation Processes, and OC/Ca Ratios",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c12270",
+    "published": "Sun, 26 Apr 2026 11:25:04 PDT",
+    "collected_at": "2026-04-28T05:40:38.678159+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c12270/asset/images/medium/es5c12270_0006.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c12270</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Whose Exposome? Whose Health? Community-Driven Research in the Age of the Exposome",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c03103",
+    "published": "Mon, 27 Apr 2026 01:52:19 PDT",
+    "collected_at": "2026-04-28T05:40:38.678129+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c03103/asset/images/medium/es6c03103_0002.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c03103</div>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] In Situ Reactive Oxygen Species Production for In-Depth Trace Organic Contaminant Remediation in Aquatic Environment",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c17411",
+    "published": "Mon, 27 Apr 2026 02:51:36 PDT",
+    "collected_at": "2026-04-28T05:40:38.678046+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c17411/asset/images/medium/es5c17411_0009.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c17411</div>"
+  },
+  {
+    "score": 5.0,
+    "title": "Corrigendum to “Leveraging sidewalk robots for walkability-related analyses Computers, Environment and Urban Systems” [Volume 124, March 2026, 102381]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S019897152600044X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:37.993059+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Computers, Environment and Urban Systems</p><p>Author(s): Xing Tong, Michele D. Simoni, Kaj Munhoz Arfvidsson, Jonas Mårtensson</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Potential futures for the IPCC’s approach to artificial intelligence",
+    "link": "https://www.nature.com/articles/s43247-026-03514-y",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:37.914765+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03514-y\">doi:10.1038/s43247-026-03514-y</a></p>Developments in generative Artificial Intelligence and society’s perception of its safety shape four distinct scenarios of genAI use, from fast adoption to public backlash, that will shape socio-political challenges for the Intergovernmental Panel on Climate Change."
+  },
+  {
+    "score": 6.0,
+    "title": "Targeting key toxic nanoscale particulate matter for precision control of coal power emissions",
+    "link": "https://www.nature.com/articles/s43247-026-03557-1",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:37.914684+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03557-1\">doi:10.1038/s43247-026-03557-1</a></p>Iron rich nanoscale particles from coal plants are identified as the main toxic component, revealed through single particle chemical profiling and cell-based toxicity analysis combined with interpretable machine learning."
+  },
+  {
+    "score": 8.0,
+    "title": "Proterozoic coevolution of phytoplankton and the surface Earth redox landscape",
+    "link": "https://www.nature.com/articles/s43247-026-03531-x",
+    "published": "2026-04-27",
+    "collected_at": "2026-04-28T05:40:37.914588+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03531-x\">doi:10.1038/s43247-026-03531-x</a></p>In the Proterozoic, ocean-atmosphere redox conditions were likely influenced mainly by the biosphere, especially phytoplankton and the biological pump, according to analysis of biomarker data, isotopic and redox proxy records."
+  },
+  {
+    "score": 9.0,
+    "title": "Defining an indicator to assess thermal resilience to overheating in residential and small non-residential buildings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004737?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:37.626507+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Abantika Sengupta, Hilde Breesch, Marijke Steeman</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Evolution of CO<sub>2</sub> concentration in indoor-room environments with different ventilation modes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004762?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:37.626461+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Álvaro García-Corral, Sebastian Düsing, Honey Dawn C. Alas, Henrik Hof, Volker Ziegler, Pedro L. Garcia-Ybarra, Jose L. Castillo</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "A systematic review of thermal manikins for thermal comfort and IAQ assessment: design trade-offs and a capability-based development framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004750?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:37.626421+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Alexandru Cernei, Matei-Răzvan Georgescu, Marie Verriele, Frédéric Thevenet, Ilinca Nastase</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Cooperative Control Strategy for Local and Overall Thermal Environment: Optimizing Thermal Comfort and Energy Efficiency in Offices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004749?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-28T05:40:37.626356+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Tianyi Zhao, Haoyu Wang, Yifan Wu, Wei Gao, Yang Guo, Yuan Su</p>"
+  },
+  {
     "score": 6.0,
     "title": "Graph neural network–based short-term heatwave forecasting in data-sparse arid regions: Improving early warning for the UAE",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001410?dgcid=rss_sd_all",
