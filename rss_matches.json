@@ -1,5 +1,1045 @@
 [
   {
+    "score": 15.0,
+    "title": "The impacts of National Forest City Construction on the urban heat island effect",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001409?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:36.811376+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Shiyuan Wang, Shenwei Wan, Zongjun Ling</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "A Data-Driven Framework for Assessing Compound Urban Heat–Energy Vulnerability: Evidence from Two Mediterranean Housing Districts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726003276?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:36.271851+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 28 April 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Sonia Alnajjar, Antonio García-Martínez, Victoria Patricia López-Cabeza</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "An LLM-Based Framework to Evaluate the Suitability and Accessibility of Campsites: A Case Study of Changsha, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726003379?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:36.271801+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 28 April 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yu Man, Yan Shi, Ying Zeng, Minghui Li, Jingsha Han</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Volcanic forcing of global climate cooling at the Younger Dryas onset preserved in North American sediments",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec9030?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.921048+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 18, May 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "The pace of meeting carbon emission targets alters regional climate risks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec4566?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.920909+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 18, May 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Physics-based models outperform AI weather forecasts of record-breaking extremes",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec1433?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.920864+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 18, May 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "TLR7 alters the maternal immune landscape during influenza A infection to increase maternal and fetal morbidity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady2382?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.920644+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 18, May 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Dust storms: Hidden drivers of extreme rainfall and global precipitation shifts",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adw6864?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.920613+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 18, May 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "High-resolution dynamic surface water mapping in the Hindu Kush Himalaya region by integrating SDGSAT-1 and Sentinel-2 observations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002075?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:35.721371+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 August 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 341</p><p>Author(s): Xidong Chen, Shanlong Lu, Bin Chen, Xinya Kuang, Junguo Liu, Liangyun Liu, Congcong Wen, Harrison Odion Ikhumhen, Cong Du, Changyong Dou, Xiao Zhang, Huadong Guo</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Interspecies interaction controls Escherichia coli growth in human gut microbiome samples",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527793123?af=R",
+    "published": "2026-04-22T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661888+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. <br />SignificanceGut-microbiome variation among healthy individuals is widely documented, yet its impact on incoming bacteria and its implications for microbiome-targeted interventions remain unclear. Here, we test this experimentally by cultivating gut-..."
+  },
+  {
+    "score": 3.0,
+    "title": "Sensory basis of speech motor learning and memory",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2525468123?af=R",
+    "published": "2026-04-24T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661828+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "causal",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. <br />SignificanceThe present study tests the causal contribution of cortical brain regions to speech motor memory. Using magnetic brain stimulation, it is shown that disruption of the sensory cortex, either auditory or somatosensory, impaired speech motor ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Mapping fast tissue dynamics with long camera exposures via intensity modulation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2524940123?af=R",
+    "published": "2026-04-23T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661801+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. <br />SignificanceCharacterizing fast biological dynamics, such as blood flow in the brain’s microvasculature, across wide fields is crucial but typically demands expensive, specialized high-speed cameras. We address this limitation with sinusoidal intensity ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Machine learning multiscale collective cell dynamics: From single-cell characterization to multicellular monolayer modeling",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2522744123?af=R",
+    "published": "2026-04-24T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661729+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. <br />SignificanceAI is revolutionizing how we understand complex non-equilibrium processes, including biological processes like collective cell dynamics. Traditional physics-based models often prove inadequate, as they rely on many experimentally inaccessible ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Cell-type-resolved transcriptomic landscape of human focal cortical dysplasia",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2513674123?af=R",
+    "published": "2026-04-21T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661567+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. <br />SignificanceFocal cortical dysplasia (FCD) is a major cause of drug-resistant epilepsy, yet its biological heterogeneity remains poorly defined. We profiled 487,286 nuclei from paired lesional and perilesional cortices across FCD I-III to generate a cell-..."
+  },
+  {
+    "score": 4.0,
+    "title": "A simple threshold captures the social learning of conventions",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2508061123?af=R",
+    "published": "2026-04-22T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661506+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. <br />SignificanceSocial conventions—such as how people dress and greet in the workplace—pervade human culture. Yet how people learn conventions as they emerge and evolve in social networks is an enduring puzzle. Contrary to dominant approaches, we show that ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Thermal SU(2) lattice gauge theory for intertwined orders and hole pockets in the cuprates",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606117123?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661470+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceThe hole-doped cuprate superconductors have the highest critical temperatures under ambient pressure among all known materials. These materials are also unique in having a “pseudogap” metal phase above the critical temperature, suggesting a ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Ab initio molecular dynamics prediction and experimental validation of the 14:4 rare-earth oxide-phosphate structure",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604858123?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661402+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceHigh temperature often results in increased crystal symmetry, but it can also stabilize complex, entropy-driven phases. Rare earth oxide-phosphates are an example: several complex phases with compositions between RE2O3and REPO4were reported ..."
+  },
+  {
+    "score": 5.0,
+    "title": "The rising threats of global wildland–human interface revealed by a scale-adaptive approach",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604044123?af=R",
+    "published": "2026-04-28T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661373+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceThe global expansion of human settlements and agriculture is creating vast, dynamic frontiers with wildlands, yet a unified framework to map and assess these interfaces has been lacking. This study addresses this gap by developing a mapping ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Strong intrinsic multiferroism and magnetoelectric coupling in (1–x)BiFeO3–(x)BaTiO3 films",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603475123?af=R",
+    "published": "2026-04-28T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661337+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceMaterials that can efficiently couple electric and magnetic properties are central to next-generation, low-power information technologies, yet such behavior rarely persists at room temperature in a single phase. Here, a distinct tetragonal ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Parallel algorithms for phylogenetic inference under a structured coalescent approximation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602412123?af=R",
+    "published": "2026-04-28T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661302+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceTimely reconstruction of epidemic dynamics is essential for public health, and structured coalescent models constitute an essential tool for this purpose. However, statistical and computational challenges pose a critical barrier to their ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Asymptotic distribution of the Betti numbers of [math]",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601111123?af=R",
+    "published": "2026-04-28T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661169+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceThe moduli space of curves is a cornerstone object in mathematics and theoretical physics, underpinning theories from Gromov–Witten invariants to string theory. We identify a striking hidden regularity: The distribution of its Betti numbers ..."
+  },
+  {
+    "score": 7.0,
+    "title": "The allometry of vertebrate pursuit predation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534397123?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.661086+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificancePredators on land, in air, and underwater attempt to capture their prey through pursuit. Although the underlying principles of pursuit predation are broadly conserved, the way animals interact with their physical environment to move differs ..."
+  },
+  {
+    "score": 5.0,
+    "title": "A few key species drive community thermophilization under experimental warming",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533434123?af=R",
+    "published": "2026-04-28T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.660975+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceAs the climate warms, plant communities are expected to shift toward species that thrive in hotter conditions. Using data from six experimental warming sites across the United States, we show that warming directly increases the abundance of ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Uncovering how transport access reduces deprivation: When colocation misleads",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2532730123?af=R",
+    "published": "2026-04-28T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.660868+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceThere is growing interest in how cities can use transport to reduce disadvantage. A central challenge is measurement: Widely used “accessibility” measures often point to different neighborhoods as underserved, leading to conflicting policy ..."
+  },
+  {
+    "score": 10.0,
+    "title": "Holocene Nile dynamics shaped the physical and cultural landscape of ancient Nubia",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529986123?af=R",
+    "published": "2026-04-27T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.660665+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceThe ancient city of Napata at Jebel Barkal—home to pyramids, temples, and palaces and now a UNESCO World Heritage site—was a major urban center of the Nubian empire of Kush for over a millennium (1070 BCE to 350 CE). Despite extensive ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Exploring PrPC unfolding as a critical step preceding its refolding in the context of PrPSc propagation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529837123?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.660627+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceElucidation of the structure of PrPSchas opened the possibility to understand propagation of this quintessential prion. However, PrPScis a standard amyloid made of flat stacked monomers. Therefore, its templating surface can easily direct ..."
+  },
+  {
+    "score": 3.0,
+    "title": "An auxin-induced transcriptional cascade CmBES1–CmSAUR66 orchestrates the ray floret development in Chrysanthemum morifolium",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527961123?af=R",
+    "published": "2026-04-27T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.660544+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceThe fusion of petals into a corolla tube was a key innovation in flower evolution. Still, its genetic control in lineages with petals initiating from a shared ring primordium remains mysterious. We identify a regulatory module in chrysanthemum ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Resource availability structures microbial competition through genomic niche partitioning",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2526391123?af=R",
+    "published": "2026-04-29T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.660449+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. <br />SignificanceMicrobial communities underpin critical ecosystem services from nutrient cycling to human health, yet predicting competition (a key driver of diversity) remains challenging across Earth’s biomes. Here, we develop CaCo, a scalable genomic ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Repeated snowball–hothouse cycles within the Neoproterozoic Sturtian glaciation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2525919123?af=R",
+    "published": "2026-04-27T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.659674+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 19, May 2026. <br />SignificanceEarth experienced extreme climate swings during the Neoproterozoic epoch, including the Sturtian glaciation, when ice likely covered the planet. Explaining aspects of the geologic record and the survival of life through this event has been a ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Historic logbooks reveal spatial footprints of commercial whaling",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523917123?af=R",
+    "published": "2026-04-27T07:00:00Z",
+    "collected_at": "2026-04-30T05:40:35.659619+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 19, May 2026. <br />SignificanceCommercial whaling devastated bowhead whale populations, and recovery has been slow and spatially heterogeneous. By reconstructing daily routes and hunting activities of more than 700 historic British and American whaling voyages, we mapped ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Artificial intelligence’s metabolic footprint and the political-industrial ecology of urban sustainability",
+    "link": "https://www.nature.com/articles/s42949-026-00389-y",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:33.474360+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s42949-026-00389-y\">doi:10.1038/s42949-026-00389-y</a></p>Artificial intelligence’s metabolic footprint and the political-industrial ecology of urban sustainability"
+  },
+  {
+    "score": 14.0,
+    "title": "Analysing European cities’ climate mission development priorities through their monitoring and learning effort",
+    "link": "https://www.nature.com/articles/s42949-026-00398-x",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:33.474318+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s42949-026-00398-x\">doi:10.1038/s42949-026-00398-x</a></p>Analysing European cities’ climate mission development priorities through their monitoring and learning effort"
+  },
+  {
+    "score": 3.0,
+    "title": "Solar-spectral electrochromic glazing using suspended clusters in an organogel",
+    "link": "https://www.nature.com/articles/s41893-026-01831-w",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:33.431718+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41893-026-01831-w\">doi:10.1038/s41893-026-01831-w</a></p>Creating scalable and cost-effective smart windows that modulate solar radiation has long been a challenge. A simple electrochromic organogel can effectively tune solar radiation entering indoor space through the dynamic aggregation of polyoxometalate clusters, enabling large-area, low-cost glazing for energy-efficient buildings and vehicles."
+  },
+  {
+    "score": 3.0,
+    "title": "Spatiotemporally localized optical links and knots",
+    "link": "https://www.nature.com/articles/s41467-026-72774-1",
+    "published": "2026-04-30",
+    "collected_at": "2026-04-30T05:40:32.668969+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 30 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72774-1\">doi:10.1038/s41467-026-72774-1</a></p>The authors propose and experimentally demonstrate a scheme for weaving optical topological knots and links that are fully localized in space–time, thereby breaking the conventional constraint of longitudinal space-filling via Milnor polynomials."
+  },
+  {
+    "score": 3.0,
+    "title": "From yield impacts to just transformation of food systems",
+    "link": "https://www.nature.com/articles/s41558-026-02625-w",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.470150+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41558-026-02625-w\">doi:10.1038/s41558-026-02625-w</a></p>Food security remains a major global challenge, which is only amplified by ongoing climate change. Here, I look back on a 2015 paper on climate change impacts on wheat and discuss subsequent research on agriculture and food security."
+  },
+  {
+    "score": 3.0,
+    "title": "Tropical cyclones relieve drought",
+    "link": "https://www.nature.com/articles/s41558-026-02627-8",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.470104+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41558-026-02627-8\">doi:10.1038/s41558-026-02627-8</a></p>Droughts and tropical cyclones are two well-known hazards that can interact in dynamic ways. Now, research shows that rainfall from tropical cyclones shortens and weakens droughts in coastal regions but not in a uniform way."
+  },
+  {
+    "score": 5.0,
+    "title": "Machine learning improves health-care access in Sierra Leone",
+    "link": "https://www.nature.com/articles/d41586-026-01152-0",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.376491+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01152-0\">doi:10.1038/d41586-026-01152-0</a></p>A machine-learning tool that allocates scarce medicines to meet demand and reduce waste is providing millions with better health care as it rolls out nationwide."
+  },
+  {
+    "score": 3.0,
+    "title": "A cell atlas charts the immune architecture of diabetic kidney disease",
+    "link": "https://www.nature.com/articles/d41586-026-01177-5",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.376404+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01177-5\">doi:10.1038/d41586-026-01177-5</a></p>Single-cell gene-expression profiling and spatial mapping have revealed the immune microenvironments comprising aggregated immune cells called B cells in a subset of individuals who have accelerated disease progression."
+  },
+  {
+    "score": 6.0,
+    "title": "Competition between separated parental genomes in fertilized eggs aids development",
+    "link": "https://www.nature.com/articles/d41586-026-01270-9",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.376243+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01270-9\">doi:10.1038/d41586-026-01270-9</a></p>In fertilized egg cells, the maternal and paternal genomes are enclosed in separate compartments called pronuclei. Experiments in mice reveal that this spatial separation enables parental competition for cytoplasmic factors, which helps to prevent the dysregulation of chemical modifications to DNA-packing proteins and contributes to healthy embryonic development."
+  },
+  {
+    "score": 5.0,
+    "title": "Increase in wild animal consumption across Central Africa",
+    "link": "https://www.nature.com/articles/s41586-026-10422-w",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.375802+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10422-w\">doi:10.1038/s41586-026-10422-w</a></p>Wild meat is a fundamental component of the diets of rural Central African populations, accounting for 20% of the recommended daily protein intake, compared with 13% and 6% for those living in towns and cities."
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup",
+    "link": "https://www.nature.com/articles/s41586-026-10363-4",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.375771+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10363-4\">doi:10.1038/s41586-026-10363-4</a></p>A single-cell spatial atlas identifies a B cell-predominant microenvironment within the profibrotic tubular niche that marks a subset of patients with diabetic kidney disease with rapid progression."
+  },
+  {
+    "score": 3.0,
+    "title": "Improving access to essential medicines via decision-aware machine learning",
+    "link": "https://www.nature.com/articles/s41586-026-10433-7",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:32.375559+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10433-7\">doi:10.1038/s41586-026-10433-7</a></p>Nationwide deployment of a novel decision-aware machine learning framework as a decision support tool for the allocation of essential medicines in Sierra Leone resulted in improved access to essential healthcare in this resource-constrained setting."
+  },
+  {
+    "score": 9.0,
+    "title": "Spatial heterogeneity and threshold effects of climate and human activities on ecological drought trends in northern china: insights from a geoshapley framework",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2665911?af=R",
+    "published": "2026-04-29T04:51:18Z",
+    "collected_at": "2026-04-30T05:40:31.649589+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "Arctic phytoplankton bloom timing and intensity linked to sea ice and winter persistence",
+    "link": "https://www.nature.com/articles/s43247-026-03574-0",
+    "published": "2026-04-29",
+    "collected_at": "2026-04-30T05:40:30.512691+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03574-0\">doi:10.1038/s43247-026-03574-0</a></p>Winter water column stability is statistically associated with overwintering chlorophyll levels in the Arctic Ocean, according to analysis of a pan-Arctic satellite record."
+  },
+  {
+    "score": 8.0,
+    "title": "Buzzing the production of space in tourism destination: A “Wanghong” City perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003537?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:30.446381+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Fuduan Yang, Chao Ye, Weizheng Zhang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Temperature and Humidity Differences in Computational Fluid Dynamics Simulations Based on Building Modeling Level of Detail",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232600483X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:30.338947+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 28 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Daekeon Lee, Jaekyoung Kim, Gunwon Lee</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Physical vs. Virtual Environments: A Comparative Psychophysiological Study on the Restorative Effects of Window Views",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004804?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:30.338919+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 28 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jiaxin Li, Xudong Xie, Xiangxi Li, Chao Liu, Hiroatsu Fukuda, Weijun Gao</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Experimental study on airflow containment and pollutant capture of a push-pull ventilation system in residential kitchens",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326004816?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:30.338879+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 28 April 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Wenhua Chen, Mengyang Yan, Yunxiang Cui, Yanzhe Yu, Jing Xu, Junjie Liu, jiayu Li</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Uneven effects of land use change on bird habitats across climatic zones in the great lake basins: Implications for targeted conservation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826001360?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:30.238877+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Applied Geography, Volume 191</p><p>Author(s): Zihan Xu, Yiqi Xie, Xinyan Wang, Yuqing Lin</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "How to prioritize park equity investments more efficiently: Introducing the per square mile tool",
+    "link": "https://www.sciencedirect.com/science/article/pii/S014362282600130X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-04-30T05:40:30.238829+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Applied Geography, Volume 191</p><p>Author(s): Marco Lorenzo Allain, Alessandro Rigolon, Timothy Collins, Dan Rademacher, Jon Christensen</p>"
+  },
+  {
     "score": 12.0,
     "title": "Urban Green Space Provision Dynamics. A Cross-European Analysis of Supply, Availability, and Land Cover Flows In Capitals",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002141?dgcid=rss_sd_all",
