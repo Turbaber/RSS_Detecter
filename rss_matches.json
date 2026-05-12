@@ -1,5 +1,457 @@
 [
   {
+    "score": 9.0,
+    "title": "Building urban climate resilience through high-resolution UAV thermography: Lessons from Coimbra (Portugal)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001677?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-12T05:48:15.406030+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): António M. Rochette Cordeiro, José Miguel Lameiras</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "The Scaling Law of CO<sub>2</sub> Emissions in Chinese Urban Agglomerations: A Zipf’s Law Perspective and its Policy Implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726003872?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-12T05:48:13.742165+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 May 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Ying Ning, Yongcai Lou, Ying Liu</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Evaluative governance for climate action in Australia",
+    "link": "https://www.nature.com/articles/s41893-026-01814-x",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.576231+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41893-026-01814-x\">doi:10.1038/s41893-026-01814-x</a></p>National climate risk frameworks catalogue threats but rarely define which risks are tolerable, to whom and how to decide. We propose embedding evaluative governance — the structures, processes and relationships that guide law, policy, deliberation, funding and evaluation — across the policy cycle to translate into accountable, equitable and adaptive climate action."
+  },
+  {
+    "score": 3.0,
+    "title": "Cure-to-service design of metastability-confined geo-stable cements",
+    "link": "https://www.nature.com/articles/s41467-026-72831-9",
+    "published": "2026-05-12",
+    "collected_at": "2026-05-12T05:48:12.509560+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 12 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72831-9\">doi:10.1038/s41467-026-72831-9</a></p>The authors present a geothermal cement design that confines metastability during phase evolution from curing to service, enabling structurally stable materials under prolonged supercritical water exposure."
+  },
+  {
+    "score": 5.0,
+    "title": "Carbon markets rule change would harm mitigation and Indigenous peoples",
+    "link": "https://www.nature.com/articles/s41558-026-02629-6",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.394771+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02629-6\">doi:10.1038/s41558-026-02629-6</a></p>Carbon markets rule change would harm mitigation and Indigenous peoples"
+  },
+  {
+    "score": 3.0,
+    "title": "Scientists breed low-emission rice to fight climate change",
+    "link": "https://www.nature.com/articles/s41558-026-02614-z",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.394747+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02614-z\">doi:10.1038/s41558-026-02614-z</a></p>New hybrid grains are expected to emit less than half of the methane that their natural counterparts emit."
+  },
+  {
+    "score": 3.0,
+    "title": "Decreasing ice and colder winters",
+    "link": "https://www.nature.com/articles/s41558-026-02648-3",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.394721+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02648-3\">doi:10.1038/s41558-026-02648-3</a></p>Decreasing ice and colder winters"
+  },
+  {
+    "score": 3.0,
+    "title": "Food policy adaptation",
+    "link": "https://www.nature.com/articles/s41558-026-02645-6",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.394701+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02645-6\">doi:10.1038/s41558-026-02645-6</a></p>Food policy adaptation"
+  },
+  {
+    "score": 5.0,
+    "title": "Largest increase of carbon dioxide in 2024",
+    "link": "https://www.nature.com/articles/s41558-026-02647-4",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.394680+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02647-4\">doi:10.1038/s41558-026-02647-4</a></p>Largest increase of carbon dioxide in 2024"
+  },
+  {
+    "score": 8.0,
+    "title": "City type specifies carbon cycle",
+    "link": "https://www.nature.com/articles/s41558-026-02646-5",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.394645+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02646-5\">doi:10.1038/s41558-026-02646-5</a></p>City type specifies carbon cycle"
+  },
+  {
+    "score": 12.0,
+    "title": "Global mapping of city-level economic growth decoupling from fossil fuels",
+    "link": "https://www.nature.com/articles/s44284-026-00440-0",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.327424+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00440-0\">doi:10.1038/s44284-026-00440-0</a></p>Tracking urban economic decoupling from fossil fuels is challenged by limited data. Using satellite NO2 and gross domestic product data, this study found that 80% of 2,475 cities with significant satellite NO2 trends showed relative decoupling, offering a scalable tool to monitor green growth."
+  },
+  {
+    "score": 9.0,
+    "title": "Data-centric monitoring for safe urban water networks",
+    "link": "https://www.nature.com/articles/s44284-026-00448-6",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.327374+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00448-6\">doi:10.1038/s44284-026-00448-6</a></p>Current urban water monitoring remains reactive and sparse, and contamination is often detected after public exposure. This Comment outlines a data-centric, anomaly-oriented pathway that involves tracking high-frequency deviations at risk-relevant locations, which enables earlier detection and targeted intervention across urban water systems."
+  },
+  {
+    "score": 7.0,
+    "title": "Giant map reveals thousands of cities worldwide with successful green policies",
+    "link": "https://www.nature.com/articles/d41586-026-01491-y",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.257707+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01491-y\">doi:10.1038/d41586-026-01491-y</a></p>Greenhouse-gas emissions from burning fossil fuel have been mapped across thousands of cities worldwide."
+  },
+  {
+    "score": 4.0,
+    "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
+    "link": "https://www.nature.com/articles/d41586-026-01522-8",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:12.257574+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01522-8\">doi:10.1038/d41586-026-01522-8</a></p>Floating genetic material could give insights into ecosystem health, the presence of invasive species, and help researchers identify pathogens before they cause harm."
+  },
+  {
+    "score": 5.0,
+    "title": "A generative deep learning approach with multi-perspective map representations for simulating land use changes",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2663121?af=R",
+    "published": "2026-05-11T09:28:30Z",
+    "collected_at": "2026-05-12T05:48:11.954099+00:00",
+    "feed_title": "tandf: International Journal of Geographical Information Science: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgis20",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": ". <br />"
+  },
+  {
+    "score": 6.0,
+    "title": "Changing Regional Land Surface Albedos Alter the Planetary Albedo During the Twenty‐First Century",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008066?af=R",
+    "published": "Sun, 10 May 2026 10:40:10 -0700",
+    "collected_at": "2026-05-12T05:48:11.310756+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 5, May 2026."
+  },
+  {
+    "score": 7.0,
+    "title": "Arctic sea ice decline, increasing successive sudden stratospheric warmings and cold northern hemisphere continents",
+    "link": "https://www.nature.com/articles/s43247-026-03604-x",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:10.951767+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03604-x\">doi:10.1038/s43247-026-03604-x</a></p>New evidence shows successive sudden stratospheric warmings have been increasing, with broader cold air influence in the northern hemisphere continents. Multimodel historical simulations and polar climate modeling attribute this change to the Arctic sea ice decline."
+  },
+  {
+    "score": 4.0,
+    "title": "Meso-scale pressure reactor demonstrates biostimulation of coal-dependent methanogenesis",
+    "link": "https://www.nature.com/articles/s43247-026-03560-6",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:10.951726+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03560-6\">doi:10.1038/s43247-026-03560-6</a></p>Microalgae accelerate early methanogenesis and enhance coal-derived methane production over time, according to the pressurized incubation of a large block of coal collected in the Powder River Basin, Montana, USA."
+  },
+  {
+    "score": 4.0,
+    "title": "Dissolved organic carbon decomposed or polymerized in ice depending on nitrate-mediated carbon-nitrogen coupling",
+    "link": "https://www.nature.com/articles/s43247-026-03482-3",
+    "published": "2026-05-11",
+    "collected_at": "2026-05-12T05:48:10.951681+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03482-3\">doi:10.1038/s43247-026-03482-3</a></p>Pyrogenic dissolved black carbon in ice degraded oxidatively during carbon-nitrogen coupling, causing carbon loss, while compost-derived dissolved organic carbon humified and stabilized, as shown in freezing experiments with straw biomass derivatives."
+  },
+  {
+    "score": 5.0,
+    "title": "Comparative evaluation of grey-box virtual sensor under different indoor thermo-hydrodynamics in room heating",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326005251?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-12T05:48:10.756562+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 May 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jinxin Wang, Feng Xu, Hisashi Takahashi, Yuka Sakai, Ruizi Zhang, Hiroaki Kanayama, Daisuke Satou, Yasuki Kansha</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Real-time optimization of a dynamic solar PV integrated shading design with data-driven reactive control and spatial daylighting prediction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326005238?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-12T05:48:10.756489+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 May 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Hao Zhang, Zheng Wang, Bicui Ye, Yuekuan Zhou, Xue Liu, Yi Zhang, Pengyuan Shen</p>"
+  },
+  {
     "score": 18.0,
     "title": "A dual-season assessment of urban thermal vulnerability to extreme cold and heat in a cold-region city: Evidence from Changchun, China",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001707?dgcid=rss_sd_all",
