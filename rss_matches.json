@@ -1,6 +1,1278 @@
 [
   {
     "score": 11.0,
+    "title": "Nowcasting and forecasting urban air pollution with meteorological and wind profile data: A framework for Smart City Digital Twins",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001689?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:18.105700+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Jingyu Wei, Yasutaka Narazaki, Giuseppe Quaranta, Alessio Ricci, Claudia Roberta Calidonna, Cristoforo Demartino</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Associations between implementation outcomes of urban park system planning and surrounding land use change patterns: Evidence from Quanzhou, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002530?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:17.997538+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 May 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Xuntong Zhuang, Zhigao Wu, Yu Chen, Xiao-Jun Wang</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Development of a Comprehensive Multi-Criteria Decision Support System for Assessing the Environmental and Cost Impacts of Buildings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004087?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:17.649312+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 May 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Tuğba Erzurum, Önder Halis Bettemir</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Natural variations in small RNA origin loci generate circuit diversity underlying temperature acclimation in Caenorhabditis elegans",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2538076123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950930+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceAnimals adapt to their habitats through genomic variation and diversification of neural circuits. Here, we show that a sRNA gene—accumulated during evolution—generates adaptive neural circuits for temperature acclimation. Natural variants of..."
+  },
+  {
+    "score": 4.0,
+    "title": "The role of reduced aerosol masking from air pollutant emission reductions in recent global warming acceleration (2013–2023)",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534130123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950889+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceRecent accelerating global warming underscores the importance of understanding all drivers, including short-lived pollutants. We find that air pollutant emission reductions from 2013 to 2023 increased Earth’s radiative forcing by ~0.16 W/m2, ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Reversible superdeformability of hiPSC epithelial cortinoids",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528603123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950817+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceDuring early human development, epithelial tissues must undergo large and rapid shape changes without rupturing or losing function. How epithelia tolerate such extreme deformations while maintaining barrier integrity remains unclear. Here, we ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Position-dependent feedback drives scaling and robustness of morphogen gradients",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2521182123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950687+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceAnimal size varies during development, yet spatial patterns scale proportionally with size. Developmental pattern scaling has been attributed to the scaling of morphogen gradients—concentration gradients of secreted signaling molecules that ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Multivalent mRNA vaccine platform with compatible antigens conferred broad-spectrum protection against orthoebolaviruses’ exposure",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2517814123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950597+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceMost current orthoebolaviruses vaccines target only one lethal species [Ebola virus (EBOV)], offering limited protection against others like Sudan virus and Bundibugyo virus. To address this, we developed a broad-spectrum mRNA vaccine, [GPs+NP]..."
+  },
+  {
+    "score": 11.0,
+    "title": "Reversing the great degradation of nature by reducing factors related to cropland expansion",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2506601123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950462+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceRapid growth in global economic activity over the past century has reduced poverty and increased standards of living but has come at great environmental cost. However, our results suggest that accelerating economic development in lower-income ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Electoral politics influence expansion and titling of informal urban settlements",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2421303123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950424+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceUrban informal settlements are common in Global South cities, where residents commonly lack titles, services, or infrastructure. Politicians are known to provide titles or improve settlement conditions in exchange for residents’ votes. Do ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Arctic ecosystems shaped mammalian dispersal and diversification before the Cretaceous–Paleogene mass extinction",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601794123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950383+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 22, June 2026. <br />SignificancePolar regions are often treated as evolutionary backwaters, yet they can connect continents and impose extreme selection. From the Late Cretaceous (73 Ma) Prince Creek Formation of Alaska (~80–85°N), we describe three species of ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Human amplification of climate-induced greenhouse gas emissions from global small water bodies",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537678123?af=R",
+    "published": "2026-05-18T07:00:00Z",
+    "collected_at": "2026-05-20T06:20:16.950329+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 22, June 2026. <br />SignificanceSmall water bodies (SWBs) are critical but often overlooked components of the global carbon cycle. We demonstrate that human activities, particularly agricultural nutrient loading and urbanization, amplify climate-driven greenhouse gas ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Towards sustainable metal–organic frameworks from lab to practice",
+    "link": "https://www.nature.com/articles/s41893-026-01839-2",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:15.743594+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41893-026-01839-2\">doi:10.1038/s41893-026-01839-2</a></p>Realistic life-cycle impacts of metal–organic frameworks (MOFs) are rarely quantified, despite their promise for carbon capture, water treatment, catalysis and other environmental applications. Here we propose a compact, actionable sustainability toolkit for MOFs to systematically verify claims of ‘green’."
+  },
+  {
+    "score": 3.0,
+    "title": "Saliva, urine, and anorectal swabs as viable alternatives to lesion swabs for molecular diagnosis of mpox",
+    "link": "https://www.nature.com/articles/s41467-026-73489-z",
+    "published": "2026-05-20",
+    "collected_at": "2026-05-20T06:20:15.700769+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73489-z\">doi:10.1038/s41467-026-73489-z</a></p>Mpox diagnosis typically depends on lesion swabs, which are impractical in certain settings. Here, the authors demonstrate that saliva can serve as a noninvasive alternative, while anorectal swabs are highly sensitive in mucosal exposure contexts, enhancing diagnostic strategies during outbreaks."
+  },
+  {
+    "score": 3.0,
+    "title": "Groundwater depletion contributes to an increase in global carbon emissions",
+    "link": "https://www.nature.com/articles/s41467-026-73521-2",
+    "published": "2026-05-20",
+    "collected_at": "2026-05-20T06:20:15.700545+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73521-2\">doi:10.1038/s41467-026-73521-2</a></p>This study reveals that groundwater depletion releases substantial CO₂ worldwide, identifying a previously overlooked carbon source that should be considered in global carbon management."
+  },
+  {
+    "score": 8.0,
+    "title": "Seabird range contraction and dispersal under climate change",
+    "link": "https://www.nature.com/articles/s41558-026-02655-4",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:15.474397+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02655-4\">doi:10.1038/s41558-026-02655-4</a></p>The authors reconstruct historical seabird dispersal routes, showing that birds responded to temperature shifts by changes in range size rather than body mass. These trends are projected to persist, with higher rates of warming causing greater range contractions and longer dispersal distances."
+  },
+  {
+    "score": 3.0,
+    "title": "Personal experiences matter for climate action",
+    "link": "https://www.nature.com/articles/s41558-026-02640-x",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:15.474351+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41558-026-02640-x\">doi:10.1038/s41558-026-02640-x</a></p>Climate change impacts are no longer distant but have entered people’s everyday experiences. Here we look back on a 2011 paper that showed how direct personal experience shapes people’s climate change perceptions, their beliefs about the efficacy of their action and willingness to act, and how the field of research has evolved."
+  },
+  {
+    "score": 9.0,
+    "title": "Unequal spatial patterns and differentiated city roles in the intercity telemedicine system",
+    "link": "https://www.nature.com/articles/s44284-026-00442-y",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:15.434395+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00442-y\">doi:10.1038/s44284-026-00442-y</a></p>Telemedicine platforms are reshaping intercity healthcare by extending virtual care beyond local and provincial boundaries. This study finds that China’s intercity telemedicine system reinforces core–periphery hierarchies while enabling new gateway cities."
+  },
+  {
+    "score": 12.0,
+    "title": "Scaling intra-urban climate fluctuations",
+    "link": "https://www.nature.com/articles/s44284-026-00441-z",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:15.434347+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00441-z\">doi:10.1038/s44284-026-00441-z</a></p>Urban scaling relations linking microclimates to city size are strongly influenced by how city boundaries are defined and overlook variability within cities. Using high-resolution global data and finite-size scaling ideas, this study derives a unified scaling function that overcomes these biases and enables climate information to be more effectively integrated into statistical descriptions of urban systems."
+  },
+  {
+    "score": 9.0,
+    "title": "Farewell, elephant slide",
+    "link": "https://www.nature.com/articles/s44284-026-00449-5",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:15.434293+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00449-5\">doi:10.1038/s44284-026-00449-5</a></p>The elephant-shaped concrete slide, with its small ladder and curved chute, is quietly disappearing from neighborhood parks. Qing Qin reflects on what its loss reveals about urban renewal and safety governance, and why child-friendly cities need room for improvisation, not only new equipment."
+  },
+  {
+    "score": 3.0,
+    "title": "Urbanizing commons lands: Ambiguous tenure regimes and the challenges of land regularization in Guadalajara Metropolitan Region, Mexico",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726001791?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:15.137768+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Land Use Policy, Volume 168</p><p>Author(s): Mariana Reyes-Carranza, Fenna Imara Hoefsloot, Ayona Datta, Raúl Agraz Joya</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Judicial big data reveals systemic risks in China’s transfer of development rights",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726001833?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:15.137724+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Land Use Policy, Volume 168</p><p>Author(s): Jia-He Zhou, Weilong Kong, Zhengfeng Zhang, Walter T. de Vries</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Erratum to “Mapping future city research: Thematic priorities, citation hierarchies, and SDG alignment patterns” [Habitat International 173 (2026) 103819]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526001530?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:14.879071+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 May 2026</p><p><b>Source:</b> Habitat International</p><p>Author(s): Mehmet Ronael, Gülden Demet Oruç Ertekin</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Resilience assessment and spatial optimization of ecosystem service supply-demand networks in rapidly urbanizing mountainous watersheds: A case study of the Chongqing section of the Three Gorges Reservoir Area",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526001505?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:14.879017+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Habitat International, Volume 174</p><p>Author(s): Yiwen Sun, Haohua Wang, Yuzi Wang, Yeqing Tang, Mengli Yu, Tianheng Shu, Qingyuan Yang</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "[ASAP] Core Microbiota Drives Host-Specific Growth Enhancement: Evidence in a Harmful Algal Bloom Causing Dinoflagellate Prorocentrum lima",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c05294",
+    "published": "Mon, 18 May 2026 06:35:07 PDT",
+    "collected_at": "2026-05-20T06:20:14.616182+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c05294/asset/images/medium/es6c05294_0008.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c05294</div>"
+  },
+  {
+    "score": 5.0,
+    "title": "[ASAP] Accelerating AOP Development in the AOP-Wiki with AI: A Practical Road Map for the Community",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c05148",
+    "published": "Mon, 18 May 2026 07:23:02 PDT",
+    "collected_at": "2026-05-20T06:20:14.616156+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c05148/asset/images/medium/es6c05148_0002.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c05148</div>"
+  },
+  {
+    "score": 5.0,
+    "title": "[ASAP] Global Photovoltaic Cool Island Effect Modulated by Dual Pathways of Evapotranspiration Suppression and Photovoltaic Conversion",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c17772",
+    "published": "Mon, 18 May 2026 07:00:15 PDT",
+    "collected_at": "2026-05-20T06:20:14.616081+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c17772/asset/images/medium/es5c17772_0010.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c17772</div>"
+  },
+  {
+    "score": 7.0,
+    "title": "[ASAP] Per- and Polyfluoroalkyl Substances in Sediments from an Urban Riparian Floodplain: Distribution, Partitioning, and Fate",
+    "link": "http://dx.doi.org/10.1021/acs.est.5c16013",
+    "published": "Mon, 18 May 2026 10:33:23 PDT",
+    "collected_at": "2026-05-20T06:20:14.616011+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.5c16013/asset/images/medium/es5c16013_0005.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.5c16013</div>"
+  },
+  {
+    "score": 3.0,
+    "title": "[ASAP] Trade-Driven Environmental and Socioeconomic Impacts and Regional Disparities: Evidence from China’s Provincial Scale with Its Neighbors",
+    "link": "http://dx.doi.org/10.1021/acs.est.6c01868",
+    "published": "Tue, 19 May 2026 04:50:20 PDT",
+    "collected_at": "2026-05-20T06:20:14.615952+00:00",
+    "feed_title": "Environmental Science & Technology: Latest Articles (ACS Publications)",
+    "rss_url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "socioeconomic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.est.6c01868/asset/images/medium/es6c01868_0007.gif\" /></p><div><cite>Environmental Science &amp; Technology</cite></div><div>DOI: 10.1021/acs.est.6c01868</div>"
+  },
+  {
+    "score": 3.0,
+    "title": "Background Atmospheric CO2 Regulates the Local and Non‐Local Climate Impacts of Amazon Deforestation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007636?af=R",
+    "published": "Mon, 18 May 2026 05:56:00 -0700",
+    "collected_at": "2026-05-20T06:20:14.448325+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 5, May 2026."
+  },
+  {
+    "score": 6.0,
+    "title": "Projected Reductions in Staple Crop Production and Nutritional Quality Under Climate Change: Machine Learning Evidence From China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006781?af=R",
+    "published": "Mon, 18 May 2026 07:06:35 -0700",
+    "collected_at": "2026-05-20T06:20:14.448278+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 5, May 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Peatland degradation restructures microbial communities and reduces soil multifunctionality through amplified β-diversity turnover",
+    "link": "https://www.nature.com/articles/s43247-026-03510-2",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:10.132658+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03510-2\">doi:10.1038/s43247-026-03510-2</a></p>Peatland degradation raised soil pH, depleted lignin- and lipid-rich carbon, increased hydrolytic enzymes and carbon dioxide emissions, and reduced soil multifunctionality via consistent shifts in microbial β diversity, based on a field study from Northeast China coupled with global meta-analysis."
+  },
+  {
+    "score": 18.0,
+    "title": "Field in the frame: seals as meltwater monitors",
+    "link": "https://www.nature.com/articles/s43247-026-03609-6",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:10.132549+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03609-6\">doi:10.1038/s43247-026-03609-6</a></p>Measuring meltwater coming off polar glaciers can help us to understand how climate change is impacting Antarctic ice sheets, but this meltwater is difficult to observe and track over time. Dr Zheng and colleagues solved this problem by using data collected by tagged seals. The seals were equipped with tags that measured temperature, salinity, and pressure, building a picture of Antarctic ice-shelf fronts. The team found that meltwater rises to the sea surface in winter, transporting heat and nutrients effectively upwards. The team found that meltwater rises to the sea surface in winter, transporting heat and nutrients effectively upwards. They suggest that the processes measured by the seals need to be accounted for in climate modelling."
+  },
+  {
+    "score": 8.0,
+    "title": "Subpolar North Atlantic heat flux drives projected U.S. East Coast sea-level trend in a climate model",
+    "link": "https://www.nature.com/articles/s43247-026-03632-7",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:10.132486+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03632-7\">doi:10.1038/s43247-026-03632-7</a></p>Subpolar North Atlantic heat flux is the key driver of the long-term sea-level rise trend of the US East Coast, while wind stress dominates interannual-to-decadal variability, according to an adjoint sensitivity-based attribution approach"
+  },
+  {
+    "score": 5.0,
+    "title": "Author Correction: High profits from soybean-corn agriculture are associated with increased land prices and deforestation rates in Mato Grosso’s Amazon forests",
+    "link": "https://www.nature.com/articles/s43247-026-03627-4",
+    "published": "2026-05-19",
+    "collected_at": "2026-05-20T06:20:10.132450+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03627-4\">doi:10.1038/s43247-026-03627-4</a></p>Author Correction: High profits from soybean-corn agriculture are associated with increased land prices and deforestation rates in Mato Grosso’s Amazon forests"
+  },
+  {
+    "score": 5.0,
+    "title": "Neglected shoreward reintroduction of pre-aged sedimentary organic carbon in a large river- and tide-dominated marginal sea",
+    "link": "https://www.nature.com/articles/s43247-026-03645-2",
+    "published": "2026-05-20",
+    "collected_at": "2026-05-20T06:20:10.132369+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03645-2\">doi:10.1038/s43247-026-03645-2</a></p>Sedimentary organic carbon ages deviated from depositional ages, with falling terrestrial organic carbon fraction, suggesting energetic forcing reintroduced pre-aged organic carbon from offshore into coastal to inner-shelf areas, based on East China Sea coastal muddy sediment core analysis."
+  },
+  {
+    "score": 12.0,
+    "title": "Anthropogenic global warming increases the risk of record-breaking extreme precipitation events in low-income countries",
+    "link": "https://www.nature.com/articles/s43247-026-03649-y",
+    "published": "2026-05-20",
+    "collected_at": "2026-05-20T06:20:10.132320+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "socioeconomic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03649-y\">doi:10.1038/s43247-026-03649-y</a></p>Extreme rainfall is rising with warming, and low-income nations face 1.5-3.4 times higher probability of unprecedented extreme precipitation events than high-income countries, according to an analysis that uses an integrated framework combining climate projections and socioeconomic data."
+  },
+  {
+    "score": 11.0,
+    "title": "Backcasting antifragility in East African cities: A comparative analysis of urban challenges and spatial planning strategies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004725?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157279+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Alanda Kamana, Hassan Radoine, Maurice Onyango Oyugi, John Mugisha, Assumpta Nnaggenda Musana, Fred Nkubito, Kh. Md Nahiduzzaman</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Multilevel governance and local housing innovations for refugees: Implementation of three municipal pilot initiatives in France, Spain, and Sweden",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004518?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157251+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Noemie Dominguez, Carles-X. Simo-Noguera, Andrea Spehar</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Co-creating inclusive sustainable interventions: Urban living labs with elementary school children and adults",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004014?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157228+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Nuria Castell, Amirhossein Hassani, Magdalena Kubecka, Anna Nicińska, Joanna Rachubik</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Green infrastructure, nature-based solutions and ecosystem services for seismic resilience: Insight from a systematic review to guide urban policy and planning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004324?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157199+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Monica Pantaloni, Marta Ducci, Luca Domenella, Giovanni Marinelli</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Zoning and municipal capacity in protecting urban green spaces in Central and Eastern Europe",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004464?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157173+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Maciej J. Nowak, Velislava Simeonova, Alexandru-Ionut Petrisor, Andrei Mitrea, Vlad Cocheci, Daiva Juknelienė, Jolanta Valčiukienė, Yurij Palekha, Filepné Kovács Krisztina, Eugenia Maruniak, Małgorzata Blaszke</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Coping with financialisation. Understanding socio-emotional dynamics in urban housing markets",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003859?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157134+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Dennis Hof, Michael Janoschka</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "The Sociality of Spatial (In)Justice: Older adults' lived experiences of policy-induced relocation in Denmark",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026427512600449X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157114+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Rebecka Söderberg, Michael Asgaard Andersen</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Assessing regional city network resilience in economy and innovation from a “city-industry” perspective: A case study of the 2008 financial crisis and the COVID-19",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004579?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157088+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Wenxuan Du, Guofang Zhai, Yuwen Lu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Collaboration across administrative boundaries in the transformation of public space",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004154?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157055+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Mozafar Said, Barbara Tempels, Robbert Biesbroek</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Spatiotemporal dynamics of open space fragmentation and associated spatial vertical equity in high–density cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003914?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.157033+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Peiheng Yu, Xiaosheng Zhu, Wei Luo, Esther H.K. Yung, Edwin H.W. Chan, Yiyun Chen, Xiangzheng Deng</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Urbanization reshapes soil microbial diversity: Regime shifts from resource limitation to environmental stress",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004737?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.156992+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Chen Dai, Shuqing Zhao, Peng Zhang, Zhi Cao, Shuguang Liu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Social integration and housing behaviours of immigrants: Evidence from Singapore's public housing market",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026427512600452X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.156967+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Yi Fan, Ho Pin Teo, Yong Tu, Wayne Xinwei Wan</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Data-driven insights on urban walkability: Modeling the relationships between urban form and pedestrian activity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026427512600380X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.156945+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Kanaha Shoji, Benjamin Tarver, Andrew Sonta</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Urban beauty and its oppositions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004245?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.156921+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Asher Elbaz, Nurit Alfasi</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Urban low-altitude airspace resources: Integrating risk and accessibility through fine-grained analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004221?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.156901+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Hongbo He, Huping Ye, Chenchen Xu, Huanyin Yue, Xiaohan Liao</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Power dynamics in negotiated developer obligations: Evidence from Istanbul case",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126003719?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:09.156863+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Cities, Volume 175</p><p>Author(s): Fatma Belgin Gumru, Sevkiye Sence Turk</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Algae-based air purifier: Tackling CO<sub>2</sub>, PM<sub>2.5</sub>, and TVOCs to improve indoor air quality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326005640?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:08.999692+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 May 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Danuphon Boonbangkeng, Thawatchai Sriwongsa, Chairat Treesubsuntorn</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "What kind of audiovisual environment makes passengers experience travel well-being in high-speed railway stations?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326005603?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-05-20T06:20:08.999643+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 May 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Mengjiao Song, Fangfang Liu, Jian Kang, Yue Wu, Yongzeng Xue</p>"
+  },
+  {
+    "score": 11.0,
     "title": "Intentions in Transition: Socio-Psychological and Spatial Dimensions of Green Space Recreation in a Changing Cityscape",
     "link": "https://www.sciencedirect.com/science/article/pii/S161886672600244X?dgcid=rss_sd_all",
     "published": "",
