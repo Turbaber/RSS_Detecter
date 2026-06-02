@@ -1,5 +1,797 @@
 [
   {
+    "score": 11.0,
+    "title": "Rethinking the Accessibility of Urban Green Space Through Route Environment Quality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002815?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:35.310896+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Jiawei Zhao, Elias Willberg, Silviya Korpilo, Julia Hämäläinen, Susanna Lehvävirta</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "A hybrid MCDM integrating XGBoost and explainable AI to assess urban ecosystem resilience and identify contributors: A case of Chinese cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004427?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906304+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yang Chen, Shiwen Cai, Jinyi He, Xiao Wen</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Energy Communities for Low-Carbon and Resilient Urban Energy Systems: A Distributed Framework for Sustainable Urban Energy Transitions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600449X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906279+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Xu Ding, Weiyu Gu</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Multi-Scenario Prediction of Future Urban Heat Islands: An Integrated 2D-3D Spatial Morphology-Driven Approach in Wuhan Metropolis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004464?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906257+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yunhao Fang, Zunling Zhu</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Energy-logistics mutual feedback driven multi-agent dynamic interactive game model for low-carbon ports: towards synergistic improvement of energy utilization and logistics management efficiency",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004439?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906234+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): You-Yuan Liu, Hao-Jie Zhu, Ling-Ling Li, Bing-Xiang Ji</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Urban Greening as a Potential Nature-Based Solution for Heat-Related Health Burden: Evidence from Acute Myocardial Infarction in a Megacity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004488?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906207+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yuansong Zhuang, Zhen He, Dongyang Pan, Yakun Zhao, Yuxiong Chen, Yitao Han, Siqi Tang, Chengli Li, Jinyan Lei, Otthein Herzog, Zhiqiang Wu, Zhongjie Fan</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Evaluating the collective effects of vertical and ground greening on microclimate and energy consumption in a high-density building array",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004415?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906176+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Dongjin Cui, Ruikun Ge, Xiaolong Zheng, Guozhu Liang, Jian Hang, Cheuk Ming Mak</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "How Does the Synergy of Digital Empowerment and Green Transition Enhance Urban Energy Resilience: Quasi-Natural Experimental Evidence from China’s Dual Policy Pilots",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004440?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906147+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Neng Shen, Wei Wu, Guoping Zhang, Jingwen Zhou, Jingyi Zheng, Lianjun Wu</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Differentiated street greenery cooling of road surfaces: Spatially varying nonlinear effects from street view and geographically weighted machine learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726003884?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906107+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Toon Lambrecht, Rachid Oucheikh, Ali Mansourian, Pengxiang Zhao</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Semantic Behavioral Sequences from UAV Video: Decoding the Effects of the Micro-scale Built Environment on Human Behavior in Neighborhood Centers",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600452X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.906071+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Qianyu Liu, Guangtian Zou, Yichen Luo, Wenrui Zhao, Huibao Li</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "AI-enhanced no-regret decision-making for Black Swan climate events",
+    "link": "https://www.sciencedirect.com/science/article/pii/S209592732600112X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.694512+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: 30 May 2026</p><p><b>Source:</b> Science Bulletin, Volume 71, Issue 10</p><p>Author(s): Jiajie Lyu, Zhan Tian, Laixiang Sun, Yinlong Xu, Honglong Yang, Yaowei Wang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Frequent weak seismic shakings affect landslide occurrence and threaten 20% of Nepal’s population",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927325013349?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.694450+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: 30 May 2026</p><p><b>Source:</b> Science Bulletin, Volume 71, Issue 10</p><p>Author(s): Fang Chen, Bo Yu, Huadong Guo, Pascal Lacroix, Noélie Bontemps, Shengwen Qi, Umesh K. Haritashya, Jeffrey S. Kargel, Ni Huang, Lei Wang</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Domain knowledge constrained dynamic graph learning of GNSS sensor networks for spatio-temporal slope deformation monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002725?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:34.182250+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 343</p><p>Author(s): Shaoqiang Meng, Zhenming Shi, Ming Peng, Thomas Glade</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Agricultural workforce as a potential bottleneck of future cropland availability",
+    "link": "https://www.nature.com/articles/s41893-026-01824-9",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.839572+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "socioeconomic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01824-9\">doi:10.1038/s41893-026-01824-9</a></p>Future food demand is expected to drive cropland expansion, but emerging agricultural workforce shortages, contributing to local cropland abandonment, might limit food production. This study models the future impacts of labour constraints on cropland use under socioeconomic and climate scenarios."
+  },
+  {
+    "score": 3.0,
+    "title": "The stability–activity tension in metal–organic framework catalysis",
+    "link": "https://www.nature.com/articles/s41893-026-01840-9",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.839534+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "metrics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01840-9\">doi:10.1038/s41893-026-01840-9</a></p>As materials with highly versatile and tunable architectures and functionalities, metal–organic frameworks offer precise control over catalyst structures. We discuss how their sustainable and economically viable use depends on balancing activity, stability and scale through improved metrics and informed material design."
+  },
+  {
+    "score": 7.0,
+    "title": "Farming needs more hands",
+    "link": "https://www.nature.com/articles/s41893-026-01841-8",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.839480+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01841-8\">doi:10.1038/s41893-026-01841-8</a></p>Climate change may shift where crops can grow, but it will not determine who farms the land. A modelling study suggests that shrinking agricultural workforces could leave climatically suitable large areas practically unavailable for cultivation."
+  },
+  {
+    "score": 5.0,
+    "title": "Decoupling of hygromechanical stimuli without cross-interference enabled by distinct ion-electron charge transport",
+    "link": "https://www.nature.com/articles/s41467-026-73678-w",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.795661+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73678-w\">doi:10.1038/s41467-026-73678-w</a></p>Accurately decoupling mechanical stimuli and environmental factors such as humidity remains a challenge for tactile sensors. Here, the authors show distinct ion–electron charge transport kinetics, enabling cross-interference-free hygromechanical sensing for safer, adaptive human–machine interaction in robotic systems."
+  },
+  {
+    "score": 6.0,
+    "title": "Population-specific heterogeneity in ontogeny of the broadly-conserved blood transcriptional program during the first week of life",
+    "link": "https://www.nature.com/articles/s41467-026-73244-4",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.795560+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73244-4\">doi:10.1038/s41467-026-73244-4</a></p>This study compares immune development (ie. ontogeny) in healthy newborns across two distinct populations, revealing differences on top of a strong core pattern of development. These differences can inform the influence of genetic or environmental factors on newborn immunity"
+  },
+  {
+    "score": 3.0,
+    "title": "Climate and regional plant richness drive diet specialization in butterfly caterpillars",
+    "link": "https://www.nature.com/articles/s41467-026-73236-4",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.795446+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73236-4\">doi:10.1038/s41467-026-73236-4</a></p>Insect herbivores vary in how many kinds of plants they eat, but we know little about broad patterns of feeding behaviour. Here, global data shows that butterflies living with more plant families have narrower diets, while those on islands have broader diets."
+  },
+  {
+    "score": 15.0,
+    "title": "Bridging urban and rural futures",
+    "link": "https://www.nature.com/articles/s44284-026-00453-9",
+    "published": "2026-05-25",
+    "collected_at": "2026-06-02T06:58:33.687144+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00453-9\">doi:10.1038/s44284-026-00453-9</a></p>Growing up as a city dweller and later experiencing village life as a student, I have witnessed the profound post-communist transformations in Hungary’s urban and rural landscapes. This dual perspective has led me to view cities and their surrounding villages as integrated regions that are critical to sustainable urban planning."
+  },
+  {
+    "score": 6.0,
+    "title": "Global divergence in urban demographic change and migration patterns",
+    "link": "https://www.nature.com/articles/s44284-026-00447-7",
+    "published": "2026-05-26",
+    "collected_at": "2026-06-02T06:58:33.687094+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 26 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00447-7\">doi:10.1038/s44284-026-00447-7</a></p>Evidence on how urban populations change is still limited worldwide. By examining 10,000 cities, this study uncovers uneven patterns in age, sex and migration, underscoring the importance of detailed, city-level data."
+  },
+  {
+    "score": 9.0,
+    "title": "Strong demand for clean air policies in Majority World cities",
+    "link": "https://www.nature.com/articles/s44284-026-00451-x",
+    "published": "2026-05-28",
+    "collected_at": "2026-06-02T06:58:33.687059+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00451-x\">doi:10.1038/s44284-026-00451-x</a></p>In emerging markets and developing economies, how prevalent is public support for environmental protections? To test public demand, the authors surveyed 11,417 adults in 4 large cities in Africa and Asia—Accra, Delhi, Jakarta and Johannesburg—and found that clean air is a top priority, even if it entails economic costs."
+  },
+  {
+    "score": 8.0,
+    "title": "Public support for clean-air action in polluted cities",
+    "link": "https://www.nature.com/articles/s44284-026-00455-7",
+    "published": "2026-05-28",
+    "collected_at": "2026-06-02T06:58:33.687004+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s44284-026-00455-7\">doi:10.1038/s44284-026-00455-7</a></p>In four major cities that face severe exposure, air pollution is not a hidden or low-priority issue. Respondents express concern about poor air quality and want their governments to act. Rather than constraining action, public opinion may give policymakers the confidence to implement ambitious clean air policies without fear of public backlash."
+  },
+  {
+    "score": 3.0,
+    "title": "From slaughterhouse to cultural engine",
+    "link": "https://www.nature.com/articles/s44284-026-00456-6",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.686961+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s44284-026-00456-6\">doi:10.1038/s44284-026-00456-6</a></p>From slaughterhouse to cultural engine"
+  },
+  {
+    "score": 3.0,
+    "title": "Cities as underexplored actors in marine protection",
+    "link": "https://www.nature.com/articles/s44284-026-00454-8",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.686933+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s44284-026-00454-8\">doi:10.1038/s44284-026-00454-8</a></p>Cities as underexplored actors in marine protection"
+  },
+  {
+    "score": 3.0,
+    "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
+    "link": "https://www.nature.com/articles/d41586-026-01688-1",
+    "published": "2026-06-01",
+    "collected_at": "2026-06-02T06:58:33.645367+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01688-1\">doi:10.1038/d41586-026-01688-1</a></p>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy."
+  },
+  {
+    "score": 4.0,
+    "title": "Exploring land cover change patterns in Hyrcanian forests through spatiotemporal trend analysis (2000–2022)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002000?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:33.446208+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Qadir Ashournejad, Fateme Garshasbi</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Composite driving mechanisms of farmland abandonment in plains and mountainous areas of China from a 1-km grid perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026483772600222X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:33.446170+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Jiayi Jiang, Sijing Ye, Longfeng Weng, Guoli Wang, Shuyi Ren, Bin Du, Peichao Gao, Changqing Song</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "From classification to decoding: machine learning unveils traditional village spatial patterns rooted in environmental domestication—a case from the Northwestern Sichuan Tibetan–Qiang region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526001839?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:33.201524+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Habitat International, Volume 174</p><p>Author(s): Xiaoyi Zu, Zining Huang, Rui Hou, Yuxin Ao, Lingfeng Xie, Yi Wang</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Light and dark conditions control the nitrous oxide uptake and emission dynamics in a subarctic, nutrient-poor permafrost peatland",
+    "link": "https://www.nature.com/articles/s43247-026-03698-3",
+    "published": "2026-05-30",
+    "collected_at": "2026-06-02T06:58:32.653970+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03698-3\">doi:10.1038/s43247-026-03698-3</a></p>Under light conditions, nitrous oxide fluxes mostly indicated net emissions that increased with higher photosynthetic activity; under dark conditions, fluxes suggested net uptake, based on a field study in a subarctic permafrost peatland."
+  },
+  {
+    "score": 3.0,
+    "title": "Sanukitoid stable isotopes reveal complex crust-mantle dynamics in the early Earth",
+    "link": "https://www.nature.com/articles/s43247-026-03700-y",
+    "published": "2026-05-30",
+    "collected_at": "2026-06-02T06:58:32.653932+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03700-y\">doi:10.1038/s43247-026-03700-y</a></p>Isotopic analyses of sanukitoid magmas, formed by the interaction of crust and mantle material, suggest Archean sanukitoids possess oceanic crustal signatures while more recent, Paleoproterozoic examples were likely influenced by recycled pelagic sediments."
+  },
+  {
+    "score": 7.0,
+    "title": "Northern permafrost represents a limit on the northward shift of climatically feasible agricultural frontiers under future warming",
+    "link": "https://www.nature.com/articles/s43247-026-03702-w",
+    "published": "2026-05-30",
+    "collected_at": "2026-06-02T06:58:32.653890+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03702-w\">doi:10.1038/s43247-026-03702-w</a></p>Permafrost may limit the suitability of up to 29% of newly suitable agricultural land in high latitudes under global warming, according to simulations integrating permafrost degradation and crop suitability for seven major crops."
+  },
+  {
+    "score": 9.0,
+    "title": "Unseen citizens: Preschoolers' perspectives on the city and their power to imagine, represent, and design urban environments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126004373?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-02T06:58:32.571501+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Cities, Volume 176</p><p>Author(s): Claire Freeman, Christina Ergler, Helena McAnally, Michelle Schaaf</p>"
+  },
+  {
     "score": 3.0,
     "title": "How Long-Term Tree Cover Decline Influences Psychological Restoration, Place Attachment, and Governance Perceptions",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002803?dgcid=rss_sd_all",
