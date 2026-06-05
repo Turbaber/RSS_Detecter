@@ -1,5 +1,641 @@
 [
   {
+    "score": 15.0,
+    "title": "Identifying priority areas for urban heat stress management using high-density sensor networks based on apparent temperature for enhancing urban environments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001963?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.858748+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): HaeKyung Park, Yunjoo Yoo, Seung Beom Seo</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "The non-linear and indirect impacts of urban features on urban Heat Island intensity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002178?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.858718+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Yuxi Ren, Jing Wen, Jianguo Feng, Xiaona Wang, Haitao Wang, Bing Xie, Chen Zhang, Qi Wang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "How effectively can climatic and morphological parameters predict urban microclimate in hot semi-arid residential neighbourhoods? A validated regression-based approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002105?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.858677+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Archana Singh, Tarush Chandra, Sanjay Mathur, Jyotirmay Mathur</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Evaluation of Latent Heat Flux Simulation in the Noah Land Surface Model coupled with a Single-Layer Urban Canopy Model: Insights from Scaled Outdoor Experiments with Tree Evapotranspiration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600289X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.741098+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Zhanmin Wu, Xian-Xiang Li, Jian Hang, Liyue Zeng, Zhiwen Luo, Yurong Shi, Hua Yuan, Guanwen Chen</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "How External Green Spaces Compensate for Internal Deficits: A Dual-Source Assessment of Green Space Availability in Chinese Provincial Capitals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002876?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.741035+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Jing Zhang, Liding Chen, Tao Sun</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "A Facility-Level Framework to Assess Hospital Seismic Resilience through Interdependent Urban Infrastructure Assessment and Enhancement Strategies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004543?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.152671+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Amirmohammad Sabbagh, Gholamreza Heravi, Meghdad Mohammadian</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Mapping Urban Vulnerability to Air Pollution through an Integrated Geospatial Framework: An Analysis of 1,000 Cities in Iran",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004567?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.152644+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Mohammad Farhadi, Motahare Abbasi Nodeh, Mohammad Karimi Firozjaei</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "The smarts behind electricity: How smart city pilot policy impact electricity utilization performance in Chinese cities?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004555?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:55.152605+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Huan-yu Cui</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "SpatioCell: deep integration of histology and spatial transcriptomics for profiling the cellular microenvironment at single-cell level",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326006055?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:54.824923+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Naiqiao Hou, Yue Yu, Zhaorun Wu, Yanqi Zhang, Jiayun Wu, Bo Ying, Zhixing Zhong, Fangfang Xu, Zeyu Wang, Chaoyong Yang, Weihong Tan, Jia Song</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "From heat signals to protective action: a feedback driven framework for heat risk governance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326006006?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:54.824815+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Zhiwei Yang, Jian Peng</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "A function-semantic oriented heterogeneous graph aggregation framework with weighted spatial relationships for urban functional zone mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002774?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:54.325844+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 344</p><p>Author(s): Tianzhuo Guo, Shouhang Du, Shaoyu Wang, Zhanying Liu, Li Zhu, Jieyi Zhang, Xiuyuan Zhang, Shihong Du</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Mutational analyses of an instability domain reveal its conserved role in the regulation of class-B ARF levels in Arabidopsis",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537963123?af=R",
+    "published": "2026-06-03T07:00:00Z",
+    "collected_at": "2026-06-05T06:43:54.220136+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. <br />SignificanceAuxin has a broad role in the regulation of many aspects of plant growth and development, including aspects that are important for food production. Auxin acts via transcription factors, called AUXIN RESPONSE FACTORS (ARFs). The ARFs fall into ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Simultaneous transformations of view and place coding across reference frames in the macaque brain",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530923123?af=R",
+    "published": "2026-06-03T07:00:00Z",
+    "collected_at": "2026-06-05T06:43:54.219935+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. <br />SignificanceIn primates, it has remained unclear how spatial view and standard place coding are related. By recording neural activity along the parietal–retrosplenial–hippocampal pathway in freely moving macaques, we found that both codes are represented ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Oceanic heat sources exacerbate continental heatwaves",
+    "link": "https://www.sciencedirect.com/science/article/pii/S259033222600117X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:53.993582+00:00",
+    "feed_title": "ScienceDirect Publication: One Earth",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/25903322",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> One Earth</p><p>Author(s): Gang Wang, Qiang Zhang, Louise J. Slater, R. Iestyn Woolway, Fubao Sun, Ilan Noy, Lixiao Zhang, Vijay P. Singh, Chong-Yu Xu, Jianfeng Li, Zhifeng Yang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Energy-efficient electrified ethylene synthesis in CO-starved environment",
+    "link": "https://www.nature.com/articles/s41893-026-01849-0",
+    "published": "2026-06-04",
+    "collected_at": "2026-06-05T06:43:53.700122+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01849-0\">doi:10.1038/s41893-026-01849-0</a></p>Electrochemical carbon monoxide (CO) reduction offers a viable approach to sustainable ethylene production, but remains challenging under low CO availability. This study shows how to achieve efficient and selective ethylene synthesis in a CO-starved environment."
+  },
+  {
+    "score": 4.0,
+    "title": "Vicennial metagenomic time series unveils evolutionary dynamics of giant viruses in a freshwater ecosystem",
+    "link": "https://www.nature.com/articles/s41467-026-73437-x",
+    "published": "2026-06-05",
+    "collected_at": "2026-06-05T06:43:53.620665+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73437-x\">doi:10.1038/s41467-026-73437-x</a></p>The role of giant viruses in freshwater habitats is less well studied. Here, using metagenomes collected over 20 years in Lake Mendota, the authors show that giant virus genomes adapt to environmental change via gene duplication and horizontal gene transfer, revealing genomic stability and increased virus-host interactions."
+  },
+  {
+    "score": 3.0,
+    "title": "<i>Mycobacterium tuberculosis</i> transmission from tuberculosis patients with and without recognized symptoms: a case-contact study in eastern China",
+    "link": "https://www.nature.com/articles/s41467-026-73707-8",
+    "published": "2026-06-05",
+    "collected_at": "2026-06-05T06:43:53.620545+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73707-8\">doi:10.1038/s41467-026-73707-8</a></p>Many tuberculosis patients exhibit minimal or no symptoms, complicating the understanding of tuberculosis transmission. Here, the authors demonstrate that both symptomatic and asymptomatic tuberculosis patients pose a similar risk of infection to their contacts, highlighting the need for revised public health strategies to address transmission from minimally symptomatic individuals."
+  },
+  {
+    "score": 8.0,
+    "title": "Perceptions of rewilding in European abandoned agricultural lands",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001398?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:52.883239+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Landscape and Urban Planning, Volume 274</p><p>Author(s): Clara G. Jeanroy, Angus Monro Smith, Peter H. Verburg</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Digital twin enabled land administration systems: A multi-dimensional comparative assessment and policy pathways for Turkey",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002334?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:52.788948+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Fatih Taktak</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Increasing Future Global Compound Heat Flash Droughts and Socioeconomic Exposure",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008096?af=R",
+    "published": "Wed, 03 Jun 2026 10:55:38 -0700",
+    "collected_at": "2026-06-05T06:43:51.620476+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "socioeconomic",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 4.0,
+    "title": "Rising arsenic levels in water and blue mussels in German coastal waters",
+    "link": "https://www.nature.com/articles/s43247-026-03695-6",
+    "published": "2026-06-03",
+    "collected_at": "2026-06-05T06:43:51.221790+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03695-6\">doi:10.1038/s43247-026-03695-6</a></p>Over recent decades, German coastal waters show an increase in arsenic concentrations both in water and blue mussels, although not exceeding German environmental quality standards, according to analysis of data from Germany’s Marine Environmental Database."
+  },
+  {
+    "score": 7.0,
+    "title": "Diverse greenhouse farming systems underpin high land‑use efficiency and food security in China",
+    "link": "https://www.nature.com/articles/s43247-026-03711-9",
+    "published": "2026-06-04",
+    "collected_at": "2026-06-05T06:43:51.221680+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03711-9\">doi:10.1038/s43247-026-03711-9</a></p>Greenhouse farming in China produces over one-third of national vegetable output on just 1.4% of arable land and could further improve land-use efficiency and employment by 2050 through optimized regional deployment, based on nationwide farm surveys, environmental sampling, and scenario modeling."
+  },
+  {
+    "score": 7.0,
+    "title": "Heatwave-attributable Parkinson’s mortality is projected to increase by the 2080s in China under a high-emissions scenario",
+    "link": "https://www.nature.com/articles/s43247-026-03589-7",
+    "published": "2026-06-04",
+    "collected_at": "2026-06-05T06:43:51.221628+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "mortality",
+        "score": 1.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03589-7\">doi:10.1038/s43247-026-03589-7</a></p>In China, heatwaves could raise Parkinson’s-related deaths nearly elevenfold by the 2080 s, and aging of populations is one of the main drivers, according to a time-stratified case-crossover analysis of 59,384 deaths data and climate–demographic projections."
+  },
+  {
+    "score": 11.0,
+    "title": "Asymmetric cross-hemispheric climate response to extratropical forcing mediated by tropical Pacific coupling",
+    "link": "https://www.nature.com/articles/s43247-026-03706-6",
+    "published": "2026-06-04",
+    "collected_at": "2026-06-05T06:43:51.221564+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03706-6\">doi:10.1038/s43247-026-03706-6</a></p>Southern Hemisphere extratropical cooling induces strong temperature responses in the Northern Hemisphere whereas equivalent Northern Hemisphere cooling remains more localized, primarily due to hemispheric asymmetries in tropical air-sea coupling, revealed by climate model experiments."
+  },
+  {
+    "score": 13.0,
+    "title": "Microplastics emissions from residential space floorings under thermal and friction aging: Evaluating indoor air quality improvement performance of biomaterial flooring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006311?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:50.832675+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Won Duk Suh, Ho Hyeon Jo, Seong Taek Kang, Sumin Kim</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "When wildfires suppress crime: A spatial analysis of post-wildfire trends in Los Angeles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826001888?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:50.713851+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Applied Geography, Volume 193</p><p>Author(s): M. Dylan Spencer, Noah D. Cohen, Nate Connealy</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatiotemporal dual-network assessment of land-use carbon metabolism in Hubei Province: An integrated ENA-SNA framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826001724?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-05T06:43:50.713810+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Applied Geography, Volume 193</p><p>Author(s): Xuehan Lin, Chengliang Liu, Lu Zhang, Bing Kuang, Qingsong He</p>"
+  },
+  {
     "score": 10.0,
     "title": "Evaluating AQI limitations and proposing an enhanced urban air quality index integrating black carbon and methane across diverse urban climates",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002117?dgcid=rss_sd_all",
