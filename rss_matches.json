@@ -1,5 +1,393 @@
 [
   {
+    "score": 18.0,
+    "title": "Using surface relief classes with LCZs for an improved heat island methodology: Demonstration in a small Brazilian city",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002038?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:52.308125+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Leandro de Godoi Pinton, Iain Douglas Stewart, Tainá Medeiros Suizu</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Ecological and hydrological performance of green roofs established by topsoil translocation of local meadow communities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002906?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:52.200006+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Ayako Nagase</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Optimizing Urban Tree Structural Risk Assessment: An Explainable Machine Learning Framework Integrating Expert Knowledge and Multi-Source Data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002918?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:52.199968+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Ming Liu, Xinhua Xu, Hong Wang, Jing Shao, Xiaojun Zhang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Intensified soil moisture–temperature coupling during compound drought-heat events in the Yangtze River Basin",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326006304?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:51.371658+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 June 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Xiaolong Pan, Weiguang Wang, Jia Wei, Mingzhu Cao</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Mapping CO2 fixation to two effective parameters: A framework toward data-informed species and model comparison",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609915123?af=R",
+    "published": "2026-06-05T07:00:00Z",
+    "collected_at": "2026-06-07T06:42:50.876237+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. <br />SignificanceCrop improvement and accurate climate forecasts rely on biophysical models of how carbon fixation is regulated in the plant leaf. However, while widely used simple models overlook tissue geometry, detailed models are computationally demanding ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Covalent inhibitors of human papillomavirus type 16 E6 protein restore p53 function and suppress growth of HPV-driven tumors in vivo",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606213123?af=R",
+    "published": "2026-06-05T07:00:00Z",
+    "collected_at": "2026-06-07T06:42:50.876202+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. <br />SignificanceHuman papillomaviruses cause cervical, oropharyngeal (OPC), and anogenital cancers. Viral replication and oncogenic transformation are dependent on the E6 protein, which binds to multiple host proteins, including the ubiquitin ligase E6AP (..."
+  },
+  {
+    "score": 3.0,
+    "title": "Dynamic diversification of lignan metabolism in sesame via coordinated oxygenation and glucosylation across germination",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605774123?af=R",
+    "published": "2026-06-05T07:00:00Z",
+    "collected_at": "2026-06-07T06:42:50.876168+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. <br />SignificanceLignan metabolism in sesame (Sesamum indicum) serves as a valuable model for investigating how plants adapt their specialized metabolism. Although previous studies have focused on seed development, metabolic changes occurring during ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Kernel embeddings and the separation of measure phenomenon",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2522504123?af=R",
+    "published": "2026-06-05T07:00:00Z",
+    "collected_at": "2026-06-07T06:42:50.876021+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. <br />SignificanceTwo-sample testing examines whether two probability distributions on some feature space differ based on random samples. It is fundamental in statistics and machine learning, especially when feature spaces are complex. Such settings are ..."
+  },
+  {
+    "score": 4.0,
+    "title": "High-throughput protein target mapping enables accelerated bioactivity discovery for ToxCast and PFAS compounds",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2515940123?af=R",
+    "published": "2026-06-05T07:00:00Z",
+    "collected_at": "2026-06-07T06:42:50.875950+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceThe toxicity mechanisms of most environmental chemicals remain poorly understood, mainly due to the limited coverage of current in vitro platforms, which assess only ~1.5% of the human proteome. To address this, we developed a protein affinity ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Standardizing disadvantage: How global carbon accounting methodologies undervalue China’s blue carbon assets",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002292?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:49.569948+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Luoye Chen, Zichong Chen, Donghao Jiang, Wen Sun</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Similar patterns, different processes: Persistence and change in path-dependent land systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026483772600236X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:49.569917+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Lien Imbrechts, João C. Azevedo, Rebekka Dossche, Matthias Bürgi, Peter H. Verburg</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Beyond land access: How agency mediates the effect of land tenure security on youth agricultural entrepreneurship in Benin?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002383?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:49.569889+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Soulé Akinhola Adéchian, Christine Ogoudou, Mohamed Nasser Baco</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "De-localization of global cities: How advanced producer services exacerbate regional spatial inequality?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002243?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:49.569848+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Jiaming Li, Jiachuan Liu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "The Shrinking Caspian Sea: Eco‐Hydrological Responses to Human and Climate Pressures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF008028?af=R",
+    "published": "Fri, 05 Jun 2026 07:15:16 -0700",
+    "collected_at": "2026-06-07T06:42:48.975346+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "The Fate of Western Headwaters: Climate Controls on Base‐Flow Decline",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007971?af=R",
+    "published": "Fri, 05 Jun 2026 10:19:43 -0700",
+    "collected_at": "2026-06-07T06:42:48.975262+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "A Practical Engineering Method to Map Microclimate-Driven Degradation Risks on Building Façades",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006530?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:48.369653+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jan Mandinec, Angela Sasic Kalagasidis, Pär Johansson</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Temporal evolution of nocturnal thermal comfort for healthcare workers based on field evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006566?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:48.369620+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xin Wu, Yu Fu, Weijie Xia, Shilong Yuan, Meng Zhen, Fan Xu, Jing Li</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Rain Garden Reimagined: A Computational Approach to Urban Water Retention and Infiltration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006554?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-07T06:42:48.369567+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Burszta-Adamiak Ewa, Biniak-Pieróg Małgorzata, Chrobak Grzegorz</p>"
+  },
+  {
     "score": 9.0,
     "title": "A satellite-based assessment of alder pollen exposure across 51 cities in Bavaria, Germany",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726002888?dgcid=rss_sd_all",
