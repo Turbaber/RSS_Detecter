@@ -1,5 +1,301 @@
 [
   {
+    "score": 6.0,
+    "title": "Understanding continuance intention toward electrified vehicles for sustainable and resilient mobility: integrating VBN and ECT with a user heterogeneity analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004580?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-09T06:19:52.249781+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Elena Higueras-Castillo, Giuseppe Lamberti, Josep Rialp-Criado</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Sustainable battery recycling through spatial and technological alignment",
+    "link": "https://www.nature.com/articles/s41893-026-01851-6",
+    "published": "2026-06-08",
+    "collected_at": "2026-06-09T06:19:49.388872+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01851-6\">doi:10.1038/s41893-026-01851-6</a></p>Battery recycling has a crucial role in enabling circular economy and sustainable energy transition. This study presents a multi-scale analytical framework to assist the design of low-carbon, high-efficiency battery recycling systems."
+  },
+  {
+    "score": 4.0,
+    "title": "Fifty years since a simple equation described the chaos of biology",
+    "link": "https://www.nature.com/articles/d41586-026-01584-8",
+    "published": "2026-06-08",
+    "collected_at": "2026-06-09T06:19:48.624133+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01584-8\">doi:10.1038/d41586-026-01584-8</a></p>An exploration of chaos theory in population dynamics showed that unpredictable systems can often be modelled using surprisingly simple mathematics."
+  },
+  {
+    "score": 4.0,
+    "title": "A Probabilistic Index of Temperature‐Induced Economic Vulnerability for Subnational Adaptation Prioritization in China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008475?af=R",
+    "published": "Sun, 07 Jun 2026 10:04:23 -0700",
+    "collected_at": "2026-06-09T06:19:47.460018+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 6.0,
+    "title": "Nitrogen limitation amplifies future warming by weakening terrestrial carbon cycle feedbacks and sink capacity",
+    "link": "https://www.nature.com/articles/s43247-026-03736-0",
+    "published": "2026-06-08",
+    "collected_at": "2026-06-09T06:19:46.919994+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03736-0\">doi:10.1038/s43247-026-03736-0</a></p>Incorporating terrestrial nitrogen cycle into Earth system models enables quantitative assessment of future nitrogen impacts on terrestrial carbon cycle feedback, as demonstrated by an emission-driven, probabilistic cross-model projection"
+  },
+  {
+    "score": 6.0,
+    "title": "Robust reduction and nonlinear sensitivity of Maritime Continent mesoscale convection to distinct El Niño flavors",
+    "link": "https://www.nature.com/articles/s43247-026-03744-0",
+    "published": "2026-06-08",
+    "collected_at": "2026-06-09T06:19:46.919961+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03744-0\">doi:10.1038/s43247-026-03744-0</a></p>El Niño suppresses atmospheric mesoscale convective systems over the Maritime Continent via distinct mechanisms depending on warming location and intensity, as revealed by observations and high-resolution modeling."
+  },
+  {
+    "score": 8.0,
+    "title": "Rapid artificial intelligence deployment increases near-term pressure on global carbon budgets",
+    "link": "https://www.nature.com/articles/s43247-026-03746-y",
+    "published": "2026-06-08",
+    "collected_at": "2026-06-09T06:19:46.919919+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03746-y\">doi:10.1038/s43247-026-03746-y</a></p>Rapid expansion of AI infrastructure causes immediate carbon emissions through rising electricity demand, despite its potential to guide emission reductions, as suggested by a cumulative carbon accounting framework under AI-related scenarios"
+  },
+  {
+    "score": 4.0,
+    "title": "Atlantic multidecadal variability amplifies decadal variability in the Kuroshio–Oyashio Extension region under global warming",
+    "link": "https://www.nature.com/articles/s43247-026-03750-2",
+    "published": "2026-06-09",
+    "collected_at": "2026-06-09T06:19:46.919879+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03750-2\">doi:10.1038/s43247-026-03750-2</a></p>Intensified Atlantic Multidecadal Variability under global warming triggers stronger atmospheric teleconnections which amplify decadal variability in the Pacific Kuroshio–Oyashio Extension, as demonstrated by analyses of CMIP6 model simulations and future projections."
+  },
+  {
+    "score": 4.0,
+    "title": "Oxidised pyrogenic carbon sustains electron transfer capacity and organo mineral coupling in subsoils",
+    "link": "https://www.nature.com/articles/s43247-026-03718-2",
+    "published": "2026-06-09",
+    "collected_at": "2026-06-09T06:19:46.919755+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03718-2\">doi:10.1038/s43247-026-03718-2</a></p>In calcareous alkaline soils, pyrogenic carbon acquires and retains persistent redox-coupled mineral stabilisation and faster electron transfer kinetics that remains expressed after vertical redistribution, based on a ten-year long field experiment in China."
+  },
+  {
+    "score": 5.0,
+    "title": "Soil resistome and bacteriome differ in continental-scale turnover and co-occurrence across major anthropogenic land-use types",
+    "link": "https://www.nature.com/articles/s43247-026-03751-1",
+    "published": "2026-06-09",
+    "collected_at": "2026-06-09T06:19:46.919707+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03751-1\">doi:10.1038/s43247-026-03751-1</a></p>Higher beta diversity and more complex networks of resistome but not bacteriome are present in urban soils compared to forests, according to a metagenomics and metabarcoding study across 27 forest and adjacent urban sites in China."
+  },
+  {
+    "score": 5.0,
+    "title": "When residents appropriate the street: Management and conflict over public space in Francoist open block fabric in Madrid (Spain)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026427512600394X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-09T06:19:46.762573+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Cities, Volume 177</p><p>Author(s): Pablo Bermúdez Pastor</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Explainable machine learning-based study on the applicability of thermal indicators for university classrooms in summer",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006608?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-09T06:19:46.587884+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "indicators",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Luyao Wang, Fan Fei, Yan Wang, Yongwei Song, Yuling Xiao, Weidong Wu, Kunkun Zhao, Hiroatsu Fukuda</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A novel low-resistance cylindrical annular vent plenum chamber with uniform outflow designed via three-dimensional flow topology optimization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006591?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-09T06:19:46.587813+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zijing Fan, Ruoyin Jing, Ran Gao, Ao Tian, Junkai Ren, Dongzheng Wang</p>"
+  },
+  {
     "score": 14.0,
     "title": "Probabilistic interpolation of crowdsourced meteorological data for higher-resolution gridded estimates of surface air temperature",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002087?dgcid=rss_sd_all",
