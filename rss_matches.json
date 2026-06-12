@@ -1,5 +1,481 @@
 [
   {
+    "score": 9.0,
+    "title": "A novel approach for calibrating the stress categories of thermal indices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001835?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:11.202451+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Yasser Ibrahim, Ibrahim Elwy, Hany Mokhtar, Ahmed A. Khamis, Mahmoud Atef</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Linking urban form, solar radiation exposure, and human perception at street scale: A street-view-based analysis in a high-density subtropical city",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002166?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:11.202404+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Ningjun Chen, Pu Wang, Ning Xu</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Microclimate monitoring and modelling in a regenerating urban environment: Milano (Italy)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001926?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:11.202376+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Luca Gallia, Stefano Basiricò, Shamila Haddad, Thomas Parkinson, Aysu Kuru, Akisha Nomoto, Roberto Colombo, Riccardo Castellanza, Federico Agliardi</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "NDVI-based vegetation monitoring and forecasting in Madinah (2014–2050) under the Saudi Green Initiative (SGI); using Google earth engine",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002233?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:11.202329+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: June 2026</p><p><b>Source:</b> Urban Climate, Volume 67</p><p>Author(s): Muhammad Shahab, Fahad Alshehri, Huma Shakoor</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Seasonal patterns of urban vegetation resilience to compound drought and heat events",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003055?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:11.123388+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yaotong Chen, Kai Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Daily routines, activity space, and third places: A big data approach to understand encounters",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261452161?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-06-12T05:27:53Z",
+    "collected_at": "2026-06-12T06:56:11.052188+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Urban encounters often involve interactions with people we do not personally know and has been linked to positive mental, emotional, and physical well-being. While previous studies have focused on the associations between urban encounters, social networks,..."
+  },
+  {
+    "score": 5.0,
+    "title": "Rethinking policy learning in urban policy mobility",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261456062?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-06-11T08:29:35Z",
+    "collected_at": "2026-06-12T06:56:11.052141+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Since the ‘mobility turn’, urban researchers have advanced our understanding of the contentious and relational nature of cross-border policy learning. Extant research has revealed how policy ideas move through transnational networks, social interactions, ..."
+  },
+  {
+    "score": 6.0,
+    "title": "A Causal GeoAI Framework for Capturing the Unearned Increment to Self-Finance Public Infrastructure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004786?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:08.526309+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "causal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 11 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Okan Yılmaz, Mehmet Alkan, Alihan Teke</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Enhanced human activities disturbed vegetation since 3500 years ago in southern China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326006663?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:08.306644+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 June 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Lin Zhao, Zijian Liu, Xiaoxu Qu, Zhongwei Shen, Zhiguo Rao, Xianyong Cao</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "SNSTFM: A novel data fusion approach based on spatial non-stationarity to generate fine-resolution land surface temperature",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002981?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:08.047881+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 344</p><p>Author(s): Laifu Zhang, Na Li, Sensen Wu, Haoyu Jing, Jihan Wang, Fanen Meng, Yiming Yan, Huanfeng Shen, Bo Huang, Zhenhong Du</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "CAMS radiation service v4.6 for solar energy: Evaluation of Himawari based surface solar irradiance products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726002750?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:08.047840+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 344</p><p>Author(s): Faiza Azam, Diego Rodrigues de Miranda, Marion Schroedter-Homscheidt, Mireille Lefèvre, Laurent Saboret, Yves-Marie Saint-Drenan</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Coupled Hg isotope dynamics reveal eruption pulses across the Permian–Triassic mass extinction",
+    "link": "https://www.nature.com/articles/s41467-026-74313-4",
+    "published": "2026-06-11",
+    "collected_at": "2026-06-12T06:56:07.625647+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74313-4\">doi:10.1038/s41467-026-74313-4</a></p>Hg isotopes reveal a negative Δ¹⁹⁹Hg–δ²⁰²Hg relationship restricted to Permian–Triassic crisis intervals, indicating enhanced volcanic Hg loading and providing a framework for tracing Siberian Traps eruptive pulses and environmental change."
+  },
+  {
+    "score": 4.0,
+    "title": "Detected impacts of atmospheric rivers on marine heatwaves",
+    "link": "https://www.nature.com/articles/s41467-026-74249-9",
+    "published": "2026-06-11",
+    "collected_at": "2026-06-12T06:56:07.625594+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74249-9\">doi:10.1038/s41467-026-74249-9</a></p>This study shows that atmospheric rivers (ARs) influence marine heatwaves in a seasonally dependent manner, driven by imbalances between AR-induced turbulent and radiative heat fluxes under varying seasonal background states."
+  },
+  {
+    "score": 8.0,
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001465?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:07.245014+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Landscape and Urban Planning, Volume 274</p><p>Author(s): </p>"
+  },
+  {
+    "score": 20.0,
+    "title": "Research Note: Revealing the triple burden of spatial health inequities in urban communities: A built environment health vulnerability (BEHV) framework analysis of resource availability, risk exposure, and structural sensitivity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001416?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:07.244982+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Landscape and Urban Planning, Volume 275</p><p>Author(s): Yimo Zhao, Dongfeng Yang</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Differentiated pathways of heatwave adaptation: Urban–Rural contrasts in the role of regional income level and energy consumption on adaptive behavior",
+    "link": "https://www.sciencedirect.com/science/article/pii/S019739752600158X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:07.077098+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Habitat International, Volume 175</p><p>Author(s): Huijin Zhang, Qian Shi, Chao Xiao, Julian Wang, Nan Wang</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Wind Energy Futures: Which Locations Across the Western U.S. Are Most Resilient to Environmental Change?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008184?af=R",
+    "published": "Wed, 10 Jun 2026 08:41:09 -0700",
+    "collected_at": "2026-06-12T06:56:06.912245+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526000736?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:06.793104+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 128</p><p>Author(s): </p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Utilizing advanced energy sharing approaches to enhance the coastal zero-emission building resilience with the mitigation of ocean impact",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006682?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-12T06:56:06.549688+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 11 June 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Yulin Liu, Sunliang Cao</p>"
+  },
+  {
     "score": 17.0,
     "title": "How urban form shapes extreme heat: Examining nonlinear and interactive relationships using interpretable machine learning",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526001665?dgcid=rss_sd_all",
