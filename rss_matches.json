@@ -1,5 +1,925 @@
 [
   {
+    "score": 8.0,
+    "title": "From urban wilderness to urban parks: An exploration of the changing patterns of ground-dwelling arthropod community and influencing environmental factors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600292X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:41.789644+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Hongru Xu, Zuhua Zhao, Yinghua Lin, Yu Zhao, Nan Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Uncovering the Scaling Properties of Battery Electric Vehicle Charging Location Choice Behavior",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004968?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:41.168208+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jieru Zou, Xinghua Li, Yuntao Guo, Xinwu Qian, Xinyuan Zhang, Minghui Zhong</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Towards low-carbon cities: high-resolution mapping of building-stock carbon emissions with planning indicator based diagnosis under spatial heterogeneity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004907?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:41.168188+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Mei Dou, Liu Yang, Yuhao Qiao, Yan Liu</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Enhancing Interdependent Infrastructure Systems Resilience in Post-Disaster Recovery: A Social-Technical Approach based on Reinforcement Learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004919?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:41.168166+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jiajing Li, Gaofeng Liu, Huimin Wang, Jing Huang, Yawen Zang</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Urban spatial sequencing shapes dynamic thermal perception: Causal evidence for psychophysiological responses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004944?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:41.168132+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "causal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Qihui Zhang, Yunsong Han, Hongji Cui, Xiran Cui, Biaoqing Tao, Yingle Wei</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Interphase activators for continuous Li⁺ transport in garnet-polymer composite solid electrolytes at room temperature",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326007036?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:40.829365+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 16 June 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Binbin Yang, Nan Chen, Yu Zhan, Jun Wei, Liyuan Zhao, Ningning Wu, Yusheng Ye, Dingguo Xia, Feng Wu, Renjie Chen</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial transcriptomics identifies distinct domains regulating yield-component traits of the wheat ear",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed1407?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.655263+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 25, June 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Life-span–dependent transcriptional dynamics of the human heart",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg2614?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.655231+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 25, June 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Metaceramic enables ultrahigh-temperature record rectification and programmable 3D thermal control",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef4765?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.655209+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 25, June 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial transcriptome mapping identifies Ppara-Anxa2 cross-talk in microplastic-induced hepatotoxicity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec8681?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.655051+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 25, June 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Scalable multiplexed machine learning gas sensor chips for food classification",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec7965?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.655028+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 25, June 2026. <br />"
+  },
+  {
+    "score": 9.0,
+    "title": "Opposing range-dependent interactions create complex spatial patterns of antibiotic tolerance in multispecies biofilms",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604163123?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.146220+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceMost microbes live in multispecies biofilms that perform essential functions for human and planetary health. These functions emerge from molecular interactions between species yet predicting how such interactions combine in space to shape ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Dual-chirality flexagon linkages with infinite eversion and surface reconfigurability",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603729123?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.146195+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceFlexagon-based kirigami enables surface reconfigurability and eversion; however, unexplored kinematic mechanisms and inherent material constraints have limited its applications. We introduce a class of dual-chirality flexagon linkages that ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Pyrodictium abyssi AbpX reveals a calcium-responsive family of microbial biomatrix proteins that form thermostable hydrogels",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600204123?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.146068+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceBiofilms provide a protective environment for microbial communities that enhances survival and persistence. Secreted protein filaments constitute important structural components of these extracellular matrices; however, their contributions to ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Shared spatial and temporal principles govern connectome dynamics across timescales",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535464123?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.145990+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceThis study challenges prevailing assumptions about how the brain’s large-scale functional connectivity fluctuates from moment to moment. Using concurrent EEG-fMRI (electroencephalography-functional magnetic resonance imaging) data, we examined ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Aridity-induced energy reallocation from green to brown food webs predicts grassland carbon storage",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534463123?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.145941+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceAridity is intensifying across global grasslands, yet its impacts on soil food-web energetics governing soil carbon sequestration remain unclear. Using a 4,000-km natural aridity gradient across temperate and alpine grasslands, we show that ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Mathematical modeling of JAK2V617F clonal expansion in a general population cohort",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2507773123?af=R",
+    "published": "2026-06-17T07:00:00Z",
+    "collected_at": "2026-06-18T07:10:40.145790+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceThis study leverages the Danish General Suburban Population Study to track the progression of the cancer-associated mutationJAK2V617Fin individuals from the general population before the onset of disease. Unlike previous research on ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Neighbourhood design and the environmental and social costs of suburbanization",
+    "link": "https://www.nature.com/articles/s41893-026-01842-7",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:39.482881+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01842-7\">doi:10.1038/s41893-026-01842-7</a></p>The growth of suburban areas increases car use, raises emissions and affects social cohesion, but it is unclear whether this is driven by suburban design or distance from the city centre. This study estimates the social and environmental effects of the garden city design concept on neighbourhoods in the USA."
+  },
+  {
+    "score": 3.0,
+    "title": "Author Correction: Effects of forestry decentralization on rural inequality in Nepal",
+    "link": "https://www.nature.com/articles/s41893-026-01893-w",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:39.482817+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01893-w\">doi:10.1038/s41893-026-01893-w</a></p>Author Correction: Effects of forestry decentralization on rural inequality in Nepal"
+  },
+  {
+    "score": 3.0,
+    "title": "Atomically precise Au<sub>8</sub>Pd<sub>1</sub>(DPPF)<sub>4</sub><sup>2+</sup> catalyst orchestrates the synthesis and utilization of hydrogen peroxide",
+    "link": "https://www.nature.com/articles/s41467-026-74604-w",
+    "published": "2026-06-18",
+    "collected_at": "2026-06-18T07:10:39.378506+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74604-w\">doi:10.1038/s41467-026-74604-w</a></p>Atomically precise metal clusters that combine structural clarity, functional modularity, and spatial programmability are becoming increasingly relevant. Here, the authors report the synthesis and applications of the cluster-based Au8Pd1(DPPF)42+/Al2O3 catalyst for hydrogen peroxide generation."
+  },
+  {
+    "score": 5.0,
+    "title": "Flexible infrared camouflage eutectic gallium-indium for thermoelectric energy harvesting",
+    "link": "https://www.nature.com/articles/s41467-026-74580-1",
+    "published": "2026-06-18",
+    "collected_at": "2026-06-18T07:10:39.378425+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74580-1\">doi:10.1038/s41467-026-74580-1</a></p>Eutectic gallium indium is proposed to address the challenge of integrating infrared camouflage with self-powered thermoelectric sensing, enabling simultaneous concealment of thermal signatures and real-time physiological monitoring without complex fabrication."
+  },
+  {
+    "score": 6.0,
+    "title": "Global inequalities in ownership-based carbon footprints",
+    "link": "https://www.nature.com/articles/s41558-026-02662-5",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:39.013779+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02662-5\">doi:10.1038/s41558-026-02662-5</a></p>An ownership-based approach to carbon accounting is emerging alongside production- and consumption-based frameworks. This study provides global estimates, identifies which countries are net owners of emissions abroad and traces the concentration of ownership emissions among top wealth groups."
+  },
+  {
+    "score": 6.0,
+    "title": "Globally constrained forest biophysical cooling benefits under rising atmospheric dryness",
+    "link": "https://www.nature.com/articles/s41558-026-02677-y",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:39.013751+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02677-y\">doi:10.1038/s41558-026-02677-y</a></p>The biophysical effects of forests on climate are important for mitigation, but the impacts of climate change on these effects are unclear. This study shows that vapour pressure deficit is the primary driver of trends in forest biophysical cooling, regulated by plant anisohydricity."
+  },
+  {
+    "score": 6.0,
+    "title": "Attributing carbon to capital owners",
+    "link": "https://www.nature.com/articles/s41558-026-02654-5",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:39.013718+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02654-5\">doi:10.1038/s41558-026-02654-5</a></p>Greenhouse gas emissions are typically attributed to where they are produced or consumed. A recent analysis traces them to capital owners, revealing a stronger concentration and offering new perspectives on how they are distributed — and why it matters."
+  },
+  {
+    "score": 3.0,
+    "title": "Author Correction: Priority science can accelerate agroforestry as a natural climate solution",
+    "link": "https://www.nature.com/articles/s41558-026-02693-y",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:39.013673+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02693-y\">doi:10.1038/s41558-026-02693-y</a></p>Author Correction: Priority science can accelerate agroforestry as a natural climate solution"
+  },
+  {
+    "score": 10.0,
+    "title": "Oceans in Asia smash heat records — what it means for extreme weather",
+    "link": "https://www.nature.com/articles/d41586-026-01938-2",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.809316+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01938-2\">doi:10.1038/d41586-026-01938-2</a></p>Report shows region is particularly vulnerable to the effects of climate change."
+  },
+  {
+    "score": 3.0,
+    "title": "Freezing brain damage in its tracks: cooling drugs limit stroke injury in mice",
+    "link": "https://www.nature.com/articles/d41586-026-01923-9",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.809292+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01923-9\">doi:10.1038/d41586-026-01923-9</a></p>A two-drug combination induces hypothermia in mice by lowering metabolism and dilating blood vessels."
+  },
+  {
+    "score": 3.0,
+    "title": "Towards autonomous medical artificial intelligence agents",
+    "link": "https://www.nature.com/articles/s41586-026-10675-5",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.809160+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10675-5\">doi:10.1038/s41586-026-10675-5</a></p>A large language model artificial intelligence agent operating in a sandboxed electronic health record system can autonomously take patient histories, order tests, interpret findings, diagnose conditions and propose treatments, outperforming experienced clinicians while adhering to safety standards and clinical guidelines."
+  },
+  {
+    "score": 5.0,
+    "title": "Mapping the neuronal building blocks of human language with language models",
+    "link": "https://www.nature.com/articles/s41586-026-10691-5",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.809133+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10691-5\">doi:10.1038/s41586-026-10691-5</a></p>Wide-scale recordings reveal neurons in the human brain that encode fundamental components of language such as the grammatical relationships between words, their parts of speech and the higher-order syntactic structure of phrases and sentences."
+  },
+  {
+    "score": 10.0,
+    "title": "Spatial distribution of the proteome in the human body and in cancers",
+    "link": "https://www.nature.com/articles/s41586-026-10660-y",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.809083+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10660-y\">doi:10.1038/s41586-026-10660-y</a></p>A spatially resolved map of the human proteome across a variety of healthy tissues and cancers provides wide-ranging insights in developmental biology and oncology, and could aid the identification of therapeutic targets and development of treatments for cancer."
+  },
+  {
+    "score": 4.0,
+    "title": "Cortical development dynamics across autism spectrum disorder mouse models",
+    "link": "https://www.nature.com/articles/s41586-026-10679-1",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.808978+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10679-1\">doi:10.1038/s41586-026-10679-1</a></p>Using single-nucleus multi-omic sequencing, diverse autism spectrum disorder-linked gene mutations converge on transient, stage-specific disruptions in early brain development, and highlight sex-specific gene expression alterations."
+  },
+  {
+    "score": 3.0,
+    "title": "Rock weathering can counteract river CO<sub>2</sub> emissions induced by permafrost thaw",
+    "link": "https://www.nature.com/articles/s41586-026-10664-8",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.808954+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10664-8\">doi:10.1038/s41586-026-10664-8</a></p>Permafrost thaw on the Qinghai–Tibet Plateau increases rock-weathering rates while reducing river CO2 emissions, suggesting geological carbon fluxes may eventually outpace thaw-driven emissions."
+  },
+  {
+    "score": 5.0,
+    "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
+    "link": "https://www.nature.com/articles/s41586-026-10614-4",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.808714+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10614-4\">doi:10.1038/s41586-026-10614-4</a></p>Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty."
+  },
+  {
+    "score": 9.0,
+    "title": "Fiery data hint that controlled forest fires benefit human health",
+    "link": "https://www.nature.com/articles/d41586-026-01868-z",
+    "published": "2026-06-17",
+    "collected_at": "2026-06-18T07:10:38.808625+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01868-z\">doi:10.1038/d41586-026-01868-z</a></p>Analysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution."
+  },
+  {
+    "score": 18.0,
+    "title": "Aligning green spaces with human activity: uncovering opportunity-realization mismatches in urban green exposure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001532?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:38.619010+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Landscape and Urban Planning, Volume 275</p><p>Author(s): Yicheng Zheng, Tao Lin, Nicholas A.S. Hamm, Yuan Chen, Tongyu Zhou, Xiangzhong Guo, Hongkai Geng, Matthew Ng, Hoon Han, Christopher Pettit, Yong-Guan Zhu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Property size linked to deforestation, fragmentation and forest fires in the Brazilian Amazon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002450?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:38.482312+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Ciar D. Noble, James J. Gilroy, Weslei Butturi, Carlos A. Peres</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Evaluating ecological security pattern responses to land use optimization from a production-living-ecological perspective in the Shenyang Metropolitan Area, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526001980?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:38.075817+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Habitat International, Volume 175</p><p>Author(s): Aibo Jin, Xiangrong Wang, Ziyao Wang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Green in isolation: An interpretable spatial machine learning approach to understanding green satisfaction disparities in segregated neighborhoods",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526001840?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-18T07:10:38.075785+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Habitat International, Volume 175</p><p>Author(s): Jin Rui, Chenyu Shao, Xiayi Zhang</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Ubiquitous and expanding glacier algal blooms modelled around the Greenland Ice Sheet",
+    "link": "https://www.nature.com/articles/s43247-026-03758-8",
+    "published": "2026-06-16",
+    "collected_at": "2026-06-18T07:10:34.967814+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03758-8\">doi:10.1038/s43247-026-03758-8</a></p>Glacier algal growth could occur around the entirety of the Greenland Ice Sheet margins regardless of the magnitude and duration of the melt season, suggests a Greenland-wide simulation of glacier algal blooms over the past two decades (2000–2022)."
+  },
+  {
+    "score": 8.0,
+    "title": "Irreversible climate changes driven by degree-years of temperature overshoot",
+    "link": "https://www.nature.com/articles/s43247-026-03761-z",
+    "published": "2026-06-16",
+    "collected_at": "2026-06-18T07:10:34.967772+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03761-z\">doi:10.1038/s43247-026-03761-z</a></p>Degree-years of temperature overshoot, which represent the time-integrated overshoot magnitude, are proportional to the outcome of overshoot in some slow-responding climate variables, revealed by experiments using an Earth system model."
+  },
+  {
+    "score": 9.0,
+    "title": "Global air quality and human health impacts of growing aircraft emissions",
+    "link": "https://www.nature.com/articles/s43247-026-03732-4",
+    "published": "2026-06-16",
+    "collected_at": "2026-06-18T07:10:34.967726+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03732-4\">doi:10.1038/s43247-026-03732-4</a></p>Aircraft emissions can degrade air quality and result in excess deaths due to particulate matter and ozone, according to atmospheric chemistry transport model projections to 2040."
+  },
+  {
     "score": 12.0,
     "title": "Tracing the impact of cities on urban precipitation, a stable water isotope study at high spatial and temporal resolution",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002282?dgcid=rss_sd_all",
