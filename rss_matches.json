@@ -1,5 +1,629 @@
 [
   {
+    "score": 10.0,
+    "title": "Weather conditions and emergency incident dispatches: Evidence from New York City",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002373?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:49.208396+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Hao Chen, Haoluan Wang, Guimin Zhu</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Morphology-constrained GAN for high-resolution proxy estimation of urban air pollution: A rapid assessment tool for urban planning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600235X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:49.208372+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Weishi Zhou, Jin Wei, Hao Zheng, Yang Ni</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Building morphology-microclimate interactions and outdoor thermal comfort across university campus spatial types",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002245?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:49.208342+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Lina Li, Zhengtao Ai, Zhongjian Jia, Xiaochen Zhang, Yuan Xiang, Yuekuan Zhou, Guoqiang Zhang</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Impact of enhanced urban morphology on simulation of heat waves in the tropical city of Bhubaneswar, India",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002270?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:49.208296+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Narayana Reddy Karrevula, Hara Prasad Nayak, Raghu Nadimpalli, Palash Sinha, Alugula Boyaj, Pratiman Patel, Harshwardhan Jadhav, V. Vinoj, Sahidul Islam, M. Khare, Dev Niyogi, U.C. Mohanty</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Modeling engagement-mediated associations between urban green space quality and well-being in a Global South metropolis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003080?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:49.085865+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 17 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Mirela B. Silva, Ricardo Almendra, Adriano Bressane</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Urbanization facilitates colonization and reshapes strangler-host networks: the fate of strangler figs in a tropical urban landscape and implications for management",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003092?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:49.085823+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yu-Xuan Mo, Huang Zou, Hai-Xia Hu, Josep Peñuelas, Zhi-Peng Wang, Bang-Xiao Zheng, Xian-Meng Shi, Su Li, Sujan Balami, Hua-Zheng Lu, Liang Song</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Mining Potential Risk Points of Infectious Diseases and Assessing Spatiotemporal Influence Based on Collective Perception",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004956?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:48.647461+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 17 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Tengfei Yang, Chenxu Li, Guoqing Li, Naixia Mou, Yu Wang, Xinyue Gao</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "A “load-carrier” perspective approach for assessing rural infrastructure carrying capacity in China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004932?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:48.647434+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 17 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Zhenhui Jin, Rong Wang, Yijun Zhou, Jie Wang, Wenyue Geng</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Life-cycle analysis of building-scale solar energy potential in urban contexts: a parametric assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004853?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:48.647397+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 17 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jia Tian, Ryozo Ooka</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "A Database of Building Energy Use Determinants Across Spatial Scales: Patterns, Policies, and a Multi-Metric Framework for Retrofitting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005019?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:48.647355+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 17 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Sepideh Sadat Korsavi, Lisa D. Iulo, Rahman Azari</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Spatial and temporal prediction of Aedes aegypti populations with atmospheric and urban forms dependence",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533964123?af=R",
+    "published": "2026-06-18T07:00:00Z",
+    "collected_at": "2026-06-19T07:29:47.358989+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceDengue fever, a rapidly expanding vector-borne disease, is driven by interactions between climate and urbanization. Predicting outbreaks of its mosquito vector,Aedes aegypti, requires models that capture this complexity. We developed a ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Binomial prolate spheroidal functions, Pascal matrices, and arithmetic of elliptic curves",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529171123?af=R",
+    "published": "2026-06-18T07:00:00Z",
+    "collected_at": "2026-06-19T07:29:47.358824+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceIn signal processing, prolate spheroidal wave functions are eigenfunctions of a time and band-limiting operator which are simultaneously concentrated in physical and spectral space. Miraculously, the prolates are eigenfunctions of the Slepian ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Mycoelectronics: Bioprinted living fungal bioelectronics for artificial sensation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530456123?af=R",
+    "published": "2026-06-18T07:00:00Z",
+    "collected_at": "2026-06-19T07:29:47.358658+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceBiohybrid systems hold great promise for building intelligent sensors for healthcare and the environment. However, current eukaryote-based biohybrids suffer from slow growth, strict culture requirements, and short lifespans, limiting their ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Paleorecords inform the limits of Indo-Pacific coral reef survival under accelerating sea-level rise",
+    "link": "https://www.nature.com/articles/s41467-026-74612-w",
+    "published": "2026-06-19",
+    "collected_at": "2026-06-19T07:29:46.778741+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74612-w\">doi:10.1038/s41467-026-74612-w</a></p>Rising seas threaten the capacity of coral reefs to maintain their structure and ecosystem services on which millions depend. This study analyses Indo-Pacific Holocene fossil records to show that 76% of reefs risk submergence by 2100, with reef growth unlikely to be sufficient when sea-level rise exceeds 5.3 mm yr⁻¹."
+  },
+  {
+    "score": 5.0,
+    "title": "Conformational landscape and ligand-dependent clustering of the human type 2 IP<sub>3</sub> receptor",
+    "link": "https://www.nature.com/articles/s41467-026-74494-y",
+    "published": "2026-06-19",
+    "collected_at": "2026-06-19T07:29:46.778693+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74494-y\">doi:10.1038/s41467-026-74494-y</a></p>Here the authors define the conformational landscape of human IP3R-2 and identify a ligand-dependent inter-channel interface that mediates receptor clustering during calcium signalling."
+  },
+  {
+    "score": 5.0,
+    "title": "Mechanistic and antigenic boundaries of <i>Henipavirus</i> and <i>Parahenipavirus</i> glycoproteins",
+    "link": "https://www.nature.com/articles/s41467-026-74212-8",
+    "published": "2026-06-19",
+    "collected_at": "2026-06-19T07:29:46.778586+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74212-8\">doi:10.1038/s41467-026-74212-8</a></p>Henipaviruses are a group of emerging human pathogens including the deadly Nipah virus. Here, the authors biochemically, biophysically, and structurally investigate the antigenicity and functionality of their surface glycoproteins."
+  },
+  {
+    "score": 5.0,
+    "title": "Entropy-driven order-to-disorder transition in perovskite anodes for high-performance solid oxide fuel cells",
+    "link": "https://www.nature.com/articles/s41467-026-74549-0",
+    "published": "2026-06-19",
+    "collected_at": "2026-06-19T07:29:46.778500+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74549-0\">doi:10.1038/s41467-026-74549-0</a></p>Carbon deposition and insufficient reactivity hinder the development of anodes in solid oxide fuel cells. Here, authors propose an entropy-induced order–disorder transition strategy to fabricate high-entropy anodes to attain improved catalytic activity and durable coking resistance."
+  },
+  {
+    "score": 5.0,
+    "title": "Temperate local extinctions from climate change are outpacing tropical extinctions",
+    "link": "https://www.nature.com/articles/s41558-026-02669-y",
+    "published": "2026-06-18",
+    "collected_at": "2026-06-19T07:29:46.518395+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02669-y\">doi:10.1038/s41558-026-02669-y</a></p>The authors analyse global-scale resurvey data for 5,151 species to reveal the sensitivity of tropical versus temperate species to climate change. They show significantly higher frequencies of local extinction in temperate species than in tropical species, linked to faster warming at high latitudes."
+  },
+  {
+    "score": 7.0,
+    "title": "City racial segregation statistics are robust to aggregation bias",
+    "link": "https://www.nature.com/articles/s44284-026-00459-3",
+    "published": "2026-06-16",
+    "collected_at": "2026-06-19T07:29:46.464440+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s44284-026-00459-3\">doi:10.1038/s44284-026-00459-3</a></p>Residential segregation is a challenging reality in cities worldwide despite their diverse populations. Focusing on medium to large US cities, this study finds no systematic bias in racial segregation when different Census tract boundaries are used."
+  },
+  {
+    "score": 9.0,
+    "title": "Urban congestion relief experiments through routing-app interventions",
+    "link": "https://www.nature.com/articles/s44284-026-00443-x",
+    "published": "2026-06-16",
+    "collected_at": "2026-06-19T07:29:46.464405+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s44284-026-00443-x\">doi:10.1038/s44284-026-00443-x</a></p>Traffic congestion is a growing concern for cities. This study offers real-world evidence that redirecting a small portion of navigation-app trips from congested routes can improve traffic speeds and travel times while reducing carbon emissions in major US cities."
+  },
+  {
+    "score": 9.0,
+    "title": "Proxy datasets to identify city boundaries",
+    "link": "https://www.nature.com/articles/s44284-026-00464-6",
+    "published": "2026-06-16",
+    "collected_at": "2026-06-19T07:29:46.464356+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s44284-026-00464-6\">doi:10.1038/s44284-026-00464-6</a></p>City boundaries can be delineated using various proxy datasets, such as population and built-up area. The Perspective argues that the choice of proxy should align with the working conceptualization of the cities in question."
+  },
+  {
+    "score": 4.0,
+    "title": "Escalating Hydroclimatic Extremes and Volatility in the UK Under 2°C and 4°C Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007156?af=R",
+    "published": "Wed, 17 Jun 2026 06:00:10 -0700",
+    "collected_at": "2026-06-19T07:29:43.356983+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "The Effects of Urbanization on Infrastructure Sustainability and Resilience in Variable Microclimates Within Arid Environments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007395?af=R",
+    "published": "Wed, 17 Jun 2026 22:55:42 -0700",
+    "collected_at": "2026-06-19T07:29:43.356946+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 4.0,
+    "title": "Hotspots of Arctic and sub-Arctic marine sediment organic carbon are dominated by the Baltic, Barents and Chukchi Seas",
+    "link": "https://www.nature.com/articles/s43247-026-03720-8",
+    "published": "2026-06-19",
+    "collected_at": "2026-06-19T07:29:42.821340+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03720-8\">doi:10.1038/s43247-026-03720-8</a></p>The Baltic, Barents, and Chukchi Seas play a significant role in the area-normalised global sedimentary carbon stock, dominating high latitudes, according to analysis of quantile regression forests using sediment samples"
+  },
+  {
+    "score": 6.0,
+    "title": "Corrigendum to “Urban beauty and its opposites” [Cities, 175 (2026) 107192]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126005196?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:42.732746+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 17 June 2026</p><p><b>Source:</b> Cities</p><p>Author(s): Asher Elbaz, Nurit Alfasi</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Multimodal accessibility to healthy food in Stockholm: Identifying food deserts and urban inequalities across travel modes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826001980?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-19T07:29:42.545333+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Applied Geography, Volume 193</p><p>Author(s): Ioannis Ioannidis</p>"
+  },
+  {
     "score": 8.0,
     "title": "From urban wilderness to urban parks: An exploration of the changing patterns of ground-dwelling arthropod community and influencing environmental factors",
     "link": "https://www.sciencedirect.com/science/article/pii/S161886672600292X?dgcid=rss_sd_all",
