@@ -1,6 +1,394 @@
 [
   {
     "score": 9.0,
+    "title": "Orographic and coastal impacts on the unexpected development of the snowstorm in Seoul Metropolitan Area",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002300?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:18.529800+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Eun-Tae Kim, Jung-Hoon Kim, Seong-Mook Kim, Yoon-Jin Lim</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Greenness across the lifespan and adult respiratory health: A longitudinal cohort study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003109?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:18.425602+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 June 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yiling Zheng, Yilin Zhang, John S Ji, Siyi Chen, Yufei Liu, Yuanyuan Yi, Jun Ma, Zhijie Zhang, Ming Wen, Cui Guo</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Prioritizing ‘greenable areas’ for urban heat relief by integrating heat risk, cooling potential, and welfare equity: A data-driven framework with a case study of Nanjing, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005123?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:18.016685+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Sijie Zhu, Binghui Si, Ning Lv, Xing Shi, Hui Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Intermodal versus Monomodal Travellers: Evidence from a Comparative Study in Porto",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600507X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:18.016642+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): João Filipe Teixeira, Miguel Lopes, António Couto</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Spatial disagreement as decision-support for district-level heat adaptation priorities: Evidence from Taiwan's six major cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005135?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:18.016611+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Laili Fitria, Da-Wei Tsai, Sheng-Jie You, Ya-Fen Wang</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Revealing the diurnal drivers of land surface temperature using artificial neural network models: A case study in Changsha-Zhuzhou-Xiangtan metropolitan area, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005020?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:18.016572+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Min Xue, Yunhan Zhang, Tian Zhu, Xianchao Zhao, Haoyang Xin, Shujia Tan, Zhiji Wu, Huangling Gu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Q&A with Dr. Musonda Mumba: Protecting wetlands for people, nature, and climate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2590332226001430?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:16.903647+00:00",
+    "feed_title": "ScienceDirect Publication: One Earth",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/25903322",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: 19 June 2026</p><p><b>Source:</b> One Earth, Volume 9, Issue 6</p><p>Author(s): Musonda Mumba</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Direction-resolved nanoscale optical imaging with near-nanometer resolution by emerging infrared torsional force microscopy",
+    "link": "https://www.nature.com/articles/s41467-026-74654-0",
+    "published": "2026-06-20",
+    "collected_at": "2026-06-21T07:10:16.637329+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74654-0\">doi:10.1038/s41467-026-74654-0</a></p>Probing nanoscale light-matter interactions requires simultaneous access to optical anisotropy and ultrahigh spatial resolution. Here, authors develop torsional force microscopy-infrared imaging, enabling near-nanometer optical imaging and direction-resolved mapping of local optical responses."
+  },
+  {
+    "score": 5.0,
+    "title": "smDeepFLUOR: single-molecule deep learning fluorescence classification",
+    "link": "https://www.nature.com/articles/s41467-026-74716-3",
+    "published": "2026-06-21",
+    "collected_at": "2026-06-21T07:10:16.637261+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74716-3\">doi:10.1038/s41467-026-74716-3</a></p>Single-molecule fluorescence imaging struggles to distinguish signals from different molecular events when intensity profiles appear similar. Here, the authors introduce smDeepFLUOR, a deep learning framework that classifies spatiotemporal fluorescence signals with high accuracy across diverse molecular events, revealing subtle differences imperceptible to conventional analyses."
+  },
+  {
+    "score": 4.0,
+    "title": "Attention modulates value normalization in human reinforcement learning by shaping reward encoding",
+    "link": "https://www.nature.com/articles/s41467-026-74747-w",
+    "published": "2026-06-21",
+    "collected_at": "2026-06-21T07:10:16.637113+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74747-w\">doi:10.1038/s41467-026-74747-w</a></p>People’s reward learning is shaped by context, but the cognitive origins of this bias remain poorly understood. Here, the authors provide evidence that attention may underlie these distortions by shaping how rewards are encoded during reinforcement learning."
+  },
+  {
+    "score": 6.0,
+    "title": "Modelling the structural and land use effects of support policies for the expansion of organic farming: The case of organic dairy farms in France",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002474?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:16.098293+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): M. Schiavo, P.M. Aubert, C. Le Mouël</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "How can urban growth meet policy and planning needs? An improved dynamic cellular automata model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526002018?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:15.889441+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Habitat International, Volume 175</p><p>Author(s): Haowei Wu, Zhihui Li, Feng Wu, Yumei Cai</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Limits to sustainability in pedestrianized public spaces. Administrative constraints and unintended uses in Barcelona's green axes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526001992?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:15.889406+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Habitat International, Volume 175</p><p>Author(s): María Gabriela Navas-Perrone, Javier Borge-Holthoefer</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "An investigation into winter thermal comfort of adolescents under chronic psychological stress",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006797?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:14.853061+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 August 2026</p><p><b>Source:</b> Building and Environment, Volume 302</p><p>Author(s): Tai Zhou, Larry Bellamy, Mark Jermy, Ziming Wang, Xiong Wu</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Rethinking pilotis in multi-family housing: Winter thermal comfort implications—A case study of Minamisuna Danchi, Tokyo",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006918?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:14.853034+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 August 2026</p><p><b>Source:</b> Building and Environment, Volume 302</p><p>Author(s): Fuhao Sun, Jingshu Cui, Junhua Zhang, Jie Xu</p>"
+  },
+  {
+    "score": 17.0,
+    "title": "From black to radiative cooling: How fabric radiative properties shape outdoor thermal comfort and heat strain under extreme conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232600692X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-21T07:10:14.852984+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 August 2026</p><p><b>Source:</b> Building and Environment, Volume 302</p><p>Author(s): Shengnan Ouyang, Wonseok Oh, Shan Gao, Chunlan Du, Chi Feng</p>"
+  },
+  {
+    "score": 9.0,
     "title": "Rapid source intensity inversion in heterogeneous built environments using a CFD–RSM–LP framework with field validation",
     "link": "https://www.sciencedirect.com/science/article/pii/S221209552600221X?dgcid=rss_sd_all",
     "published": "",
