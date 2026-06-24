@@ -1,5 +1,861 @@
 [
   {
+    "score": 8.0,
+    "title": "Exploring black carbon stratification in the urban mixed layer using UAV-based vertical profiles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002439?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.715260+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Loreto Villacura M., Manuel A. Leiva-Guzmán, Richard Toro A.</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Gaps and opportunities in climate adaptation across South American cities: A systematic analysis of local plans",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002385?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.715210+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Victoria Sinner, Taís Maria Nunes Carvalho, Sruti Modekurty, Christian Kuhlicke, Mariana Madruga de Brito</p>"
+  },
+  {
+    "score": 19.0,
+    "title": "Deciphering the spatiotemporal dynamics and driving mechanisms of urban land green use efficiency in China: Insights from interpretable machine learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005202?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003607+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Beilei Zhao, Siliang Liu, Yiran Li, Yanran Qin</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Evaluation of street-scale air pollution using multi-source data fusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005275?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003580+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Zhihao Guo, Xun Zhang, Zongning Wu, Rui Zhou, Xiansheng Liu, Jin Zou</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Unveiling Scale Effects of the Built Environment on Urban Innovation with Explainable Machine Learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005287?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003557+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Zhao Liwei, Li Yingcheng</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Can green cycling paths reduce commuter exposure to ultrafine particles? A repeated measures study in Copenhagen, Denmark",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005329?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003532+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Gonzalo B. Hevia-Ramos, George Napolitano, Marie L. Bergmann, Jiawei Zhang, Steffen Loft, Zorana J. Andersen, Youn-Hee Lim, Thomas Cole-Hunter, Stéphane Tuffier</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Crash-risk-aware routing for sustainable urban mobility: Balancing safety, efficiency, and energy under dynamic traffic conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005032?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003495+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Quansheng Yue, Tarek Sayed, Jinxin Cao, Bolotbek Sovetbekov, Yanyong Guo</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Machine learning for urban wind simulation: A comprehensive review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600497X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003469+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Ilker Karadag, Danny Smyl, Patrick Kastner</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Designing Sponge Cities in Data-Scarce Contexts: A Machine Learning–Enabled Land Cover Dynamics and Urban Hydrologic Response Framework for Nature-Based Flood Resilience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005238?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003432+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Bodruzzaman Khan, MD Asrafuzzaman Arif, Momotaj Jahan Mitu, Abu Reza Md. Towfiqul Islam, Md Altaf Hossain</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "High-resolution mapping and analysing urban building carbon emissions in the whole life cycle: The case of Guangzhou",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600524X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003388+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Tong Sun, Canjie Liu, Francesco Pittau, Lingling Wu, Yabo Zhao</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Evaluating Vehicle-to-Grid as a Participation-Dependent System Flexibility Resource: Evidence from Charging Profiles and Policy Scenarios",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005251?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003362+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Byuk-Keun Jo</p>"
+  },
+  {
+    "score": 17.0,
+    "title": "Numerical simulation of the evolution of the temperature field of phase change temperature-regulating asphalt pavement under the urban heat island effect",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005299?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003340+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Dingjie Xu, Jiasheng Dai, Feng Ma, Zhen Fu, Chen Li, Yanzhe Zou, Yingjie Hou, Xiaolong Yang, Zhe Li, Meng Jia</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Spatial Heterogeneity in Factors influencing Utilization Rate of Electric Vehicle Charging Stations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005305?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003307+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Dong Qiao, Guangmin Wang, Wenlian Gao, Meng Xu</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Climate-specific and morphology-informed decarbonization policy for cities using urban building energy modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005214?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003283+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Tao Wang, Shi-Jie Cao, Yu Qian Ang</p>"
+  },
+  {
+    "score": 18.0,
+    "title": "Quantifying the impacts of urban form on air pollution using Local Climate Zone classifications in Greater London: a machine learning approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005317?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003257+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Zishen Bai, Nahid Mohajeri</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Beyond Single-Element Thresholds: Statistical Compensatory Effects Among Built Environment Factors in Enhancing Street Vitality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005342?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:38.003212+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 June 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yuchen Wang, Yun Qian, Huihui Shi, Junchen Pan</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Cultivation enhances warming sensitivity of redox-driven carbon pulses in black soils: The overlooked role of anaerobic legacy effects",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527881123?af=R",
+    "published": "2026-06-23T07:00:00Z",
+    "collected_at": "2026-06-24T06:16:36.997203+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceNortheast China harbors the world’s third-largest black soil area, where wetlands play a vital role in the global carbon cycle yet have experienced sharp carbon declines due to human activities and climate change. Here we show that rice ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Modeling framework to demonstrate elimination of a vector population: Tsetse elimination in Chad",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2524729123?af=R",
+    "published": "2026-06-23T07:00:00Z",
+    "collected_at": "2026-06-24T06:16:36.997128+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceThe World Health Organization has set the elimination of transmission of several neglected tropical vector-borne diseases, including human African trypanosomiasis (sleeping sickness), as a target for 2030. We show that deliberate elimination ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Unique fingerprint of marine ectotherm body size change during hyperthermal crises",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2505564123?af=R",
+    "published": "2026-06-23T07:00:00Z",
+    "collected_at": "2026-06-24T06:16:36.997005+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceDwarfing is a common response of marine ectotherms to both anthropogenic warming and similar environmental crises throughout Earth’s history. However, the underlying mechanisms and parallels between fossil and modern observations are still ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Pseudouridine synthase PUS1 and initiation factor mtIF2 are human mitoribosomal small subunit assembly factors",
+    "link": "https://www.nature.com/articles/s41467-026-74700-x",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-24T06:16:36.257895+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74700-x\">doi:10.1038/s41467-026-74700-x</a></p>Cellular energy production depends on mitochondrial translation. Here, using cryoEM, the authors describe 12 assembly states of the human mitoribosomal small subunit and identify PUS1 and mtIF2 as mitoribosome assembly factors."
+  },
+  {
+    "score": 6.0,
+    "title": "National pathways of land-use CO₂ emissions in the 21<sup>st</sup> century",
+    "link": "https://www.nature.com/articles/s41467-026-74836-w",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-24T06:16:36.257858+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74836-w\">doi:10.1038/s41467-026-74836-w</a></p>The authors use a compact Earth system model OSCAR across SSP and idealized scenarios to show that policy timing and ambition are the primary determinants of whether the land sector becomes a durable carbon sink or remains a persistent source."
+  },
+  {
+    "score": 6.0,
+    "title": "Divergent responses of soil organic and inorganic carbon driven by land use during coastal reclamation",
+    "link": "https://www.nature.com/articles/s41467-026-74876-2",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-24T06:16:36.257795+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74876-2\">doi:10.1038/s41467-026-74876-2</a></p>Coastal reclamation drives divergent soil organic and inorganic carbon dynamics, with organic carbon becoming increasingly stable while inorganic carbon depletes under long-term terrestrial land use."
+  },
+  {
+    "score": 9.0,
+    "title": "Long-term multiple global change interactions amplify belowground carbon allocation",
+    "link": "https://www.nature.com/articles/s41558-026-02678-x",
+    "published": "2026-06-23",
+    "collected_at": "2026-06-24T06:16:36.148906+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02678-x\">doi:10.1038/s41558-026-02678-x</a></p>Soil carbon is a critical component of the terrestrial carbon sink and is impacted by the total belowground carbon allocation (TBCA). This study uses a long-term multifactor grassland experiment to show that elevated temperature and CO2 increased the TBCA over time, modulated by drought and N addition."
+  },
+  {
+    "score": 4.0,
+    "title": "Daily briefing: First-ever ‘nuclear’ clocks put atomic clocks in the shade",
+    "link": "https://www.nature.com/articles/d41586-026-01997-5",
+    "published": "2026-06-22",
+    "collected_at": "2026-06-24T06:16:36.017203+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01997-5\">doi:10.1038/d41586-026-01997-5</a></p>Two research teams have created a new, long-awaited type of timekeeper. Plus, how backlash has saved an ocean-monitoring network targeted by Trump and how our cultural heritage is put at risk by climate change."
+  },
+  {
+    "score": 8.0,
+    "title": "From abandonment to sustainable use: Prioritizing land consolidation with ALS-derived vegetation metrics in Małopolskie Voivodeship, southern Poland",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726002528?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:35.799412+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "metrics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Land Use Policy, Volume 169</p><p>Author(s): Ela Ertunç, Piotr Bożek, Jarosław Janus</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Significant Coastal Dune Loss Challenges California's Climate Resilience and Biodiversity Goals",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007790?af=R",
+    "published": "Mon, 22 Jun 2026 06:00:02 -0700",
+    "collected_at": "2026-06-24T06:16:35.170124+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 7.0,
+    "title": "Assessment of individualised dynamic environmental exposures within The World Avatar",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526000785?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:34.902860+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 129</p><p>Author(s): Jiying Chen, Jethro Akroyd, Sebastian Mosbach, Feroz Farazi, Xinhong Deng, Kok Foong Lee, Mei Qi Lim, George Brownbridge, Tom Bishop, Will Cuningham, Tomas Gonzales, Thomas Burgoine, Jenna Panter, Louise Foley, Søren Brage, Nicholas J. Wareham, Markus Kraft</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "A benchmark of large language models for spatially informed proposal generation in local search for the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mi>p</mi></math>-median problem",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526000694?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:34.902814+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 129</p><p>Author(s): Xin Feng, Yuanpei Cao</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "System optimality versus self-organization in metro networks: An optimal transport analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526000815?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:34.902766+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 129</p><p>Author(s): Tianyu Dong, Jiazu Zhou, Markus Schläpfer</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Advancing nature-based insurance to protect people and nature",
+    "link": "https://www.nature.com/articles/s43247-026-03753-z",
+    "published": "2026-06-23",
+    "collected_at": "2026-06-24T06:16:34.746112+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03753-z\">doi:10.1038/s43247-026-03753-z</a></p>Nature-based insurance combines the risk-transfer benefits of insurance with the risk-reduction benefits of nature-based solutions, unlocking critical funding for climate adaptation and conservation, and there are five frontiers in this space, along with key actions to accelerate innovation and uptake."
+  },
+  {
+    "score": 5.0,
+    "title": "Chip control performance of a vortex-enhanced ventilation system in rail grinding machinery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326006980?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-06-24T06:16:34.485327+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 August 2026</p><p><b>Source:</b> Building and Environment, Volume 302</p><p>Author(s): Chunyu Wang, Liang Gao, Shunwei Shi, Yixiong Xiao, Yuze Wang, Ludong Wang</p>"
+  },
+  {
     "score": 10.0,
     "title": "Enclosure and exit in new tech urbanisms",
     "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261456140?ai=2b4&mi=ehikzz&af=R",
