@@ -1,5 +1,437 @@
 [
   {
+    "score": 3.0,
+    "title": "Clearing the noise to predict the rhythm of the North Atlantic climate",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8616?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.948844+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 26, June 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial transcriptomics uncovers the hybrid molecular identity, ciliated phenotype, and immune signature of adenomyosis lesions",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea6379?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.948384+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 26, June 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Resource declines shape phenological and morphological responses to climate change",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607714123?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.362036+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceShrinking body size and advancing phenology are two widespread responses to climate change. However, they are rarely considered in the context of co-occurring biodiversity declines. Using a half-century of data on an insectivorous bird species,..."
+  },
+  {
+    "score": 5.0,
+    "title": "Temperature and developmental stage govern intestinal susceptibility to human coronavirus 229E",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600632123?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.361910+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceWhile human coronaviruses are traditionally viewed as upper respiratory pathogens, the COVID-19 pandemic underscored their potential to cause gastrointestinal disease. This study provides detailed characterization of intestinal infection by ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Identification of a master regulator Msd1 that governs meiotic entry in a global basidiomycete pathogen",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536339123?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.361878+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceMeiosis is indispensable for the generation of genetically diverse gametes in sexually reproducing organisms. In the pathogenicCryptococcusspecies complex, extensive meiotic recombination occurred during sexual development, facilitating the ..."
+  },
+  {
+    "score": 8.0,
+    "title": "A potential overestimation of CO2 physiological effects on evapotranspiration",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534643123?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.361846+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceRising CO2levels reduce vegetation water depletion by decreasing stomatal conductance, which is expected to mitigate land surface drying. However, the interplay of these processes is more complex than previously understood. Our study uncovers ..."
+  },
+  {
+    "score": 5.0,
+    "title": "A receptor-like mechanosensitive protein governs preprophase band positioning for asymmetric cell divisions and SC morphogenesis",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528001123?af=R",
+    "published": "2026-06-24T07:00:00Z",
+    "collected_at": "2026-06-25T06:28:01.361770+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceAsymmetric cell division, crucial for cellular diversity, is mechanosensitive in plants, yet its spatial regulation remains poorly understood. In developing grass stomata, mechanical cues arise from differential growth and cell wall ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Exposed yet unmapped: evidence of differential flood exposure in deprived urban areas using citizen science",
+    "link": "https://www.nature.com/articles/s42949-026-00428-8",
+    "published": "2026-06-22",
+    "collected_at": "2026-06-25T06:28:00.920915+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s42949-026-00428-8\">doi:10.1038/s42949-026-00428-8</a></p>Exposed yet unmapped: evidence of differential flood exposure in deprived urban areas using citizen science"
+  },
+  {
+    "score": 3.0,
+    "title": "Nature-based policy as a pathway to urban sustainability transitions",
+    "link": "https://www.nature.com/articles/s42949-026-00430-0",
+    "published": "2026-06-22",
+    "collected_at": "2026-06-25T06:28:00.920873+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s42949-026-00430-0\">doi:10.1038/s42949-026-00430-0</a></p>Nature-based policy as a pathway to urban sustainability transitions"
+  },
+  {
+    "score": 3.0,
+    "title": "Interfacial epitaxy of single-crystalline Al<sub>2</sub>(MoO<sub>4</sub>)<sub>3</sub> flakes for anisotropic phonon polaritons",
+    "link": "https://www.nature.com/articles/s41467-026-74681-x",
+    "published": "2026-06-25",
+    "collected_at": "2026-06-25T06:28:00.799429+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74681-x\">doi:10.1038/s41467-026-74681-x</a></p>Metal molybdates exhibit interesting anisotropic thermal and mechanical properties, but the synthesis of single-crystalline films and the characterization of their light-matter interactions remain challenging. Here, the authors report the synthesis of single-crystalline Al2(MoO4)3 hosting hyperbolic phonon polaritons in the mid-infrared."
+  },
+  {
+    "score": 3.0,
+    "title": "A global map of seagrass ecosystems",
+    "link": "https://www.nature.com/articles/d41586-026-01805-0",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541759+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01805-0\">doi:10.1038/d41586-026-01805-0</a></p>Combining satellite imagery and machine learning has created the first comprehensive map of seagrass meadows, in a boost for the conservation of these crucial ecosystems."
+  },
+  {
+    "score": 8.0,
+    "title": "Crude oil turns cheap porous membrane into a sieve to refine itself without heat",
+    "link": "https://www.nature.com/articles/d41586-026-01896-9",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541666+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01896-9\">doi:10.1038/d41586-026-01896-9</a></p>An inexpensive, porous polymer membrane helps to separate raw crude oil, without heat or selective coating. Heavy hydrocarbons self-assemble inside the pores to create channels that are likely to be less than 2 nanometres wide, enriching the resulting permeate mix into light, ‘naphtha range’ hydrocarbons with 30% less energy cost and carbon dioxide emissions than conventional distillation."
+  },
+  {
+    "score": 4.0,
+    "title": "Genomic insights into the population dynamics and demise of Neanderthals",
+    "link": "https://www.nature.com/articles/d41586-026-01704-4",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541505+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01704-4\">doi:10.1038/d41586-026-01704-4</a></p>A surge of genetic data from the skeletal remains of Neanderthals disproves some assumptions and generates fresh questions about these ancient hominins."
+  },
+  {
+    "score": 6.0,
+    "title": "Laser light switches on heat flow in ultra-thin structures",
+    "link": "https://www.nature.com/articles/d41586-026-01803-2",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541478+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01803-2\">doi:10.1038/d41586-026-01803-2</a></p>A temperature difference of more than 100 kelvin can be created between stacked layers of 2D material by irradiating them with laser light."
+  },
+  {
+    "score": 3.0,
+    "title": "Zero-shot design of drug-binding proteins via neural iterative selection−expansion",
+    "link": "https://www.nature.com/articles/s41586-026-10670-w",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541356+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10670-w\">doi:10.1038/s41586-026-10670-w</a></p>By pairing two neural networks in an iterative optimization algorithm, small-molecule binding proteins can be designed from scratch with high accuracy, affinity and success rates, showing promise for applications in drug delivery and sequestration."
+  },
+  {
+    "score": 3.0,
+    "title": "GW250114 reveals signatures of post-merger black-hole horizon",
+    "link": "https://www.nature.com/articles/s41586-026-10696-0",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541289+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10696-0\">doi:10.1038/s41586-026-10696-0</a></p>The observation of a direct wave after the merger of two black holes reveals signatures associated with the remnant black-hole horizon, establishing an observational channel to directly measure frame-dragging effects in black-hole ergospheres and probe the horizon surface gravity."
+  },
+  {
+    "score": 6.0,
+    "title": "Crude oil fractionation by means of mesoporous polyacrylonitrile membranes",
+    "link": "https://www.nature.com/articles/s41586-026-10677-3",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541256+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10677-3\">doi:10.1038/s41586-026-10677-3</a></p>Porous polyacrylonitrile membranes—typically used as non-selective support layers—can be used to achieve effective molecular refining of crude oil at steady state, enabling substantial reductions in energy consumption, cooling water, and CO2 emissions compared with distillation processes."
+  },
+  {
+    "score": 5.0,
+    "title": "Epiblast diversification and blood formation in a human pregastrula",
+    "link": "https://www.nature.com/articles/s41586-026-10698-y",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541161+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10698-y\">doi:10.1038/s41586-026-10698-y</a></p>High-resolution spatial transcriptome analysis of a human embryo at Carnegie stage 6 reveals three distinct developmental trajectories from the epiblast towards amnion, primitive streak and axial mesoderm, and detects the initiation of haematopoiesis before gastrulation, originating from hypoblast rather than epiblast."
+  },
+  {
+    "score": 3.0,
+    "title": "Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "link": "https://www.nature.com/articles/s41586-026-10702-5",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541097+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10702-5\">doi:10.1038/s41586-026-10702-5</a></p>Using the parameter-free Angular Distribution of Pairwise Distances for measuring directional correlations, evidence is found for coherent anisotropic structures extending over gigaparsec scales, challenging the assumption that the Universe becomes statistically isotropic on sufficiently large scales."
+  },
+  {
+    "score": 6.0,
+    "title": "Optical cooling by interfacial charge transfer in 2D heterostructures",
+    "link": "https://www.nature.com/articles/s41586-026-10662-w",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.541061+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10662-w\">doi:10.1038/s41586-026-10662-w</a></p>Optical cooling in two-dimensional semiconductor heterostructures is demonstrated through phonon-assisted interfacial charge transfer, enabling cryogen-free thermal management without stringent quantum-efficiency requirements."
+  },
+  {
+    "score": 3.0,
+    "title": "Genetic technologies to enhance crop nutritional value under climate change",
+    "link": "https://www.nature.com/articles/s41586-026-10593-6",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.540886+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10593-6\">doi:10.1038/s41586-026-10593-6</a></p>This Review reflects on the joint power of genetic technologies, including untapped CRISPR–Cas techniques to combat hidden hunger and improve crop resilience, and argues in favour of their combined use to overcome these societal challenges."
+  },
+  {
+    "score": 3.0,
+    "title": "The mutational landscape of STING-induced immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10685-3",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-25T06:28:00.540834+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10685-3\">doi:10.1038/s41586-026-10685-3</a></p>A massively parallel assay systematically charts the sequence-function landscape of the STING signalling protein, and the findings define molecular principles that tune STING activity and show its functional potential across immune contexts."
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial Patterns of Glacier‐Wetland Hydrological Connectivity in the Rapidly Deglaciating Peruvian Andes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008149?af=R",
+    "published": "Tue, 23 Jun 2026 11:05:07 -0700",
+    "collected_at": "2026-06-25T06:27:59.800579+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
     "score": 8.0,
     "title": "Exploring black carbon stratification in the urban mixed layer using UAV-based vertical profiles",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002439?dgcid=rss_sd_all",
