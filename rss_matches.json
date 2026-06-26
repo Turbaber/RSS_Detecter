@@ -1,5 +1,365 @@
 [
   {
+    "score": 9.0,
+    "title": "The unbearable resilience of Medellín: Violent recovery and contested representations of (post-)conflict",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261454569?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-06-25T06:25:16Z",
+    "collected_at": "2026-06-26T06:30:02.396824+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This article critically examines the complex and ambiguous relationship between resilience and violence in the recovery of conflict-affected cities. Focusing on Medellín, Colombia’s second-largest city, it traces its transformation from a hotspot of ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Owning modernity: Indigenous architecture, fashion, and the aesthetics of modernity in La Paz and El Alto, Bolivia",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261448070?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-06-24T07:42:09Z",
+    "collected_at": "2026-06-26T06:30:02.396802+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This article explores how popular markets and cultural aesthetics challenge colonial binaries of tradition versus modernity, focusing on La Paz and El Alto during a period of Indigenous political power and economic expansion (2006–2019). Drawing on ..."
+  },
+  {
+    "score": 15.0,
+    "title": "Shifting elemental bodies in the city: Towards thermal and daylight justice",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261453290?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-06-24T07:46:02Z",
+    "collected_at": "2026-06-26T06:30:02.396773+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />While thermal comfort and daylight exposure are subjective and context specific, and in some cases even counterpoised, we show how individual and communal efforts to reduce exposure (in the case of heat) or increase exposure (in the case of sunlight) ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Informal smart urbanism: A case study of digital resilience in Mathare informal settlement",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261450022?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-06-24T07:43:59Z",
+    "collected_at": "2026-06-26T06:30:02.396738+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Informal smart urbanism is an emerging field that explores how digital technologies shape urban development in contexts marked by informality. We understand informality as a dynamic set of interactions that arise when formal regulations fail to meet ..."
+  },
+  {
+    "score": 3.0,
+    "title": "The origin, history, and resistance architecture of an invasive urban malaria mosquito in Africa",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adx6925?af=R",
+    "published": "2026-06-25T06:00:05Z",
+    "collected_at": "2026-06-26T06:29:58.378624+00:00",
+    "feed_title": "AAAS: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science, Ahead of Print. <br />"
+  },
+  {
+    "score": 7.0,
+    "title": "Spatially explicit temperature optima improve climate impact assessment of global crop productivity",
+    "link": "https://www.nature.com/articles/s41467-026-74564-1",
+    "published": "2026-06-26",
+    "collected_at": "2026-06-26T06:29:55.840329+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74564-1\">doi:10.1038/s41467-026-74564-1</a></p>Current agricultural climate models often rely on constant optimal temperatures for crops globally, ignoring local adaptation. This study maps spatially explicit temperature optima for four major staple crops, improving predictions of future global productivity."
+  },
+  {
+    "score": 6.0,
+    "title": "Electrochemical direct air capture by local alkalinity generation at three-dimensional interfaces",
+    "link": "https://www.nature.com/articles/s41467-026-74879-z",
+    "published": "2026-06-26",
+    "collected_at": "2026-06-26T06:29:55.840243+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74879-z\">doi:10.1038/s41467-026-74879-z</a></p>Carbon capture from air using electrochemistry offers a scalable route to removing CO2 from the atmosphere. Here, the authors report a platform employing a three-dimensional reactive interface to achieve high capture rates with competitive energy consumption."
+  },
+  {
+    "score": 11.0,
+    "title": "Multi-centennial response of marine carbon pumps to global warming",
+    "link": "https://www.nature.com/articles/s41558-026-02686-x",
+    "published": "2026-06-25",
+    "collected_at": "2026-06-26T06:29:55.682443+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02686-x\">doi:10.1038/s41558-026-02686-x</a></p>Changes in the ocean in response to climate change could impact its ability to function as a carbon sink. This study shows that under high emissions, circulation changes will reduce anthropogenic carbon uptake even as biological storage increases, whereas under low emissions, temperature is the key factor."
+  },
+  {
+    "score": 12.0,
+    "title": "Declining tropical sea surface temperature variability under post-2050s greenhouse warming",
+    "link": "https://www.nature.com/articles/s41558-026-02684-z",
+    "published": "2026-06-25",
+    "collected_at": "2026-06-26T06:29:55.682420+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02684-z\">doi:10.1038/s41558-026-02684-z</a></p>Tropical climate, including sea surface temperatures (SSTs), varies with natural cycles such as the El Niño–Southern Oscillation, Indian Ocean Dipole and Atlantic Niño/Niña variability. This work shows that the SST variability weakens under future greenhouse warming, with implications for predictability."
+  },
+  {
+    "score": 5.0,
+    "title": "Climate change is causing more local extinction of temperate species than tropical species",
+    "link": "https://www.nature.com/articles/s41558-026-02671-4",
+    "published": "2026-06-25",
+    "collected_at": "2026-06-26T06:29:55.682387+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02671-4\">doi:10.1038/s41558-026-02671-4</a></p>Climate change is driving loss of biodiversity worldwide, yet whether tropical or temperate species are more vulnerable to warming remains debated. Large-scale analyses of more than 5,100 plant and animal species show that climate change has caused more frequent local extinctions of temperate species than tropical species, overturning decades of previous studies."
+  },
+  {
+    "score": 6.0,
+    "title": "Multi-channel analysis suggests the UK faces large climate-related losses",
+    "link": "https://www.nature.com/articles/s41558-026-02664-3",
+    "published": "2026-06-25",
+    "collected_at": "2026-06-26T06:29:55.682351+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41558-026-02664-3\">doi:10.1038/s41558-026-02664-3</a></p>A methodology that incorporates climate risks to health, productivity and agriculture and other sector-specific channels, as well as catastrophic, cross-boundary and missing risks, has been applied to assess climate impacts in the UK. The results show a 2% reduction in welfare, in gross domestic product-equivalent terms, up to 2030 and losses of more than 10% by 2100, under a baseline scenario."
+  },
+  {
+    "score": 5.0,
+    "title": "‘Edited’ human embryos reveal secrets of our development — and fuel ethical debate",
+    "link": "https://www.nature.com/articles/d41586-026-02027-0",
+    "published": "2026-06-25",
+    "collected_at": "2026-06-26T06:29:55.536304+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02027-0\">doi:10.1038/d41586-026-02027-0</a></p>Ethical discussions are urgently needed as genome-editing science advances, some researchers say."
+  },
+  {
+    "score": 5.0,
+    "title": "Public support for climate action is underestimated in the German political domain",
+    "link": "https://www.nature.com/articles/s43247-026-03721-7",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-26T06:29:54.342390+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03721-7\">doi:10.1038/s43247-026-03721-7</a></p>In Germany, public support for climate action is underestimated in the political sphere, especially regarding taxes, laws, and financial contributions, according to surveys of legislative offices and nationally representative samples."
+  },
+  {
+    "score": 7.0,
+    "title": "Carbon dioxide removals by tropical moist forests offset most land-use emissions across 18 Afrotropical countries",
+    "link": "https://www.nature.com/articles/s43247-026-03710-w",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-26T06:29:54.342368+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03710-w\">doi:10.1038/s43247-026-03710-w</a></p>Carbon removals by intact African tropical moist forests nearly offset land-use emissions, underscoring the importance of environmental policies to protect this critical carbon sink, based on synthesized field data, remote-sensing products, and carbon-flux modelling."
+  },
+  {
+    "score": 4.0,
+    "title": "Author Correction: Soil organic carbon depth profiles and centennial and millennial decay rates in tidal marsh, mangrove and seagrass blue carbon ecosystems",
+    "link": "https://www.nature.com/articles/s43247-026-03748-w",
+    "published": "2026-06-24",
+    "collected_at": "2026-06-26T06:29:54.342329+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03748-w\">doi:10.1038/s43247-026-03748-w</a></p>Author Correction: Soil organic carbon depth profiles and centennial and millennial decay rates in tidal marsh, mangrove and seagrass blue carbon ecosystems"
+  },
+  {
     "score": 3.0,
     "title": "Clearing the noise to predict the rhythm of the North Atlantic climate",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8616?af=R",
