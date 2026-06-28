@@ -1,6 +1,102 @@
 [
   {
     "score": 9.0,
+    "title": "Hyperbranched dielectric polymer networks exhibiting giant energy storage density at 250 °C",
+    "link": "https://www.nature.com/articles/s41467-026-74830-2",
+    "published": "2026-06-27",
+    "collected_at": "2026-06-28T06:37:23.183009+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 27 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74830-2\">doi:10.1038/s41467-026-74830-2</a></p>To overcome charge transfer and achieve efficient capacitive energy storage in dielectric polymers at thermal extremes, hyperbranched networks are designed to expand inter-chain spacing and suppress secondary relaxation, delivering 4.9 J/cm³ energy density with 90% efficiency at 250 °C."
+  },
+  {
+    "score": 5.0,
+    "title": "Snow Cover Dynamics and Environmental Coupling Regulate Freezing Intensity Across China's Frozen Ground Regions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007708?af=R",
+    "published": "Fri, 26 Jun 2026 07:11:14 -0700",
+    "collected_at": "2026-06-28T06:37:21.574144+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 6, June 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Sediment‑associated processes dominate spatial variation in stream ecosystem respiration",
+    "link": "https://www.nature.com/articles/s43247-026-03613-w",
+    "published": "2026-06-27",
+    "collected_at": "2026-06-28T06:37:21.003495+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03613-w\">doi:10.1038/s43247-026-03613-w</a></p>Sediment-associated respiration accounts for most stream ecosystem respiration and its spatial variability, while modeled hyporheic respiration fails to explain these patterns, based on field measurements and process-based modeling across 33 sites in the Yakima River basin"
+  },
+  {
+    "score": 8.0,
+    "title": "Increasing irrigation demand coincides with declining irrigation development potential under climate change",
+    "link": "https://www.nature.com/articles/s43247-026-03775-7",
+    "published": "2026-06-27",
+    "collected_at": "2026-06-28T06:37:21.003429+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03775-7\">doi:10.1038/s43247-026-03775-7</a></p>Rising irrigation demand and declining irrigation development potential constrain future food production, although irrigation could still bridge up to 85% of global food gaps, based on a global framework integrating irrigation demand and suitability indices, and climate model projections."
+  },
+  {
+    "score": 9.0,
     "title": "Beyond the binary: Hybrid urbanism and the limits of the (in)formal in Accra",
     "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261454771?ai=2b4&mi=ehikzz&af=R",
     "published": "2026-06-26T03:30:46Z",
