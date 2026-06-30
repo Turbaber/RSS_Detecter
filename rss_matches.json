@@ -1,5 +1,181 @@
 [
   {
+    "score": 7.0,
+    "title": "Material equality undermined by global trade",
+    "link": "https://www.nature.com/articles/s41893-026-01838-3",
+    "published": "2026-06-23",
+    "collected_at": "2026-06-30T06:33:31.088447+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01838-3\">doi:10.1038/s41893-026-01838-3</a></p>Meeting the increasing demand for water, energy and food of the global population in a just and sustainable manner is an urgent challenge. A study now maps how these essential, interdependent systems are leveraged in international trade, quantifying both physical and virtual flows across countries."
+  },
+  {
+    "score": 4.0,
+    "title": "Increasing global threat of outburst floods from overlooked small alpine lakes",
+    "link": "https://www.nature.com/articles/s41893-026-01873-0",
+    "published": "2026-06-26",
+    "collected_at": "2026-06-30T06:33:31.088323+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01873-0\">doi:10.1038/s41893-026-01873-0</a></p>Outburst floods from small alpine lakes pose a growing risk to mountain communities, which are often already marginalized and lack adaptation options. Cryosphere degradation accelerates these threats, adding urgency to integrate small high-mountain lakes into climate and disaster policy."
+  },
+  {
+    "score": 9.0,
+    "title": "Greater losses from heat exposure experienced by female smallholders in sub-Saharan Africa",
+    "link": "https://www.nature.com/articles/s41893-026-01881-0",
+    "published": "2026-06-26",
+    "collected_at": "2026-06-30T06:33:31.088255+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01881-0\">doi:10.1038/s41893-026-01881-0</a></p>The disproportionate risks of crop damage and food insecurity from temperature anomalies affecting female smallholders are hard to measure. Estimating yield responses to temperature variation across sub-Saharan Africa, this study shows significantly higher losses to female than male smallholders."
+  },
+  {
+    "score": 5.0,
+    "title": "Decoupling development from concrete",
+    "link": "https://www.nature.com/articles/s41893-026-01883-y",
+    "published": "2026-06-26",
+    "collected_at": "2026-06-30T06:33:31.088183+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41893-026-01883-y\">doi:10.1038/s41893-026-01883-y</a></p>Enormous consumption of concrete is straining planetary boundaries, yet it remains unclear how to reduce resource burdens while sustaining human development. A study now finds that concrete demand in rapidly developing economies has driven increased resource use over the past three decades, and production improvements have only marginally reduced resource burdens."
+  },
+  {
+    "score": 3.0,
+    "title": "TRPC4/TRPC5 are critical for neuronal modulation by transcranial focused ultrasound in retrosplenial cortex in male mice",
+    "link": "https://www.nature.com/articles/s41467-026-74779-2",
+    "published": "2026-06-30",
+    "collected_at": "2026-06-30T06:33:31.046133+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 30 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74779-2\">doi:10.1038/s41467-026-74779-2</a></p>The authors find that transcranial focused ultrasound non-invasively modulates Egr1+ neuronal activity via TRPC4 and TRPC5 channels in the retrosplenial cortex in male mice, regulating mechanical and thermal sensitivity."
+  },
+  {
+    "score": 10.0,
+    "title": "Warming climate has lengthened global intense tropical cyclone seasons",
+    "link": "https://www.nature.com/articles/s41467-026-74651-3",
+    "published": "2026-06-30",
+    "collected_at": "2026-06-30T06:33:31.046054+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 30 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74651-3\">doi:10.1038/s41467-026-74651-3</a></p>Under ongoing climate change, global intense tropical cyclone seasons have become longer. The rising frequency of off-season intense tropical cyclones increases human exposure to destructive storm hazards outside historical seasonal norms."
+  },
+  {
+    "score": 5.0,
+    "title": "A disaster risk and resilience analysis framework provides insights for modelling natural hazard-induced human mobility",
+    "link": "https://www.nature.com/articles/s43247-026-03709-3",
+    "published": "2026-06-29",
+    "collected_at": "2026-06-30T06:33:29.393395+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 29 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03709-3\">doi:10.1038/s43247-026-03709-3</a></p>Natural hazards can influence human mobility by affecting household well-being, loss and recovery, and the decision to move voluntarily or be forced to move, according to a holistic capability-based, disaster-risk-informed approach"
+  },
+  {
+    "score": 5.0,
+    "title": "Three design features to move the global just transition from aim to implementation",
+    "link": "https://www.nature.com/articles/s43247-026-03781-9",
+    "published": "2026-06-29",
+    "collected_at": "2026-06-30T06:33:29.393309+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 29 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03781-9\">doi:10.1038/s43247-026-03781-9</a></p>A Just Transition to achieve the goals of the Paris Agreement has been recognised as a global aim for climate governance, yet it has so far lacked a binding implementation mechanism. This Comment proposes three design features for the 2026 operationalisation negotiations to break the procedural lock-in."
+  },
+  {
     "score": 6.0,
     "title": "Bringing nationalism into global urban studies",
     "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261456008?ai=2b4&mi=ehikzz&af=R",
