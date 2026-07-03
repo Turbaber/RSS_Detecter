@@ -1,5 +1,105 @@
 [
   {
+    "score": 7.0,
+    "title": "Estimating global, high-resolution onsite building greenhouse gas emissions",
+    "link": "https://www.nature.com/articles/s42949-026-00433-x",
+    "published": "2026-07-02",
+    "collected_at": "2026-07-03T06:04:50.031534+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s42949-026-00433-x\">doi:10.1038/s42949-026-00433-x</a></p>Estimating global, high-resolution onsite building greenhouse gas emissions"
+  },
+  {
+    "score": 15.0,
+    "title": "Urban heat risk assessment: a machine learning analysis of multidimensional morphology in 293 Chinese cities",
+    "link": "https://www.nature.com/articles/s42949-026-00436-8",
+    "published": "2026-07-02",
+    "collected_at": "2026-07-03T06:04:50.031507+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s42949-026-00436-8\">doi:10.1038/s42949-026-00436-8</a></p>Urban heat risk assessment: a machine learning analysis of multidimensional morphology in 293 Chinese cities"
+  },
+  {
+    "score": 6.0,
+    "title": "Linking species distributions and urban governance through social ecological fit in blue green infrastructure",
+    "link": "https://www.nature.com/articles/s42949-026-00426-w",
+    "published": "2026-07-02",
+    "collected_at": "2026-07-03T06:04:50.031465+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s42949-026-00426-w\">doi:10.1038/s42949-026-00426-w</a></p>Linking species distributions and urban governance through social ecological fit in blue green infrastructure"
+  },
+  {
+    "score": 3.0,
+    "title": "Daily briefing: How to brew a climate-friendly coffee",
+    "link": "https://www.nature.com/articles/d41586-026-02076-5",
+    "published": "2026-06-30",
+    "collected_at": "2026-07-03T06:04:49.352441+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 30 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02076-5\">doi:10.1038/d41586-026-02076-5</a></p>Researchers are racing to safeguard coffee from climate change. Plus, how ticks are making people allergic to meat and how AI tools can help neurodivergent students succeed in their science careers."
+  },
+  {
     "score": 9.0,
     "title": "The effects of International City Network membership: Urban AI policies and the Cities Coalition for Digital Rights",
     "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261458527?ai=2b4&mi=ehikzz&af=R",
