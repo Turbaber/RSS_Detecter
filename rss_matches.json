@@ -1,5 +1,285 @@
 [
   {
+    "score": 5.0,
+    "title": "Dynamic evaporative and radiative cooling for efficient year-round energy savings",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed6069?af=R",
+    "published": "2026-07-03T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.432793+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 27, July 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "Beech latewood density as a proxy for temperature reconstruction",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee1305?af=R",
+    "published": "2026-07-03T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.432591+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 27, July 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Solving the cooling flow problem with combined jet-wind AGN feedback",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed6394?af=R",
+    "published": "2026-07-03T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.432507+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 27, July 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Initial organization and progressive expansion of the math-responsive brain network during the first school years",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602515123?af=R",
+    "published": "2026-07-02T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.103289+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 27, July 2026. <br />SignificanceHow the child’s brain changes with schooling, as it acquires the abstract concepts of mathematics, remains unclear. By longitudinally tracking children’s brain responses to mathematical sentences from preschool through early elementary school, ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Beyond native sequence recovery: Improved modeling of the sequence-energy landscape of protein structures",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535494123?af=R",
+    "published": "2026-07-02T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.103239+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 27, July 2026. <br />SignificanceMachine learning has revolutionized the design of novel proteins by facilitating the generation of protein sequences that adopt desired structures. State-of-the-art sequence design models optimize the similarity of designed sequences to native ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535042123?af=R",
+    "published": "2026-07-02T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.103203+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 27, July 2026. <br />SignificanceViral infections can spread among distinct locations by human travel. Being able to identify the source of a local outbreak, and whether it was triggered by infected visitors or individuals returning home, is crucial. We designed a ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Chemotactic self-organization captures the dynamics of mammalian hair follicle patterning",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530407123?af=R",
+    "published": "2026-07-02T07:00:00Z",
+    "collected_at": "2026-07-04T05:55:42.103072+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 27, July 2026. <br />SignificanceThe dynamics of development and resulting spatial arrangement of hairs, feathers, and scales widely varies across vertebrate species. A classical description, known as expansion-induction, proposed that hair follicle precursors form in ..."
+  },
+  {
+    "score": 14.0,
+    "title": "Cities that green themselves: urban environments offset vegetation loss from expansion",
+    "link": "https://www.nature.com/articles/s42949-026-00431-z",
+    "published": "2026-07-03",
+    "collected_at": "2026-07-04T05:55:41.855929+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s42949-026-00431-z\">doi:10.1038/s42949-026-00431-z</a></p>Cities that green themselves: urban environments offset vegetation loss from expansion"
+  },
+  {
+    "score": 19.0,
+    "title": "Beyond inequality to inequity: rethinking spatial and population disparities in green cooling effects across China’s major cities",
+    "link": "https://www.nature.com/articles/s42949-026-00438-6",
+    "published": "2026-07-03",
+    "collected_at": "2026-07-04T05:55:41.855890+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s42949-026-00438-6\">doi:10.1038/s42949-026-00438-6</a></p>Beyond inequality to inequity: rethinking spatial and population disparities in green cooling effects across China’s major cities"
+  },
+  {
+    "score": 5.0,
+    "title": "Increased dengue transmission following highway paving in the Peruvian Amazon",
+    "link": "https://www.nature.com/articles/s41893-026-01879-8",
+    "published": "2026-07-02",
+    "collected_at": "2026-07-04T05:55:41.795027+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41893-026-01879-8\">doi:10.1038/s41893-026-01879-8</a></p>Road construction can be crucial in providing economic opportunities, yet how such infrastructure development links to infectious disease transmission is uncertain. This study examines the role of the 2009 highway construction in the Madre de Dios region of Peru on dengue transmission dynamics."
+  },
+  {
+    "score": 10.0,
+    "title": "Spatial transcriptomic atlas of aggressive osteosarcomas reveals shared immune landscape and targetable surface markers",
+    "link": "https://www.nature.com/articles/s41467-026-74603-x",
+    "published": "2026-07-03",
+    "collected_at": "2026-07-04T05:55:41.734831+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74603-x\">doi:10.1038/s41467-026-74603-x</a></p>Osteosarcoma shows marked cellular heterogeneity that complicates treatment. Here, authors use spatial transcriptomics of primary and metastatic tumors to identify a shared 9-gene cell-surface signature and distinct immune patterns, highlighting potential diagnostic and therapeutic targets."
+  },
+  {
+    "score": 3.0,
+    "title": "Ectomesenchyme contributes to epidermal stem cell formation through mesenchymal-to-epithelial transition",
+    "link": "https://www.nature.com/articles/s41467-026-75278-0",
+    "published": "2026-07-04",
+    "collected_at": "2026-07-04T05:55:41.734678+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 04 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75278-0\">doi:10.1038/s41467-026-75278-0</a></p>Here they show that some epidermal stem cells arise from ectomesenchyme, possibly near the border between neuroectoderm and epidermal ectoderm, revealing a new route of skin development."
+  },
+  {
     "score": 7.0,
     "title": "Estimating global, high-resolution onsite building greenhouse gas emissions",
     "link": "https://www.nature.com/articles/s42949-026-00433-x",
