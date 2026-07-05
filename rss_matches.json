@@ -1,5 +1,121 @@
 [
   {
+    "score": 3.0,
+    "title": "A likelihood-based method for identifying replay from spike sequences",
+    "link": "https://www.nature.com/articles/s41467-026-74822-2",
+    "published": "2026-07-04",
+    "collected_at": "2026-07-05T06:15:19.717536+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 04 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74822-2\">doi:10.1038/s41467-026-74822-2</a></p>How the brain replays past experiences beyond spatial memories remains unclear. Here the authors introduce a new method based on neural firing order, revealing structured replay in both the hippocampus and visual cortex."
+  },
+  {
+    "score": 5.0,
+    "title": "Glutamatergic signaling underlies brain structural organization for mathematical and reading abilities in children",
+    "link": "https://www.nature.com/articles/s41467-026-75102-9",
+    "published": "2026-07-04",
+    "collected_at": "2026-07-05T06:15:19.717506+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 04 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75102-9\">doi:10.1038/s41467-026-75102-9</a></p>Across two independent child cohorts, this study shows that glutamatergic signaling, particularly NMDA receptor distribution, shows reproducible spatial correspondence with brain structural organization supporting math and reading abilities."
+  },
+  {
+    "score": 4.0,
+    "title": "Dielectric-dependent hybrid functional based on meta-GGA",
+    "link": "https://www.nature.com/articles/s41467-026-75146-x",
+    "published": "2026-07-04",
+    "collected_at": "2026-07-05T06:15:19.717377+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "density",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 04 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75146-x\">doi:10.1038/s41467-026-75146-x</a></p>A density functional is proposed that combines a modern treatment of semilocal interactions with an exact constraint for long-range dielectric screening. The method achieves gold-standard accuracy for energy levels while being fast and user-friendly."
+  },
+  {
+    "score": 3.0,
+    "title": "Widespread controls of precipitation sensitivity on drought recovery of global forests",
+    "link": "https://www.nature.com/articles/s41467-026-75320-1",
+    "published": "2026-07-04",
+    "collected_at": "2026-07-05T06:15:19.717338+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 04 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75320-1\">doi:10.1038/s41467-026-75320-1</a></p>Forest recovery after drought is critical for ecosystem resilience under climate change. The authors show that intermediate precipitation sensitivity maximizes drought recovery, whereas climate-driven increases reduce recovery in many forests."
+  },
+  {
+    "score": 3.0,
+    "title": "Dominance of methane emission pathways differs between small ponds with contrasting dissolved oxygen status",
+    "link": "https://www.nature.com/articles/s43247-026-03786-4",
+    "published": "2026-07-03",
+    "collected_at": "2026-07-05T06:15:17.986899+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03786-4\">doi:10.1038/s43247-026-03786-4</a></p>In oxic ponds, ebullition is the dominant pathway for methane emissions, whereas in suboxic ponds, diffusion dominates as a consequence of the varying extent of methane oxidation, according to analyses of in-situ methane flux and isotope data."
+  },
+  {
+    "score": 7.0,
+    "title": "A multivariate framework for assessing compound agroclimatic extremes across Europe",
+    "link": "https://www.nature.com/articles/s43247-026-03576-y",
+    "published": "2026-07-03",
+    "collected_at": "2026-07-05T06:15:17.986846+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03576-y\">doi:10.1038/s43247-026-03576-y</a></p>Compound agroclimatic extremes nonlinearly amplify hazard exposure for potato production across Europe, challenging traditional single-hazard approaches, according to a study using crop-specific thresholds and copula and vine-copula analysis."
+  },
+  {
     "score": 5.0,
     "title": "Dynamic evaporative and radiative cooling for efficient year-round energy savings",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed6069?af=R",
