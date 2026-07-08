@@ -1,5 +1,501 @@
 [
   {
+    "score": 9.0,
+    "title": "Divergent trait controls on soluble sugars and starch underlie global strategies of tree carbohydrate storage",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605066123?af=R",
+    "published": "2026-07-07T07:00:00Z",
+    "collected_at": "2026-07-08T05:31:38.278322+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificancePredicting forest responses to climate extremes is a central challenge in ecology. Environmental conditions strongly influence plant carbon balance, yet intrinsic species differences may determine how trees respond within shared environments. ..."
+  },
+  {
+    "score": 11.0,
+    "title": "Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601817123?af=R",
+    "published": "2026-07-07T07:00:00Z",
+    "collected_at": "2026-07-08T05:31:38.278180+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceAnimals are breeding earlier as the climate warms, but some populations have kept pace with warming while others have fallen behind. Across 123 populations of tree swallows, we find relationships consistent with different climate change ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Controlled generation of 3D vortices in driven atomic Josephson junctions",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535111123?af=R",
+    "published": "2026-07-07T07:00:00Z",
+    "collected_at": "2026-07-08T05:31:38.278050+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceUnderstanding how quantized vortices form, interact, and decay lies at the heart of quantum-fluid dynamics. We introduce a driven atomic Josephson junction as a versatile platform to create and control these excitations with single-cycle ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Dendritic morphology and synaptic nonlinearities enhance functional complexity in human cortical neurons",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533168123?af=R",
+    "published": "2026-07-07T07:00:00Z",
+    "collected_at": "2026-07-08T05:31:38.277941+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceWhat makes human cognition distinctive may begin at the level of single neurons. We introduce the Functional Complexity Index (FCI), a deep-learning-based measure that quantifies the input–output complexity of individual cells. Applying FCI to ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Author Correction: Slab tearing and its surface signals controlled by passive margin strength",
+    "link": "https://www.nature.com/articles/s41467-026-74788-1",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.706792+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74788-1\">doi:10.1038/s41467-026-74788-1</a></p>Author Correction: Slab tearing and its surface signals controlled by passive margin strength"
+  },
+  {
+    "score": 3.0,
+    "title": "People systematically under- and overestimate public engagement in climate action",
+    "link": "https://www.nature.com/articles/s41558-026-02668-z",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433786+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02668-z\">doi:10.1038/s41558-026-02668-z</a></p>Unlike previous work showing that people underestimate others’ support for climate action, this study finds systematic pluralistic ignorance in both directions: frequent attitudes and actual behaviours are underestimated but rare ones are overestimated. This can be explained by general cognitive processes."
+  },
+  {
+    "score": 7.0,
+    "title": "Future-proofing interpretations of the Paris Agreement’s limit of well below 2 °C",
+    "link": "https://www.nature.com/articles/s41558-026-02685-y",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433742+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02685-y\">doi:10.1038/s41558-026-02685-y</a></p>Here the authors show that a common interpretation of the Paris Agreement’s ‘well below 2° C’ target is changing with time, which could lead to higher overall warming. They propose that using median temperatures instead of probability ranges is more robust."
+  },
+  {
+    "score": 3.0,
+    "title": "Nepal’s swift embrace of electric vehicles",
+    "link": "https://www.nature.com/articles/s41558-026-02588-y",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433695+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02588-y\">doi:10.1038/s41558-026-02588-y</a></p>The rapid electrification of Nepal’s automobile sector in just five years shows how a robust mix of policies and incentives can catapult climate action."
+  },
+  {
+    "score": 5.0,
+    "title": "Responsible carbon accounting",
+    "link": "https://www.nature.com/articles/s41558-026-02707-9",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433659+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02707-9\">doi:10.1038/s41558-026-02707-9</a></p>Carbon accounting shapes how climate responsibility is allocated, and expanding existing frameworks could provide a stronger basis for effective and equitable climate action."
+  },
+  {
+    "score": 3.0,
+    "title": "Shifts in experiencing downpours",
+    "link": "https://www.nature.com/articles/s41558-026-02702-0",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433632+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02702-0\">doi:10.1038/s41558-026-02702-0</a></p>Shifts in experiencing downpours"
+  },
+  {
+    "score": 3.0,
+    "title": "Female climate leadership",
+    "link": "https://www.nature.com/articles/s41558-026-02704-y",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433615+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02704-y\">doi:10.1038/s41558-026-02704-y</a></p>Female climate leadership"
+  },
+  {
+    "score": 3.0,
+    "title": "Roots respond to phosphorus limitation",
+    "link": "https://www.nature.com/articles/s41558-026-02701-1",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433596+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02701-1\">doi:10.1038/s41558-026-02701-1</a></p>Roots respond to phosphorus limitation"
+  },
+  {
+    "score": 3.0,
+    "title": "Seals in changing seas dive longer",
+    "link": "https://www.nature.com/articles/s41558-026-02703-z",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.433564+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02703-z\">doi:10.1038/s41558-026-02703-z</a></p>Seals in changing seas dive longer"
+  },
+  {
+    "score": 3.0,
+    "title": "Body-plan organizer in comb jellies hints at animal ancestry",
+    "link": "https://www.nature.com/articles/d41586-026-02040-3",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:37.205163+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02040-3\">doi:10.1038/d41586-026-02040-3</a></p>Transplantation experiments in evolutionarily distinct animal groups reveal conserved mechanisms underlying tissue organization during development."
+  },
+  {
+    "score": 5.0,
+    "title": "Brain-inspired representations of urban space",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2660988?af=R",
+    "published": "2026-06-29T11:31:43Z",
+    "collected_at": "2026-07-08T05:31:36.665411+00:00",
+    "feed_title": "tandf: International Journal of Geographical Information Science: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgis20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": ". <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "Vegetation greening decouples terrestrial carbon‒water cycles through contrasting effects on water availability",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2697122?af=R",
+    "published": "2026-07-02T05:08:33Z",
+    "collected_at": "2026-07-08T05:31:36.297521+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "A macro-micro-coupled flow clustering framework for mining heterogeneous urban mobility dynamics across scales",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2694121?af=R",
+    "published": "2026-06-29T04:45:58Z",
+    "collected_at": "2026-07-08T05:31:36.297494+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Accurate machine learning reconstruction and forecasting of global wetland extent",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2694176?af=R",
+    "published": "2026-06-26T10:51:11Z",
+    "collected_at": "2026-07-08T05:31:36.297461+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 10.0,
+    "title": "Dynamics of model-based groundwater-land surface response times as a dryland flash drought diagnostic",
+    "link": "https://www.nature.com/articles/s43247-026-03783-7",
+    "published": "2026-07-06",
+    "collected_at": "2026-07-08T05:31:35.516159+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03783-7\">doi:10.1038/s43247-026-03783-7</a></p>Background atmospheric aridity and seasonal terrestrial wetness jointly regulate modeled groundwater–land surface response time, highlighting modeled dynamic groundwater response time as a promising indicator for diagnosing flash droughts over drylands, according to a global analysis using a dynamic exponential filter."
+  },
+  {
+    "score": 8.0,
+    "title": "Targeted adaptation options can effectively reduce amplified compound water-heat stress around maize flowering in China",
+    "link": "https://www.nature.com/articles/s43247-026-03785-5",
+    "published": "2026-07-06",
+    "collected_at": "2026-07-08T05:31:35.516112+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03785-5\">doi:10.1038/s43247-026-03785-5</a></p>Dynamic adaptation through optimized planting dates and cultivar selection can reduce compound water–heat stress impacts on maize by over 70% in China, despite intensifying climate stresses, based on a newly developed stress index and climate-driven projections."
+  },
+  {
+    "score": 4.0,
+    "title": "Subsurface kinetic energy source driven by Charney-type instability in oceanic fronts",
+    "link": "https://www.nature.com/articles/s43247-026-03782-8",
+    "published": "2026-07-06",
+    "collected_at": "2026-07-08T05:31:35.516051+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03782-8\">doi:10.1038/s43247-026-03782-8</a></p>Charney-type instability drives intense turbulent mixing in the ocean subsurface, according to high-resolution observations combined with linear stability analysis."
+  },
+  {
+    "score": 8.0,
+    "title": "Human-induced subsidence exceeds sea-level rise in driving future coastal flood exposure in China’s Greater Bay Area",
+    "link": "https://www.nature.com/articles/s43247-026-03787-3",
+    "published": "2026-07-06",
+    "collected_at": "2026-07-08T05:31:35.516020+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03787-3\">doi:10.1038/s43247-026-03787-3</a></p>In the Greater Bay Area of China, coastal land elevation would need to be raised by an average of 0.45 m by 2050 to account for human-induced subsidence, according to physics-based modelling of future coastal flood exposure"
+  },
+  {
+    "score": 5.0,
+    "title": "Measuring the retrofitting potential of the German gas grid for the development of hydrogen infrastructure",
+    "link": "https://www.nature.com/articles/s43247-026-03207-6",
+    "published": "2026-07-06",
+    "collected_at": "2026-07-08T05:31:35.515970+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03207-6\">doi:10.1038/s43247-026-03207-6</a></p>In Germany, the current natural gas infrastructure is expected to ensure supply security for decades to come, with considerable retrofitting potential, and new pipelines will be needed to establish a hydrogen grid by 2035, according to a gas market model simulation."
+  },
+  {
+    "score": 7.0,
+    "title": "Streamflow composition in U.S. rivers is shifting toward recent precipitation",
+    "link": "https://www.nature.com/articles/s43247-026-03788-2",
+    "published": "2026-07-07",
+    "collected_at": "2026-07-08T05:31:35.515908+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03788-2\">doi:10.1038/s43247-026-03788-2</a></p>The contribution of recent precipitation to streamflow has increased in 27% of 754 U.S. catchments over the last decades, driven by more intense rainfall and urbanization together with forest loss, reveals a deep learning analysis of specific conductance data from ~24,000 storm events."
+  },
+  {
     "score": 7.0,
     "title": "Long-term stability and performance of Cas9/guide RNA-based gene drives in anopheline mosquitoes",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605739123?af=R",
