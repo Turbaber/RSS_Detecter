@@ -1,5 +1,281 @@
 [
   {
+    "score": 3.0,
+    "title": "Impacts of extreme drought events on forest ecosystem resilience in mainland Southeast Asia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S209592732600784X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-14T05:09:56.137895+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 July 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Lusha Ma, Kun Yang, Zongqi Peng, Run Sun, Mingfeng Zhang, Danni Su, Jingcong Ma, Yanhui Zhu, Xianchun Pan</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Reassessing the global statistical significance of the 4.2 ka and 8.2 ka events from a spatial heterogeneity perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326007942?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-14T05:09:56.137853+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 July 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Qi Nan, Shengqian Chen, Lingxin Huang, Jie Chen, Jürg Luterbacher, Michael E. Meadows</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human–machine interfaces",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615835123?af=R",
+    "published": "2026-07-13T07:00:00Z",
+    "collected_at": "2026-07-14T05:09:55.614277+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. <br />SignificanceLong-term wearable health monitoring requires sensors to remain comfortably attached to the body while maintaining reliable connections to electronic systems. However, failures often occur at both the skin-sensor or the sensor–electronics ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Developmental divergence in voice–reward circuitry differentiates autistic from typically developing children and adolescents",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601227123?af=R",
+    "published": "2026-07-13T07:00:00Z",
+    "collected_at": "2026-07-14T05:09:55.614034+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. <br />SignificanceAdolescence is marked by a shift in social orientation from parents to nonfamilial peers, a process that helps young people navigate their increasing independence. How this changing social landscape unfolds in adolescents with autism, who ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Internal stress controls tendril writhing dynamics in climbing plants",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537010123?af=R",
+    "published": "2026-07-13T07:00:00Z",
+    "collected_at": "2026-07-14T05:09:55.613938+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. <br />SignificancePlant tendrils are mechanosensitive organs known for touch-induced differential growth. Using cucumber tendrils under external traction, we show that nonhomogeneous internal stress plays a role in coiling dynamics. External loading inhibits ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Crowding controls the scaling of bus frequency with demand",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535998123?af=R",
+    "published": "2026-07-13T07:00:00Z",
+    "collected_at": "2026-07-14T05:09:55.613881+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. <br />SignificancePublic transit agencies face the challenge of allocating limited resources across routes with varying demand. Analyzing bus systems across 19 metropolitan areas, we show that, despite differences in cities, agencies, and planning practices, ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Raman imaging of the phycosphere reveals sharp gradients of organic matter exuded by single phytoplankton cells",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535317123?af=R",
+    "published": "2026-07-13T07:00:00Z",
+    "collected_at": "2026-07-14T05:09:55.613849+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. <br />SignificancePhytoplankton cells release chemicals in water, generating a microzone called phycosphere where microbial interactions take place. We mapped the spatial distribution of a phytoplankton metabolite in the phycosphere, revealing features of ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Combined signals of scientific and social consensus best mobilize action on societal challenges even if government and industry oppose",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533408123?af=R",
+    "published": "2026-07-13T07:00:00Z",
+    "collected_at": "2026-07-14T05:09:55.613776+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. <br />SignificanceTo successfully mobilize the public to address major societal challenges like climate change or health pandemics, we need to understand how people decide to act when faced with combinations of potentially conflicting messages from multiple ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Ecology is not at risk of a methodological balance crisis",
+    "link": "https://www.nature.com/articles/s41558-026-02706-w",
+    "published": "2026-07-13",
+    "collected_at": "2026-07-14T05:09:54.960446+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02706-w\">doi:10.1038/s41558-026-02706-w</a></p>Ecology is not at risk of a methodological balance crisis"
+  },
+  {
+    "score": 4.0,
+    "title": "First ‘true sugar’ molecule found in space — offering hints to life’s origins",
+    "link": "https://www.nature.com/articles/d41586-026-02173-5",
+    "published": "2026-07-13",
+    "collected_at": "2026-07-14T05:09:54.805966+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02173-5\">doi:10.1038/d41586-026-02173-5</a></p>Erythrulose, which has four carbon atoms, is the most complex sugar spotted beyond our Solar System."
+  },
+  {
+    "score": 6.0,
+    "title": "“Echoes of the Hanging Gardens”: Integrating phenomenological lived experience with multifaceted performance of green roofs in iranian urban residential housing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526002092?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-14T05:09:54.428533+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Habitat International, Volume 176</p><p>Author(s): Gamze Doğdu Yücetürk, Behnam Ghasemzadeh, Sahar Toofan, Rituraj Neog, Leila Rahimi, Payam Rahnamayiezekavat</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "The equity impact of bike-sharing on developing X-minute cities: A case study of 36 cities in Zhejiang Province, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126005779?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-14T05:09:53.755245+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Cities, Volume 178</p><p>Author(s): Wenyan Fu, Páraic Carroll, Yongping Zhang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Shaping socio-functional urban identity: When morphometrics meet social media data to reveal neighbourhood structure and cores",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126006050?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-14T05:09:53.755204+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Cities, Volume 178</p><p>Author(s): Almudena Nolasco-Cirugeda, Jesús López-Baeza, Sergio García-Pérez, Clara García-Mayor</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "POD-FNO for efficient and interpretable prediction of turbulent flow around bluff bodies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326007651?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-14T05:09:53.674816+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 September 2026</p><p><b>Source:</b> Building and Environment, Volume 303</p><p>Author(s): Yanyu Ke, Junle Liu, Yifan Wang, Wenliang Chen, Gang Hu, K.T. Tse, Hui Li</p>"
+  },
+  {
     "score": 10.0,
     "title": "Density or diversity? Untangling the roles of points of interest (POIs) in shaping urban vitality",
     "link": "https://www.sciencedirect.com/science/article/pii/S221067072600555X?dgcid=rss_sd_all",
