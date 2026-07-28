@@ -1,5 +1,461 @@
 [
   {
+    "score": 10.0,
+    "title": "How urban system structure and land use dynamics jointly shape climate vulnerability in Northwestern China over the 21<sup>st</sup> century",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221209552600297X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-28T05:25:12.106092+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Wei Zhou, Yan Wen, Shanshan Jia, Xin Fu, Tongtong Li, Jiarong Zhu, Xinhao Wang</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Daily active-mobility green space exposure and subjective health: An age-comparative perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003523?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-28T05:25:12.013307+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 July 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Xiao Cui, Changyu Han, Minxia Luo, Christina Röcke, Robert Weibel</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Development and optimal sizing of an integrated renewable energy system for sustainable cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005950?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-28T05:25:11.899995+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Ahmet Emin Dedeoglu, Ibrahim Dincer</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Climate warming and atmospheric deposition jointly accelerate the Antarctic Peninsula atmosphere–glacier–land–ocean mercury loop",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613472123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.775158+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceAntarctica is often viewed as remote from industrial pollution, yet we show that the Antarctic Peninsula has become a hotspot of mercury accumulation. By combining geochemical and isotope records from 16 sediment cores with an observation-..."
+  },
+  {
+    "score": 4.0,
+    "title": "Sprint-like cardiac dynamics support repeated acrobatic lunges in foraging rorqual whales",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613082123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.775120+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceRorqual whales’ foraging style combines high- and low-power feeding strategies to exploit prey patches at high efficiencies. To date, limited data exist to assess how rorquals’ cardiac function fluctuates to match the “extreme” exercise ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Discovery of a phenazine–thiol conjugase from sparse data using genome-informed machine learning",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607571123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.775084+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceMachine learning excels when large, well-labeled datasets are available, yet many biologically important problems lack sufficient experimental data to support such approaches to discovery. This limitation is particularly acute for identifying ..."
+  },
+  {
+    "score": 7.0,
+    "title": "Rapid microbial production of long-lived dissolved organic carbon in the global ocean",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601044123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774912+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceThe ocean holds a vast reservoir of millennia-old organic carbon in the form of chemically complex dissolved organic matter (DOM), critical to Earth’s climate. Enabled by an advanced analytical tool, this study moves beyond conventional ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Heat tolerance decreases and cold tolerance increases with elevation for a species-rich insect family on a tropical volcano",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533455123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774813+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceEmpirical evaluations of thermal tolerance for tropical species are sparse, and this reduces our capacity to anticipate the impact of the climate crisis on the undescribed morass of wild biodiversity. While theory predicts that heat tolerances ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Insights into hominin body size, locomotion, and behavior from Early Pleistocene trackways in northern Kenya",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530996123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774773+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceWe present discoveries of ~1.43 Mya fossil footprints that provide important data on the anatomy, body size, locomotion, behavior, and habitats of Early Pleistocene hominins. A single excavated surface captures a group of hominins who made ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Abrupt transition to irreversible damage in the overdrafted Sacramento Valley aquifer system",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2526041123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774715+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceGroundwater extraction can cause both reversible and irreversible ground deformation, with the latter leading to permanent land subsidence and loss of groundwater storage capacity. Satellite observations of land surface deformation reveal that ..."
+  },
+  {
+    "score": 10.0,
+    "title": "Rapid acceleration of ice-cover loss from Northern Hemisphere lakes above critical air temperature thresholds",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610752123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774646+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. <br />SignificanceIce cover is a fundamental regulator of northern lake ecosystems, yet the specific thermal thresholds that trigger abrupt phenological changes have remained elusive. We demonstrate that lake-ice sensitivity to atmospheric warming is not only ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Accelerating Campylobacter zoonosis in the Anthropocene",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609969123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774571+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. <br />SignificanceHuman-driven environmental change in the Anthropocene is reshaping how pathogens emerge, evolve, and spread. This study shows that the global expansion of intensive poultry farming has created a ecological system that fundamentally alters ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Global threat exposure of islands in a changing world",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534106123?af=R",
+    "published": "2026-07-27T07:00:00Z",
+    "collected_at": "2026-07-28T05:25:10.774473+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. <br />SignificanceGlobal change severely threatens island ecosystems, exposing them to sea-level rise, non-native species, and land-use conversions. Because islands are small-scale systems, they are often overlooked in global threat assessments, despite holding ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
+    "link": "https://www.nature.com/articles/s41558-026-02692-z",
+    "published": "2026-07-27",
+    "collected_at": "2026-07-28T05:25:10.187924+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 27 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02692-z\">doi:10.1038/s41558-026-02692-z</a></p>Soil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting the need to consider carbon impacts of forest disturbance and conservation on an ecosystem scale."
+  },
+  {
+    "score": 4.0,
+    "title": "Tree species richness relates to long-term forest photosynthesis increase",
+    "link": "https://www.nature.com/articles/s41558-026-02698-7",
+    "published": "2026-07-27",
+    "collected_at": "2026-07-28T05:25:10.187875+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 27 July 2026; <a href=\"https://www.nature.com/articles/s41558-026-02698-7\">doi:10.1038/s41558-026-02698-7</a></p>The authors integrate tree species richness with satellite-derived photosynthesis proxies to show that richness correlates with greater current levels of photosynthesis and greater increases over time. Projected biodiversity loss by 2050 could lead to cumulative forest photosynthesis loss of 4.4–35.7 PgC."
+  },
+  {
+    "score": 3.0,
+    "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
+    "link": "https://www.nature.com/articles/d41586-026-02316-8",
+    "published": "2026-07-27",
+    "collected_at": "2026-07-28T05:25:10.062146+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 27 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02316-8\">doi:10.1038/d41586-026-02316-8</a></p>People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers."
+  },
+  {
+    "score": 16.0,
+    "title": "Equity and justice in heat planning across small, midsize, and large cities in the US",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001829?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-28T05:25:09.896447+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Landscape and Urban Planning, Volume 276</p><p>Author(s): Xiaofei Qin, Abigail Sullivan, Anne G. Short Gianotti</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Divergent Heat Assessments Across Thermal Stress and Sensation Metrics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008395?af=R",
+    "published": "Sun, 26 Jul 2026 22:35:52 -0700",
+    "collected_at": "2026-07-28T05:25:08.596521+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "metrics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 7, July 2026."
+  },
+  {
+    "score": 10.0,
+    "title": "Urban park use patterns across gender and age in Seoul: Multivariate and long-term time series analysis based on mobile communication data (2017–2024)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126006864?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-07-28T05:25:08.069533+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Hajung Ko, Sunmin Jun, Haekyung Park</p>"
+  },
+  {
     "score": 9.0,
     "title": "Vertical variations and source identification of PM<sub>2.5</sub> and PM<sub>10–2.5</sub>–bound elements around a high–rise building in urban Bangkok, Thailand",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002993?dgcid=rss_sd_all",
