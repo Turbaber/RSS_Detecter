@@ -1,5 +1,705 @@
 [
   {
+    "score": 6.0,
+    "title": "Developing LCZ morphological attenuation-based parameterization prediction models for roadside block-scale PM<sub>2.5</sub> concentration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003068?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:09.139501+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Lin Liu, Junjie Huang, Tianyu Wang, Jian Hang, Hua Yuan, Lei Jin</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Effect of street trees on turbulent exchange processes and flow circulation in urban street canyon: Application to air pollutant removal",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002804?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:09.139448+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Francesco Barbano, Erika Brattich, Silvana Di Sabatino</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Physics-informed sensor placement for street canyon wind field reconstruction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726004476?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532224+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 September 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 148</p><p>Author(s): Wenjun Jiang, Daniel Ziyue Peng, Bo Liu, Han Peng</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Corrigendum to “Collaboratively optimize of multi-scale spatial form within urban blocks for low-carbon performance: A machine learning-driven design support framework” [Sustainable Cities and Society, 143 (2026), 107342]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005615?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532200+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 September 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 148</p><p>Author(s): Gaomei Li, Hongxin Guo, Jian Kang, Yichen Dong, Hua Zhong, Anting Gao, Wei Lu, Shen Xu</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Corrigendum to “Learning from residuals: a knowledge-data-driven hybrid model for explaining the social-ecological influences on urban agglomeration resilience” [Sustainable Cities and Society 147 (2026) 107539]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600510X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532164+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 September 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 148</p><p>Author(s): Hao Wu, Jiayuan Li, Anqi Lin</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Corrigendum to “Toward climate-adaptive rural morphology: a grid-based micro-mesh framework for quantifying microclimate drivers” [Sustainable Cities and Society 148 (2026) 107617]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005603?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532132+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 September 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 148</p><p>Author(s): Zhixing Li, Yanjun Su, Tsung-Hsien Wang, Mimi Tian</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Corrigendum to “Scale-dependent contributions of local and neighborhood influences on LCZ thermal variation” [Sustainable Cities and Society 148 (2026) 107621]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726005494?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532102+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 September 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 148</p><p>Author(s): Tianhui Wu, Jianjun Bai, Ziyun Zhang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Corrigendum to “Water-Land-Energy-Carbon nexus in cities: A dynamic model with evidence from Beijing” [Sustainable Cities and Society 148 (2026) 107579]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600572X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532073+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 September 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 148</p><p>Author(s): Yanning Gao, Guangjin Tian, Xiaowen Shi, Tong Lin</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Subtropical climate and intraday temperature variability: Mental health risks and modifying roles of demographic and seasonal factors in Texas",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006347?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.532026+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Yue Zhang, Kaili Zhang, Yizhen Ding, Chia-Ching Wu, Dongying Li</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Flexing electric vehicle charging for socio-technical resilience: Distribution transformer headroom and locational value analyses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006402?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.531998+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Oluwasola O. Ademulegun, Damian Flynn, Bukola Oni, Motasem Bani Mustafa, Adekanmi M. Adeyinka, Eustache Uwimana, Neil J. Hewitt</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Indoor–outdoor heat stress, housing characteristics, and health outcomes in an informal settlement: a mixed‑methods study from Dar es Salaam, Tanzania",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006268?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.531968+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Tobi Eniolu Morakinyo, Iyanuoluwa Fatunmbi, Lazaro Eliyah Mngumi, Elinorata Mbuya, Francesco Pilla, Oluwafemi Benjamin Obe, David Bassey, Modest Baruti</p>"
+  },
+  {
+    "score": 17.0,
+    "title": "Long-term dynamics of PM<sub>2.5</sub> exposure and modeled health gains in Beijing’s central urban area: Spatiotemporal differentiation and layered constraints across multidimensional environmental conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006438?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.531930+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Yushan Liu, Jing Zhao</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Wind amplification induced by high-rise buildings and identification of local wind-prone neighborhoods using a CFD-machine learning framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600630X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.531894+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Keyi Chen, Ziwei Mo</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Identification of heat risk and resilience response in a mountainous megacity from a supply–demand perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006244?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.531867+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Yu Gao, Ziyao Wang, Chi Li</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Comparing waterbody cooling during heatwave with subsequent summers in high-latitude coastal Copenhagen",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006396?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:08.531826+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Ida Maria Bonnevie</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Assessing SWOT's capability for surface water extent mapping: An evaluation of Level-2 High-Rate Raster water fraction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003652?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:07.590863+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Maurício C.R. Cordeiro, Mohammad J. Tourian, Santiago Peña-Luque, Renato Prata de Moraes Frasson, Daniel Moreira, Fabrice Papa, Tati de Almeida</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Smart cities fall short: why ecoadaptive urban intelligence is essential for climate resilience",
+    "link": "https://www.nature.com/articles/s42949-026-00456-4",
+    "published": "2026-07-31",
+    "collected_at": "2026-08-03T05:53:07.182430+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s42949-026-00456-4\">doi:10.1038/s42949-026-00456-4</a></p>Smart cities fall short: why ecoadaptive urban intelligence is essential for climate resilience"
+  },
+  {
+    "score": 7.0,
+    "title": "Spatial heterogeneity in the distance-decay pattern of migration: facts and explanation from intercity migration network in China",
+    "link": "https://www.nature.com/articles/s42949-026-00452-8",
+    "published": "2026-08-01",
+    "collected_at": "2026-08-03T05:53:07.182401+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 01 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00452-8\">doi:10.1038/s42949-026-00452-8</a></p>Spatial heterogeneity in the distance-decay pattern of migration: facts and explanation from intercity migration network in China"
+  },
+  {
+    "score": 11.0,
+    "title": "Urban high-rise compact form amplifies humid heat risk from vegetation transpiration",
+    "link": "https://www.nature.com/articles/s42949-026-00459-1",
+    "published": "2026-08-02",
+    "collected_at": "2026-08-03T05:53:07.182361+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 02 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00459-1\">doi:10.1038/s42949-026-00459-1</a></p>Urban high-rise compact form amplifies humid heat risk from vegetation transpiration"
+  },
+  {
+    "score": 8.0,
+    "title": "Assessing the alignment of land consolidation policies with the Sustainable Development Goals: A case study of China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026483772600342X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:06.413998+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Land Use Policy, Volume 171</p><p>Author(s): Yasi Tian, Yice Zhang, Yan Zhang</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Dual mode thermal regulating materials for building envelopes: A review of mechanisms, performance and applications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008553?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:05.164609+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part A</p><p>Author(s): Fanzheng Meng, Dang Mao Nguyen, Zhi Gao, Wendi Yu, Zhixuan Fan, Hanning Wang, Jian Hang, Zizhen Zhao, Xiaodong Zhu, Fusuo Xu</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "A human–shading interaction approach for deriving personal vertical illuminance setpoints for shading control in shared offices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008516?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:05.164559+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part A</p><p>Author(s): Mahdi Valitabar, Veronica Garcia-Hansen, Osman Tursun, Omid Motamedisedeh, Maryam Haghighat</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Dynamic audio-visual preference in waterfront walking environments: Effects of distance-layered spatial structure and soundscape",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008644?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:05.164503+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part A</p><p>Author(s): Siyu Feng, Ruixuan Li</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Field-informed reinforcement learning for multi-objective indoor air quality control in naturally ventilated buildings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008486?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:05.164478+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part A</p><p>Author(s): Bangwoo Han, Keejung Hong, Gunhee Lee, Jongwoo Kim, Junemo Koo</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Thermal improvement of urban squares under spatial and functional constraints",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008577?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:05.164447+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part A</p><p>Author(s): Chanjuan Wang, Weijun Gao, Zongmao Li, Aruhan Gong, Yuan Su</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Urban-scale assessment of human thermal stress: A high-resolution framework incorporating intra-urban meteorological heterogeneity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008358?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-03T05:53:05.164397+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part A</p><p>Author(s): Wenchao Li, Chaosu Li, Qiong Li, Kaishun Wu</p>"
+  },
+  {
     "score": 8.0,
     "title": "Enhanced solar radiation diffusion in the urban environment: A case study over Houston, Texas",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002646?dgcid=rss_sd_all",
