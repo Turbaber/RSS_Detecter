@@ -1,6 +1,502 @@
 [
   {
     "score": 9.0,
+    "title": "The role of soil moisture and shading in influencing the capacity of urban street trees to reduce heat stress",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003172?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.880809+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Ricard Segura-Barrero, Alberto Martilli, E. Scott Krayenhoff, Alba Badia, Gara Villalba</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Urban flooding in a tropical coastal environment: Rainfall-impact patterns for early warning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003226?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.880771+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: August 2026</p><p><b>Source:</b> Urban Climate, Volume 68</p><p>Author(s): Hanna Soares Viana, Fabricio Polifke</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Beyond carbon: a systematic review of building decarbonization co-benefits and quantification methods",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006578?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.247288+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Ye Xia, Tao Wang, Yu Qian Ang</p>"
+  },
+  {
+    "score": 18.0,
+    "title": "Where are cool and jogging-active spaces? LCZ-contextualized trade-off windows between surface thermal burden and jogging intensity in a high-density city",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006621?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.247244+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Qikang Zhong, Zhe Li, Tianxiang Long, Congying Fang, Chao Yuan</p>"
+  },
+  {
+    "score": 17.0,
+    "title": "Semantic enrichment of 3D city models via roof material classification for urban greening and heat island mitigation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006177?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.247215+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Elmehdi Kanna, Jannik Matijevic, Lukas Arzoumanidis, Huynh Duc An Son Nguyen, Youness Dehbi</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "The association between passenger vehicle size and pedestrian fatality in Australia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006633?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.247187+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Iman Taheri Sarteshnizi, Neema Nassir, Abbas Rajabifard, Milad Haghani</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Heat and cold at work: Occupational accidents and apparent temperature in the primary and construction sectors across five spanish provinces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006694?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.247162+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): María Obregón, Ricardo Almendra, Pablo Fdez-Arroyabe, Carlos Leveau, Ana Santurtún</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Experimental study on long-term hydro-thermal performance of soil-covered green roofs: Implications for urban resilience and sponge city implementation in subtropical regions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006530?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:11.247115+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Jianzhao Ding, Shan Huang, Mingjie Jiang, Jun Zhong, Guoxiong Mei</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Stratospheric intrusion and deep boundary layer coupling drive surface ozone bursts over the Southern Tibetan Plateau during the monsoon season",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326008881?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:10.748837+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 August 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Ying Shen, Dan Li, Zhixuan Bai, Yinghong Wang, Mengtian Cheng, Yu Wang, Yang Zhang, Deqing Zhuoga, Nima Chuduo, Yaoming Ma, Jianchun Bian, Yuesi Wang, Guiqian Tang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "GeoAI for healthy cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326008868?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:10.748744+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 August 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Haoran Ma, Mei-Po Kwan</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Human learning of probability distributions is biased toward moderate structural complexity",
+    "link": "https://www.nature.com/articles/s41467-026-76247-3",
+    "published": "2026-08-08",
+    "collected_at": "2026-08-09T03:53:09.495351+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76247-3\">doi:10.1038/s41467-026-76247-3</a></p>Humans build internal models from online observations to adapt to new environments. Here, the authors show that individuals are biased towards building models with moderate structural complexity, regardless of true complexity."
+  },
+  {
+    "score": 4.0,
+    "title": "Persistence of Arctic Ocean acidification under negative emissions",
+    "link": "https://www.nature.com/articles/s41558-026-02715-9",
+    "published": "2026-08-06",
+    "collected_at": "2026-08-09T03:53:09.385986+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41558-026-02715-9\">doi:10.1038/s41558-026-02715-9</a></p>Changes in the Earth system may persist long after atmospheric CO2 levels decline. This study examines ocean acidification and how it will persist in ocean regions globally, with the Arctic identified as the area that experiences relief from acidification the latest under negative emissions."
+  },
+  {
+    "score": 5.0,
+    "title": "Hydraulic traits govern opposing range shifts of montane trees under warming",
+    "link": "https://www.nature.com/articles/s41558-026-02726-6",
+    "published": "2026-08-06",
+    "collected_at": "2026-08-09T03:53:09.385937+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41558-026-02726-6\">doi:10.1038/s41558-026-02726-6</a></p>The authors integrate dendrochronological records with range shifts to show that shifts in montane tree species are tightly linked to tree hydraulic properties. While climate-sensitive species track warming to higher elevations, stress-resistant species expand downslope."
+  },
+  {
+    "score": 9.0,
+    "title": "Ecosystem services supplied by urban green corridors with varying degrees of community involvement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726003352?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:08.939994+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Land Use Policy, Volume 171</p><p>Author(s): Kara Rüber, Lars Bodum, Thomas Elliot</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A Green's Function Approach to Black Carbon: Ensembles of Policy Analysis in Southeast Asia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007851?af=R",
+    "published": "Fri, 07 Aug 2026 03:00:43 -0700",
+    "collected_at": "2026-08-09T03:53:07.823671+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 8, August 2026."
+  },
+  {
+    "score": 8.0,
+    "title": "Extreme Heat and Rainfall Risk Attributed to Cumulative CO2 Emissions From Fossil Fuel Producers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008278?af=R",
+    "published": "Fri, 07 Aug 2026 03:30:30 -0700",
+    "collected_at": "2026-08-09T03:53:07.823643+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 8, August 2026."
+  },
+  {
+    "score": 4.0,
+    "title": "Wintertime organic carbon export provides a potential food source for zooplankton in the High Arctic",
+    "link": "https://www.nature.com/articles/s43247-026-03865-6",
+    "published": "2026-08-07",
+    "collected_at": "2026-08-09T03:53:07.427052+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03865-6\">doi:10.1038/s43247-026-03865-6</a></p>Arctic wintertime carbon export sustained by lateral transport provides an important food source for zooplankton in ice-covered ecosystems, according to analyses of sediment-trap samples from the Northwind Abyssal Plain."
+  },
+  {
+    "score": 4.0,
+    "title": "Evaluating the long-term fate of carbon in a restored intertidal habitat",
+    "link": "https://www.nature.com/articles/s43247-026-03897-y",
+    "published": "2026-08-07",
+    "collected_at": "2026-08-09T03:53:07.427018+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03897-y\">doi:10.1038/s43247-026-03897-y</a></p>A 20-year assessment of a restored UK intertidal wetland shows that rapid sediment accretion drives substantial carbon accumulation, while depth-dependent shifts from labile to recalcitrant organic matter provide new insights into long-term blue carbon storage."
+  },
+  {
+    "score": 3.0,
+    "title": "Global methane emissions from rice paddies are now increasingly quantifiable",
+    "link": "https://www.nature.com/articles/s43247-026-03902-4",
+    "published": "2026-08-08",
+    "collected_at": "2026-08-09T03:53:07.426981+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03902-4\">doi:10.1038/s43247-026-03902-4</a></p>Over the years, bottom-up and top-down estimates of global rice paddy methane emissions have improved through better biochemical representation, methane-cycle mechanisms, expanded datasets, lower uncertainties, and higher-resolution process-based and satellite approaches enabled by stronger computing power."
+  },
+  {
+    "score": 5.0,
+    "title": "La Niña’s longevity shapes Bering Sea ice fate",
+    "link": "https://www.nature.com/articles/s43247-026-03896-z",
+    "published": "2026-08-08",
+    "collected_at": "2026-08-09T03:53:07.426896+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03896-z\">doi:10.1038/s43247-026-03896-z</a></p>Multi-year La Niña events mitigate the long-term decline in spring ice concentration in the Bering Sea, whereas single-year events suppress ice formation, as revealed by observations and climate model simulations."
+  },
+  {
+    "score": 3.0,
+    "title": "The invisible hand of God: faith-based organizations and the governance of food poverty in Rome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126007110?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-09T03:53:07.338936+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Stefano Quaglia, Lorena Lombardozzi</p>"
+  },
+  {
+    "score": 9.0,
     "title": "The urbanization difference between the two sides of the Greater Bay Area regulates the evolution divergence of sea-land breeze",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003160?dgcid=rss_sd_all",
     "published": "",
