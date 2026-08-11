@@ -1,5 +1,565 @@
 [
   {
+    "score": 13.0,
+    "title": "Scheduled adaptive recalibration for sustainable and accurate demand forecasting in urban building energy management",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006670?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-11T03:55:07.867965+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Xiufeng Liu, Ruyu Liu, Chunting Liu, Per Sieverts Nielsen</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "A robust method for high-resolution C/S-band SAR image matching via pseudo-modality generation and coupled spectrum-spatial learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003822?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-11T03:55:06.887880+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 345</p><p>Author(s): Mingyang Song, Hong Zhang, Yukun Fan, Lu Tian, Yuzhou Liu, Yazhe Xie, Yinhaibing Ding</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Economic integration and upward mobility in Brazil",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604542123?af=R",
+    "published": "2026-08-10T07:00:00Z",
+    "collected_at": "2026-08-11T03:55:06.784872+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. <br />SignificanceWe use more than 900 million linked employer–employee records covering the entire formal workforce of Brazil to examine when cities provide upward mobility for the initially poor. We find that upward mobility for low-wage workers is strongest ..."
+  },
+  {
+    "score": 6.0,
+    "title": "The origin and development of the Miocene northwest African savanna",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527340123?af=R",
+    "published": "2026-08-10T07:00:00Z",
+    "collected_at": "2026-08-11T03:55:06.784624+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. <br />SignificanceIn modern Africa, savannas cover ~50% of the continent, provide critical ecosystem services, and affect global climate. Here, we uncover the history of savanna development in northwest Africa. We show that C3, grass-rich ecosystems with no ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Historical slavery predicts contemporary disparities in mortality between Black and White Americans",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2508037123?af=R",
+    "published": "2026-08-10T07:00:00Z",
+    "collected_at": "2026-08-11T03:55:06.784504+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      },
+      {
+        "keyword": "mortality",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. <br />SignificanceBlack–White mortality disparities remain a persistent form of inequality in the United States. This study provides evidence that the proportion of enslaved people across U.S. counties in 1860 predicts contemporary Black–White mortality ..."
+  },
+  {
+    "score": 5.0,
+    "title": "A transient global warming event during Earth’s penultimate icehouse",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601643123?af=R",
+    "published": "2026-08-10T07:00:00Z",
+    "collected_at": "2026-08-11T03:55:06.784418+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. <br />SignificanceDeep-time hyperthermal events are critical for parameterization of climate sensitivity and tipping-point thresholds and for understanding the impacts of modern climate warming on marine ecosystems. To date, known hyperthermal events have been ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Food deserts in context: how site-specific factors reshape food deserts discussion",
+    "link": "https://www.nature.com/articles/s42949-026-00458-2",
+    "published": "2026-08-07",
+    "collected_at": "2026-08-11T03:55:06.309119+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00458-2\">doi:10.1038/s42949-026-00458-2</a></p>Food deserts in context: how site-specific factors reshape food deserts discussion"
+  },
+  {
+    "score": 9.0,
+    "title": "Pathways for mainstreaming nature-based solutions for climate adaptation: grounding, capitalising, embedding and anticipating across 12 Mediterranean cities",
+    "link": "https://www.nature.com/articles/s42949-026-00420-2",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.309091+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00420-2\">doi:10.1038/s42949-026-00420-2</a></p>Pathways for mainstreaming nature-based solutions for climate adaptation: grounding, capitalising, embedding and anticipating across 12 Mediterranean cities"
+  },
+  {
+    "score": 3.0,
+    "title": "Artificial intelligence for urban ecosystem restoration: reshaping social–ecological–technological interactions",
+    "link": "https://www.nature.com/articles/s42949-026-00453-7",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.309054+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00453-7\">doi:10.1038/s42949-026-00453-7</a></p>Artificial intelligence for urban ecosystem restoration: reshaping social–ecological–technological interactions"
+  },
+  {
+    "score": 9.0,
+    "title": "Upgrading slums as pathway to climate resiliency: evaluating urban infrastructure impact on health during heatwaves",
+    "link": "https://www.nature.com/articles/s42949-026-00442-w",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.309008+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00442-w\">doi:10.1038/s42949-026-00442-w</a></p>Upgrading slums as pathway to climate resiliency: evaluating urban infrastructure impact on health during heatwaves"
+  },
+  {
+    "score": 7.0,
+    "title": "Sulfur-mediated electrochemical copper recovery from wastewater with net electricity generation",
+    "link": "https://www.nature.com/articles/s41893-026-01912-w",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.267862+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41893-026-01912-w\">doi:10.1038/s41893-026-01912-w</a></p>As the global demand for copper continues to grow, large volumes of industrial copper-containing wastewater pose substantial risks to the environment and human health. Here the authors present a strategy for recovering metallic copper from waste streams while simultaneously generating electricity."
+  },
+  {
+    "score": 4.0,
+    "title": "Automatic value learning results in counterproductive human behavior",
+    "link": "https://www.nature.com/articles/s41467-026-76297-7",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.220763+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76297-7\">doi:10.1038/s41467-026-76297-7</a></p>Humans use rewards to learn which actions are worth repeating. Here, the authors demonstrate an automatic tendency to credit unrelated actions for these rewards, driving suboptimal choices."
+  },
+  {
+    "score": 4.0,
+    "title": "Healing intervention for improving the efficiency and stability of tandem devices on industrial textured silicon",
+    "link": "https://www.nature.com/articles/s41467-026-76713-y",
+    "published": "2026-08-11",
+    "collected_at": "2026-08-11T03:55:06.220653+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76713-y\">doi:10.1038/s41467-026-76713-y</a></p>Perovskite–silicon tandem solar cells offer efficient, low-cost energy, but forming high-quality perovskite films on textured silicon remains challenging. Kong et al. applied a healing treatment that improved crystal growth, efficiency, and long-term stability."
+  },
+  {
+    "score": 13.0,
+    "title": "Globally and intergenerationally unequal exposure to hourly heat extremes",
+    "link": "https://www.nature.com/articles/s41558-026-02724-8",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.135901+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      },
+      {
+        "keyword": "metrics",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41558-026-02724-8\">doi:10.1038/s41558-026-02724-8</a></p>The authors quantify the global emergence of hourly heat extremes (HHEs), highlighting exposure overlooked by daily metrics. HHEs will increase fourfold by the end of the century under high emissions, with low- and middle-income countries, as well as successive generations, facing disproportionate exposure."
+  },
+  {
+    "score": 3.0,
+    "title": "Author Correction: Enduring impacts of El Niño on life expectancy in past and future climates",
+    "link": "https://www.nature.com/articles/s41558-026-02735-5",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.135854+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41558-026-02735-5\">doi:10.1038/s41558-026-02735-5</a></p>Author Correction: Enduring impacts of El Niño on life expectancy in past and future climates"
+  },
+  {
+    "score": 8.0,
+    "title": "Temporary loss of social-ecological system resilience during rural to urban transition",
+    "link": "https://www.nature.com/articles/s44284-026-00493-1",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.096211+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s44284-026-00493-1\">doi:10.1038/s44284-026-00493-1</a></p>Growing cities expand outward, creating edge zones transitioning from being rural to being urban. Focusing on China’s Beijing–Tianjin–Hebei region, this study finds these zones become less resilient socially and ecologically as they transition."
+  },
+  {
+    "score": 10.0,
+    "title": "Make school-gate foodscapes safer, not invisible",
+    "link": "https://www.nature.com/articles/s44284-026-00506-z",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.096156+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s44284-026-00506-z\">doi:10.1038/s44284-026-00506-z</a></p>School gates are urban boundary spaces where students meet streets, vendors and peers. Cities should regulate school-gate foodscapes for safety, health and inclusion without erasing the small joys that they create."
+  },
+  {
+    "score": 6.0,
+    "title": "Turning the tide: restoring Mozambican mangroves — in photos",
+    "link": "https://www.nature.com/articles/d41586-026-02199-9",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.029633+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02199-9\">doi:10.1038/d41586-026-02199-9</a></p>As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them."
+  },
+  {
+    "score": 7.0,
+    "title": "Why environmental treaties must also address mental health",
+    "link": "https://www.nature.com/articles/d41586-026-02450-3",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.029553+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02450-3\">doi:10.1038/d41586-026-02450-3</a></p>Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that."
+  },
+  {
+    "score": 3.0,
+    "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+    "link": "https://www.nature.com/articles/s41586-026-10989-4",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:06.029371+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10989-4\">doi:10.1038/s41586-026-10989-4</a></p>Learning millisecond protein dynamics from what is missing in NMR spectra"
+  },
+  {
+    "score": 3.0,
+    "title": "A domain-adapted retrieval-augmented framework for transparent Earth system assessment",
+    "link": "https://www.nature.com/articles/s43247-026-03878-1",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:04.152803+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03878-1\">doi:10.1038/s43247-026-03878-1</a></p>A domain-adapted retrieval-augmented generation framework, built on curated scholarly corpora with structured evaluation and continuous literature integration, achieved high contextual faithfulness (0.96), answer relevance (0.88), and answer correctness (0.81), indicating reliable and source-grounded responses"
+  },
+  {
+    "score": 4.0,
+    "title": "Feasible geological carbon dioxide storage projections require updated cost and geological potential assumptions",
+    "link": "https://www.nature.com/articles/s43247-026-03901-5",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:04.152762+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03901-5\">doi:10.1038/s43247-026-03901-5</a></p>Recent updates of leading integrated assessment models incorporate dynamic near-term scale-up rates of carbon dioxide storage, whereas storage cost and geological potential assumptions remain largely unchanged according to scenarios of the IPCC 6th Assessment Report."
+  },
+  {
+    "score": 5.0,
+    "title": "Unexpected return of late-summer sea ice in the Pacific Arctic under persistent poleward-shifted cyclonic anomaly",
+    "link": "https://www.nature.com/articles/s43247-026-03914-0",
+    "published": "2026-08-10",
+    "collected_at": "2026-08-11T03:55:04.152677+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03914-0\">doi:10.1038/s43247-026-03914-0</a></p>The recovery of late-summer Chukchi Sea ice over 2020–2024 was driven by a poleward-shifted Pacific–Arctic cyclonic anomaly that enhanced cooling and delayed seasonal thinning, according to a study combining satellite observations, sea-ice thickness estimates and atmospheric-oceanic reanalyses."
+  },
+  {
+    "score": 6.0,
+    "title": "Sensing the city: Experiences of loneliness among students in Amsterdam",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126007092?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-11T03:55:04.078681+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Emil van Eck, Pauline van den Berg</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Information entropy-guided fast dimensionality reduction CFD-TRNSYS coupling for piston wind and phase change material (PCM) energy saving in subway stations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326009029?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-11T03:55:03.983118+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 August 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Dongdong Tian, Jing Wang, Jianshun Zhang, Zhi Gao, Xing Jin, Fusuo Xu, Qinqin Deng, Ying Zhou, Mingjie Zhang</p>"
+  },
+  {
     "score": 6.0,
     "title": "Accessible but Exposed: Heat-induced shrinkage of the 15-minute community life circle for older adults in a high-density neighbourhood",
     "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006736?dgcid=rss_sd_all",
