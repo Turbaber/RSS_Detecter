@@ -1,5 +1,829 @@
 [
   {
+    "score": 6.0,
+    "title": "Climate change mitigation practices in Porto's Atlantic-front municipalities: A comparative analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003251?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:56.004020+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Urban Climate, Volume 69</p><p>Author(s): Alexandra Leitão, Leonardo Costa, Rui Lourenço-Gil</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Evaluating ERA5-Land air temperature and dew point biases in built-up environments in the UK",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003196?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:56.003979+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: September 2026</p><p><b>Source:</b> Urban Climate, Volume 69</p><p>Author(s): Junjie Yu, Wenyuan Li, Lingcheng Li, Divya Kumar, Hongyu Sun, David O. Topping, Guoqiang Tang, Zhonghua Zheng</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Waterlogging tolerance of <em>Rhododendron</em> × <em>pulchrum</em> ‘Oomurasaki’ as a candidate shrub for roadside stormwater management in Japan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600378X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:55.909714+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 August 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Ayako Nagase, Jeremy Lundholm</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Revealing associations between urban infrastructure and U5MR in sub-Saharan Africa through interpretable machine learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006591?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:55.494032+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Ziheng Meng, Tianyue Jiang, Zhenzhen Chen, Xiao Yang, Kun Tang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Spatiotemporal evolution mechanism of urban investment-vitality-carbon efficiency",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006815?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:55.494005+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Feng Jiang, Haozhe Tang, Zejiao Dong, Tim Broyd, Algan Tezel, Abaho G. Gershome</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Exploring the impacts of logistics space on urban carbon emissions: A hybrid MNL-LightGBM method",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006839?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:55.493979+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Liyang Huang, Liyuan Zhao</p>"
+  },
+  {
+    "score": 19.0,
+    "title": "Relationships between surface urban heat island and vegetation across a regional climatic gradient: the case of southeastern Brazil",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006864?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:55.493952+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Ana Kellen Nogueira Campelo, Humberto Ribeiro da Rocha, Denise Helena Silva Duarte, Rodrigo Lustosa</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Healthier is not always better: Trade-offs between thermal comfort and PM₂.₅ along avenue tree health gradients",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726006906?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:55.493907+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Aowei Liu, Pei Deng, Bo Hong</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "The extreme diversity of retinal amacrine cells has deep evolutionary roots",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3223?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:55.154776+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "A functional-trophic pathway links riparian land use intensification to riverine community stability",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg0180?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:55.154758+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "Observed fingerprint of global warming exposes model biases in regional climate attribution",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed1506?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:55.154542+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />"
+  },
+  {
+    "score": 6.0,
+    "title": "Land-use transitions and carbon emissions of aquaculture expansion in the Brazilian Amazon",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec5472?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:55.154485+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Distinct cortical spatial representations learned along disparate visual pathways",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea1037?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:55.154354+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "Drought dynamics explain once in a century yellow fever virus outbreak in Brazil with implications for climate change",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz6832?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:55.154326+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "Calibrated spatial uncertainty for Earth observation foundation models via Matérn-motivated latent stochastic regularization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726003809?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:54.806749+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 346</p><p>Author(s): Daniel P. Johnson</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "The effectiveness of green place-based industrial policy: Evidence from the Inflation Reduction Act",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600276123?af=R",
+    "published": "2026-08-14T07:00:00Z",
+    "collected_at": "2026-08-15T03:05:54.730052+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. <br />SignificanceThe Inflation Reduction Act represents the largest U.S. climate investment in history, combining clean energy subsidies with place-based incentives targeting economically distressed communities. We provide evidence on whether these spatially ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Space for people, not cars: a large-scale visual choice experiment on urban street redesigns",
+    "link": "https://www.nature.com/articles/s42949-026-00463-5",
+    "published": "2026-08-13",
+    "collected_at": "2026-08-15T03:05:54.488962+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s42949-026-00463-5\">doi:10.1038/s42949-026-00463-5</a></p>Space for people, not cars: a large-scale visual choice experiment on urban street redesigns"
+  },
+  {
+    "score": 12.0,
+    "title": "Empirical insights into residual emissions in urban net-zero targets",
+    "link": "https://www.nature.com/articles/s41558-026-02691-0",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:54.165612+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41558-026-02691-0\">doi:10.1038/s41558-026-02691-0</a></p>Although many cities have set net-zero targets, there is limited understanding of their residual emissions strategies. An analysis of 103 European cities reveals best practices but also a potential over-reliance on temporary land-based carbon removal and the limited robustness of compensation strategies."
+  },
+  {
+    "score": 17.0,
+    "title": "Overlooked upwind greening for urban cooling",
+    "link": "https://www.nature.com/articles/s44284-026-00503-2",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:54.123292+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s44284-026-00503-2\">doi:10.1038/s44284-026-00503-2</a></p>Urban heat stress threatens health and infrastructure. The mountain–water–forest framework, adapted for megacities, utilizes terrain-driven cold-air advection and upwind greening, achieving temperature reductions of 0.4 ± 0.2 °C over more than half of the urban area across diverse climatic zones with limited sensitivity to synoptic circulation types and terrain settings."
+  },
+  {
+    "score": 14.0,
+    "title": "Urban expansion and the collapse of tropical stream ecosystems",
+    "link": "https://www.nature.com/articles/s44284-026-00495-z",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:54.123241+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s44284-026-00495-z\">doi:10.1038/s44284-026-00495-z</a></p>Urbanization alters the structure and function of ecosystems. This study found that the diversity, complexity and energy flow through stream communities were sharply reduced by the expansion of the São Paulo Metropolitan Region of Brazil."
+  },
+  {
+    "score": 8.0,
+    "title": "Urban access and inclusion",
+    "link": "https://www.nature.com/articles/s44284-026-00508-x",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:54.123197+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s44284-026-00508-x\">doi:10.1038/s44284-026-00508-x</a></p>Cities are often judged by what they contain — hospitals, roads, grids and data. But urban inclusion depends less on what is present than on what is reachable, affordable and sustainable under pressure."
+  },
+  {
+    "score": 6.0,
+    "title": "Skin memory",
+    "link": "https://www.nature.com/articles/s44284-026-00491-3",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:54.123147+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s44284-026-00491-3\">doi:10.1038/s44284-026-00491-3</a></p>A girl named Poetry did not know she had a skin color until a city told her. It would take a lifetime, and another city, to learn where home truly lives."
+  },
+  {
+    "score": 3.0,
+    "title": "Undocumented migration does not raise crime rates, huge study finds",
+    "link": "https://www.nature.com/articles/d41586-026-02542-0",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:54.080503+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02542-0\">doi:10.1038/d41586-026-02542-0</a></p>Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime."
+  },
+  {
+    "score": 20.0,
+    "title": "Quantifying heat exposure risk in 15-minute cities: a coupled analysis integrating dynamic shading effects and human mobility patterns",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001854?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:53.933085+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 277</p><p>Author(s): Yuehan Hu, Dailuo Zhang, Shifa Ma, Hongquan Cheng, Kelei Wei, Xiwen Zhang, Yunnan Cai</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Biodiversity of domestic gardens: Design, management, and perception in a case study in Salzburg, Austria",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626001878?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:53.933041+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 277</p><p>Author(s): Mo Wang, Robert Siller, Jürgen Breuste, Jing Gan</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "De facto land consolidation leads to exclusion: The role of commodity expansion in Salamina, Colombia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726003571?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:53.867621+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Land Use Policy, Volume 171</p><p>Author(s): Andres Suarez</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Large-scale climate oscillations induce accelerated high tide flooding along the U.S. East Coast",
+    "link": "https://www.nature.com/articles/s43247-026-03932-y",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:52.476767+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03932-y\">doi:10.1038/s43247-026-03932-y</a></p>Both the Indian Ocean Dipole and North Atlantic Oscillation have acted to accelerate high tide flooding along the U.S. East Coast in recent decades, according to combined observational analyses and model experiments."
+  },
+  {
+    "score": 9.0,
+    "title": "High dynamic satellite data reveal slower global urban expansion and rising inequality during COVID",
+    "link": "https://www.nature.com/articles/s43247-026-03928-8",
+    "published": "2026-08-14",
+    "collected_at": "2026-08-15T03:05:52.476681+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03928-8\">doi:10.1038/s43247-026-03928-8</a></p>Consider this: The COVID-19 pandemic slowed global urban expansion to 6722.9 square kilometers in 2020–2022, 27 percent below expected levels and causing a 9.8-month delay, with widening inequality driven mainly within income groups according to monthly satellite mapping and country-month analysis."
+  },
+  {
+    "score": 11.0,
+    "title": "Decomposition of anthropogenic and climate forces of carbon sequestration in the urban agglomeration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126007122?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:52.409161+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Keyu Luo, Zhenyu Wang, Weifeng Li, Jiansheng Wu</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126006815?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:52.409122+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Dong Xie, Senhong Cai, Ke Wang, Ce Hou, Shaoqing Dai, Jingnan Huang</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Evaluating the practicality of a Prandtl mixing-length model for urban airflow: Predictive fidelity vs. computational economy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326008589?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:52.302454+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Building and Environment, Volume 304, Part B</p><p>Author(s): Geon Kang, Hyun-Ji Lee, Woosok Moon, Jae-Jin Kim</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "“Spatial dynamics of urban expansion in Greater Accra Metropolitan Area: A fixed-zone analysis of land use change and polycentric growth”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826002584?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-15T03:05:52.068757+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: October 2026</p><p><b>Source:</b> Applied Geography, Volume 195</p><p>Author(s): Aaron Asiedu, Jiajun Qiao, Isaac Nana Sarfo, Bright Sampana Adoko</p>"
+  },
+  {
     "score": 13.0,
     "title": "Evaluating urban heat adaptation strategies for extreme heatwaves in complex terrain: A case study of Grenoble, France",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526002907?dgcid=rss_sd_all",
