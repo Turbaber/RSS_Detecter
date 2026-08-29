@@ -1,5 +1,269 @@
 [
   {
+    "score": 3.0,
+    "title": "Visualizing interfacial thermal resistance in two-dimensional material–polymer composites from measurement to mechanistic understanding",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei1628?af=R",
+    "published": "2026-08-28T07:00:00Z",
+    "collected_at": "2026-08-29T09:05:22.099396+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 35, August 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Electrocatalytic polyvinylidene fluoride defluorination with water mediation at room temperature",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8495?af=R",
+    "published": "2026-08-28T07:00:00Z",
+    "collected_at": "2026-08-29T09:05:22.099375+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 35, August 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Surface chemistry governs sex-dependent responses to PEG and zwitterionic siRNA nanocarriers in primary macrophages",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef4315?af=R",
+    "published": "2026-08-28T07:00:00Z",
+    "collected_at": "2026-08-29T09:05:22.099242+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 35, August 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Emerging nitrogen-driven urban atmosphere control on aerosol iron dissolution for biogeochemical cycles",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec0108?af=R",
+    "published": "2026-08-28T07:00:00Z",
+    "collected_at": "2026-08-29T09:05:22.098900+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 35, August 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "A global system for monitoring radiative transfer and directional temperatures over heterogeneous surfaces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004050?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-29T09:05:21.518118+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 346</p><p>Author(s): Shouyi Zhong, Zunjian Bian, Roujean Jean-Louis, Qiang Liu, Juan Cheng, Yongming Du, Hua Li, Jianguang Wen, Qing Xiao</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "UNIQUE: UNified, high-resolution Intelligent carbon QUantification and Explanation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004062?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-29T09:05:21.518057+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 346</p><p>Author(s): Bokyung Son, Taejun Sung, Sejeong Bae, Minki Choo, Jungho Im, Yeonsu Lee, S.M. Sohel Rana, Dongjin Cho, Cheolhee Yoo, Jeonghyun Hong, Hojin Lee, Hyun Seok Kim</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Programmable mesoporous carbon architectures from liquefied wood via reactive-emulsion-mediated self-assembly",
+    "link": "https://www.nature.com/articles/s41467-026-77269-7",
+    "published": "2026-08-29",
+    "collected_at": "2026-08-29T09:05:20.908506+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77269-7\">doi:10.1038/s41467-026-77269-7</a></p>Developing biomass-derived self-assembly systems for controlling carbon morphology remains challenging because of their intrinsic heterogeneity, which hinders controllable assembly. Here, the authors report a biomass-enabled reactive-emulsion-mediated strategy for converting liquefied wood into various mesoporous carbon nanomaterials."
+  },
+  {
+    "score": 8.0,
+    "title": "The shifting landscape of brain-wide myelination across the human lifespan",
+    "link": "https://www.nature.com/articles/s41467-026-77073-3",
+    "published": "2026-08-29",
+    "collected_at": "2026-08-29T09:05:20.908406+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77073-3\">doi:10.1038/s41467-026-77073-3</a></p>This study presents the development and aging principles of myelination in 214 brain regions using large-scale dataset spanning birth through 100 years. The results provide strong evidence for region-specific variability in multiscale brain development, with some areas exhibiting earlier maturation in myelination and others in macrostructural properties."
+  },
+  {
+    "score": 8.0,
+    "title": "Too small to cap it all? The potential of public value capture to fund the cap over the R1 South in Antwerp, Belgium",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002033?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-29T09:05:20.280048+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 277</p><p>Author(s): Chris den Heijer, Roel Nagy, Axelle Vincent, Tine Compernolle, Tom Coppens</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Does rural construction land always support rural industrial development? Nonlinear and heterogeneous responsiveness across Chinese counties",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526002687?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-29T09:05:19.868157+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Habitat International, Volume 177</p><p>Author(s): Ziwei Wang, Xinli Ke, Chengchao Zuo</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Evaluating Crop Yield Sensitivity to Climate Change Using a Deep‐Learning Framework Incorporating Vegetation and Groundwater Memory",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008560?af=R",
+    "published": "Fri, 28 Aug 2026 04:47:46 -0700",
+    "collected_at": "2026-08-29T09:05:18.293006+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Author Correction: Tree plantation expansion undermines natural forest protection by increasing fragmentation in China",
+    "link": "https://www.nature.com/articles/s43247-026-03947-5",
+    "published": "2026-08-29",
+    "collected_at": "2026-08-29T09:05:17.766067+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03947-5\">doi:10.1038/s43247-026-03947-5</a></p>Author Correction: Tree plantation expansion undermines natural forest protection by increasing fragmentation in China"
+  },
+  {
+    "score": 4.0,
+    "title": "Multi-scale correlation, climate scenario risk identification and optimisation zoning for the alpine grassland aboveground biomass",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826002596?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-29T09:05:17.275203+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Applied Geography, Volume 196</p><p>Author(s): Yanzhen Hou, Wenwu Zhao, Shurong Zhang, Yangjian Zhang, Paulo Pereira</p>"
+  },
+  {
     "score": 5.0,
     "title": "Everyday Environmental Stewardship: Understanding Urban Home Gardening in Bengaluru, India",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003997?dgcid=rss_sd_all",
