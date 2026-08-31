@@ -1,5 +1,193 @@
 [
   {
+    "score": 6.0,
+    "title": "Exploring the association between elements in urban parks and characteristics of walking behaviors by neural network",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726003857?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-31T08:40:38.792148+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 29 August 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Shi Sun, Mengmeng Li, Maolin Zhang, Daitian Wang, Zhuohang Li, Pan Li</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Designing Campus to Elicit Awe as a Form of Place-Based Environmental Health Promotion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004048?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-31T08:40:38.792111+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 29 August 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Nick Pitas, Zafar Sarker, Dalton Grimes, Mia Li, Janet Liechty, Laura Payne</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Parallel paths: Binary conceptions of the social in the study of motorway infrastructures",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261476524?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-08-31T05:44:58Z",
+    "collected_at": "2026-08-31T08:40:38.702438+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Motorway infrastructures are fundamental to the organized movement and metabolic reproduction of contemporary societies. They are inextricably entwined with globalizing economies, as they are integral for road freight or a prerequisite for mass car ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Holding open the urban imagination",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261475829?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-08-31T05:41:59Z",
+    "collected_at": "2026-08-31T08:40:38.702405+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Urban studies has repeatedly depended on imaginative acts, even if its imaginative capacities have often remained implicit, unevenly distributed, or overshadowed by explanatory commitments to understanding cities as they are rather than as they might ..."
+  },
+  {
+    "score": 9.0,
+    "title": "The military spatial complex: A framework of neoliberal urban power relations",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261475597?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-08-31T05:40:11Z",
+    "collected_at": "2026-08-31T08:40:38.702362+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This paper develops the concept of themilitary–spatial complex(MSC) to analyze how armed forces increasingly shape neoliberal urban development. While military urbanism has often been studied through the visible apparatus of surveillance and security, ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Green computing infrastructure for climate-resilient cities: Evidence from China’s National Green Data Center Pilot Program",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600750X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-08-31T08:40:38.296116+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 149</p><p>Author(s): Lei Li, Yifan Zheng, Shaojun Ma, Zijian Guo, Jian Zuo, Michael Goodsite</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Grain boundary segregation of ceramic aerogels for reliable thermal insulation at extreme conditions",
+    "link": "https://www.nature.com/articles/s41467-026-77371-w",
+    "published": "2026-08-31",
+    "collected_at": "2026-08-31T08:40:36.847951+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77371-w\">doi:10.1038/s41467-026-77371-w</a></p>Grain-boundary segregation enables ceramic aerogels with high thermal stability and reliable thermal insulation at temperatures up to 1500 °C, offering a strategy for designing lightweight thermal protection materials for extreme environments."
+  },
+  {
+    "score": 8.0,
+    "title": "Hydropower reservoirs will lead energy-sector carbon emissions by 2050 under a net-zero scenario",
+    "link": "https://www.nature.com/articles/s43247-026-03982-2",
+    "published": "2026-08-31",
+    "collected_at": "2026-08-31T08:40:35.478650+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03982-2\">doi:10.1038/s43247-026-03982-2</a></p>Hydropower reservoirs representing 87% of total energy-sector emissions by 2050 under a net-zero scenario; according to machine learning models trained on published datasets accounting for evolving climatic conditions."
+  },
+  {
     "score": 11.0,
     "title": "Toward transferable EO-based modelling of intra-slum air temperature using citizen-science data: evidence from Nairobi and Lagos",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003494?dgcid=rss_sd_all",
