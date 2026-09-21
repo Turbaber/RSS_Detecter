@@ -1,5 +1,381 @@
 [
   {
+    "score": 8.0,
+    "title": "Climate drives variability in pollen emission and tree growth: linking aerobiology and dendrochronology in urban forests",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004346?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:16.340605+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Guillermo Guada, J. Julio Camarero, Cristina Valeriano, María Fernández-González, Francisco Javier. Rodriguez-Rajo</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Research on spatial heterogeneity of urban flood susceptibility and model attribution in Beijing: An XGBoost-SHAP analysis based on spatial cross-validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007985?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:15.854339+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Xin Yang, Xiaoya Xia, Qi Zhang, Xinzheng Wang, Dan Chen, Xiaoqiang Hao</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Green certification and clean energy distribution for sustainable cities: A robust decentralized framework for integrating industrial prosumers into urban energy systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008048?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:15.854302+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Wei Liu, Shoujun Huang, Lijun Peng</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Detecting diurnal dynamics of cotton leaf inclination angle under water-salt stress",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600444X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:14.991408+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Qing Li, Dalei Hao, Jan Pisek, Zicheng Ji, Yanan Wei, Youngryel Ryu, Jiarui Xu, Yangmin Feng, Shaozhong Kang, Yelu Zeng</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Urban park biodiversity preferences and trade-offs: A comparison between residents and professionals using Adaptive Choice-Based Conjoint analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002008?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:13.795973+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Xinlei Hu, M.F. Lima</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Machine learning reveals divergent drivers and migrating thresholds of cropland degradation in Southern and Northern China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026483772600428X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:13.703429+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Jiale Liang, Jérôme Chenal, Nan Xia, Sipei Pan, Jean-Claude Baraka Munyaka, Wanxu Chen, Manchun Li</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Capturing Unseen Spatial Heat Extremes Through Dependence‐Aware Generative Modeling",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1029/2026EF008861?af=R",
+    "published": "Sat, 19 Sep 2026 09:40:17 -0700",
+    "collected_at": "2026-09-21T07:59:11.994614+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 11.0,
+    "title": "Incorporating spatio-temporal population dynamics into deep learning models for small-area population forecasting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001353?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.736606+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 131</p><p>Author(s): Hyeyun Kang, Hyeongmo Koo, Daeheon Cho, Sang-Il Lee</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Budgeting urban tree canopy expansion for cooling-benefit equality: A graph neural network-based multi-objective framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001341?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.736574+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 131</p><p>Author(s): Jiaxing Ye, Zhidian Jiang, Ruibin Li, Sihong Du, Feng Yang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Happy to stay? Residential environment satisfaction, happiness, and settlement intention among foreign residents in Seoul",
+    "link": "https://www.sciencedirect.com/science/article/pii/S026427512600822X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.486162+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Yuanyang Zhang, Meilan He, Jangik Jin</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "The role of social capital in immigrant travel mode choice: A multilevel analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126007936?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.486144+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Kukhyoung Kim, Jianling Li, Philip Q. Yang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Racialised rider experiences in Uber: Evidence from an audit-based field study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126008401?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.486125+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Awais Piracha, Karen Connelly, Jehonathan Ben, Kevin Dunn, Craig McGarty, Yin Paradies, Amanuel Elias, Susanna Rouillard</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Sci-tech finance and urban industrial chain resilience: Empirical evidence from Chinese prefecture-level cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126007778?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.486094+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 179</p><p>Author(s): Xiaochun Guo, Chunlai Yuan</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Spatiotemporal distribution characteristics of multiple air pollutants within subway stations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010930?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.351777+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Chenchen Shi, Xizheng Lu, Jinghua Li, Chen Chen, Lingxi Zhong, Jinyu Shi, Xuqing Gao, Lina Wang, Mingyao Yao</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Humidity-prioritized positive-pressure fresh-air retrofit for a permeable heritage building in a hot-humid climate: moisture, comfort, IAQ, and energy assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010486?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-21T07:59:11.351709+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Building and Environment, Volume 305, Part B</p><p>Author(s): Yu To Chung, Ka Lin Kuan, Danny Y.K. Ip, Wilson H.M. Ip, Kiki Ko, Alexis K.H. Lau</p>"
+  },
+  {
     "score": 12.0,
     "title": "Cooling-resource mismatch and residual heat exposure among vulnerable populations in high-density Singapore: an equity-oriented diagnostic framework",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003858?dgcid=rss_sd_all",
