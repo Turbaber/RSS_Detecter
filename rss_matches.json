@@ -1,6 +1,474 @@
 [
   {
     "score": 8.0,
+    "title": "Urban morphology and secondary mitigation strategies for heat-resilient post-earthquake low-rise settlements: Evidence from Elazığ, Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003755?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:08.708962+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Muge Unal, Ayca Gulten</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Bridging urban community gardens and low-carbon behaviour: Elucidating the interplay between governance arrangements, interventions, and motivations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004322?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:08.633765+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yiru Jia, Yue Lu, Sheng Fu, Fangzheng Li</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Mapping urban forest tree species through canopy phenological dynamics from UAV crown delineation and PlanetScope time series",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004498?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:08.633725+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yuanyuan Chen, Jia Jia, Lei Wang, Mengting Xu, Yalin Zhai, Jihan Zhou, Jinbang Mu, Yunlong Yao, YongKang Lou, Xinyu Zhang, Jiyuan Fang, Zhiwei Ye</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Urban regeneration and health: Quasi-natural experimental evidence from China",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261486156?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:23:20Z",
+    "collected_at": "2026-09-22T07:44:08.552493+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />With rapid urbanization, many countries have adopted urban regeneration initiatives to address urban decline and promote sustainable development. Yet limited evidence exists on the health effects of large-scale urban regeneration. This study focuses on an ..."
+  },
+  {
+    "score": 13.0,
+    "title": "Proximity to green spaces: An analysis of neighborhood income distribution in French urban areas",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261477992?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:07:20Z",
+    "collected_at": "2026-09-22T07:44:08.552461+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />In a context where research on distributive justice is receiving increasing attention, this study aims to identify the existence of inequalities in access to green spaces in French urban areas. To this end, using 200 m grid data combined with the spatial ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Cape Town’s community kitchens as healing commons: The politics of care in a fractured city",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261484348?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:21:41Z",
+    "collected_at": "2026-09-22T07:44:08.552415+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This paper explores how community kitchens in Cape Town, predominantly led by women from low-income areas, function as everyday infrastructures of solidarity and resistance. Drawing on participatory action research conducted between 2020 and 2024, we ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Water, ritual, and the spectral urban commons",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261483904?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:19:05Z",
+    "collected_at": "2026-09-22T07:44:08.552375+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This article theorises the spectral urban commons through Participatory Action Research with Afro-Indigenous and Afrodescendant groups in the Costa Chica of Guerrero, Mexico. It locates the urban in these small coastal municipalities in an uneven regional ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Negotiated urbanism: Informal adaptations of Thai townhouses for mixed residential and commercial use",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261483846?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:15:13Z",
+    "collected_at": "2026-09-22T07:44:08.552345+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This research examines the widespread informal modifications of townhouses (also known as row houses) in Thailand, particularly in urban and peri-urban districts. These adaptations reflect systemic disjunctions between formal planning frameworks and the ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Governing the just transition: The reach and limits of anchor-led place-based governance",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261479900?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:12:59Z",
+    "collected_at": "2026-09-22T07:44:08.552311+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This article examines what forms of governance can enable a just and scalable green transition at the local level. While place-based approaches centred on anchor institutions are often promoted as vehicles for equitable and community-led transitions, ..."
+  },
+  {
+    "score": 6.0,
+    "title": "The lifecycle of platform-mediated urban desirability: Digital nomadism and the temporal politics of visibility",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261479296?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:11:12Z",
+    "collected_at": "2026-09-22T07:44:08.552274+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Through comparative content analysis of 600 high-engagement social media posts (2021–2024) across Rio de Janeiro, Barcelona and Chiang Mai, this article develops a lifecycle framework for understanding how cities move through platform-mediated attention ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Placemaking in an almost post-authoritarian Myanmar: Questioning “best practice” in Yangon’s back drainage spaces",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261479254?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-09-21T11:09:48Z",
+    "collected_at": "2026-09-22T07:44:08.552218+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This article critiques the promotion of placemaking as “best practice” in global South cities by analyzing the short-lived beautification of back drainage spaces into back-alley gardens in Yangon, Myanmar. The rise and fall of the Alley Garden Project (..."
+  },
+  {
+    "score": 6.0,
+    "title": "Tracking public EV charging accessibility trajectories in California: A longitudinal analysis contrasting population- and fleet-based demand",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600781X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:08.232101+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Omid Nayeri, Fateme Gorzin, Ramin Shabanpour</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "When rail raises carbon: Vertical densification and CO<sub>2</sub> emissions in the Tokyo 23 wards",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007961?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:08.232060+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Dohyung Kim, Junya Kumagai, Keigo Karakida, Shunya Higuchi, Sunbin Yoo, Shunsuke Managi</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Author Correction: Foot-and-mouth disease virus antigenic landscape and reduced immunogenicity elucidated in atomic detail",
+    "link": "https://www.nature.com/articles/s41467-026-77852-y",
+    "published": "2026-09-21",
+    "collected_at": "2026-09-22T07:44:05.812061+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77852-y\">doi:10.1038/s41467-026-77852-y</a></p>Author Correction: Foot-and-mouth disease virus antigenic landscape and reduced immunogenicity elucidated in atomic detail"
+  },
+  {
+    "score": 3.0,
+    "title": "Simple logic warnings improve climate argument evaluation across beliefs and partisanship",
+    "link": "https://www.nature.com/articles/s41558-026-02754-2",
+    "published": "2026-09-21",
+    "collected_at": "2026-09-22T07:44:05.763572+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41558-026-02754-2\">doi:10.1038/s41558-026-02754-2</a></p>Climate discourse is often misjudged, yet the mechanisms remain unclear. Using orthogonally manipulated experiments, this study isolates the effects of prior beliefs, partisanship and argument quality, showing that evaluations of climate arguments are context sensitive and can be improved by minimal logic warnings."
+  },
+  {
+    "score": 5.0,
+    "title": "Flash energy droughts in solar and wind resources under climate change",
+    "link": "https://www.nature.com/articles/s41558-026-02753-3",
+    "published": "2026-09-21",
+    "collected_at": "2026-09-22T07:44:05.763532+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41558-026-02753-3\">doi:10.1038/s41558-026-02753-3</a></p>Flash energy droughts, rapid drops followed by sustained low wind and solar production, could pose potential challenges to power system operations. Here researchers find that climate change may intensify such events across wind, solar and compound forms."
+  },
+  {
+    "score": 6.0,
+    "title": "Flash energy droughts strain grids",
+    "link": "https://www.nature.com/articles/s41558-026-02760-4",
+    "published": "2026-09-21",
+    "collected_at": "2026-09-22T07:44:05.763493+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41558-026-02760-4\">doi:10.1038/s41558-026-02760-4</a></p>Rapid declines in wind or solar generation may leave electricity systems little time to respond. Now a study maps these events globally and projects that their duration may increase under climate change."
+  },
+  {
+    "score": 3.0,
+    "title": "Increasing LGBTQIA+ inclusion in climate science",
+    "link": "https://www.nature.com/articles/s41558-026-02748-0",
+    "published": "2026-09-21",
+    "collected_at": "2026-09-22T07:44:05.763450+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41558-026-02748-0\">doi:10.1038/s41558-026-02748-0</a></p>LGBTQIA+ climate scientists have long encountered oppression and discrimination across society and in the workplace. We suggest specific actions, which need to be supported by more data, to make climate science more inclusive."
+  },
+  {
+    "score": 6.0,
+    "title": "Sustaining green stormwater infrastructure adoption in cities",
+    "link": "https://www.nature.com/articles/s44284-026-00520-1",
+    "published": "2026-09-21",
+    "collected_at": "2026-09-22T07:44:05.674896+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s44284-026-00520-1\">doi:10.1038/s44284-026-00520-1</a></p>Widespread adoption of green stormwater infrastructure is critical for realizing citywide stormwater resilience, but adoption remains highly uneven. The study shows how neighborhood visibility, conversion capacity and social capital interact to drive or constrain widespread uptake."
+  },
+  {
+    "score": 6.0,
+    "title": "Open-set recognition for HVAC fault detection and diagnosis in real-world buildings: A systematic review and deployment roadmap",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010887?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:04.803568+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 21 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xue Zhang, Miaolin Lai, Yunxi Cheng, Huanxin Chen</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Comparative Assessment of Energy and Thermal Performance of Bifacial Photovoltaic and Photovoltaic–Cool Roof Systems under Different Weather Conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010942?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-22T07:44:04.803518+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 21 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Liwei Yang, Xiaoqing Gao, Zhenchao Li, Dongyu Jia</p>"
+  },
+  {
+    "score": 8.0,
     "title": "Climate drives variability in pollen emission and tree growth: linking aerobiology and dendrochronology in urban forests",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004346?dgcid=rss_sd_all",
     "published": "",
