@@ -1,5 +1,993 @@
 [
   {
+    "score": 8.0,
+    "title": "Carbon sequestration potential of tree planting under future climate scenarios in the Guangdong–Hong Kong–Macao Greater Bay Area, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003597?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.583022+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Urban Climate</p><p>Author(s): Xiao Zhao, Shaoqing Chen, Xuemei Wang, Wenping Yuan, Linhao Guo, Weiwen Wang, Min Shao</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Local climate zone-based heat risk assessment of the coastal zone in Guangdong-Hong Kong-Macao Greater Bay Area",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003901?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.582983+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Urban Climate</p><p>Author(s): Lin Liu, Long Long, Zefeng Liang, Jingjing Dou, Jian Hang, Junliang Cao, Hua Yuan</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Prioritizing human-demographic and environmental drivers of increasing PM₂.₅ trends using machine learning approaches: Evidence from Isfahan, Iran",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003792?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.582927+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Urban Climate</p><p>Author(s): Ali Shamsoddini, Kamran Jafarpour Ghalehteimouri</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Air or surface temperatures in urban environment over the case study of Toulouse, France: Confusion and synergy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003883?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.582891+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Urban Climate</p><p>Author(s): Aurélie Michel, Yassine El Khanoussi, Valéry Masson, Guillaume Dumas, Vincent Lonjou, Julia Hidalgo</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Assessing the deviation in building energy performance predicted by historical typical weather files from recent local climates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003895?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.582855+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Urban Climate</p><p>Author(s): Xiaoshan Yang, Jing Zhou, Lingye Yao, Mingcai Li, Jingfu Cao</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "A predictive framework for urban climate risk: Mapping heat Hazard and socioeconomic vulnerability at high resolution scenarios",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003871?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.582814+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "socioeconomic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Javier Sola-Caraballo, Victoria Patricia López-Cabeza, Antonio Serrano-Jiménez, Carlos Rivera-Gomez, Carmen Galan-Marin</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Is Urban Rewilding Taking Root? Exploring Local Authorities’ Perspectives on Challenges and Opportunities in the United Kingdom",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600453X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.497572+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Alessio Russo, Alice Goodenough, Adam Sheppard, Giuseppe T. Cirella, Francisco J. Escobedo, Kevin Harrington, Christoph D.D. Rupprecht, Mallika Sardeshpande</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Cracks in the Concrete: Multispecies Regeneration and Hybrid Governance in an Urban Food Forest",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004528?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.497527+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Noa Cykman</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Early detection of water stress on a single-tree basis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004450?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.497502+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Tomoyasu Kita, Noboru Masui, Akira Tani, Kouji Sakazume, Tomoharu Mochizuki</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004395?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:59.497462+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening, Volume 125</p><p>Author(s): </p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Understanding willingness to use shared electric scooters for first- and last-mile travel in urban cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600805X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:58.990793+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Kartik Kurup, Yasir Ali, Anshuman Sharma, Udit Jain, Alizée McLorg, Nicholas Loke</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Measuring the effects of alternatives to policing in an American city",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aem0857?af=R",
+    "published": "2026-09-23T07:00:00Z",
+    "collected_at": "2026-09-24T07:37:58.641659+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 39, September 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Third-generation ultralong-term latent heat storage glass based on a sugar alcohol mixture",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei4311?af=R",
+    "published": "2026-09-23T07:00:00Z",
+    "collected_at": "2026-09-24T07:37:58.641601+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 39, September 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "The effect of microgravity and flows on the organization and dynamics of the human genome",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3116?af=R",
+    "published": "2026-09-23T07:00:00Z",
+    "collected_at": "2026-09-24T07:37:58.641546+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 39, September 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "FaBrick: An actuated fabric building platform for constructing scalable and versatile soft robots",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1614?af=R",
+    "published": "2026-09-23T07:00:00Z",
+    "collected_at": "2026-09-24T07:37:58.641526+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 39, September 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "Spatial organization of AQP4 water channel expression in the human brain",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8117?af=R",
+    "published": "2026-09-23T07:00:00Z",
+    "collected_at": "2026-09-24T07:37:58.641275+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 39, September 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "An eastward-propagating coupled mode amplifying the early growth of extreme El Niño events",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee0444?af=R",
+    "published": "2026-09-23T07:00:00Z",
+    "collected_at": "2026-09-24T07:37:58.641103+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 39, September 2026. <br />"
+  },
+  {
+    "score": 8.0,
+    "title": "Can AlphaEarth foundations redefine the paradigm of gridded population mapping? A systematic evaluation across 18 global cities and large-scale mapping applications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004608?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:58.146767+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Remote Sensing of Environment</p><p>Author(s): Shuyang Hou, Haoyue Jiao, Yaxian Qing, Qingyang Xu, Ziqi Liu, Lutong Xie, Zhangyan Xu, Zengjie Wang, Shaoqing Tang, Xuefeng Guan, Huayi Wu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatiotemporal extension of all-sky downward shortwave radiation over mountainous area",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004487?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:58.146715+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Guangjian Yan, Shuo Cao, Chunqiang Zhao, Donghui Xie, Xihan Mu, Si Gao</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Toward fine-scale microwave monitoring of dryland vegetation: an alternative high spatial resolution vegetation optical depth retrieval algorithm from Sentinel-1 over the Sahel region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004451?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:58.146650+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Zhixuan Lu, Lei Fan, Rasmus Fensholt, Jiangyuan Zeng, Nicolas Baghdadi, Frederic Frappart, Martin Brandt, Philippe Ciais, Gabrielle De Lannoy, Jian Peng, Abdoul Aziz Diouf, Eric Mougin, Xiaojing Bai, Xiangzhuo Liu, Jean-Pierre Wigneron</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Inequality in clean cooking adoption across urban and rural China",
+    "link": "https://www.nature.com/articles/s42949-026-00478-y",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.912164+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s42949-026-00478-y\">doi:10.1038/s42949-026-00478-y</a></p>Inequality in clean cooking adoption across urban and rural China"
+  },
+  {
+    "score": 6.0,
+    "title": "Overcoming urban climate injustice: synthesising global pathways and principles",
+    "link": "https://www.nature.com/articles/s42949-026-00477-z",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.912127+00:00",
+    "feed_title": "npj Urban Sustainability",
+    "rss_url": "https://www.nature.com/npjurbansustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>npj Urban Sustainability, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s42949-026-00477-z\">doi:10.1038/s42949-026-00477-z</a></p>Overcoming urban climate injustice: synthesising global pathways and principles"
+  },
+  {
+    "score": 3.0,
+    "title": "SATB1 lowers the T cell receptor signaling threshold for thymocyte positive selection via super-enhancer reprogramming",
+    "link": "https://www.nature.com/articles/s41467-026-78061-3",
+    "published": "2026-09-24",
+    "collected_at": "2026-09-24T07:37:57.783154+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78061-3\">doi:10.1038/s41467-026-78061-3</a></p>Satb1 is a chromatin organizer involved in T cell development. Here, the authors demonstrate that Satb1 reorganizes super-enhancer topology to promote the expression of genes associated with thymic positive selection."
+  },
+  {
+    "score": 5.0,
+    "title": "Navigational strategy dictates hippocampal representation of space in an everyday memory task",
+    "link": "https://www.nature.com/articles/s41467-026-77885-3",
+    "published": "2026-09-24",
+    "collected_at": "2026-09-24T07:37:57.782929+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77885-3\">doi:10.1038/s41467-026-77885-3</a></p>Neurobiology of spatial memory is not fully understood. Using two behavioral tasks, authors demonstrate that the precision of spatial representations is lower in rats using egocentric coordinates, and hippocampus silencing correct only affects goal identification in rats performing allocentrically."
+  },
+  {
+    "score": 3.0,
+    "title": "Surprising protein links dietary restriction to increased lifespan in flies",
+    "link": "https://www.nature.com/articles/d41586-026-02774-0",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.421122+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02774-0\">doi:10.1038/d41586-026-02774-0</a></p>A fruit-fly protein thought only to store amino acids in fact responds to nutritional deficiency in both development and adulthood, resulting in lifespan extension."
+  },
+  {
+    "score": 4.0,
+    "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
+    "link": "https://www.nature.com/articles/d41586-026-02949-9",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420677+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02949-9\">doi:10.1038/d41586-026-02949-9</a></p>An AI revolution is sweeping through education. But teachers who can convey the excitement of thinking and learning are irreplaceable."
+  },
+  {
+    "score": 4.0,
+    "title": "Efficient yet stable large perovskite solar modules made using surface treatment",
+    "link": "https://www.nature.com/articles/d41586-026-02937-z",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420573+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02937-z\">doi:10.1038/d41586-026-02937-z</a></p>Non-uniformities in the layer of passivator molecules, which are used to fix defects and protect the surface of perovskite material in solar cells, can limit the durability of the resulting modules. Large modules treated instead with chemically stable lead carboxylate passivators were efficient, reliable and had a higher yield than did commercial silicon modules."
+  },
+  {
+    "score": 3.0,
+    "title": "Brain lipids are organized into zones — and reorganized during pregnancy",
+    "link": "https://www.nature.com/articles/d41586-026-02772-2",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420529+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02772-2\">doi:10.1038/d41586-026-02772-2</a></p>A map of fats across the whole mouse brain reveals a spatial architecture that differs from that seen in gene-expression and protein atlases."
+  },
+  {
+    "score": 5.0,
+    "title": "Single-cell atlas of transcriptomic vulnerability across brain disorders",
+    "link": "https://www.nature.com/articles/s41586-025-09573-z",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420326+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-025-09573-z\">doi:10.1038/s41586-025-09573-z</a></p>A population-scale single-cell transcriptomic atlas of the human dorsolateral prefrontal cortex provides a perspective of the transcriptomic landscape in neurodegenerative and neuropsychiatric disorders, and offers potential targets for therapeutic intervention."
+  },
+  {
+    "score": 4.0,
+    "title": "The lipidomic architecture of the mouse brain",
+    "link": "https://www.nature.com/articles/s41586-026-11050-0",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420292+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11050-0\">doi:10.1038/s41586-026-11050-0</a></p>A spatial lipidomic atlas of the mouse brain reveals more than 500 biochemical territories that mirror cell types and connectivity, capture oligodendrocyte heterogeneity and ventricular zonation, and are remodelled during pregnancy."
+  },
+  {
+    "score": 5.0,
+    "title": "Lifespan single-cell transcriptomic atlas of the human prefrontal cortex",
+    "link": "https://www.nature.com/articles/s41586-026-10271-7",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420109+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10271-7\">doi:10.1038/s41586-026-10271-7</a></p>The dorsolateral prefrontal cortex exhibits non-linear, cell-type-specific transcriptional trajectories characterized by dynamic remodelling during development, relative stability in midlife and selective molecular reactivation in late adulthood."
+  },
+  {
+    "score": 5.0,
+    "title": "Anomalous metal and superconducting phases in rhombohedral graphene",
+    "link": "https://www.nature.com/articles/s41586-026-11033-1",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.420075+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11033-1\">doi:10.1038/s41586-026-11033-1</a></p>Observations of rhombohedral graphene on a WSe2 substrate at varying temperature, magnetic field and current indicate the presence of regions of gate space with zero-resistance superconductivity alongside others with finite saturation resistance."
+  },
+  {
+    "score": 3.0,
+    "title": "A design approach for bitopic kinase inhibitors",
+    "link": "https://www.nature.com/articles/s41586-026-11056-8",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.419892+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11056-8\">doi:10.1038/s41586-026-11056-8</a></p>Detailed analyses of ligand choice, linkage vector and linker length enabled the development of bitopic inhibitors of ABL1 and EGFR kinases, including an ABL1 inhibitor with enhanced activity against resistance mutations and reduced off-target toxicity."
+  },
+  {
+    "score": 3.0,
+    "title": "Single-nucleus transcriptome-wide association study of human brain disorders",
+    "link": "https://www.nature.com/articles/s41586-026-10836-6",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.419740+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10836-6\">doi:10.1038/s41586-026-10836-6</a></p>Single-nucleus transcriptomics across diverse populations is used to explore how genetic risk for brain disorders affects specific cell types, revealing previously hidden gene–trait associations and conserved, cell-type-specific mechanisms."
+  },
+  {
+    "score": 3.0,
+    "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "link": "https://www.nature.com/articles/s41586-026-11189-w",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:57.419462+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11189-w\">doi:10.1038/s41586-026-11189-w</a></p>Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling"
+  },
+  {
+    "score": 8.0,
+    "title": "Perceived biodiversity matters: Linking biodiversity and education to mental well-being",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002240?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:57.260034+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Lauren A. Ferguson, Remington J. Moll, Anna Frisbie, Karina A. Sanchez, Laura N. Kloepper</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "The Impact of Industrial Land Use Policy on Urban Innovation: Evidence from a Quasi-Natural Experiment in China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004394?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:57.168887+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Land Use Policy</p><p>Author(s): Weikang Peng, Yingcheng Li, Kang Sun, Ziheng Wang, Yuhua Yang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Land Triadic Nexus: A conceptual framework for land governance through the strategic adaptive alignment of land use, rights, and values",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004308?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:57.168825+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): D. Ary A. Samsura</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Why prosperity does not always ensure sustainable urban development: The role of land use coordination across 10 innovation demonstration zones in China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526002845?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:57.028680+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Habitat International, Volume 178</p><p>Author(s): Bin Xue, Kexin Chang, Yufeng Fan, Bingsheng Liu, Xinzhang Sun</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Stage‐Specific Associations Between Extreme Climate Events and Crop Failures Across China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008789?af=R",
+    "published": "Tue, 22 Sep 2026 02:35:59 -0700",
+    "collected_at": "2026-09-24T07:37:56.761414+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Human Sun–Shade Adaptation Reshapes Global Outdoor Thermal Comfort Assessments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008556?af=R",
+    "published": "Tue, 22 Sep 2026 02:39:04 -0700",
+    "collected_at": "2026-09-24T07:37:56.761389+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "Research Priorities for Robust Climate Assessments in the United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007336?af=R",
+    "published": "Tue, 22 Sep 2026 06:00:40 -0700",
+    "collected_at": "2026-09-24T07:37:56.761339+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 8.0,
+    "title": "Experimental reproduction of a surface-encircling olivine rim in barred olivine chondrules",
+    "link": "https://www.nature.com/articles/s43247-026-04083-w",
+    "published": "2026-09-23",
+    "collected_at": "2026-09-24T07:37:56.258336+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04083-w\">doi:10.1038/s43247-026-04083-w</a></p>Olivine rim formation in barred olivine chondrules requires the surface to be cooler than the interior, which may occur through evaporation and latent heat loss, according to experiments on simulated samples using a laser-heated gas-jet levitation system."
+  },
+  {
+    "score": 8.0,
+    "title": "Uncovering spatial interaction pathways across green and blue spaces shaping bird diversity in highly urbanized regions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826002961?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:55.957374+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Applied Geography</p><p>Author(s): Chicheng Ma, Yimo Zhao, Yang Mi, Dongfeng Yang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Spatially heterogeneous associations of multiple heat exposures and socio-environmental conditions with self-reported physical and mental health burdens in U.S. counties",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826002948?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:55.957341+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Applied Geography</p><p>Author(s): Suwen Xiong, Hangyuan Fan, Yuyu Zhou, Fan Yang</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Commuting inequality in urban China: Social stratification, hukou gaps, and city-level variation in estimated peak-hour commutes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S014362282600295X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:55.957294+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Applied Geography, Volume 196</p><p>Author(s): Kun Lyu, Ping Lyu, Yinghao Pan</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Concentrating the digital dividend: Within-county spatial reallocation under China's rural e-commerce policy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003000?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-24T07:37:55.957251+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: November 2026</p><p><b>Source:</b> Applied Geography, Volume 196</p><p>Author(s): Ming Xie, Xiaoxiao Liao, Xin Ma, Zhenlin Xie</p>"
+  },
+  {
     "score": 9.0,
     "title": "Spatially heterogeneous associations between the built environment and heatwave-related changes in leisure activity",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003834?dgcid=rss_sd_all",
