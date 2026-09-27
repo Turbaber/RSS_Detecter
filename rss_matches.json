@@ -1,5 +1,1237 @@
 [
   {
+    "score": 15.0,
+    "title": "Scale-dependent shifts in urban park cooling performance, spatial associations, and area thresholds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003809?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:56.161313+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Tianyue Wang, Cui Guo</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Scale-dependent effects and thresholds in urban climate regulation: The roles of local and surrounding environmental influences",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003846?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:56.161288+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Han-Chin Chang, Bau-Show Lin</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Material-driven passive cooling for hot-humid cities: Field-validated microclimatic effects of bottom ash-cement blocks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003962?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:56.161263+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Wannapol Sadakorn, Thomas H.-K. Kang, Lapyote Prasittisopin</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Heat, water, and hillsides: An integrated diagnosis of compounded climate risks for coastal adaptation in Brazil",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003950?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:56.161228+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Pedro Henrique Campello Torres, Beatriz Dunder, Mariana Urrestarazu de Freitas</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "A multi-view deep learning framework for urban tree health assessment via fusion of aerial multispectral and street-level RGB imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004474?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:56.060714+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Gaetano Saurio, Marco Seccaroni, Simone Mora, Simone Scardapane, Francesco Marinello, Giancarlo Papitto, Carlo Ratti</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Artificial light at night alters urban tree physiology, growth and BVOC emissions depending on tree species",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004565?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:56.060653+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Ermes Lo Piccolo, Barbara Mariotti, Sara Beltrami, Valentina Lazazzara, Francesca Alderotti, Cecilia Brunetti, Claudia Cocozza, Andrea Baptista, Antonella Gori, Alberto Maltoni, Francesco Ferrini</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Dual friction mapping of urban pedestrian spaces: Integrating street-view visual analytics and Geographically Neural Network Weighted Regression in Izmir, Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007973?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463722+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Yusuf Eminoğlu, Kemal Mert Çubukçu</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Nonlinear drivers and morphological thresholds of residential urban heat islands: Evidence from pedestrian-level thermal sensing and multi-scale planning analysis in Xi’an, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007857?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463671+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Duo Xu, Qiankang Nie, Yiquan Wang, Yingtao Qi, Juejun Ge, Dian Zhou, Qian Zhang</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Understanding building replacement as a transformation process through a multiscale relational framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007699?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463634+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Jingxian Ye</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Optimizing spatial equity in public EV charging accessibility using mobility demand",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008097?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463612+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Jiayu Liu, Jialiang Kang, Xiping Yang, Qinyu Cui, Entong Ke, Lingli Xu, Yuening Li</p>"
+  },
+  {
+    "score": 22.0,
+    "title": "Radiative cooling and green BIPV façades: Energy and urban heat trade-offs across local climate zones",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008152?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463585+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Yuanhao Jiao, Geoffrey Qiping Shen, Xiaodong Li, Han Wang, Hailu Wei, Jason Xin Zhou</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Evolution and its driving mechanisms of water resource nexus among urban-cropland-population-industry-ecology compound systems in the Yellow River Basin",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600819X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463550+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Yafei Zhang, Chao Zang, Qiting Zuo, He Li</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Neighborhood-scale thermal variability of urban heat islands: distinct roles of horizontal and vertical urban morphology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008206?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463520+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Esra Eren, Emre Özelkan, Arzu Başaran Uysal, Kürşad Demirel</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Urban structural and infrastructural inequalities shape fine‑scale carbon footprints of diet, housing, and transportation: Evidence from the metropolitan area of Mexico City",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008176?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.463477+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Rogelio O. Corona-Núñez, Isela Jasso-Flores, Francisco E. Ramas Arauz, Adriana Larralde, Salomón González, Irmene Ortíz</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial confinement-modulated photoluminescence in two-dimensional covalent organic frameworks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326011898?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:55.192413+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Yi-Xiang Shi, Wenhui Wang, Yuhan Luoyang, Jian Wang</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Evaluating spectral unmixing techniques using imaging spectroscopy data for retrieval of green, non-photosynthetic vegetation, and soil fractional cover",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004517?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:54.271907+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Francisco Ochoa, Philip G. Brodrick, Jorge A. Ochoa Gonzalez, Sandra L. LeGrand, Madeleine N. Gillespie, Red Willow Coleman, Yoseline Angel, K. Dana Chadwick, Regina Eckert, Kathleen Grant, Thoralf Meyer, David R. Thompson, Robert O. Green, Gregory S. Okin</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Physics-informed machine learning for cloud detection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004426?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:54.271858+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Shi Qiu, Zhe Zhu, Xiucheng Yang, Junchang Ju, Qiang Zhou, Christopher S.R. Neigh</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Microglia regulate nucleus accumbens synaptic development and circuit function underlying threat avoidance behaviors in mice",
+    "link": "https://www.nature.com/articles/s41467-026-77487-z",
+    "published": "2026-09-26",
+    "collected_at": "2026-09-27T08:13:53.661670+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77487-z\">doi:10.1038/s41467-026-77487-z</a></p>Microglial synapse removal has been heavily studied. Here, the authors reveal roles for microglia in synapse formation by showing that absence of nucleus accumbens microglia during development reduces synapse number and alters avoidance behaviors."
+  },
+  {
+    "score": 3.0,
+    "title": "Branched-type nanocluster-junction fluorofluidic-gels for interface-adaptive thermal conduction and mechanical resistance",
+    "link": "https://www.nature.com/articles/s41467-026-78046-2",
+    "published": "2026-09-26",
+    "collected_at": "2026-09-27T08:13:53.661595+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78046-2\">doi:10.1038/s41467-026-78046-2</a></p>‘Conventional thermal interface materials often suffer from a certain degree of mismatch between their thermal conductivity and contact thermal resistance. Here the authors develop a thermal interface fluorofluidic-gel with a branched-type nanocluster-junction network exhibiting high thermal conductivity and low contact thermal resistance."
+  },
+  {
+    "score": 3.0,
+    "title": "Global spatiotemporal dynamics of mortality from carbapenem-resistant Gram-negative infections over the past three decades",
+    "link": "https://www.nature.com/articles/s41467-026-77197-6",
+    "published": "2026-09-26",
+    "collected_at": "2026-09-27T08:13:53.661536+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "mortality",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77197-6\">doi:10.1038/s41467-026-77197-6</a></p>Long-term mortality from carbapenem-resistant Gram-negative infections is poorly characterised worldwide. Here, authors analyse data from 204 countries and territories, revealing divergent trajectories by region, pathogen, and pandemic period."
+  },
+  {
+    "score": 4.0,
+    "title": "Governing the unpriced hazard: A land-use policy framework for spatially concentrated seismic risk when markets do not capitalise it",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004400?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:53.289295+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Kerem Yavuz Arslanlı, Seda Kundak, Çağlar Göksu, Ahmet Atıl Aşıcı, Ali Yılmaz, Duygu Kalkanlı, Cihan Mert Sabah</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Estimating visible deprivation through the analysis of street view image embeddings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001286?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.394421+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 131</p><p>Author(s): Molly Asher, Alexis Comber, Naieme Golzari Osguie, Thanh Bui Quang, Minh Kieu, Nick Malleson</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Groundwater regulates the spatial pattern of photosynthesis in the contiguous United States",
+    "link": "https://www.nature.com/articles/s43247-026-04067-w",
+    "published": "2026-09-26",
+    "collected_at": "2026-09-27T08:13:52.317179+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04067-w\">doi:10.1038/s43247-026-04067-w</a></p>Groundwater, represented by water table depth, plays a critical role in shaping spatial patterns of photosynthesis across the United States, with effects comparable to aridity, according to a study that integrates satellite solar-induced fluorescence, water table depth estimates, and explainable machine learning."
+  },
+  {
+    "score": 14.0,
+    "title": "Anthropogenic warming is projected to divert atmospheric rivers toward densely populated Asia",
+    "link": "https://www.nature.com/articles/s43247-026-04075-w",
+    "published": "2026-09-26",
+    "collected_at": "2026-09-27T08:13:52.317132+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04075-w\">doi:10.1038/s43247-026-04075-w</a></p>Thermodynamic enhancement of atmospheric rivers (ARs) is projected to dominate subtropical and midlatitude regions, resulting in increased extreme precipitation in Asian urban areas, according to a study integrating a large ensemble of high-resolution global climate models for AR projections."
+  },
+  {
+    "score": 6.0,
+    "title": "Ten questions concerning the future of intelligent buildings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232600990X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.126102+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Amirhosein Ghaffarianhoseini, Hossein Omrany, Ali Ghaffarianhoseini, Ian Cooper, Abdollah Baghaei Daemei, Farzad Rahimian, Seongju Chang, Kody Merlin Powell, Hind Bril El Haouzi, Husam AlWaer, Umberto Berardi</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Nonlinear Relationship between Urban Form and Heat Resilience: An Empirical Study of Seoul",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010279?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.126072+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jianqi Li, Lili Lin, Danbi Kim, Chaosu Li, Wei Wang, Steven Jige Quan</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Colour rendition quality evaluation for artificial and natural lights based on a spectral simulation pipeline",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326002295?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.126046+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zhiyu Chen, Yafan Gao, Qiang Liu</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "<strong>A Carbon-Conduction Model for Quantifying Cascading Replacements in Renovation Embodied Carbon Assessment</strong>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010619?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.126023+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 12 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ke Li, Zhen Lei, Chengshen Zhang, Wenzhou Zhong, Tong Zhang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A Multimodal Fusion Framework Leveraging Vision-Language Models for Streamlining Occupancy Estimation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010759?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125998+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Dongkyu Lee, Jun-Sub Kim, Hyeun Jun Moon, Young Tae Chae</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Integrating Obstruction Effect into Daylighting Design for Home-Offices through an Interpretable Decision-Tree Model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010929?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125973+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zehra Aybike Kılıç, Alpin Köknel Yener</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Untargeted analysis of volatile organic compounds in indoor air: uptake rate determination on passive samplers and application in museum-depot units",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010954?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125945+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 21 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Gynaika De Coster, Kristof Demeestere, Herman Van Langenhove, Christophe Walgraeve</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "AI-Driven Tree Placement Options for Heat Mitigation in Residential Yards",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011029?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125918+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Tianchen Huang, Xinyue Ye, Wei Zhai, Xishuang Dong, Cuiling Liu, Shoujia Li, Wenjing Gong</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Seniors’ Experiences in Smart Communities Across Day and Night: Evidence from Vision-Language Models and Explainable AI",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011030?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125894+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Yuzhuo Gao, Bo Xia, Chongxian Chen, Kirsty Volz, Mirko Guaralda, Jiaxuan E</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Numerical study of a novel cross-counter flow dewpoint evaporative cooler",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011042?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125862+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Muhammad Kashif Shahzad, Ding Yaqi, Guangming Chen, Yongmei Xuan, Feibo Wang, Shah Rukh Jamil</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Odor Annoyance, Sensory Irritation or Relaxation: Acute Effects of Pinewood-Derived VOC Mixtures at Indoor-Relevant Concentrations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601098X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125838+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Christine Ida Hucke, Viviane Gallus, Katja Butter, Julian Elias Reiser, Martin Ohlmeyer, Christoph van Thriel</p>"
+  },
+  {
+    "score": 18.0,
+    "title": "Dynamic climate resilience of Mediterranean educational buildings: A multidimensional assessment of resilient cooling strategies under future extreme heat conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601125X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125809+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Juan Diego Garcia-Honores, Roser Capdevila Paramio, Agnese Salvati, Carlos Lopez-Ordoñez, Núria Garrido Soriano</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Are expensive sensors necessary for assessing indoor environmental quality? A data-driven approach using minimal sensing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011078?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125771+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Shengbo Zhang, Marianne F. Touchie, William O’Brien</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Introducing reality-capture artificial windows in underground spaces: effects of urban views on occupants’ comfort and physiology at different view angles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011066?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125737+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Laifa Long, Nianping Li, Yuyan Chen, Baoxi Zhang, Yan Du</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Decoding dual mediating mechanisms of campus blue-green spaces on human health: A passive-exposure empirical study in the Yangtze River Delta",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011091?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125681+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Bin Zhan, Bo Yang, Zhaowu Yu, Jinguang Zhang, Xiangyang Dai, Weiyuan Ma, Jingyi Hu, Qilong Wu, Shen Ye, Yuan Ren, Jing Zhang, Jian Chen</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Elderly thermal sensation: Determination of the optimal measurement method and establishment of a CatBoost-HHO prediction model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011261?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125644+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Guozhong Zheng, Ziye Li, Lang Yang</p>"
+  },
+  {
+    "score": 18.0,
+    "title": "Assessing Urban Heat Vulnerability in China's Ten Furnace cities through Social Sensing: Linking Exposure, Responses, and Built Environment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010899?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125618+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zhujun Lan, Xidong Chen, Guoming Lin, Yiwen Wu, Ruijun Chen</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Thermal performance of an extensive green roof in a cold and semi-arid climate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010966?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125589+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ketan Ashok Tagde, Cuauhtémoc Tonatiuh Vidrio-Sahagún, Musa Akther, Jianxun He, van Duin Bert</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Low-data anchor–residual UBEM framework for district-scale apartment-stock screening",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601108X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125550+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 25 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ji Hun Park, Seong Taek Kang, Jinyoung Park, Sumin Kim</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "The Hidden Heatwave: Thermal Hazards in the New York City Subway System",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011285?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125515+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Abdou Rachid Bah, Maimuna Muntaha, Lenny Metlitsky, Cesar Pascal Vasquez, Tyler Ayala, Isaac Morel Lopez, Shaquan Larose, Kingston Ditsch, Kip Nielsen, Shaunak Sharma, Reginald Blake, Hamidreza Norouzi</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Large language model agents capture heterogeneous occupant behaviors in building energy simulation of shared office spaces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011303?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125480+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xiaoxiao Xu, Guanying Huang, Zonglin Li, Stergios-Aristoteles Mitoulis</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "The Relationships of Indoor Thermal and Luminous Parameters with Self-reported Dry Eye Symptoms: A Quantitative Cross-Seasonal Field Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011297?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125448+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Bai Song, Runming Yao, Chenqiu Du, Peiping Zheng, Baizhan Li</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Influence of net isosteric heat of sorption on coupled heat and moisture transfer and phase change behavior in building walls",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326010978?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-27T08:13:52.125391+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Building and Environment, Volume 306, Part A</p><p>Author(s): Lufang Chen, Shengnan Niu, Annan Wang, Dan Song, Xiaotong Qin, Xin An, Xing Jin</p>"
+  },
+  {
     "score": 13.0,
     "title": "Which Informal Green Spaces are More Visited? A Comparative Study of Visitor Behavior Characteristics Between Informal Green Spaces and Park Green Spaces Using Human Mobility Big Data in Chicago",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004553?dgcid=rss_sd_all",
