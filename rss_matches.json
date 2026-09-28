@@ -1,5 +1,373 @@
 [
   {
+    "score": 10.0,
+    "title": "Remote sensing for urban energy systems: bridging Earth Observation with urban-scale energy modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008115?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:24.076660+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Xinyu Wang, Shihong Zhang, Qiqi Huang, Qinhui Lu, Zhe Wang</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "A SHAP-enhanced physics-informed neural network for interpretable and high accuracy prediction of neighborhood thermal environments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008231?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:24.076618+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Huihui He, Yongbo Cui, Chengliang Fan, Xiaoqing Zhou</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Diagnosing peer-group misfit in registry-based urban building energy benchmarks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007870?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:24.076596+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): YeEun Jang, Jeongeun Park, Yeweon Kim, Kihyung Yu</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Big data and urban energy efficiency: in the era of digital China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008164?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:24.076562+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Kai-Hua Wang, Miao Li, Xiao-Qing Wang, Nicoleta-Claudia Moldovan</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Corrigendum to “SCARF: A new algorithm for continuous prediction of biomass dynamics using machine learning and Landsat time series” [Remote Sens. Environ. 314 (2024), 114348]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600461X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:23.214726+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 September 2026</p><p><b>Source:</b> Remote Sensing of Environment</p><p>Author(s): Yingchun Fu, Runhao Li, Zhe Zhu, Yufei Xue, Hu Ding, Xinyu Wang, Jiaming Na, Weijie Xia</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Validation of TROPOMI SIF products based on spatial representativeness grading and atmospheric-geometric effect assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004669?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:23.214667+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Qian Zhang, Yan Liu, Josep Peñuelas, Adrià Descals, Yang Yang, Jianli Shi, Xingfa Gu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Sentinel-1 operational DInSAR services for surface displacements monitoring of the Italian territory through the P-SBAS processing chain: a review after 10 years of observations and data processing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004621?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:23.214618+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): F. Casu, I. Antoncecchi, M. Bonano, V. Bosi, C. De Luca, D. Di Bucci, A. Fagiani, D. Mangione, M. Manunta, F. Monterroso, G. Onorato, R. Sofia, I. Zinno, R. Lanari</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Nighttime warming dominates the thermal evolution of lakes across China",
+    "link": "https://www.nature.com/articles/s41467-026-78114-7",
+    "published": "2026-09-28",
+    "collected_at": "2026-09-28T08:43:22.743680+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78114-7\">doi:10.1038/s41467-026-78114-7</a></p>A 25-year analysis of 613 Chinese lakes shows that lake warming is largely driven by nighttime temperature increases, with atmospheric longwave radiation and human activities reinforcing this trend."
+  },
+  {
+    "score": 6.0,
+    "title": "Governing green: Employing cluster analysis on formal organizations to identify policy preferences for urban rooftop farming governance in Dhaka",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526002973?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:21.852111+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Habitat International, Volume 178</p><p>Author(s): Md Ashikuzzaman, Atiq Uz Zaman, Shahed Anwer Khan, Yongze Song</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Protected Areas' Wildland‐Urban Interfaces on Frontlines of Forest Loss and Reforestation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007891?af=R",
+    "published": "Sat, 26 Sep 2026 01:49:21 -0700",
+    "collected_at": "2026-09-28T08:43:21.451189+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "A Systematic Review of Urban Form: Knowledge and Opportunities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008570?af=R",
+    "published": "Sat, 26 Sep 2026 01:52:59 -0700",
+    "collected_at": "2026-09-28T08:43:21.451156+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 9, September 2026."
+  },
+  {
+    "score": 8.0,
+    "title": "A local Shapley metric for spatial validation of urban infrastructure deterioration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001158?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:21.019251+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 131</p><p>Author(s): Pengcheng Zhang, Wen Yi, Yongze Song, Haiyang Liu, Kai Ren, Ning Yang, Jiao Hu, Peng Wu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Supporting wildfire mitigation investment prioritization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001377?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:21.019214+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 131</p><p>Author(s): Thelonious Funk, Alan T. Murray, Rob Hazard, Anne-Marie Parkinson</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Too high to cool? Reference-surface and solar-exposure effects on extensive green roof cooling at two rooftop elevations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011273?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:20.535269+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Sihui Dong, Conrad Zorn, Kilisimasi Latu, Robyn Simcock, Aung Naing Soe, Xingyu Zhang, Zoë Avery, Rachel Devine</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Soundscape evaluation of urban street canyons: Effects of height-to-width ratio and nature-based interventions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601139X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-09-28T08:43:20.535210+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Haram Lee, Young Jae Chun, Sungchan Lee, Pyoung Jik Lee</p>"
+  },
+  {
     "score": 15.0,
     "title": "Scale-dependent shifts in urban park cooling performance, spatial associations, and area thresholds",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003809?dgcid=rss_sd_all",
