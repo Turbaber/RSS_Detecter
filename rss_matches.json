@@ -1,5 +1,549 @@
 [
   {
+    "score": 10.0,
+    "title": "Tracking urban climate change adaptation over time: Evidence from indicator-based monitoring systems of ten major cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003925?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:37.556350+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Saila Toikka, Janina Käyhkö, Sirkku Juhola</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Corrigendum to “Physics-guided modeling reveals contrasting latent heat flux responses across urban local climate zones under extreme heat” [Urban Clim., Volume 69 (2026) 103136]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003986?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:37.556311+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Yujia Zhang, Wenjun Yang, Yuxia Hu, Wenjuan Ma, Zhaowu Yu</p>"
+  },
+  {
+    "score": 23.0,
+    "title": "Spatiotemporal evolution and endogenous contributions of the coordinated development of carbon reduction, pollution control, green expansion, and economic growth in China’s five major urban agglomerations: insights from the XGBoost–SHAP model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008309?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:36.911146+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Jie Zhang, Jiahui Yang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "NightFEST: A Feature-Enhanced SpatioTemporal fusion method for Nighttime light data from SDGSAT-1 GLI and NPP-VIIRS",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004736?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:36.022548+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Linxin Dong, Zhan Pan, Wei Xu, Yongze Song, Zuoqi Chen, Congxiao Wang, Yan Huang, Bailang Yu</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Author Correction: Hyperbranched dielectric polymer networks exhibiting giant energy storage density at 250 °C.",
+    "link": "https://www.nature.com/articles/s41467-026-78332-z",
+    "published": "2026-10-01",
+    "collected_at": "2026-10-02T08:34:35.401400+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "density",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78332-z\">doi:10.1038/s41467-026-78332-z</a></p>Author Correction: Hyperbranched dielectric polymer networks exhibiting giant energy storage density at 250 °C."
+  },
+  {
+    "score": 5.0,
+    "title": "Immune correlates of protection are exposure-dependent: evidence from the Dominican Republic",
+    "link": "https://www.nature.com/articles/s41467-026-78427-7",
+    "published": "2026-10-02",
+    "collected_at": "2026-10-02T08:34:35.401335+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78427-7\">doi:10.1038/s41467-026-78427-7</a></p>This study shows that antibody levels linked to protection against SARS-CoV-2 infection vary with transmission intensity, suggesting immune correlates of protection depend on exposure context."
+  },
+  {
+    "score": 3.0,
+    "title": "Anti-Kasha fluorescence and persistent room-temperature phosphorescence from a nearly flat non-symmetric polycyclic hydrocarbon",
+    "link": "https://www.nature.com/articles/s41467-026-78107-6",
+    "published": "2026-10-02",
+    "collected_at": "2026-10-02T08:34:35.401247+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78107-6\">doi:10.1038/s41467-026-78107-6</a></p>Polycyclic aromatic hydrocarbons are efficient emitters, but achieving desirable properties can be challenging. Here, the authors report the development of monohomotruxene, a nonsymmetric compound with anti-kasha and ultra-long blue phosphorescence."
+  },
+  {
+    "score": 11.0,
+    "title": "Co-evolution of cities and extreme rainfall",
+    "link": "https://www.nature.com/articles/s44284-026-00530-z",
+    "published": "2026-10-01",
+    "collected_at": "2026-10-02T08:34:35.240616+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00530-z\">doi:10.1038/s44284-026-00530-z</a></p>Cities are increasingly recognized as active modifiers of extreme rainfall. This Review synthesizes evidence across observations, theory and modeling to assess the mechanisms, robustness and scale dependence of urban–storm interactions, and their implications for flood resilience and urban planning."
+  },
+  {
+    "score": 11.0,
+    "title": "Spatial allocation of urban roof multifunctional retrofits: A spatial optimization approach integrating potential, cost, and benefit trade-offs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002276?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:35.030699+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Jing Dong, Sujun Zhao, Chunli Li, Ruonan Guo, Fei Guo, Xing Zheng</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Sustainable Management of Global Platinum Group Resources in the Energy Transition: A Group Metabolism Perspective",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009070?af=R",
+    "published": "Thu, 01 Oct 2026 04:56:05 -0700",
+    "collected_at": "2026-10-02T08:34:33.053239+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 10, October 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "Climate Change Increases Water Scarcity Risks and Adaptation Needs in China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007712?af=R",
+    "published": "Thu, 01 Oct 2026 05:14:00 -0700",
+    "collected_at": "2026-10-02T08:34:33.053197+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 10, October 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "Optimizing Hybrid Wind–Solar Systems in Barren Land Under Constraints Imposed by Atmospheric Aerosols",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007325?af=R",
+    "published": "Thu, 01 Oct 2026 06:00:20 -0700",
+    "collected_at": "2026-10-02T08:34:33.053156+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 10, October 2026."
+  },
+  {
+    "score": 6.0,
+    "title": "Neighborhood-scale barrier-free accessibility assessment using handheld LiDAR point cloud",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001407?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.755850+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 131</p><p>Author(s): Maolin Chen, Jianwei Ding, Mei Xue, Xudong Lai, Mingwei Wang, Cuicui Ji</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Rapid urban land uplift enhanced by crustal faults during groundwater recovery",
+    "link": "https://www.nature.com/articles/s43247-026-03915-z",
+    "published": "2026-09-30",
+    "collected_at": "2026-10-02T08:34:32.644691+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-03915-z\">doi:10.1038/s43247-026-03915-z</a></p>Faults in aquifers can influence groundwater recovery and land movement by restricting flow, leading to uneven uplift and recovery across nearby areas, according to remote sensing and multi-decadal groundwater observational analysis."
+  },
+  {
+    "score": 5.0,
+    "title": "Niche differentiation and functional complementarity between rare and abundant taxa sustain grassland soil bacterial diversity",
+    "link": "https://www.nature.com/articles/s43247-026-04101-x",
+    "published": "2026-09-30",
+    "collected_at": "2026-10-02T08:34:32.644652+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04101-x\">doi:10.1038/s43247-026-04101-x</a></p>Abundant and rare soil bacteria in Chinese grasslands show contrasting trophic strategies, assembly processes, and functions that underpin bacterial biodiversity, with rare taxa more environmentally sensitive and soil pH regulating both groups, based on analyses of 278 samples and machine learning."
+  },
+  {
+    "score": 8.0,
+    "title": "North Atlantic chlorophyll blooms modulate European hydroclimate and terrestrial productivity",
+    "link": "https://www.nature.com/articles/s43247-026-04018-5",
+    "published": "2026-10-02",
+    "collected_at": "2026-10-02T08:34:32.644596+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04018-5\">doi:10.1038/s43247-026-04018-5</a></p>High-latitude North Atlantic chlorophyll blooms enhance moisture across Europe by absorbing shortwave radiation, rising sea surface temperature, and altering atmospheric circulation, thereby influencing terrestrial primary productivity, as revealed by observations and Earth system model experiments."
+  },
+  {
+    "score": 8.0,
+    "title": "A Graph Attention-Based Framework for Explainable Thermal Comfort Prediction Using Infrared Facial Landmarks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011509?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.230527+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xin Liu, Zhonghua Gou</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Spatial dependence of alertness on metameric lighting in low-light environments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011443?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.230504+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): HaoYi Li, Bang Qin, Qi Yao, WenCheng Jiang, QiuShuo Su, Dan Li, XuHeng Hu, ShenFei Chen</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Thermal-length-based interpretation and regulation of flow regime evolution in intermittent heating",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011510?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.230478+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zi Cheng, Jingkai Wang, Xue Tian, K.F. Fong, Zhang Lin</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "The Security-Thermal Comfort Paradox: Quantifying the Hidden Night-Ventilation Performance Gap in Tropical-Highland Public Housing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011558?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.230452+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Tilaye Sitotaw Akale, Jiayu Zhang, Xiaodong Yang</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Restorative responses to residential morphology, sky visibility, and greenery in high-density residential window views: A virtual reality study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011534?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.230424+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 September 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Dixin Zhang, Yong He, Keer Shangguan</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Causal Inference in Indoor Thermal Comfort Research: A Scoping Review of Methods, Causal Evidence, and Reporting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011248?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.230385+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "causal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 1 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Hongji Cui, Haiyan Lu, Qihui Zhang, Xiran Cui, Biaoqing Tao, Yingle Wei, Yunsong Han</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Mega-trees in a fragmented Atlantic Forest landscape: where are they and why are they there?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003048?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-02T08:34:32.071950+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Applied Geography, Volume 197</p><p>Author(s): Jhonathan Gomes dos Santos, Rinaldo Luiz Caraciolo Ferreira, Jéssica Stéfane Alves Cunha, Nathan Castro Fonsêca, Eric Bastos Gorgens, Ana Carolina Borges Lins-e-Silva, Fabio Marcelo Breunig, Fabien Hubert Wagner, Duberli Geomar Elera-Gonzales, Anelisa Pedroso Finger, Emanuel Araújo Silva</p>"
+  },
+  {
     "score": 8.0,
     "title": "Urban context regulates vegetation cooling mechanisms: Evidence from satellite observations and model simulations",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004668?dgcid=rss_sd_all",
