@@ -1,5 +1,553 @@
 [
   {
+    "score": 10.0,
+    "title": "Comparing the indoor cooling impacts of green, white, and photovoltaic roofs during heatwaves in a public school in Northeast USA",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004620?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:15.012741+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 4 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Jianxiang Huang, Jinglei Li, Judith Rodriguez, Ernani Choma, M. Patricia Fabian, John D. Spengler</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Climate Vulnerability Assessment in a Cold-Climate City Erzurum, Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008644?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:14.572580+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Süleyman TOY, Özlem Nur Samancı</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "City Carbon Emissions in China: Spatiotemporal Patterns, Driving Factors, and Pathways for Reduction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008632?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:14.572537+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Shengwang Bao, Yongsheng Lin, Zhanfeng Dong, Fan Yang, Chenyu Meng, Simeng Du</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Agri-food connectivity drives the resurgence and geographic expansion of human brucellosis in China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S209592732601217X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:14.349818+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 October 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Xueer Li, Qingqing Xu, Ling Zhong, Xiao Liu, Dongri Piao, Jing Wang, Hongyan Zhao, Kun Li, Changyuan Guo, Yitao Zhao, Hai Jiang, Heng Li, Biao Kan, Zhemin Zhou</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Estimation of rice leaf angle distribution from geometric features in millimetric-resolution UAV RGB imagery acquired at 45° viewing angle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004670?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:13.959022+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Yangmingrui Gao, Linyuan Li, Ming Shi, Wenjie Wang, Peiqi Yang, Feng Xiao, Hao Lu, Fred Baret, Yanfeng Ding, Shouyang Liu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Opposing activity of SOX9 and Wnt in the developing otocyst ensures SOX10 control of endolymphatic development",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617028123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845722+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceThis study suggests a conserved SOX9–Wnt–SOX10 circuit directing inner ear endolymphatic cell fate, essential for hearing and balance. Using mouse genetics and human organoids to study the deafness-causingSOX9Y440X/+mutation, we reveal ..."
+  },
+  {
+    "score": 3.0,
+    "title": "A 2,623-year temperature reconstruction from the Colorado Rocky Mountains reveals warm and cool droughts",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612779123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845680+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceThis study provides a millennial-length temperature reconstruction for the southern Rocky Mountains, headwaters of the Colorado River and Rio Grande, which supply water to millions of people and global food systems. Yet recent drought in the ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Causality-integrated graph learning for multi-endpoint toxicity prediction",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608919123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845547+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceExisting models largely predict toxicity one end point at a time, although chemical toxicity emerges from coordinated perturbations across multiple targets, pathways, and adverse outcomes. We developed a causality-integrated graph learning ..."
+  },
+  {
+    "score": 10.0,
+    "title": "Global divergence in urban–rural vegetation resilience driven by broken ecological trade-offs",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606997123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845475+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceClimate change is weakening the resilience of natural ecosystems, but whether urban vegetation follows the same trajectory remains unclear. Using observations from 2001 to 2022 across 751 cities in 109 countries, we show that urban vegetation ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Recurrent hypermotif regulatory circuits in developmental programs",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2538056123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845363+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceEmbryonic development is a tightly orchestrated process in which cells decide when and where to differentiate, divide, migrate, or die to build healthy tissues. Remarkably, a relatively small set of genes is reused across stages and across ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Chronic cigarette smoke exposure induces distinct stem cell states driving genetic driver–specific non–small cell lung cancer subtypes",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604393123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845295+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceWe delineate how chronic inflammation induced by smoking drives evolution of different lung progenitor populations, reshaping their developmental trajectories to facilitate addiction to specific-oncogenic events. Our data suggest that chronic ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Ancient DNA challenges to admixture narratives: Insights from Notre-Dame Cemetery (1683–1796) in Colonial Montreal, Canada",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523026123?af=R",
+    "published": "2026-10-05T07:00:00Z",
+    "collected_at": "2026-10-06T09:01:13.845238+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceThis study provides ancient DNA analysis of Québec’s French-Canadian founder population from an early urban colonial cemetery in Montréal (1683–1796). Our findings directly challenge narratives of a “settler-founded admixed” population ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Large-scale proteomics identifies circulating markers of pulmonary pressure and pulmonary hypertension risk",
+    "link": "https://www.nature.com/articles/s41467-026-78432-w",
+    "published": "2026-10-05",
+    "collected_at": "2026-10-06T09:01:13.202014+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78432-w\">doi:10.1038/s41467-026-78432-w</a></p>By integrating proteomics, genetics and imaging, this study identifies candidate blood biomarkers of pulmonary hypertension, implicates NOTCH3 in disease development, and defines distinct biological subtypes of individuals at risk for this condition."
+  },
+  {
+    "score": 3.0,
+    "title": "How big tech is building a military–industrial complex in the age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-03134-8",
+    "published": "2026-10-05",
+    "collected_at": "2026-10-06T09:01:12.956449+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03134-8\">doi:10.1038/d41586-026-03134-8</a></p>Two books explore how warfare is being reshaped, with influence shifting from states to tech giants."
+  },
+  {
+    "score": 15.0,
+    "title": "How does hillside urban expansion affect the surface urban heat island effect? empirical evidence from China",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2742570?af=R",
+    "published": "2026-10-05T06:09:46Z",
+    "collected_at": "2026-10-06T09:01:10.936782+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Spatiotemporal characteristics of vegetation responses to compound drought and heatwave events in Central Asia",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2741443?af=R",
+    "published": "2026-10-04T08:51:02Z",
+    "collected_at": "2026-10-06T09:01:10.936759+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Automated camera parameters estimation and occlusion-aware visibility mapping of urban CCTV using asynchronously acquired MMS LiDAR",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2741481?af=R",
+    "published": "2026-10-05T04:15:59Z",
+    "collected_at": "2026-10-06T09:01:10.936699+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Potential for Expanding Sorghum Production in Europe in the Face of Climate Change",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1029/2025EF007503?af=R",
+    "published": "Mon, 05 Oct 2026 06:00:01 -0700",
+    "collected_at": "2026-10-06T09:01:10.434596+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 10, October 2026."
+  },
+  {
+    "score": 6.0,
+    "title": "Circularity measures enhance resilience of net zero pathways for agriculture",
+    "link": "https://www.nature.com/articles/s43247-026-04052-3",
+    "published": "2026-10-05",
+    "collected_at": "2026-10-06T09:01:07.507528+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "indicators",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04052-3\">doi:10.1038/s43247-026-04052-3</a></p>In Ireland, circular bioeconomy strategies modestly reduce climate impact but markedly improve the country’s resilience by reducing dependence on imported inputs, according to integrated modelling of 12 sustainability indicators."
+  },
+  {
+    "score": 3.0,
+    "title": "Insect outbreak progression over three years shapes biogenic volatile emissions in a mountain birch forest",
+    "link": "https://www.nature.com/articles/s43247-026-03920-2",
+    "published": "2026-10-05",
+    "collected_at": "2026-10-06T09:01:07.507480+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-03920-2\">doi:10.1038/s43247-026-03920-2</a></p>Increasing damage from geometrid moths in mountain birch forests led to higher emissions of volatile organic compounds and altered their composition in subarctic Sweden, as shown by three years of in situ measurements during a natural moth outbreak progression."
+  },
+  {
+    "score": 10.0,
+    "title": "Climate warming amplifies coastal hypoxia response to extreme river discharge",
+    "link": "https://www.nature.com/articles/s43247-026-04106-6",
+    "published": "2026-10-05",
+    "collected_at": "2026-10-06T09:01:07.507402+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04106-6\">doi:10.1038/s43247-026-04106-6</a></p>Climate-driven extreme river discharge is projected to prolong and intensify coastal hypoxia, with stronger stratification and spatially uneven oxygen loss, suggests a study using an event-based storyline framework with a 3D hydrodynamic-biogeochemical model applied to the Ariake Sea, Japan."
+  },
+  {
+    "score": 10.0,
+    "title": "Cascading fishery collapse associated with thermal habitat degradation, marine heatwaves, and predator influx",
+    "link": "https://www.nature.com/articles/s43247-026-04110-w",
+    "published": "2026-10-05",
+    "collected_at": "2026-10-06T09:01:07.507312+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04110-w\">doi:10.1038/s43247-026-04110-w</a></p>Early-summer La Niña conditions amplify marine heatwaves that are contributing to the collapse of the Japanese flying squid fishery and increasing the risk of a zero-catch state by the 2040 s, according to multi-decadal observations and climate projections."
+  },
+  {
+    "score": 11.0,
+    "title": "Localised cooling for spatial alliesthesia: Is more better?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011662?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:07.281347+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xiaofeng Liang, Thomas Parkinson, Mahsan Sadeghi, Jing Xiong, Richard de Dear</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Behavior-resolved bioaerosol exposure modeling reveals scale-dependent occupational risk in pediatric wards",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011650?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-06T09:01:07.281300+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 5 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Fangli Zhao, Na Li, Xian Lin, Jing Gu, Zhiyang Dou, Han Yu, Li Du, Lijun Deng, Shenglan Xiao, Nan Zhang</p>"
+  },
+  {
     "score": 8.0,
     "title": "Audiovisual Perception of Vegetation Colour and Birdsong: Laboratory-Based Psychophysiological Experiment Using Urban Green Space-Derived Stimuli",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004711?dgcid=rss_sd_all",
