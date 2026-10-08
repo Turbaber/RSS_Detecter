@@ -1,5 +1,805 @@
 [
   {
+    "score": 7.0,
+    "title": "Sensitivity of urban wind CFD predictions to geometric representation: Wind-tunnel validation around complex buildings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526003998?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:24.361433+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): C. Casado, R. Manzanares-Bercial, M. Martín-Somer, M. Cueto, M. Ogueta-Gutiérrez, S. Franchini, J. Marugán</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Article title: Internal wood deterioration in urban trees across three cities: a resistance drilling assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004760?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:24.262549+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): E. Cinto Mejía, M. Willaredt, A. Ossola, E.K. Meineke</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Spatial Inequality in Perceived Cultural Ecosystem Service Accessibility of Urban Parks: A Case Study of Turin, Italy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004759?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:24.262497+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Jingxiong Huang, Xinwen Zhang, Jiaqi Liang, Anrong Dang, Michele Bonino</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Valuing urban Nature-based Solutions through Cost-Benefit Analysis: Lessons from pilot projects in General San Martín (Argentina) and Turin (Italy)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004747?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:24.262465+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Demián Rotbart, Daniel Kozak, Mariana Giusti, Hayley Henderson, Rodolfo Aradas, Esteban Otto Thomasz</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "High-dose trunk endotherapy alleviates iron chlorosis and improves canopy vitality in urban plane tree (<em>Platanus orientalis</em> L.)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004772?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:24.262418+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Hamid Rafiei, Ali Nikbakht, Hamed Aalipour, Ricardo Fernadez-Escobar</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Adaptive traffic congestion governance framework under population shrinkage: Evidence from 287 Chinese cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008693?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:23.769669+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "shrinkage",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Shiguang Wang, Rui Ma, Jinyu He, Zeyang Cheng, Lili Zheng, Haijian Bai, Yang Ma, Xionghe Qin, Dong Liu, Heng Ding, Yao Li, Mei-Po Kwan</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Spatiotemporal evolution and spatially heterogeneous drivers of urban flood risk: A K-means optimized XGBoost model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600870X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:23.769638+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 6 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Wenkai Zhu, Deyun Wang, Ludan Zhang, Shuaixi Wang, Shuwen Nong</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Long-term probabilistic urban wind assessment for resilient urban air mobility using physics-informed surrogate modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008450?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:23.769608+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jungwoo Kim, Mingyu Yang, Jung Min Han, Jung-Il Choi</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Corrigendum to “District-scale cumulative heat stress mapping using very-high-resolution spatiotemporal simulation” [Sustainable Cities and Society 130 (2025) 106498]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726007523?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:23.769548+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 October 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 150</p><p>Author(s): Nicola Colaninno, Agnese Salvati, Judit Lopez-Besora, Michele Morganti</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Surface temperatures drive strong seasonality in urban reactive carbon emissions",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9622?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830970+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Dopamine release-associated striatal blood oxygenation and whole-brain dynamics during associative learning",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed0935?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830858+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Machine learning–assisted directed evolution of plant Rubisco",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3246?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830838+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Sensory receptor expansion and neural accommodation in butterfly color vision",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei7570?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830759+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Exposure route, not dose, is the primary driver of infection patterns for a respiratory virus",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei4853?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830741+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Cis-regulatory inactivation of vitamin D signaling confers extreme calcium tolerance in Jialing fish",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8398?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830612+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Epigenetic insights into extreme longevity in the world’s oldest terrestrial animal, Jonathan",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adw8887?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.830433+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "An optimized methane retrieval approach based on morphological fusion for mapping methane point emissions from spaceborne imaging spectrometry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004888?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:22.588847+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 December 2026</p><p><b>Source:</b> Remote Sensing of Environment, Volume 347</p><p>Author(s): Fei Li, Chenxi Feng, Javier Roger Juan, Luis Guanter, Huilin Chen, Shiwei Sun, Donglai Xie, Jun Lin, Lanlan Fan, Jianwei Cai, Yongguang Zhang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Myeloid cell reprogramming drives enhanced defense against Streptococcus pneumoniae lung infection following exposure to commensal Prevotella",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2623525123?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.438791+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceEven thoughStreptococcus pneumoniaeis the most common cause of bacterial lung infections, most people who are exposed to this bacterium can successfully defend against infection. We investigated a mechanism for this natural resilience ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Cell jamming transition is regulated by mitochondrial pyruvate transport and endocytosis",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617216123?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.438522+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceEpithelial tissues transition between fluid-like motility and solid-like stability during development and repair. While the physical mechanics governing this jamming transition are established, the cell-intrinsic biological pathways ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Density-dependent aggregation underlies spatial self-organization in coastal dunes",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610711123?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.438196+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceEcosystems often self-organize into spatial patterns, which affects how resilient they are to changes. In coastal dunes, we found that spatial patterns are likely formed by feedbacks between the local density of plant patches and sand ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Chronic intermittent heat exposure induces anxiety in female mice via TLR4 upregulation in paraventricular nucleus CRH neurons",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608918123?af=R",
+    "published": "2026-10-06T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.438109+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceAs the frequency of global heatwaves continues to increase, heat exposure has emerged as a prominent environmental stressor. Our study investigated sex differences in heat exposure-induced anxiety, focusing on CRH neurons and TLR4, to ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Bioinspired negative-curvature monomer architecture accelerates on-surface topochemical polymerization",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602553123?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.437923+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceNanostructured surface chemical patterning often relies on building blocks with structural similarities to amphiphiles in cell membranes, leveraging alkyl-chain packing to induce concomitant ordering of functional headgroups. However, such ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Organic imprint: Natural matter dictates crystallization of manganese oxides on hematite",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535329123?af=R",
+    "published": "2026-10-06T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.437859+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceMineral–organic matter associations serve as major reservoirs of carbon and create microenvironments that mediate interfacial chemistry across Earth’s surface. Yet how these associations actively regulate mineral formation remains poorly ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Spatial and single-nucleus transcriptomics reveals the molecular pathology of type 2 diabetes–associated cognitive dysfunction",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529793123?af=R",
+    "published": "2026-10-06T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.437757+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceType 2 diabetes–associated cognitive dysfunction (DACD) is an underexplored neurodegenerative complication contributing to age-related dementia. Here, we integrate spatial transcriptomics and single-nucleus RNA sequencing to build a ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Global grassland productivity and carbon storage benefit from functional diversity under climate change",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528067123?af=R",
+    "published": "2026-10-07T07:00:00Z",
+    "collected_at": "2026-10-08T09:01:22.437706+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceThe ecosystem services of managed grasslands and rangelands depend strongly on the diversity of plant traits within these ecosystems. This “functional diversity” influences their productivity as well as resistance and resilience against ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Making sense of loss and damage at the national level",
+    "link": "https://www.nature.com/articles/s41558-026-02768-w",
+    "published": "2026-10-07",
+    "collected_at": "2026-10-08T09:01:21.560667+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02768-w\">doi:10.1038/s41558-026-02768-w</a></p>Climate change is already causing widespread losses and damages, and these impacts will intensify as human and natural systems exceed their capacity to adapt. Recent research allows us to understand if and how countries are prioritizing this issue in national policies."
+  },
+  {
+    "score": 12.0,
+    "title": "Robotic urbanization and embodied intelligence for cities",
+    "link": "https://www.nature.com/articles/s44284-026-00536-7",
+    "published": "2026-10-07",
+    "collected_at": "2026-10-08T09:01:21.504803+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00536-7\">doi:10.1038/s44284-026-00536-7</a></p>Robots are becoming an increasingly visible presence in cities. This Perspective introduces the concept of robotic urbanization, examining how economic, social, infrastructural and governance forces shape the adoption of urban robots and influence the distribution of their benefits and impacts."
+  },
+  {
+    "score": 12.0,
+    "title": "Spatiotemporal patterns and structural pathways of area-efficiency dynamics in global urban and rural settlements",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002318?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:21.363298+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Zhitao Liu, Chuanglin Fang, Luotong Guan, Sheng Huang, Menghang Liu, Zehui Chen, Yan Li</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Rethinking neighbourhood boundaries for urban planning: a data-driven framework for perception-based delineation",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2739884?af=R",
+    "published": "2026-10-08T07:58:47Z",
+    "collected_at": "2026-10-08T09:01:21.168983+00:00",
+    "feed_title": "tandf: International Journal of Geographical Information Science: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgis20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": ". <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "PGD-Net: Prompt-Guided Hybrid Transformer Decoder for building extraction from remote sensing images",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2741472?af=R",
+    "published": "2026-10-06T06:38:13Z",
+    "collected_at": "2026-10-08T09:01:20.869532+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "RSFF: a reconciliation-sparse fusion framework for semantic segmentation of rocky desertification land in multimodal time series",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2739002?af=R",
+    "published": "2026-10-06T01:01:24Z",
+    "collected_at": "2026-10-08T09:01:20.869480+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "The 2023–2024 El Niño as a Preview of Future Tropical Forest Climate",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008071?af=R",
+    "published": "Wed, 07 Oct 2026 06:00:22 -0700",
+    "collected_at": "2026-10-08T09:01:20.356949+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 10, October 2026."
+  },
+  {
+    "score": 14.0,
+    "title": "Fire-derived ozone intensifies carbon loss in Amazon forests under extreme droughts",
+    "link": "https://www.nature.com/articles/s43247-026-04047-0",
+    "published": "2026-10-07",
+    "collected_at": "2026-10-08T09:01:20.151418+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04047-0\">doi:10.1038/s43247-026-04047-0</a></p>Fire-derived ozone increases carbon losses from the Amazon by about one quarter of direct fire emissions, with damage persisting during extreme drought despite stomatal limitation, based on land-surface modelling of fire activity, ozone exposure, and climate variability."
+  },
+  {
+    "score": 3.0,
+    "title": "Satellite altimetry reveals heterogeneity in global flood peak timing and its shifts",
+    "link": "https://www.nature.com/articles/s43247-026-04115-5",
+    "published": "2026-10-07",
+    "collected_at": "2026-10-08T09:01:20.151376+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04115-5\">doi:10.1038/s43247-026-04115-5</a></p>Flood peak timing shifted earlier at 52.2% of river virtual stations and 27 of the 50 largest basin outlets, especially at high latitudes and elevations, according to a study using satellite altimetry and clustering analysis to investigate global flood peak timing and its trends from 2008 to 2025."
+  },
+  {
+    "score": 7.0,
+    "title": "Chlorophyll extremes during a surface marine heatwave in a seasonally stratified shelf sea",
+    "link": "https://www.nature.com/articles/s43247-026-04118-2",
+    "published": "2026-10-08",
+    "collected_at": "2026-10-08T09:01:20.151325+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 08 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04118-2\">doi:10.1038/s43247-026-04118-2</a></p>A strong 2023 marine heatwave enhanced surface chlorophyll, with particularly persistent increases below the surface in the Firth of Forth, Scotland, according to high-resolution in situ observations."
+  },
+  {
+    "score": 8.0,
+    "title": "A Virtual Reality Study on the Influence of Indoor Visual Quality on Thermal Comfort Perception",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601173X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-08T09:01:19.979872+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Marco Bernagozzi, Rafaella Siagkri, Marco Picco</p>"
+  },
+  {
     "score": 12.0,
     "title": "Refining green space renewal for PM<sub>10</sub> mitigation across heterogeneous built environments",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004050?dgcid=rss_sd_all",
