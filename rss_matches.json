@@ -1,5 +1,405 @@
 [
   {
+    "score": 8.0,
+    "title": "Greenspace Morphology and Momentary Stress: Perceived Green Quality and Variation Across Activity Contexts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004784?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:51.323212+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Lingwei Zheng, Mei-Po Kwan, Yang Liu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Multiple-oxygen isotope constraints on aerobic respiration and gross primary productivity",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619911123?af=R",
+    "published": "2026-10-09T07:00:00Z",
+    "collected_at": "2026-10-11T08:55:49.577578+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceOxygen and carbon cycling are critical controls on Earth’s climate. Here, we expand on an isotope method using dissolved O2 to estimate the rate of this cycling. The method relies on assumptions about how isotopes are sorted during ..."
+  },
+  {
+    "score": 3.0,
+    "title": "A second-generation “hypoxia in a pill” rescues neurodegenerative phenotypes across distinct mouse models",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618654123?af=R",
+    "published": "2026-10-09T07:00:00Z",
+    "collected_at": "2026-10-11T08:55:49.577553+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceChronic, continuous systemic hypoxia is emerging as a promising preclinical therapy for a variety of rare and common diseases, however its clinical implementation is hindered by practical barriers and potential long-term side effects. Building ..."
+  },
+  {
+    "score": 3.0,
+    "title": "How biological synapses self-assemble gradient learning",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606245123?af=R",
+    "published": "2026-10-09T07:00:00Z",
+    "collected_at": "2026-10-11T08:55:49.577459+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceLearning in the brain is thought to emerge from local synaptic and circuit-level processes rather than from a globally designed blueprint. We formulate Self-Assembling Learning as the problem of how such learning dynamics can arise from ..."
+  },
+  {
+    "score": 14.0,
+    "title": "Revisiting the urban past virtually to enhance well-being for older adults",
+    "link": "https://www.nature.com/articles/s44284-026-00523-y",
+    "published": "2026-10-09",
+    "collected_at": "2026-10-11T08:55:47.567225+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00523-y\">doi:10.1038/s44284-026-00523-y</a></p>As development progresses, urban landmarks may be lost to history, resulting in the disconnection and isolation of older adults from their contemporary city. Huang and colleagues virtually reconstructed immersive past urban scenes from Hong Kong to understand the physiological and psychological effects and support mental health for aging populations."
+  },
+  {
+    "score": 10.0,
+    "title": "Urban memory and mental health",
+    "link": "https://www.nature.com/articles/s44284-026-00526-9",
+    "published": "2026-10-09",
+    "collected_at": "2026-10-11T08:55:47.567176+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00526-9\">doi:10.1038/s44284-026-00526-9</a></p>To what extent does the memory of historic urban spaces benefit the mental health of lifelong residents? A new experimental study used multimodal psychophysiological measurements and revealed that urban memory could significantly improve mental health in older lifelong residents. This News & Views discusses the methodology and findings of this study to stimulate further research and practice on this critical and timely topic."
+  },
+  {
+    "score": 8.0,
+    "title": "Associations between anthropogenic factors and cultivated plant <em>β</em>-diversity in tropical urban landscapes: evidence from Hainan, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002252?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:47.328083+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Qin Zhou, Hai-Li Zhang, Mir Muhammad Nizamani, Qian Li, Jia-Li Yuan, Xin Yang, Zhi-Wen Gao, Hua-Feng Wang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Identification of territorial spatial conflict and its influencing factors from a cross-scale and multi-dimensional perspective: A case study of the Three Gorges Reservoir area, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004503?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:47.220435+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Haohua Wang, Yiwen Sun, Lulu Zhou, Kangchuan Su, Di Wang, Yuzi Wang, Qingyuan Yang</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Arctic climate tipping points under delayed CO<sub>2</sub> emissions mitigation",
+    "link": "https://www.nature.com/articles/s43247-026-03872-7",
+    "published": "2026-10-10",
+    "collected_at": "2026-10-11T08:55:45.862818+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-03872-7\">doi:10.1038/s43247-026-03872-7</a></p>Collapse of the Atlantic Meridional Overturning Circulation and abrupt Arctic cooling only occur when a delayed CO2 emission cessation happens after the exceedance of the 2∘C global mean temperature target, while in other scenarios the Arctic maintains warming trend, as suggested by idealized zero-emission model experiments."
+  },
+  {
+    "score": 4.0,
+    "title": "Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern Siberia",
+    "link": "https://www.nature.com/articles/s43247-026-04150-2",
+    "published": "2026-10-10",
+    "collected_at": "2026-10-11T08:55:45.862787+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04150-2\">doi:10.1038/s43247-026-04150-2</a></p>Atmospheric circulation dominates the increase in fire weather risk over eastern Siberia in the past two decades, with circulation-triggered land-atmosphere feedbacks amplifying about 42% of that effect, as suggested by attribution of vapor pressure deficit based on reanalysis data."
+  },
+  {
+    "score": 5.0,
+    "title": "Assessing the potential and cost of enhanced rock weathering in China",
+    "link": "https://www.nature.com/articles/s43247-026-04136-0",
+    "published": "2026-10-10",
+    "collected_at": "2026-10-11T08:55:45.862754+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04136-0\">doi:10.1038/s43247-026-04136-0</a></p>Enhanced rock weathering contributes 5 to 30 percent of China’s negative emissions needs by 2060 at a net cost of 127 to 226 dollars per tonne of carbon dioxide removed, according to a spatially explicit grid-level analysis of croplands using basalt application scenarios"
+  },
+  {
+    "score": 5.0,
+    "title": "A Panoramic-Image-Based Method for Recognizing Street Shade Conditions under Direct and Reflected Solar Radiation: Validation in Central Tokyo",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011893?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:45.571074+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Shanshan Liu, Takashi Asawa</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Indoor and Outdoor Thermal Comfort Impacts of Dual-Band Electrochromic Glazing: A Multi-Climate Radiative Evaluation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011868?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:45.571059+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Mirco Riganti, Fabio Favoino, Francesco Isaia, Michele Manca, Aleix Alva</p>"
+  },
+  {
+    "score": 20.0,
+    "title": "Seamless daily 10 m urban land surface temperature via a cascading multi-scale satellite fusion framework: Development and multi-city validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601187X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:45.571041+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ziliang Chen, Qifeng Zhuang, Weiwei Zhu, Yuqi Gu, Junjie Zhang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Size-resolved aerosol transport and exposure risk in university dormitories driven by Stokes number topology and source-flow coupling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011741?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:45.571013+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Min Chen, Mengyu Guo</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Mapping regulatory frictions in telehealth: A spatial accessibility approach using the R-2SVCA model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003218?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-11T08:55:45.440722+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Applied Geography, Volume 197</p><p>Author(s): Patrick Danso, Liang Mao</p>"
+  },
+  {
     "score": 9.0,
     "title": "Spatial Structure of urban tree cooling: Radial decay, azimuthal asymmetry, and vertical stratification under a mature tropical canopy",
     "link": "https://www.sciencedirect.com/science/article/pii/S161886672600467X?dgcid=rss_sd_all",
