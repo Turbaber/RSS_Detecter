@@ -1,5 +1,189 @@
 [
   {
+    "score": 13.0,
+    "title": "Carbon exposure diagnosis and building prioritization using daily operating trajectories: A monitored office building portfolio in Chongqing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008723?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:58.856524+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Xiangting Jiang, Yong Ding, Christhina Candido, Yufeng He, Haoran Yan, Yan Yao, Wendi Chen</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A semi-empirical BPDF model for improving characterization of polarimetric reflection of land surfaces: Validation using laboratory and POLDER polarization data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S003442572600492X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:57.700574+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Cong Liu, Zhongqiu Sun, Shan Lu, Kenji Omasa</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Extent and dynamics of tropical flooded forests with multi-year SAR composites and altimetry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004906?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:57.700532+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Paul Senty, Cécile Kittel, Fabrice Papa, Rasmus Fensholt, Monica Coppo Frias, Stéphanie Horion</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Plant invasions are associated with lower community stability at multiple spatial scales",
+    "link": "https://www.nature.com/articles/s41467-026-78617-3",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-12T09:15:57.067851+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "time",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78617-3\">doi:10.1038/s41467-026-78617-3</a></p>Plant invasions can threaten ecosystems by making plant communities less stable over time. The study shows that invasions reduce stability from local to metacommunity scales by eroding functional diversity and favoring fast-growing strategies."
+  },
+  {
+    "score": 6.0,
+    "title": "Insurance and land-use permanence in natural rubber: Implications for land transitions and carbon dynamics from Hainan, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004461?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:56.588769+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Zongjun Ling, Xiangrui Wang, Jialing Yu, Desheng Zhang, Zhen Zhong</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Scale and space in industrial policy implementation: Geospatial evidence from urban Ethiopia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004564?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:56.588727+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Dejene Tesema Bulti, Anteneh Lemmi Eshete</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Aero-thermal performance of 3D-printed building envelopes with alternative wall infill geometries: CFD modelling with wind-tunnel validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601190X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:54.827537+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Meruyert Sovetova, Sean Gip Lim, Ling Xin Yong, Yi Wei Daniel Tay, Salah Almazmumi, Kemin Ding, Hao Sun, John Calautit, Ming Jen Tan</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Children’s thermal sensation and comfort in a severe cold region primary school: Seasonal characteristics, body weight effects, and local sensitivity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011923?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-12T09:15:54.827481+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 11 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Siqi Hou, Yanli Nan, Shan Gao, Chi Feng</p>"
+  },
+  {
     "score": 8.0,
     "title": "Greenspace Morphology and Momentary Stress: Perceived Green Quality and Variation Across Activity Contexts",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004784?dgcid=rss_sd_all",
