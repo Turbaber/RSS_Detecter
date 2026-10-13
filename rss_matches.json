@@ -1,5 +1,561 @@
 [
   {
+    "score": 4.0,
+    "title": "Associations of body shape, visceral adiposity, and metabolic function indices with risk of major noncommunicable diseases: evidence from a nationwide population cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326012181?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-13T09:27:30.724374+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 11 October 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Yi Wu, Limei Nie, Yue Cai, Chunying Lin, Yuan Shen, Zitong Wang, Xiaoyan Zhang, Bowang Chen, Yang Yang, Jianlan Cui, Wei Xu, Lijuan Song, Hao Yang, Wenyan He, Yan Zhang, He Xiao, Xi Li, Wei Zhao</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Interfacial microenvironments enable abiotic ribonucleoside formation in micro- and nanoscale compartments",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2624803123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.170227+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceThe origin of ribonucleosides, essential building blocks of RNA, remains a major unresolved problem in prebiotic chemistry because their abiotic formation is inefficient and their stability is limited under plausible early-Earth conditions. We ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Cell identity competes with surface tension to determine stromal organization in tumor spheroids beyond the CAF shell paradigm",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2624455123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.170194+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceCancer-associated fibroblasts (CAFs) are widely assumed to form a peripheral stromal shell around solid tumors, yet their spatial organization remains poorly understood. Using magnetic surface tensiometry and engineered tumor spheroids, this ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Nonclassical growth to mesoporous quasi-single crystal CeO2 superstructures with a well-defined surface",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617489123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.170095+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceOriented attachment offers a powerful route to materials difficult to access by classical nucleation-and-growth or templating methods. This work shows that CeO2nanoclusters assemble through oriented attachment into mesoporous quasi-single-..."
+  },
+  {
+    "score": 5.0,
+    "title": "Improved assessment of Alaskan Arctic coastal wave exposure accounting for landfast ice",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612829123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169937+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceWave impacts are a primary variable driving high rates of coastal erosion and growing flood hazards in the Alaskan Arctic. Yet, existing historical datasets lack the resolution to adequately resolve the coastal wave environment—critical to the ..."
+  },
+  {
+    "score": 3.0,
+    "title": "P-body-mediated RNA decay controls neural crest EMT",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608103123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169725+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceThe epithelial–mesenchymal transition (EMT) enables cells to migrate during development and is essential for the formation of many tissues and organs. In vertebrate embryos, neural crest cells undergo EMT to generate much of the craniofacial ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Imaging and recording of synaptic zinc in the brain by covalent chemistry–based semisynthetic biosensors",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606947123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169638+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceZn2+is involved in higher-order brain functions, yet its precise roles remain unclear owing to the lack of analysis with synapse-level spatial resolution in vivo. Here, we converted synapse-localized endogenous neuroreceptors into ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Multiyear dual-isotope fingerprinting at South Asian receptor sites constrains carbon monoxide sources and enhanced oxidation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606200123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169574+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceCarbon monoxide (CO) regulates atmospheric oxidation and the lifetime of multiple climate forcers. Current understanding of its sources largely draws on emission inventories, satellite observations, and inversion models, which provide valuable ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Evolution shapes ecosystem resilience through spatial self-organization",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536473123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169511+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceWhen ecosystems face climate change, they respond in multiple ways. In drylands, vegetation adjusts its spatial patterns responding to increasing water stress, while plants may rapidly evolve greater drought tolerance. How these responses ..."
+  },
+  {
+    "score": 6.0,
+    "title": "In mice, a population of male germ cells show characteristics of nonapoptotic cell death during G0 arrest",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533604123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169446+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceSpermatogonial stem cells (SSCs) are essential for reproductive fitness, yet how their precursors are selected during development is not known. Using a mouse model, this study describes high levels of cellular damage within a subset of male ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Learning dissipative chaotic dynamics with boundedness guarantees",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533077123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169410+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceDissipative chaos commonly occurs in scientific domains from fluid dynamics to climate systems. Despite the recent progress in data-driven models, they are often prone to generating unbounded trajectories, which prohibits meaningful ..."
+  },
+  {
+    "score": 3.0,
+    "title": "AI-generated language remains systematically distinguishable from human communication",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2531748123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169341+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceResearchers in the social sciences are increasingly using large language models (LLMs) to simulate human behavior and communication. Yet robust, systematic methods for assessing how faithfully these models reproduce human expression remain ..."
+  },
+  {
+    "score": 11.0,
+    "title": "Multidimensional vulnerabilities of informal settlements in the Urban South",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523034123?af=R",
+    "published": "2026-10-12T07:00:00Z",
+    "collected_at": "2026-10-13T09:27:30.169257+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 42, October 2026. <br />SignificanceMore than one billion people live in urban informal settlements, and this number could nearly triple by 2050 as cities continue to grow. Yet not all these informal settlements face the same challenges of sustainable development. By conducting ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Interpretable AI-guided discovery of degradable ionizable lipids with enhanced hepatic mRNA delivery in vivo",
+    "link": "https://www.nature.com/articles/s41467-026-78635-1",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.849580+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78635-1\">doi:10.1038/s41467-026-78635-1</a></p>Ionizable-lipid discovery remains largely empirical. Here, the authors integrate interpretable machine learning with modular degradable lipid chemistry to prioritize candidates for experimental testing and identify a lead lipid for hepatic mRNA delivery."
+  },
+  {
+    "score": 5.0,
+    "title": "The mechanosensitive PIEZO1 channel promotes CD54<sup>+</sup>/iNOS<sup>+</sup> neutrophil expansion in pulmonary fibrosis",
+    "link": "https://www.nature.com/articles/s41467-026-78397-w",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.849505+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78397-w\">doi:10.1038/s41467-026-78397-w</a></p>Neutrophils have been shown to be involved in pulmonary fibrosis (PF). Here, the authors identify an expanded pro-inflammatory neutrophil state marked by CD54 in human PF and by iNOS in murine PF, demonstrate that iNOS+ neutrophils promote PF whilst Arg+ neutrophils are less effective, and show that mechanical activation of the PIEZO1 channel contributes to the promotion of PF by CD54 + /iNOS+ neutrophils."
+  },
+  {
+    "score": 3.0,
+    "title": "Neuronal signatures of successful one-shot memory in mid-level visual cortex",
+    "link": "https://www.nature.com/articles/s41467-026-78369-0",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.849455+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78369-0\">doi:10.1038/s41467-026-78369-0</a></p>Neural mechanisms underlying one-shot memory are not fully understood. In this study, macaque monkeys were trained to perform a continuous image recognition task and simultaneously recorded from groups of neurons in area V4. The authors found that the perceptual building blocks of fast, high-capacity memory are present in mid-level sensory cortex."
+  },
+  {
+    "score": 4.0,
+    "title": "Block-fitness modeling of the global air mobility network",
+    "link": "https://www.nature.com/articles/s41467-026-78115-6",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.849380+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78115-6\">doi:10.1038/s41467-026-78115-6</a></p>Origin-destination data on air travel are essential for studying global mobility and epidemic risk but are often proprietary. Here, authors introduce a maximum-entropy network method that reconstructs air passenger flows from open data and enables accurate reproduction of epidemic dynamics."
+  },
+  {
+    "score": 3.0,
+    "title": "Selecting climate solutions creates new institutional authority",
+    "link": "https://www.nature.com/articles/s41558-026-02771-1",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.629476+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02771-1\">doi:10.1038/s41558-026-02771-1</a></p>Selecting climate solutions creates new institutional authority"
+  },
+  {
+    "score": 9.0,
+    "title": "A global view of urban land subsidence and its changing trajectories",
+    "link": "https://www.nature.com/articles/s44284-026-00527-8",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.590409+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00527-8\">doi:10.1038/s44284-026-00527-8</a></p>Urban land subsidence poses a widespread but poorly quantified threat to cities worldwide. This study generates 40-m-resolution land subsidence maps and trend estimates for 465 cities with populations above one million."
+  },
+  {
+    "score": 13.0,
+    "title": "The spatial reach of mobility interactions in urban systems",
+    "link": "https://www.nature.com/articles/s44284-026-00531-y",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.590372+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00531-y\">doi:10.1038/s44284-026-00531-y</a></p>Human mobility interactions describe how movements across locations collectively generate citywide spatial organization. This study introduces the spatial range exponent (ρ) to measure this organization and shows how it can be used to compare cities, track mobility reorganization during disruptions and connect urban mobility structure to public health outcomes."
+  },
+  {
+    "score": 7.0,
+    "title": "Global patterns and temporal dynamics of urban subsidence",
+    "link": "https://www.nature.com/articles/s44284-026-00528-7",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.590307+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00528-7\">doi:10.1038/s44284-026-00528-7</a></p>High-resolution satellite observations were analyzed to monitor subsidence across 465 cities worldwide. Urban subsidence was found to be widespread, with the most severe sinking occurring in Southern North America, Southeast Asia and West-Central Asia. Hotspots in Southeast and East Asia included a combination of accelerating and decelerating subsidence dynamics."
+  },
+  {
+    "score": 3.0,
+    "title": "Hidden signals in sleep can predict future health",
+    "link": "https://www.nature.com/articles/d41586-026-03207-8",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-13T09:27:29.549632+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "mortality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03207-8\">doi:10.1038/d41586-026-03207-8</a></p>From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures."
+  },
+  {
+    "score": 10.0,
+    "title": "Fuel structure controls fire spread in managed urban vegetation patches: field characterisation and FDS simulations from Shanghai",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002343?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-13T09:27:29.426060+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Manqing Yao, Deshun Zhang, Yingying Chen, Mohamed Elsadek</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Assessing industrial land-use efficiency at parcel scale: Actual vs. expected economic outputs across diverse parcel types and spatial conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004515?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-13T09:27:29.366870+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Xiaoyan Dong, Xiuyuan Zhang, Xiangjun Zhang, Qi Zhou, Zhiyong Yang, Haoyu Wang, Lubin Bai, Wei Qin, Yao Chen, Jiaming Fan, Shihong Du</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Fingerprint Evidence for Human Effects on Climate: Advances After the 2009 Endangerment Finding",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009129?af=R",
+    "published": "Mon, 12 Oct 2026 06:01:12 -0700",
+    "collected_at": "2026-10-13T09:27:28.567252+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 10, October 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Acoustic and perceptual predictors of occupant pleasantness in the cabin acoustic environment of electric-vehicle alerting sounds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011935?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-13T09:27:28.221457+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 11 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Hyun In Jo, Jaeyun Jeon, Joo-Young Hong</p>"
+  },
+  {
     "score": 13.0,
     "title": "Carbon exposure diagnosis and building prioritization using daily operating trajectories: A monitored office building portfolio in Chongqing",
     "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008723?dgcid=rss_sd_all",
