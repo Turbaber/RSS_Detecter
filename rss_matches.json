@@ -1,5 +1,589 @@
 [
   {
+    "score": 21.0,
+    "title": "Spatializing daytime street-level thermal exposure frequency profiles in urban areas during extreme heat events using the operative temperature index",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004062?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:28.201122+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Thomas Lagelouze, Sandra Rome, Julia Hidalgo, Sylvain Bigot, Jérémy Bernard, Jean-Dominique Creutin</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Bridging LiDAR and NAIP: A Scalable Deep Learning Framework for Statewide Urban Tree Canopy Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004796?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:28.061525+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 12 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Joe Gorman</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Towards a neurodiverse planning theory and practice",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261494812?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-13T02:06:33Z",
+    "collected_at": "2026-10-14T07:40:27.917071+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Since the emergence of the neurodiversity movement a few decades ago and its emphasis on neurocognitive differences rather than ‘deficits’, the impact of the living environment on the everyday lives of neurodivergent individuals has been central to the ..."
+  },
+  {
+    "score": 20.0,
+    "title": "A bench is just a bench: A spatial justice analysis of older adults’ needs based on municipal hotline data",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261492905?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-13T12:32:41Z",
+    "collected_at": "2026-10-14T07:40:27.917035+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Population ageing and the expansion of age-friendly cities have increased attention to the built environment, yet small-scale infrastructure remains underexamined. This study frames the equitable distribution of public benches as an issue of spatial ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Towards inclusive age-friendly communities: A scoping review of diversity and representation in global initiatives",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261486964?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-13T12:32:45Z",
+    "collected_at": "2026-10-14T07:40:27.917009+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />While calls for meaningful inclusion of diverse and socially excluded older populations in age-friendly urban planning initiatives have increased, little is known about how these groups are actually involved in shaping such programmes, and what mechanisms ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Informal elite urbanism and Pentecostal city-making: Rethinking ‘religious gentrification’ in Lagos (Nigeria)",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261491213?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-13T12:32:56Z",
+    "collected_at": "2026-10-14T07:40:27.916985+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This article examines the transformation of Onike, a central Lagos neighbourhood, through the presence and expansion of the Pentecostal mega-church Mountain of Fire and Miracles Ministries (MFM). The paper engages with the concept of ‘religious ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Embedding urban food policies into commons thinking: A framework analysis of policies and initiatives",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261486693?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-13T05:09:21Z",
+    "collected_at": "2026-10-14T07:40:27.916948+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Cities have been at the forefront of transforming the urban food system to address the pressing challenge of providing “good food for all.” In light of the ongoing global urbanization trends, which continue despite major global disruptions such as the ..."
+  },
+  {
+    "score": 13.0,
+    "title": "Planning for net-zero urban environments in the hot mediterranean climate through building-integrated photovoltaics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008267?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:27.606019+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Soultana (Tanya) Saroglou, Elie Medioni, Kushagra Gautam, Sabrina Spatari, Abraham Yezioro</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "A decade of summer glacier fronts and calved glacier ice distribution in Kongs- and Krossfjorden, Svalbard, observed by Sentinel-1 extra wide swath",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004633?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:26.786856+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Jörg Haarpaintner, Geir Moholdt, Manon Tranchand-Besset, Valentin Pillet</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Unmet care needs at the end-of-life among older adults with activity limitations",
+    "link": "https://www.nature.com/articles/s41467-026-74719-0",
+    "published": "2026-10-13",
+    "collected_at": "2026-10-14T07:40:26.237915+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-74719-0\">doi:10.1038/s41467-026-74719-0</a></p>Formal end-of-life care expansion in the US, Europe, and South Korea has not fully compensated for declining informal care, resulting in care gaps. Demographic transitions interact with development contexts to create distinct care landscapes."
+  },
+  {
+    "score": 3.0,
+    "title": "A nanosystem manipulates angiocrine signaling for cardioprotection in male mice by relocalizing endothelial exosomes",
+    "link": "https://www.nature.com/articles/s41467-026-78706-3",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-14T07:40:26.237763+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78706-3\">doi:10.1038/s41467-026-78706-3</a></p>Acute myocardial ischemia induces the release of endothelial exosomes with cardioprotective effect. Here, the authors show that a nanosystem relocalizes circulating endothelial exosomes to ischemic myocardium, increasing local exposure and preserving cardiac function"
+  },
+  {
+    "score": 4.0,
+    "title": "Enhancing fairness in climate action through policy packages",
+    "link": "https://www.nature.com/articles/s41558-026-02751-5",
+    "published": "2026-10-13",
+    "collected_at": "2026-10-14T07:40:25.931880+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02751-5\">doi:10.1038/s41558-026-02751-5</a></p>Achieving climate neutrality requires policies perceived as fair, with equity both between and within income groups. Here researchers evaluate the equity implications of different European Union climate policy packages and show how a mixed policy design can balance trade-offs between two equity dimensions."
+  },
+  {
+    "score": 3.0,
+    "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
+    "link": "https://www.nature.com/articles/d41586-026-03255-0",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-14T07:40:25.764567+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03255-0\">doi:10.1038/d41586-026-03255-0</a></p>Step into the rainforest with climatologist David Lapola. Plus, watch an ‘invisible’ tattoo be revealed by ultraviolet light and explore PhD remuneration across Europe."
+  },
+  {
+    "score": 3.0,
+    "title": "China’s extraordinary rise in science and how it will change the world",
+    "link": "https://www.nature.com/articles/d41586-026-03222-9",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-14T07:40:25.764283+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03222-9\">doi:10.1038/d41586-026-03222-9</a></p>The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power."
+  },
+  {
+    "score": 8.0,
+    "title": "Optimizing grassland biodiversity and carbon co-benefits under climate change: An integrated climate-ecological-economic modelling framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004527?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:25.572424+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Rong-Gang Cong, Xin Zhang, Wenying Han, Apostolos Kyriazopoulos, Henrik G. Smith</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Social vulnerability amplifies global inequality in urban heat risk",
+    "link": "https://www.nature.com/articles/s43247-026-04137-z",
+    "published": "2026-10-11",
+    "collected_at": "2026-10-14T07:40:24.154369+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 11 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04137-z\">doi:10.1038/s43247-026-04137-z</a></p>Urban heat risk increased worldwide during 2000–2019, with growth in the Global South nearly five times that in the Global North, and conventional approaches underestimate North-South inequality by nearly 65 percent, according to an analysis of 1,029 global cities."
+  },
+  {
+    "score": 7.0,
+    "title": "Baltic Sea sediment bacterial communities show asymmetric and incomplete recovery after reciprocal temperature change translocation",
+    "link": "https://www.nature.com/articles/s43247-026-04147-x",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-14T07:40:24.154332+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04147-x\">doi:10.1038/s43247-026-04147-x</a></p>Ocean warming will alter bacterial communities of Baltic Sea coastal sediments and associated biogeochemical cycles, according to translocation experiments of Baltic Sea sediment."
+  },
+  {
+    "score": 4.0,
+    "title": "Physics-informed deep learning links geodetic data and fault friction",
+    "link": "https://www.nature.com/articles/s43247-026-04138-y",
+    "published": "2026-10-12",
+    "collected_at": "2026-10-14T07:40:24.154311+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04138-y\">doi:10.1038/s43247-026-04138-y</a></p>Spatially variable frictional properties along a fault can be estimated using a physics-informed neural network approach that enables physics-consistent slip modelling, as tested on the 2010 Bungo slow slip event in southwest Japan."
+  },
+  {
+    "score": 5.0,
+    "title": "U.S. oil and gas methane emission intensity declined 2019–2024 with little indication of federal policy impact",
+    "link": "https://www.nature.com/articles/s43247-026-04039-0",
+    "published": "2026-10-13",
+    "collected_at": "2026-10-14T07:40:24.154290+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04039-0\">doi:10.1038/s43247-026-04039-0</a></p>Oil and gas emissions in the USA have declined from 2019 to 2024, likely as a result of gradual technological and operational developments, and existing federal regulations, according to an inverse model constrained by satellite observations."
+  },
+  {
+    "score": 11.0,
+    "title": "Ocean thermal inertia sustains a tropical Pacific mean state shift under net zero",
+    "link": "https://www.nature.com/articles/s43247-026-04082-x",
+    "published": "2026-10-13",
+    "collected_at": "2026-10-14T07:40:24.154260+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04082-x\">doi:10.1038/s43247-026-04082-x</a></p>The tropical Pacific shifts towards El Niño-like conditions under ongoing warming and does not recover for centuries after emissions cease, according to climate model simulations spanning centennial to millennial timescales."
+  },
+  {
+    "score": 4.0,
+    "title": "Impact-based flood-damage assessment in Japan under longitudinal typhoon-track perturbations and levee-height variations during Hagibis (2019)",
+    "link": "https://www.nature.com/articles/s43247-026-04077-8",
+    "published": "2026-10-13",
+    "collected_at": "2026-10-14T07:40:24.154230+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "height",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04077-8\">doi:10.1038/s43247-026-04077-8</a></p>The typhoon Hagibis (2019) flood damage was highly influenced by typhoon track variations and levee height, with the highest losses concentrated around Tokyo, Osaka, and Nagoya under different storm scenarios, according to a methodological framework for assessing typhoon-induced flooding and impact analysis."
+  },
+  {
+    "score": 4.0,
+    "title": "Weathering-derived calcium supports carbon storage in grassland soils",
+    "link": "https://www.nature.com/articles/s43247-026-04142-2",
+    "published": "2026-10-13",
+    "collected_at": "2026-10-14T07:40:24.154192+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04142-2\">doi:10.1038/s43247-026-04142-2</a></p>Mineral weathering-derived calcium promotes soil organic carbon storage in US Mollisols, and agriculture has increased calcium inputs four- to fivefold, altering the geochemical conditions that sustain carbon in these soils, based on continental-scale datasets and geochemical modelling."
+  },
+  {
+    "score": 7.0,
+    "title": "A vision-enhanced multimodal framework for accurate building energy load forecasting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011947?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:23.866039+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 12 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Kailai Sun, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "A unified framework for global indoor air quality: transitioning from guidelines to actionable open regulatory standards",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011856?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-14T07:40:23.865987+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Building and Environment, Volume 306, Part B</p><p>Author(s): Azhar Siddique, Bertrand Tchanche, Christos D. Argyropoulos, Douglas Booker, Francis Pope, Gaetano Settimo, Georgia Lagoudas, James McGrath, Juliana Jalaludin, Nigel Goodman, Pawel Wargocki, Pedro T.B.S. Branco, Prashant Kumar, Shelly L. Miller, Skandan Ananthasekar, Sotirios Papathanasiou, Sotiris Vardoulakis</p>"
+  },
+  {
     "score": 4.0,
     "title": "Associations of body shape, visceral adiposity, and metabolic function indices with risk of major noncommunicable diseases: evidence from a nationwide population cohort",
     "link": "https://www.sciencedirect.com/science/article/pii/S2095927326012181?dgcid=rss_sd_all",
