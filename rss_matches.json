@@ -1,5 +1,881 @@
 [
   {
+    "score": 12.0,
+    "title": "Distributive effects of climate change: How does rising temperatures affect energy allocation between cities?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004153?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:48.866967+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Yu Dong, Xuehong Zhu, Qiong Xu</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "EDITORIALUrban Forests from Heat Mitigation to Public Health: Advancing Resilient and Equitable Cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004814?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:48.720641+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Bo Hong, Andreas Matzarakis, Jiayu Wu, Zhixin Liu</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Machine learning for climate-responsive urban design and planning: a scoping review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008747?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:48.143107+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Naga Venkata Sai Kumar Manapragada, Aristotelis Vartholomaios, Jonathan Natanian</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "A multi-objective optimization-simulation approach to equitable public space reallocation in dense urban areas",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008322?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:48.143078+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Jesús Isaac Vázquez-Serrano, Leopoldo Eduardo Cárdenas-Barrón, Andrés Acero, Rafael Ernesto Bourguet-Díaz, Neale R. Smith, Armando Céspedes-Mota, Julio C. Vicencio-Ortiz</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Urban morphology reshapes solar opportunity across 1859 global cities beyond climatic resource availability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008942?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:48.143025+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Qian Zhang, Weile Jiang, Yujun Yang, Dian Zhou, Hui Cao, Duo Xu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Deep learning reveals ecological decoupling and rate heterogeneity in Hymenoptera wing evolution",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef0605?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.675129+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "The network structure of the urban revolution",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5162?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.675063+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 9.0,
+    "title": "Rising global population coexposure to heatwaves and landscape fire-sourced air pollution",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea9749?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.675024+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Bioinspired supramolecular thermistor for resolving subtle temperature variations",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei0002?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.674979+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "Seabirds and native vegetation drive ecosystem processes that support atoll island resilience",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei1145?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.674793+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Emergent coherent-incoherent phonon crossover enables ultralow lattice thermal conductivity in 3D double perovskite",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej9757?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.674662+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "From scrap to prime: Designing high-performance alloys from dirty feedstocks with machine learning",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9183?af=R",
+    "published": "2026-10-14T07:00:00Z",
+    "collected_at": "2026-10-15T07:28:47.674593+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 42, October 2026. <br />"
+  },
+  {
+    "score": 11.0,
+    "title": "Divergent transpiration regulation among 20 urban tree species under extreme heat revealed by UAV multisource remote sensing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726004827?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:47.447654+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Tuqiang Chen, Jinhui Jeanne Huang</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Assessing green-growth and degrowth pathways through institutional regime feasibility",
+    "link": "https://www.nature.com/articles/s41893-026-01951-3",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.679611+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41893-026-01951-3\">doi:10.1038/s41893-026-01951-3</a></p>Choosing a feasible economic growth trajectory to mitigate climate change cannot hinge on only gross domestic product trends. This Perspective presents a framework to understand where each possible growth path places its heaviest burdens and shows that such understanding is critical to inform policy decisions."
+  },
+  {
+    "score": 3.0,
+    "title": "Evaluating the effects of population mobility on transmission during the COVID-19 pandemic",
+    "link": "https://www.nature.com/articles/s41467-026-78247-9",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.602445+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78247-9\">doi:10.1038/s41467-026-78247-9</a></p>Here the authors analyse mobility and COVID-19 data from 122 countries to examine how changes in movement affected virus transmission. They find that mobility data improved estimates of SARS-CoV-2 spread, particularly in Western Europe and North America."
+  },
+  {
+    "score": 5.0,
+    "title": "Surface carbonation governs olivine reactivity for rapid CO<sub>2</sub> mineralization",
+    "link": "https://www.nature.com/articles/s41467-026-78548-z",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.602339+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78548-z\">doi:10.1038/s41467-026-78548-z</a></p>The authors explain the role of reactivity contrast between Ca2+ and Mg2+ in olivine group silicates for CO2 removal and show that surface reactions with CO2 accelerate mineral dissolution, helping elucidate rapid, permanent carbon storage in rocks."
+  },
+  {
+    "score": 3.0,
+    "title": "Aberrant one-carbon metabolism and ancestral genetics underlie edematous severe acute malnutrition",
+    "link": "https://www.nature.com/articles/s41467-026-74239-x",
+    "published": "2026-10-15",
+    "collected_at": "2026-10-15T07:28:46.602292+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-74239-x\">doi:10.1038/s41467-026-74239-x</a></p>Edematous malnutrition in children has unclear causes. Here, the authors show that genetic variation at one‑carbon metabolism genes influences disease risk through homocysteine‑related pathways and ancestry‑linked effects in affected populations."
+  },
+  {
+    "score": 3.0,
+    "title": "Citizens’ assemblies propose ambitious climate policy but impacts remain limited",
+    "link": "https://www.nature.com/articles/s41558-026-02755-1",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.451589+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02755-1\">doi:10.1038/s41558-026-02755-1</a></p>Deliberative citizen participation, such as climate assemblies, has been promoted in climate governance. This study finds that, although assemblies proposed more ambitious recommendations than existing climate policy, these recommendations rarely translated into actual policy decisions."
+  },
+  {
+    "score": 3.0,
+    "title": "Species hybridization belongs on the climate change agenda",
+    "link": "https://www.nature.com/articles/s41558-026-02780-0",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.451544+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02780-0\">doi:10.1038/s41558-026-02780-0</a></p>Species hybridization belongs on the climate change agenda"
+  },
+  {
+    "score": 8.0,
+    "title": "Strengthening Rio Convention implementation architecture through reciprocal learning",
+    "link": "https://www.nature.com/articles/s41558-026-02777-9",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.451517+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02777-9\">doi:10.1038/s41558-026-02777-9</a></p>As the Rio Conventions mature from negotiating commitments towards delivering them, strengthening implementation has become an urgent priority. We argue for greater cross-convention learning within the context of institutional architecture to accelerate progress on climate, biodiversity and land degradation."
+  },
+  {
+    "score": 3.0,
+    "title": "The ambitions and limitations of climate assemblies",
+    "link": "https://www.nature.com/articles/s41558-026-02764-0",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.451468+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02764-0\">doi:10.1038/s41558-026-02764-0</a></p>Climate citizens’ assemblies are gaining traction worldwide as a way to involve the public in climate governance. Now a study demonstrates that although these assemblies propose more ambitious recommendations than existing climate policy, these recommendations vary across contexts and have limited impact on policy decisions."
+  },
+  {
+    "score": 4.0,
+    "title": "Advancing subseasonal forecasting with machine learning",
+    "link": "https://www.nature.com/articles/s41586-026-11126-x",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.296679+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11126-x\">doi:10.1038/s41586-026-11126-x</a></p>The AI framework probabilistic bias correction is shown to correct weather forecast errors 2 to 6 weeks ahead and boost forecast skill, making it promising for improved extreme-weather prediction."
+  },
+  {
+    "score": 4.0,
+    "title": "Interhemispheric monsoon dynamics over the past 450,000 years",
+    "link": "https://www.nature.com/articles/s41586-026-11166-3",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.296601+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11166-3\">doi:10.1038/s41586-026-11166-3</a></p>A 450 ka Andean speleothem record shows Southern and Northern Hemisphere monsoons generally vary out of phase, but occasionally synchronize during rapid climate change and glacial terminations."
+  },
+  {
+    "score": 6.0,
+    "title": "Intrinsic physicochemical activity at microplastic–water interfaces",
+    "link": "https://www.nature.com/articles/s41586-026-11141-y",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.296467+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11141-y\">doi:10.1038/s41586-026-11141-y</a></p>Commodity microplastics exhibit intrinsic physicochemical activity at water interfaces, manifested by spontaneous generation of reactive oxygen species, challenging the prevailing paradigm of plastic inertness, with implications for human health and the environment."
+  },
+  {
+    "score": 3.0,
+    "title": "Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K",
+    "link": "https://www.nature.com/articles/s41586-026-11065-7",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.296161+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11065-7\">doi:10.1038/s41586-026-11065-7</a></p>The mechanical properties of medium-entropy alloys at 20 K show a plateau in tensile yield strength and fracture toughness as a function of temperature, with no apparent ductile-to-brittle transition."
+  },
+  {
+    "score": 3.0,
+    "title": "Global conservation area coverage substantially exceeds current estimates",
+    "link": "https://www.nature.com/articles/s41586-026-11157-4",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.296046+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11157-4\">doi:10.1038/s41586-026-11157-4</a></p>A globally representative sample of 25 countries and territories indicates that conservation areas cover 26.81% of the land, much closer to the 30% by 2030 target than officially reported."
+  },
+  {
+    "score": 3.0,
+    "title": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
+    "link": "https://www.nature.com/articles/d41586-026-03081-4",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.295639+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03081-4\">doi:10.1038/d41586-026-03081-4</a></p>Governments around the world have pledged to conserve 30% of the terrestrial realm by 2030, but official data suggest that the target is barely halfway to being met. A combined global and national-level data set now shows that up to 27% of land area is conserved, but gaps in ecological representation remain."
+  },
+  {
+    "score": 3.0,
+    "title": "Growing plane and ship traffic degrade the air of western North America",
+    "link": "https://www.nature.com/articles/d41586-026-03239-0",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.295548+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03239-0\">doi:10.1038/d41586-026-03239-0</a></p>Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped."
+  },
+  {
+    "score": 4.0,
+    "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+    "link": "https://www.nature.com/articles/s41586-026-11267-z",
+    "published": "2026-10-14",
+    "collected_at": "2026-10-15T07:28:46.295510+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11267-z\">doi:10.1038/s41586-026-11267-z</a></p>Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride"
+  },
+  {
+    "score": 7.0,
+    "title": "Seeing prosperity, confronting crime: Infrastructure inequality and perceived wealth in Chinese cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004576?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:45.941747+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Ziwen He, Wenlin Zhao, Jin Rui</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "From rules to learning: A GIS-integrated agent-based reinforcement learning framework for simulating farmers’ land-use decisions and sustainable policy design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004588?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:45.941722+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Xiaoxing Qi, Qiaoyuan Huang, Jie Sun</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Behavioural limits of market-led flood-risk allocation: Loss normalisation, investment discounting and planning-led land-use governance in urban China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004618?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:45.941673+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Land Use Policy, Volume 172</p><p>Author(s): Ziqing Lin, Jayalakshmy Ramachandran, Kah Mun Au</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Characterizing the residential indoor thermal quality of older adults in Canada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011844?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.715510+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Kelsey A. Eakin, Marianne F. Touchie, William O’Brien, Jennifer A. Veitch, Iara Batista da Cunha, Hannah Villeneuve, Ashley Nixon</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Canopy structural combination patterns reveal structure-dependent pathways to enhance carbon sequestration and cooling in urban forests",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011959?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.715474+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Yalin Zhai, Lei Wang, Mohammad A Rahman, Yunlong Yao, Jia Jia, Siqi Hao, Ruonan Li, Xinyu Zhang, Yuanyuan Chen, Baoliang Chang, Di Li</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Evaluating the thermal and energy performance of indirect green façades via a validated coupled resistance-capacitance model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011777?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.715441+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Meifang Su, Xiaoyu Wang, Chao Wang, Peixian Li, Naiping Gao, John Grunewald, Xiaoping Xie, Xing Shi</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Cross-Room Generalization of Window-Opening Models Under Distribution Shift: Feature Distance, Adaptation, and Mechanisms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011984?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.715403+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 13 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ziqi Zhang, Yuxiao Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Improving Data Quality in BIM-LCA Workflows: Foundational Data Conditions Relevant to Digital Product Passports",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011960?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.715376+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 14 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Maryam Pourhosseini, Antonio García Martínez, Shayesteh Hamidkhaniha</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Air purifier performance in an occupied office: Field CADR and effectiveness from a reconstructed device-off condition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011911?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.715309+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Building and Environment, Volume 306, Part B</p><p>Author(s): Dong-Keun Song, Keejung Hong, Gunhee Lee, Bangwoo Han, Junemo Koo</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "A new frontier of climate risk: Compound marine–terrestrial heatwaves and their growing impact on Small Island Developing States",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003231?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-15T07:28:43.566626+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Applied Geography, Volume 197</p><p>Author(s): Chunzhu Wei, Xufeng Liu, Haiyan Liu, Futao Wang</p>"
+  },
+  {
     "score": 21.0,
     "title": "Spatializing daytime street-level thermal exposure frequency profiles in urban areas during extreme heat events using the operative temperature index",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004062?dgcid=rss_sd_all",
