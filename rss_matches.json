@@ -1,5 +1,309 @@
 [
   {
+    "score": 9.0,
+    "title": "Rain-driven floods in New York City: An investigation using text-based data products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004098?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-20T07:36:59.596102+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Rachel Lo, Bernice R. Rosenzweig, Mobin Rahimi-Golkhandan, Matina Shakya, Art T. DeGaetano, Franco A. Montalto, Philip M. Orton, Joshua Rapp, Timon McPhearson</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Book review forum: Why transportation fails: Critiques from South Africa and beyond",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261495911?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-18T05:30:36Z",
+    "collected_at": "2026-10-20T07:36:59.457683+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />"
+  },
+  {
+    "score": 17.0,
+    "title": "Resisting gentrification: Density of belonging in strangled kampung of BSD City, Indonesia",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261493775?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-18T05:28:36Z",
+    "collected_at": "2026-10-20T07:36:59.457642+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />As Southeast Asia urbanizes, urban expansion repeatedly displaces low-income communities, changes land use, and erodes cultural heritage. In Indonesia, the enclosure of low-income kampung settlements within master-planned private cities was not an organic ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Rare diseases are an overlooked dimension in climate–health adaptation",
+    "link": "https://www.nature.com/articles/s41558-026-02770-2",
+    "published": "2026-10-19",
+    "collected_at": "2026-10-20T07:36:58.053375+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02770-2\">doi:10.1038/s41558-026-02770-2</a></p>A resilient society must prepare not only for common harms but also for uncommon vulnerabilities, such as rare disease where the consequences leave no room for failure. Ensuring that people with rare diseases have reliable access to essential care is crucial for fairness and safety in a changing climate."
+  },
+  {
+    "score": 10.0,
+    "title": "Cities alter the latitudinal diversity gradient of birds in North America",
+    "link": "https://www.nature.com/articles/s44284-026-00529-6",
+    "published": "2026-10-19",
+    "collected_at": "2026-10-20T07:36:58.020300+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "urbanization",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s44284-026-00529-6\">doi:10.1038/s44284-026-00529-6</a></p>Urbanization considerably modifies the latitudinal diversity gradient of birds in North America, with native species exhibiting a flatter gradient in cities compared to surrounding areas, particularly during winter, highlighting complex interactions between human impacts and environmental factors."
+  },
+  {
+    "score": 3.0,
+    "title": "Daily briefing: We’re close to reaching a 30% land-conservation target",
+    "link": "https://www.nature.com/articles/d41586-026-03348-w",
+    "published": "2026-10-16",
+    "collected_at": "2026-10-20T07:36:57.980605+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03348-w\">doi:10.1038/d41586-026-03348-w</a></p>More land for conservation is positive, but doesn’t necessarily protect biodiversity, say researchers. Plus, say goodbye to the leap second and how the Inca empire lasted longer than we thought."
+  },
+  {
+    "score": 5.0,
+    "title": "‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts",
+    "link": "https://www.nature.com/articles/d41586-026-03315-5",
+    "published": "2026-10-19",
+    "collected_at": "2026-10-20T07:36:57.980445+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03315-5\">doi:10.1038/d41586-026-03315-5</a></p>Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going."
+  },
+  {
+    "score": 3.0,
+    "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
+    "link": "https://www.nature.com/articles/d41586-026-03275-w",
+    "published": "2026-10-19",
+    "collected_at": "2026-10-20T07:36:57.980406+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03275-w\">doi:10.1038/d41586-026-03275-w</a></p>A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science."
+  },
+  {
+    "score": 3.0,
+    "title": "Beyond spillovers: Constructing an efficient synergy network to balance ecological surplus-deficit in Beijing-Tianjin-Hebei urban agglomeration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S019739752600305X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-20T07:36:57.465501+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Habitat International, Volume 178</p><p>Author(s): Chen Liang, Yukun Shi</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Second-dimension-enhanced spatial context-aware modeling for spatial prediction",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2747431?af=R",
+    "published": "2026-10-19T04:17:32Z",
+    "collected_at": "2026-10-20T07:36:57.393062+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 11.0,
+    "title": "Configurable temperature and humidity compromise for demand limiting control of building cooling systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012631?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-20T07:36:55.522191+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Mingkun Dai, Hong Tang, Hangxin Li, Shengwei Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Effects of Plant Odor Type and Concentration on Older Adults’ Sensory Perception and Psychophysiological Restoration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S036013232601262X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-20T07:36:55.522167+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Ke Wang, Hexian Jin, Chengcheng Zeng, Juan Li, Xiaocong Hu</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Evaluating the representativeness of ambient PM<sub>2.5</sub> for children’s exposure and source characteristics across microenvironments during school semesters",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012527?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-20T07:36:55.522140+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 18 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Nai-Tzu Chen, Po-Hsuan Shao, Charles C.-K. Chou, Tzu-Chieh Chou, Chi-Jung Chung, Chien-Cheng Jung</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Integrating Implicit Physics Constraints and Uncertainty Quantification for Urban PM2.5 Prediction and Driving Factor Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012497?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-20T07:36:55.522090+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jinge Ren, Xinsheng Zhang, Dawen Nie, Zhenlong Zhang, Zhiqiang Wang</p>"
+  },
+  {
     "score": 15.0,
     "title": "Running in Summer: Spatiotemporal Associations of Thermal Exposure, Built Environment, and Age Vulnerability",
     "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009054?dgcid=rss_sd_all",
