@@ -1,5 +1,905 @@
 [
   {
+    "score": 3.0,
+    "title": "Governing street vendors, assembling differentiated Chinese statehood: The case of Guanting Street, Hefei",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261493286?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-20T11:26:37Z",
+    "collected_at": "2026-10-21T07:41:47.010403+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />This paper investigates the everyday production of the local state through street vending governance in an informal food market on Guanting Street, Hefei, China. By studying how three state and quasi-state institutions jointly govern street vendors on ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Werewolf to Rudolph: Urban disciplining in public space and bubble acculturation of migrants",
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/00420980261492146?ai=2b4&mi=ehikzz&af=R",
+    "published": "2026-10-20T11:24:42Z",
+    "collected_at": "2026-10-21T07:41:47.010374+00:00",
+    "feed_title": "SAGE Publications Ltd: Urban Studies: Table of Contents",
+    "rss_url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=usja&type=etoc&feed=rss",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "Urban Studies, Ahead of Print. <br />Most research on migrant acculturation focuses on transnational, multi-ethnic contexts. This article examines internal rural-to-urban migrants in China, exploring how urban public space shapes their place-based acculturation. It rethinks acculturation ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Unveiling the Factors Influencing Electric Vehicle Charging Demand in Dynamic-Pricing Zones: An Empirical Study in Shenzhen",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600908X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:46.769068+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Xiaoying Shi, Yitao Zhu, Liming Tu, Xiyuan Chen, Geng Liu, Haitao Xu</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Assessment of mitigation scenarios for heatstroke mortality due to indoor overheating using urban climate–epidemiological models",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008681?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:46.769036+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "mortality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Yukitaka Ohashi, Ko Nakajima, Yuya Takane, Tomohiko Ihara, Sawako Nishihara, Yukihiro Kikegawa</p>"
+  },
+  {
+    "score": 19.0,
+    "title": "Investigating the Nonlinear and Spatially Heterogeneous Impacts of Urban Form on Land Surface Temperature Using Geographic Explainable Artificial Intelligence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008875?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:46.769012+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Abdulkarem Qasem Dammag, Xingang Zhou, Sihang Gao, Basema Qasim Derhem Dammag</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Air-quality-sensitive urban design on NO<sub>2</sub> Mitigation in the high-rise high-density City of London: A machine-learning land-use regression analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726008838?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:46.768984+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 November 2026</p><p><b>Source:</b> Sustainable Cities and Society, Volume 151</p><p>Author(s): Vasilis Kazakos, Zhiwen Luo, Said Munir, Julie Futcher, Juliet Davis, Qihong Deng</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Heterogeneous amyloid β dimerization revealed by single-molecule FRET and MD simulation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618695123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072753+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceFibrils of amyloid β peptides are implicated in the development of Alzheimer’s disease. Although dimerization is the first step of the fibril assembly, its characterization has been extremely difficult because the formation of fibrils involves ..."
+  },
+  {
+    "score": 19.0,
+    "title": "Toward cooler cities by larger homogeneous functional clusters",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617717123?af=R",
+    "published": "2026-10-19T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072733+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceUrban heat threatens health and energy security, yet one key dimension of urban form has remained invisible: the spatial scale over which buildings with similar functions continuously cluster. This scale matters because functionally similar ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Meta-analysis of 990 EBV genomes identifies EBER2 SNP7048 and its interaction with HLA-A*11:01 driving nasopharyngeal carcinoma risk",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617057123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072681+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceEast and Southeast Asia are endemic regions for nasopharyngeal carcinoma (NPC), yet the specific EBV strains driving NPC development and their interactions with host genetics across diverse populations remain poorly understood. Our study ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Immense but not immutable: A sudden and sustained decline in deep-pelagic life in a large oceanic ecosystem",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616554123?af=R",
+    "published": "2026-10-19T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072649+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceIt is becoming increasingly difficult to find a pristine environment on Earth. In a vertical sense, remoteness from human activity typically confers ecological integrity, be it high (mountains) or low (deep sea). The latter would also ..."
+  },
+  {
+    "score": 16.0,
+    "title": "Diminishing cooling returns of urban greening amid a warming climate",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616535123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072631+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceUrban green infrastructure is a cornerstone of global climate adaptation, yet we demonstrate that its efficacy is increasingly compromised by the very warming it aims to mitigate. We reveal a critical physiological phenomenon: Vegetation ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Magnetically guided programmable thermomechanical protection enabled by biomimetic asymmetric design",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615691123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072614+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceProtective materials for outdoor instruments must simultaneously withstand mechanical impacts and thermal exposure, yet most existing systems either address a single hazard or remain passively responsive. Here, we introduce a bioinspired Janus ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Bridging spatial scales in respiratory viral infection",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614436123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072568+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceRespiratory viral infection is an inherently spatial process, in which the virus must colonize large areas of the airways to optimize reproduction. Recent studies in animal models infected with influenza A or SARS-CoV-2 have documented long-..."
+  },
+  {
+    "score": 8.0,
+    "title": "Disentangling the evolving effects of climate change and technology diffusion on building electricity demand",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612343123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072493+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceClimate change and technology diffusion jointly impact building electricity demand, and this impact evolves with their rates of change. We target building peak demand, a crucial point for future reliable power systems planning, and present a ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Methanogenic archaea Methanobrevibacter smithii and Methanosphaera stadtmanae promote mucosal homeostasis and protect from colitis",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610622123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072388+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceWhile the bacterial and viral components of the gut microbiome are established regulators of mucosal health, the functional contributions of Archaea remain understudied. This study identifies the commonly detected human methanogens,..."
+  },
+  {
+    "score": 3.0,
+    "title": "Evolution of the arbuscular mycorrhizal regulatory network through differential GRAS gene retention and protein interaction in land plants",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607793123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072355+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceIt is widely assumed that land plants rely on a conserved signaling “toolkit” for arbuscular mycorrhizal symbiosis (AMS) perception; however, the mechanism causing varied symbiotic outcomes of AMS hosts remains unclear. GRAS transcription ..."
+  },
+  {
+    "score": 3.0,
+    "title": "First-principles channel model and capacity-achieving transmission scheme in thermal noise backscatter links",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606732123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072332+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceThis work develops a wireless channel model and transmission scheme for thermal noise-based communication networks. These systems offer low-power communication in radio-frequency-sensitive environments. By switching a transmitter’s impedance, ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Leveraging existing grid infrastructure for rapid US renewable and storage deployment",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603919123?af=R",
+    "published": "2026-10-19T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072238+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceMeeting rapidly rising U.S. electricity demand while maintaining reliability and affordability is increasingly constrained by delays and high costs of new grid infrastructure. Although policy has focused on building new generation, ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Ecological, physiological, and evolutionary drivers of stoichiometry in insects",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537858123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072200+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceWhat determines elemental composition in animals? Ecological stoichiometry has long emphasized ecophysiological factors such as trophic level, habitat, and temperature, but assessing their relative importance has been difficult without ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Modeling the global potential of smart farming innovations",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530081123?af=R",
+    "published": "2026-10-19T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072149+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceThis study presents an assessment of the potential of smart farming innovations, based on an ensemble of machine learning algorithms trained on 4,422 observations from a global survey and meta-analysis. We find policy- and business-relevant ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Widespread plasma jets in the Martian magnetosheath revealed by dual-spacecraft observations",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616582123?af=R",
+    "published": "2026-10-20T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072109+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "form",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificancePlasma jets are bursts of high dynamic pressure that form behind planetary bow shocks and can disturb a planet’s space environment. At Earth, these jets predominantly form where the upstream magnetic field is roughly aligned with the bow-shock ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Historical trends show more declining than increasing species among European pollinators",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600774123?af=R",
+    "published": "2026-10-19T07:00:00Z",
+    "collected_at": "2026-10-21T07:41:46.072070+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificanceInsect pollinators are essential for biodiversity and food production, yet evidence for their long-term population trajectories remains fragmented. By compiling over four million occurrence records spanning a century and nearly all European ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Human hemoglobin protects the parasite cytoskeleton during <i>Plasmodium falciparum</i> gametocyte development",
+    "link": "https://www.nature.com/articles/s41467-026-78694-4",
+    "published": "2026-10-20",
+    "collected_at": "2026-10-21T07:41:45.614553+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78694-4\">doi:10.1038/s41467-026-78694-4</a></p>Wang et al. apply single particle cryo-EM to developing gametocytes of Plasmodium falciparum, and identify human hemoglobin as a prominent factor that binds to P. falciparum subpellicular microtubule (SPMT) network."
+  },
+  {
+    "score": 5.0,
+    "title": "Thermal sculpting of nanoconfined single-atom cavities enables urea electrosynthesis with near-unity selectivity",
+    "link": "https://www.nature.com/articles/s41467-026-79024-4",
+    "published": "2026-10-21",
+    "collected_at": "2026-10-21T07:41:45.614506+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79024-4\">doi:10.1038/s41467-026-79024-4</a></p>Selective C–N coupling remains a critical bottleneck for sustainable urea electrosynthesis. Here, the authors report a thermal sculpting strategy to construct size-matched nanoconfined Cu–N4 cavities, achieving a competitive urea yield and Faradaic efficiency."
+  },
+  {
+    "score": 10.0,
+    "title": "Increased southward swings of the South Indian convergence zone under greenhouse warming",
+    "link": "https://www.nature.com/articles/s41558-026-02767-x",
+    "published": "2026-10-20",
+    "collected_at": "2026-10-21T07:41:45.279573+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02767-x\">doi:10.1038/s41558-026-02767-x</a></p>Extreme southward swings of the South Indian convergence zone can lead to severe rainfall and flooding in southern Africa. Here the authors show that climate change leads to an increase in the frequency and intensity of such swings."
+  },
+  {
+    "score": 7.0,
+    "title": "Targeting high-value uses to unlock the mitigation potential of clean hydrogen",
+    "link": "https://www.nature.com/articles/s41558-026-02766-y",
+    "published": "2026-10-20",
+    "collected_at": "2026-10-21T07:41:45.279542+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02766-y\">doi:10.1038/s41558-026-02766-y</a></p>Clean hydrogen is a versatile decarbonization option, but given its energy-intensive production, high costs and limited near-term supply, uses with the greatest environmental and economic benefits must be prioritized. Analysis of ten end-use sectors identifies high-value applications and suggests that uniform supply-side subsidies risk misallocating clean hydrogen and public funds, highlighting the need for sector-specific demand-side policies."
+  },
+  {
+    "score": 6.0,
+    "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+    "link": "https://www.nature.com/articles/d41586-026-03355-x",
+    "published": "2026-10-21",
+    "collected_at": "2026-10-21T07:41:45.149536+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03355-x\">doi:10.1038/d41586-026-03355-x</a></p>The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach."
+  },
+  {
+    "score": 11.0,
+    "title": "Research note: Method for delineating urbanized areas based on mean land parcel area",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002392?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:45.048974+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Agnieszka Bitner, Marcin Fialkowski, Robert Holyst</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Exploring the nonlinear impacts of the intra-urban built environment on carbon emissions using an interpretable ensemble machine learning framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526003115?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:41.187657+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Habitat International, Volume 178</p><p>Author(s): Xiaochang Liu, Wen Liu, Tianzhe Zhang, Xiang Ao, Zhiliang Zhu, Xueliang Zhang, Zeyin Chen, Renlu Qiao</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Author Correction: Sustainable palm oil certification inadvertently affects production efficiency in Malaysia",
+    "link": "https://www.nature.com/articles/s43247-026-04124-4",
+    "published": "2026-10-20",
+    "collected_at": "2026-10-21T07:41:39.461480+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04124-4\">doi:10.1038/s43247-026-04124-4</a></p>Author Correction: Sustainable palm oil certification inadvertently affects production efficiency in Malaysia"
+  },
+  {
+    "score": 10.0,
+    "title": "Cross-seasonal Thermal Comfort and Indoor Environmental Perception of Hearing-impaired Students in a Cold-region Special Education School",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012643?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231723+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xiaoyi She, Jianhang He, Long Jiang, Zhonghai Wang, Lihua Zhao, Meng Zhen</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "A possible priority-driven mechanism and semantic regularities in human touch behaviour",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012655?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231708+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Pengcheng Zhao, Hua Qian, Peihua Wang, Yuguo Li, Nan Zhang</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Empirical limits of human heat compensability bound direct evaporative cooling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012618?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231691+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 19 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Łukasz Stefaniak</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Seasonal and diurnal patterns of energy and CO<sub>2</sub> budgets in a subtropical wetland city, Wuhan, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012667?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231671+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zhangchi Zhou, Jiyun Song</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "A Fourier neural operator framework for indoor contaminant transport prediction, source localization, and release strength estimation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012515?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231653+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Zihao Wang, Kevin H. Lausch, Eugen Lichtner, Eshwar Kumar Ramasetti, Martin Kriegel</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Microplastic Deposition in Frequently Occupied Indoor Environments: Spatial and Temporal Variability and Implications for Human Exposure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326012680?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231630+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 20 October 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Neda Bošković, Andrej Race, Željko Jaćimović, Ivan Jerman</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Microplastics emissions from occupant activities in residential spaces: Experimental quantification and relative importance analysis of particle generation factors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326011996?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-21T07:41:39.231569+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Building and Environment, Volume 307, Part A</p><p>Author(s): Won Duk Suh, Seong Taek Kang, Hyeonseong Yuk, Sumin Kim</p>"
+  },
+  {
     "score": 9.0,
     "title": "Rain-driven floods in New York City: An investigation using text-based data products",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004098?dgcid=rss_sd_all",
