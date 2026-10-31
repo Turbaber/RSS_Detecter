@@ -1,5 +1,413 @@
 [
   {
+    "score": 3.0,
+    "title": "Linking Greenery Visibility Analysis and Urban Tree Planting Decisions by Quantifying the Visible Greenery Provision of Individual Street Trees",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726005066?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:45.637032+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 29 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Xiaohan Zhang, Ferdinand Ludwig</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Bi-level multi-objective optimization framework for waste recycle supply chain considering economic and environmental uncertainties",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072600911X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:45.220848+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "economic",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 29 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Ledi Liu, Xuekun Wang, Yankui Liu, Ying Liu</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "Decomposition and Spatial Transfer of Green Infrastructure Benefits in High-density Aging Urban Areas using Water Tracer Model",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009339?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:45.220824+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 29 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Huayue Li, Jun Liu, Qinghua Luan, Jiahong Liu, Weiwei Shao</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Smart-City Pilot vs. Non-Pilot Cities: Long-Term Trends in Urban Resilience in China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009327?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:45.220796+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yongzhu Zhang, Shiyao Zhu, Fan Zhang, Dezhi Li</p>"
+  },
+  {
+    "score": 19.0,
+    "title": "Scale-dependent associations between 2D/3D urban morphology and land surface temperature from both bird’s-eye view and human-eye view",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009108?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:45.220759+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jike Chen, Decheng Ni, Peijun Du, Yuanyuan Lu, Yufu Zang, Cheng Chen, Jun Du</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Coarse climate model grids underestimate coastal humid-heat extremes",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ael4020?af=R",
+    "published": "2026-10-30T07:00:00Z",
+    "collected_at": "2026-10-31T08:27:44.902488+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 44, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Intrinsic cellular persistent firing sustains hippocampal spatial representations during working memory",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9907?af=R",
+    "published": "2026-10-30T07:00:00Z",
+    "collected_at": "2026-10-31T08:27:44.902148+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 44, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Monsoon zonal seesaw: Development of the South Asian monsoon aridified North Africa in the Cenozoic",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee1112?af=R",
+    "published": "2026-10-30T07:00:00Z",
+    "collected_at": "2026-10-31T08:27:44.902053+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 44, October 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Decoder-FFPE-seq enables sensitive, genome-wide spatial transcriptomics of archival tissues at single-cell resolution",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady5085?af=R",
+    "published": "2026-10-30T07:00:00Z",
+    "collected_at": "2026-10-31T08:27:44.901962+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 44, October 2026. <br />"
+  },
+  {
+    "score": 11.0,
+    "title": "Global interannual patterns of urbanization-associated surface urban heat islands",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005213?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:44.472494+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 1 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 348</p><p>Author(s): Jiufeng Li, Wenfeng Zhan, Zihan Liu, Huilin Du, Yingying Ji, Shasha Wang, Xiang Li</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Atmospheric stabilization of the East Antarctic ice sheet under warming",
+    "link": "https://www.nature.com/articles/s41558-026-02791-x",
+    "published": "2026-10-30",
+    "collected_at": "2026-10-31T08:27:43.726296+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s41558-026-02791-x\">doi:10.1038/s41558-026-02791-x</a></p>The long-term response of the Greenland and Antarctic ice sheets to warming is often studied using ice-only simulations. Here the authors use a coupled ice–atmosphere–ocean model and find that East Antarctica remains stable even under higher warming because changes in atmospheric circulation increase precipitation sensitivity."
+  },
+  {
+    "score": 3.0,
+    "title": "Land consolidation in the context of linear infrastructure projects: Adverse outcomes from southern Poland",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004849?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:43.212670+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Land Use Policy, Volume 173</p><p>Author(s): Jaroslaw Taszakowski, Arkadiusz Doroż, Piotr Bożek, Jaroslaw Janus</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Effects, spatio-temporal evolution, chain transmission mechanism and precision governance of farmland resource curse in China: Based on Farmland Resource Curse Index and multi-scale raster data with causal identification",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004643?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:43.212623+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "causal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Land Use Policy, Volume 173</p><p>Author(s): Renyi Yang, Yansui Liu, Yongdong Zhang, Zisheng Yang, Changbiao Zhong, Fuhua Liu, Fuluan Yang</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Representing spatial dependence and heterogeneity via deep kriging and compressed sensing for urban human activity intensity forecasting",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2751553?af=R",
+    "published": "2026-10-30T09:13:25Z",
+    "collected_at": "2026-10-31T08:27:43.073899+00:00",
+    "feed_title": "tandf: International Journal of Geographical Information Science: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgis20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "intensity",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": ". <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Geospatial assessment of seaweed cultivation suitability using ocean color data and multi-criteria decision analysis in the coastal waters of Lombok Island, Indonesia",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2730890?af=R",
+    "published": "2026-10-29T01:48:10Z",
+    "collected_at": "2026-10-31T08:27:42.813992+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "island",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 6.0,
+    "title": "First results of joint sea surface salinity, temperature, and wind speed retrieval from MICAP Simultaneous L/C/K-band active and passive observations",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2751876?af=R",
+    "published": "2026-10-29T01:42:46Z",
+    "collected_at": "2026-10-31T08:27:42.813941+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "More Frequent, Faster, and Seasonally Reorganized Drought‐to‐Pluvial Transitions in U.S. Cities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009237?af=R",
+    "published": "Fri, 30 Oct 2026 23:15:34 -0700",
+    "collected_at": "2026-10-31T08:27:41.889459+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 11, November 2026."
+  },
+  {
+    "score": 12.0,
+    "title": "AgentAccess: Agent-Based Model for Place-Based Spatial Accessibility",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001456?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-10-31T08:27:41.702986+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 132</p><p>Author(s): Alexander Michels, Jeon-Young Kang, Jinwoo Park, Shaowen Wang</p>"
+  },
+  {
     "score": 7.0,
     "title": "Turbulence dynamics and ventilation pathways in a vegetated real-world urban canyon: A hydraulic flume study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004414?dgcid=rss_sd_all",
