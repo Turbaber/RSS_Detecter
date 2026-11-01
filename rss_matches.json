@@ -1,5 +1,621 @@
 [
   {
+    "score": 12.0,
+    "title": "Future spatial footprints of natural hazards: Multi-hazard exposure modelling through cellular automata in the North Aegean Basin, Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004360?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:18:00.226462+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Yusuf Eminoğlu, Kemal Mert Çubukçu</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "The green divide: Integrating remote sensing, census data, and mobile records to analyze Urban Green Space segregation in Chile",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726004875?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:18:00.138975+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Diego Calbucheo, Horacio Samaniego</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Unraveling Extreme Diurnal Temperature Range in Chinese Cities: Spatiotemporal Patterns, Multidimensional Drivers, and Climate-Zone Heterogeneity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009376?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:59.671639+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Siying Li, Yuanyou Zhang, Tao Wu, Zeyin Chen</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Is urban browning more than impervious expansion? Linking landscape-pattern reorganization to flood susceptibility in the Greater Bay Area",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009340?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:59.671564+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jingyao Cui, Yichen Zhang, Jiquan Zhang, Jin Rui, Li Guo</p>"
+  },
+  {
+    "score": 20.0,
+    "title": "Forecasting Urban Heat Island hotspots using spatially aware machine learning: Explainable multi-model prediction with spatial validation and uncertainty analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009005?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:59.671537+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Richa Golash, Dimple Sethi, Kushagra Golash</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Spatial Heterogeneity and Nonlinear Threshold Effects of the Subdistrict-Level Built Environment on Respiratory Infectious Disease Incidence: Evidence from Hangzhou",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009352?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:59.671508+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Huifang Yu, ShuLei Kong, Xuanli Wang, Yiqun Wu, Hangjie Zhang, JiaQiang Mu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Corrigendum to “Are high-density districts more vulnerable to the COVID-19 pandemic?” [Sustainable Cities and Society 70 (2021) 102911]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009030?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:59.671455+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Amir Reza Khavarian-Garmsir, Ayyoob Sharifi, Nabi Moradpour</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Scenario-aware thermal discomfort assessment across heterogeneous building operation modes: Evidence from the ASHRAE Global Thermal Comfort Database II",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009364?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:59.671359+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 30 October 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Yinglin Wang, Jing Zhao, Dehan Liu, Jiewen Hou</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Far-right slows energy transition",
+    "link": "https://www.nature.com/articles/s41893-026-01974-w",
+    "published": "2026-10-30",
+    "collected_at": "2026-11-01T09:17:58.882141+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s41893-026-01974-w\">doi:10.1038/s41893-026-01974-w</a></p>Political identity is known to shape climate attitudes, but its effect on real-world adoption of clean technologies has been unclear. Now, data from Germany show that rising far-right support slows the uptake of rooftop solar and electric cars. However, these effects are not large enough to stall the transition."
+  },
+  {
+    "score": 3.0,
+    "title": "Quantum-logic spectroscopy of forbidden vibrational transitions in single nitrogen molecular ions",
+    "link": "https://www.nature.com/articles/s41467-026-78680-w",
+    "published": "2026-10-31",
+    "collected_at": "2026-11-01T09:17:58.843145+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78680-w\">doi:10.1038/s41467-026-78680-w</a></p>The authors report the control of electric quadrupole rovibrational transitions in single trapped molecules using a quantum-logic spectroscopy protocol. This allows identification of hyperfine components of the fundamental vibrational transition of N2+ ions and coherent population transfer."
+  },
+  {
+    "score": 6.0,
+    "title": "Li<sup>+</sup>-locked domain effect for breaking the temperature stability bottleneck in thermal-detection high-entropy energy storage ceramics",
+    "link": "https://www.nature.com/articles/s41467-026-79179-0",
+    "published": "2026-11-01",
+    "collected_at": "2026-11-01T09:17:58.842916+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 01 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79179-0\">doi:10.1038/s41467-026-79179-0</a></p>Dielectric energy-storage ceramics lose polarization at high temperatures, limiting harsh-environment use. Here, the authors show a Li+- locked domain effect in high-entropy BNT-based ceramics, achieving Wrec = 11.43 J cm−3, η = 84.67%, Δη/η < 0.3% up to 320 °C, with self-diagnostic thermometry."
+  },
+  {
+    "score": 15.0,
+    "title": "Inequality in experienced subjective built environment exposure: A capability approach perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002471?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:58.396849+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 278</p><p>Author(s): Anle Cheng, Mengzhu Zhang</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Optimizing the spatial layout of china’s industrial transfer to the five Lancang–mekong countries under resource and environmental constraints",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004874?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:58.337482+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Land Use Policy, Volume 173</p><p>Author(s): Yongchao Ma, Kun Yang, Jiasheng Wang, Yanhui Zhu, Zhenyi Wang, Siyu Chen, Yang Zhang, Cen Li, Quan Wang, Xianchun Pan, Changyou Bi</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Identifying administrative villages for rural revitalization: A case study in the loess hilly and gully region of China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726004904?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:58.337430+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: February 2027</p><p><b>Source:</b> Land Use Policy, Volume 173</p><p>Author(s): Zhi Cao, Yuwen Wang, Jing Shao, Jianmin Qiao, Cong Ou, Yansui Liu, Zhengjia Liu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Tracking the spatial evolution in the U.S Metropolitan structure: A new typology and empirical evaluation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526003036?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-01T09:17:58.087586+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Habitat International, Volume 179</p><p>Author(s): Shima Hamidi, Seyed Sajjad Abdollahpour, Ebrahim Azimi, Amir Hajrasouliha</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Persistent influx of atmospheric microplastics and nanoplastics to Mount Everest driven by large scale circulation",
+    "link": "https://www.nature.com/articles/s43247-026-04206-3",
+    "published": "2026-10-30",
+    "collected_at": "2026-11-01T09:17:57.403619+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04206-3\">doi:10.1038/s43247-026-04206-3</a></p>Microplastic deposition fluxes at Qomolangma Station exceed those at Everest Base Camp, reflecting topographic and anthropogenic differences, with an estimated annual atmospheric input of 56 tons to the Tibetan Plateau above 4000 m, based on year-long monitoring on Mount Everest’s northern slope."
+  },
+  {
+    "score": 6.0,
+    "title": "Diversified cropping rotation increases soil carbon sequestration via fungal-mediated necromass production and mineral association",
+    "link": "https://www.nature.com/articles/s43247-026-04177-5",
+    "published": "2026-10-30",
+    "collected_at": "2026-11-01T09:17:57.403572+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04177-5\">doi:10.1038/s43247-026-04177-5</a></p>Crop diversification increased soil organic carbon by 10–15%, boosted microbial growth and carbon-use efficiency, shifted communities toward fungi, and raised mineral-associated carbon by 48–69%, based on a 43-year field trial and community transplantation assays."
+  },
+  {
+    "score": 11.0,
+    "title": "Global warming and the Pacific Decadal Oscillation drive seasonally varying increases in extreme fire weather over the southwestern US",
+    "link": "https://www.nature.com/articles/s43247-026-04188-2",
+    "published": "2026-10-30",
+    "collected_at": "2026-11-01T09:17:57.403524+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04188-2\">doi:10.1038/s43247-026-04188-2</a></p>Wildfire risk in the western United States increases during winter and spring in response to global warming, while summer fire weather extremes follow the variation of the Pacific Decadal Oscillation, as revealed by analysis based on long-term reanalysis."
+  },
+  {
+    "score": 3.0,
+    "title": "Large intraplate earthquakes on an extinct oceanic plate reveal fracture zone reactivation",
+    "link": "https://www.nature.com/articles/s43247-026-04197-1",
+    "published": "2026-10-30",
+    "collected_at": "2026-11-01T09:17:57.403483+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04197-1\">doi:10.1038/s43247-026-04197-1</a></p>Cessation of plate-boundary activity at oceanic fracture zones does not imply mechanical quiescence, these can be reactivated under present-day stress conditions, shown through analysis of two earthquakes that occurred in 2025 within the former Phoenix Plate in the Drake Passage region."
+  },
+  {
+    "score": 11.0,
+    "title": "Erosion carbon dynamics extend beyond carbon accounting to ecological significance",
+    "link": "https://www.nature.com/articles/s43247-026-04203-6",
+    "published": "2026-10-31",
+    "collected_at": "2026-11-01T09:17:57.403444+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04203-6\">doi:10.1038/s43247-026-04203-6</a></p>Erosion is not only a process affecting land–atmosphere carbon exchange, but also a process that reorganizes the spatial and functional ecological states in which carbon is retained, transformed, or buried across landscapes, based on a framework viewing erosion as soil functional-layer reorganization."
+  },
+  {
+    "score": 3.0,
+    "title": "Widespread tree-cover gains across Europe over two decades were strongest in regions of agricultural retreat",
+    "link": "https://www.nature.com/articles/s43247-026-04190-8",
+    "published": "2026-10-31",
+    "collected_at": "2026-11-01T09:17:57.403392+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04190-8\">doi:10.1038/s43247-026-04190-8</a></p>Across Europe, tree-cover gains from 2001 to 2021 generally increased connectivity while reducing tree-cover heterogeneity, particularly in landscapes with more former cropland, according to an integrated framework quantifying tree cover, connectivity and tree-cover heterogeneity."
+  },
+  {
+    "score": 10.0,
+    "title": "Distinct intraseasonal pathways driving rapidly escalating heat extremes in North China and their subseasonal predictability",
+    "link": "https://www.nature.com/articles/s43247-026-04031-8",
+    "published": "2026-11-01",
+    "collected_at": "2026-11-01T09:17:57.403351+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "extremes",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 01 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04031-8\">doi:10.1038/s43247-026-04031-8</a></p>Rapidly escalating heat extremes in North China are classified into four types with distinct intraseasonal physical pathways, with tropical-driven events showing the highest predictability and dual-extratropical-wave-train events the lowest, as revealed by observations and climate model experiments."
+  },
+  {
+    "score": 11.0,
+    "title": "Polar front jet regulates tropical sea surface temperature impacts on South China extreme precipitation",
+    "link": "https://www.nature.com/articles/s43247-026-04194-4",
+    "published": "2026-11-01",
+    "collected_at": "2026-11-01T09:17:57.403293+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 01 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04194-4\">doi:10.1038/s43247-026-04194-4</a></p>Record precipitation over South China in April–May 2024 resulted from low-level moisture convergence associated with a trough between two anomalous anticyclones, according to statistical diagnostics and model simulations."
+  },
+  {
     "score": 3.0,
     "title": "Linking Greenery Visibility Analysis and Urban Tree Planting Decisions by Quantifying the Visible Greenery Provision of Individual Street Trees",
     "link": "https://www.sciencedirect.com/science/article/pii/S1618866726005066?dgcid=rss_sd_all",
