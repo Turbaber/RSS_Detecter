@@ -1,5 +1,373 @@
 [
   {
+    "score": 6.0,
+    "title": "LST-based emerging hot spot and cold spot patterns across National Capital Region of India from 2003 to 2024",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004517?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:13.867660+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Varun Singh, P.K. Joshi</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Relative-importance patterns of built environment factors in predicting shared e-bike ridership: Evidence from 36 Chinese cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009595?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:13.107454+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "built",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Zhanqiang Shi, Yongping Zhang</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "SHAP-Informed and Uncertainty-Aware Urban Flood Susceptibility Mapping for Planning Support: A CatBoost Framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009625?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:13.107433+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Zahra Babaei, Mohammadmahdi Babaei, El-Sayed M. El-Kenawy, Nima Khodadadi</p>"
+  },
+  {
+    "score": 22.0,
+    "title": "Land surface cooling effects of vegetation and building interventions in Tianjin urban functional zones",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009650?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:13.107408+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Qin Tan, Chao Yu, Yan Yang, Qi Wang, Haitao Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Behaviorally informed joint design of electric carsharing and microtransit systems for reducing private car dependence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009315?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:13.107382+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Si Zhang, Niloufar Javanbakht, Khoa D. Vo, Shin-hyung Cho, Prateek Bansal</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Heat-transition policy support: policy design, material exposure, and municipal implementation capacity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009613?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:13.107342+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Jörg Radtke</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "High-resolution forest height mapping across boreal and temperate forest sites using Hongtu-1 multistatic X-band TomoSAR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005274?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:12.105379+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "height",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Guobing Zeng, Huaping Xu, Le Zhang, Lei Zhao, Dinh Ho Tong Minh, Laurent Ferro-Famil, Yanghai Yu, Yang Lei, Simon Tong Sing Hee, Sang-Ho Yun</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Calpain-mediated TBP cleavage disturbs neuronal AMOT-YAP1 signalling",
+    "link": "https://www.nature.com/articles/s41467-026-79055-x",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-09T09:51:10.328941+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79055-x\">doi:10.1038/s41467-026-79055-x</a></p>TBP fragments activate calpains and disrupt AMOT-YAP1 signalling, revealing a pathway involved in normal neural development and implicated in spinocerebellar ataxia type 17."
+  },
+  {
+    "score": 4.0,
+    "title": "SimPoly: Simulation of polymers with machine learning force fields derived from first principles",
+    "link": "https://www.nature.com/articles/s41467-026-78736-x",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-09T09:51:10.328914+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78736-x\">doi:10.1038/s41467-026-78736-x</a></p>The authors develop a machine learning force field trained only on quantum-chemical data that can reproduce measured key polymer properties such as densities and glass transition temperatures."
+  },
+  {
+    "score": 3.0,
+    "title": "Cancer-associated fibroblasts as architects of tumor immune geography and lymphoid organization",
+    "link": "https://www.nature.com/articles/s41467-026-79106-3",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-09T09:51:10.328804+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79106-3\">doi:10.1038/s41467-026-79106-3</a></p>Cancer-associated fibroblasts (CAFs) are a heterogeneous population of stromal cells that participate in the formation of tertiary lymphoid structures (TLSs). Here, the authors review the current knowledge on how CAF subsets shape the organization and function of immune cells within TLS and discuss the clinical implications of these CAF-TLS interactions."
+  },
+  {
+    "score": 6.0,
+    "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+    "link": "https://www.nature.com/articles/d41586-026-03631-w",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-09T09:51:09.794612+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03631-w\">doi:10.1038/d41586-026-03631-w</a></p>Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits."
+  },
+  {
+    "score": 16.0,
+    "title": "Carbon sequestration and avoided emissions reveal the net carbon benefit of urban green space in Beijing (2000–2024)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002513?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:09.601097+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 279</p><p>Author(s): Kai Zhou, Yuanfei Hao, Yingshuo Lyu, Shoubang Huang, Hao Yin, Xi Zheng</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "An ensemble approach driven by spatial interaction for modelling urban epidemic dynamics",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/15481603.2026.2758460?af=R",
+    "published": "2026-11-08T08:42:01Z",
+    "collected_at": "2026-11-09T09:51:08.928501+00:00",
+    "feed_title": "tandf: GIScience & Remote Sensing: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgrs20",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "Volume 63, Issue 1, December 2026<br />. <br />"
+  },
+  {
+    "score": 5.0,
+    "title": "Binding mechanisms dictate distinct interactions of iron oxides with nanoplastics under structural feature constraints",
+    "link": "https://www.nature.com/articles/s43247-026-04027-4",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-09T09:51:07.353476+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04027-4\">doi:10.1038/s43247-026-04027-4</a></p>Ferrihydrite bound nanoplastics fastest while goethite retained the highest, most robust capacity; nanoplastic aging reduced binding, with surface attachment and pore entrapment driving differences, according to kinetic and mechanistic comparisons of iron oxides and nanoplastics."
+  },
+  {
+    "score": 5.0,
+    "title": "Temperature-Setting Modes in Residential VRF Systems: A Cross-Season Analysis of Large-Scale Operational Data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326013727?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-09T09:51:05.829416+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 7 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Mingyang Qian, Jingjing Ma, Yi Wu, Hua Liu, Da Yan</p>"
+  },
+  {
     "score": 18.0,
     "title": "Surface urban heat island effect across urban functional and climatic zones: Morphological evidence from 26 Chinese cities",
     "link": "https://www.sciencedirect.com/science/article/pii/S221209552600444X?dgcid=rss_sd_all",
