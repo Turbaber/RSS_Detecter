@@ -1,5 +1,489 @@
 [
   {
+    "score": 9.0,
+    "title": "The urban dry island (UDI) effect under different PM<sub>2.5</sub> pollution levels in Nanjing Metropolis, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004487?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:14.038248+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Climate",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22120955",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Urban Climate, Volume 70</p><p>Author(s): Miao Liu, Yong Wang, Yan Zeng, Meng Wang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Foliage cover most important tree trait in urban heat-stress reduction and lessons for monitoring methods.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S161886672600511X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.856902+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): D Föllmi, L Kleerekoper, J.A Hiemstra, B. J van der Sluis, J. Kluck</p>"
+  },
+  {
+    "score": 25.0,
+    "title": "Seasonal and Interannual Dynamics of Air Pollution, Vegetation, and Land Surface Temperature in an Industrial Urban Landscape: A Six-Year Remote Sensing Assessment of Bursa, Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009716?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.481349+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Duygu ARIKAN ISPIR</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Applications of Artificial Intelligence in urban regeneration: A scoping review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009698?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.481324+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Fubin LUO, Yu HU</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Spatially Explicit Assessment of Rainwater Harvesting Performance under Climate Change Scenarios: A Municipal-Scale Analysis for Portugal",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009662?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.481301+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Franco Felix Caldas Silva, Fernando Arão Bila Júnior, Luís Filipe Sanches Fernandes, Fernando António Leal Pacheco</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Uncertainty-Aware Graph Neural Reconstruction of Urban Temperature Fields from Sparse Sensors under Deployment Constraints",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009601?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.481274+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Reda Snaiki, Abdelatif Merabtine</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Driver’s Licensing Laws for Undocumented Immigrants in the U.S.: The Environmental Implications and the Role of Public Transit",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009777?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.481255+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Dafeng Xu</p>"
+  },
+  {
+    "score": 15.0,
+    "title": "Adaptive Learning of Urban Carbon Emission Association Networks and Siphon-Spillover Roles Using Interpretable Spatial Graph Contrastive Learning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726009741?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:13.481212+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 10 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Xiao Yao, Yifan Zhu, Yang Yao, Changfeng Shi</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "All IPCC AR6 regions are close to their 1.5 °C- and 2 °C-equivalent warming limits",
+    "link": "https://www.nature.com/articles/s41558-026-02790-y",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-10T09:54:09.728661+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/s41558-026-02790-y\">doi:10.1038/s41558-026-02790-y</a></p>Climate targets are set for global temperatures, but what they mean regionally is less clear. Here the authors quantify the amount of human-induced warming in individual IPCC regions and find that, by 2025, they had reached 90–94% (65–76%) of their expected warming levels at the 1.5 °C (2 °C) global warming thresholds."
+  },
+  {
+    "score": 11.0,
+    "title": "Regional climate change approaches Paris limits",
+    "link": "https://www.nature.com/articles/s41558-026-02797-5",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-10T09:54:09.728623+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/s41558-026-02797-5\">doi:10.1038/s41558-026-02797-5</a></p>It has been surprisingly difficult to calculate how much warming different regions of the Earth have experienced since pre-industrial times. Now, research shows that in most land regions, the temperature thresholds that governments agreed to in Paris to keep below are already dangerously close."
+  },
+  {
+    "score": 6.0,
+    "title": "A further acceleration of clean energy is needed for global CO<sub>2</sub> emissions to peak and decline",
+    "link": "https://www.nature.com/articles/s41558-026-02821-8",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-10T09:54:09.728583+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41558-026-02821-8\">doi:10.1038/s41558-026-02821-8</a></p>This work projects a decline in global emissions in 2026 as a result of clean energy and in response to conflicts. Energy demand has increased, and will continue to, with electric vehicles and solar and wind deployment mitigating emissions; accelerated deployment is needed to reduce emissions."
+  },
+  {
+    "score": 5.0,
+    "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+    "link": "https://www.nature.com/articles/d41586-026-03628-5",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-10T09:54:09.611732+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03628-5\">doi:10.1038/d41586-026-03628-5</a></p>Food shortages and disease outbreaks are to be expected and need to be addressed together."
+  },
+  {
+    "score": 8.0,
+    "title": "Intergenerational perceptions of garden concepts and values",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002239?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:09.503266+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 279</p><p>Author(s): Kyungsook Woo</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Regional gravity: a zoning heuristic for detecting heterogeneous distance decay effect in spatial interaction",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2751551?af=R",
+    "published": "2026-11-09T09:30:53Z",
+    "collected_at": "2026-11-10T09:54:09.228628+00:00",
+    "feed_title": "tandf: International Journal of Geographical Information Science: Table of Contents",
+    "rss_url": "https://www.tandfonline.com/feed/rss/tgis20",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": ". <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "China's Irrigation‐Induced Evapotranspiration Largely Returns to Land as Precipitation Through Atmospheric Recycling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009289?af=R",
+    "published": "Sun, 08 Nov 2026 22:00:50 -0800",
+    "collected_at": "2026-11-10T09:54:08.366810+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 11, November 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Is the US Warming Hole a Moist‐Enthalpy Hole? Soil‐Moisture Trends Organize Dry and Moist Heat Across CONUS",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009441?af=R",
+    "published": "Mon, 09 Nov 2026 21:39:51 -0800",
+    "collected_at": "2026-11-10T09:54:08.366785+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 11, November 2026."
+  },
+  {
+    "score": 3.0,
+    "title": "Climate Change Forces Hydrological Regime Shifts in Australian Wetlands",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007857?af=R",
+    "published": "Mon, 09 Nov 2026 21:57:08 -0800",
+    "collected_at": "2026-11-10T09:54:08.366769+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 11, November 2026."
+  },
+  {
+    "score": 10.0,
+    "title": "Imbalanced Gray‐Green Infrastructure Closely Parallels Extreme Rainfall‐Flood Resilience Inequality Between Mainstream and Tributary Cities in the Pearl River Basin, Southern China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009184?af=R",
+    "published": "Mon, 09 Nov 2026 23:04:23 -0800",
+    "collected_at": "2026-11-10T09:54:08.366741+00:00",
+    "feed_title": "Wiley: Earth's Future: Table of Contents",
+    "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss&_gl=1*yomv0*_gcl_au*MTE2ODAzMzQ1NS4xNzMzMzA1NzkwLjU0NjQ1Njk3MS4xNzMzMzA2ODQyLjE3MzMzMDY4NDI",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "Earth's Future, Volume 14, Issue 11, November 2026."
+  },
+  {
+    "score": 5.0,
+    "title": "Subway through-draught evolution at full-train scale: From train–tunnel pressure fluctuations to passenger-zone airflow",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326013739?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:07.653100+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jiyu Yao, Zhang Lin, Chong Hu, Zhe Li, Tiantian Wang</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Towards inclusive urban planning: Fine-scale mapping of age and education demographic diversity in Guangzhou",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003620?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-10T09:54:07.567090+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Applied Geography, Volume 198</p><p>Author(s): Feng Gao, Zhaocheng Bai, Yang Liu, Ye Wang, Yafeng Ni, Siming Liao, Danheng Zhuang, Xin Hu</p>"
+  },
+  {
     "score": 6.0,
     "title": "LST-based emerging hot spot and cold spot patterns across National Capital Region of India from 2003 to 2024",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004517?dgcid=rss_sd_all",
