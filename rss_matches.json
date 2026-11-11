@@ -1,5 +1,597 @@
 [
   {
+    "score": 3.0,
+    "title": "Targeting of STEAP3 by a selenium D–π–A photosensitizer that activates ferroptosis",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622307123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407971+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceTargeted photosensitizers that induce nonapoptotic cell death offer a promising strategy to overcome apoptosis resistance, yet the molecular targets underlying most photosensitizers remain poorly defined, constraining the rational development ..."
+  },
+  {
+    "score": 4.0,
+    "title": "Signaling mechanism of the transmembrane energy receptor Aer",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621083123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407939+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceTransmembrane energy receptors, such asEscherichia coliAer, interpret metabolic signals to optimally position bacteria in their environment. We apply cryoelectron microscopy (cryo-EM) and pulse-diplolar ESR spectroscopy to characterize the ..."
+  },
+  {
+    "score": 6.0,
+    "title": "Optimal scenario design for climate emulation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620731123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407854+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceClimate emulators developed through machine learning promise to revolutionize impact assessments by offering an inexpensive way to explore future climates. However, these models often fail to generalize to scenarios that differ from their ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Millennial-scale variability in Greenland dust provenance during Dansgaard–Oeschger events of the last glacial period",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618898123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407781+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceGreenland ice-core records show dust concentrations up to 15 times higher during colder than warmer phases of abrupt climate shifts in the last glacial period. Earlier studies identified East Asian deserts as the primary dust source. Here, ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Rapid vaterite-mediated shell repair for acid-induced damage in a deep-sea mussel",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616760123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407746+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceThe protective calcareous shells of mollusks are valued by humans not only for their beauty but also provide a model for the development of nature-inspired materials and tissue engineering in medicine. Hence, understanding the diverse ..."
+  },
+  {
+    "score": 3.0,
+    "title": "A replaceable soma enables negative senescence in harvester ants",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612817123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407718+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "growth",
+        "score": 2.0
+      },
+      {
+        "keyword": "mortality",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificancePhysical decline and increased mortality are associated with aging, but some species display increased survival and reproduction with age. Such species share two features: continued growth after the onset of reproduction and a mechanism to ..."
+  },
+  {
+    "score": 9.0,
+    "title": "Intensification of compound wind drought and heatwave events under climate change",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604442123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407603+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceAs renewable energy penetration increases, electricity systems will become increasingly vulnerable to extreme weather. One particularly critical hazard is the compound wind drought–heatwave (WDHW), during which weak winds suppress power ..."
+  },
+  {
+    "score": 5.0,
+    "title": "Host and anatomical filters prevent microbiome convergence in avian scavengers",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626358123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407535+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 47, November 2026. <br />SignificanceAnimals continuously encounter microorganisms from food and the environment, but whether intense shared exposure causes their microbiomes to converge remains unclear. Vultures provide a natural test because they repeatedly consume carcasses. ..."
+  },
+  {
+    "score": 8.0,
+    "title": "Sub-ice thermal gradients strongly influence winter depth use of an iconic cold-water fish",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600502123?af=R",
+    "published": "2026-11-09T08:00:00Z",
+    "collected_at": "2026-11-11T09:28:54.407465+00:00",
+    "feed_title": "Proceedings of the National Academy of Sciences: Research Article",
+    "rss_url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=type&tagCode=research-article",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      }
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 47, November 2026. <br />SignificanceUnderstanding fish habitat selection during the winter ice-covered period in northern lakes is critical for predicting species distributions under climate warming. Using 32 y of acoustic telemetry from 11 North American lakes, this work shows ..."
+  },
+  {
+    "score": 3.0,
+    "title": "Widespread North American pollution and health impacts from early twentieth century copper production",
+    "link": "https://www.nature.com/articles/s41893-026-01975-9",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:54.091014+00:00",
+    "feed_title": "Nature Sustainability",
+    "rss_url": "https://www.nature.com/natsustain.rss",
+    "matched_keywords": [
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Sustainability, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41893-026-01975-9\">doi:10.1038/s41893-026-01975-9</a></p>Mining and industrial emissions can be substantially reduced by technological interventions. The historical case of copper production in Anaconda, Montana shows the widespread health burdens that can result when lax regulation delays such interventions."
+  },
+  {
+    "score": 11.0,
+    "title": "Early evidence links data centre exposure to coal power retirement timelines",
+    "link": "https://www.nature.com/articles/s41558-026-02794-8",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:51.724788+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "large",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41558-026-02794-8\">doi:10.1038/s41558-026-02794-8</a></p>Data centre expansion may slow the coal-fired power plants phase-out, complicating decarbonization pathways. This study finds that coal units exposed to post-2020 data centres have lower retirement risks and their potential lifetime extensions could cause large additional CO2 emissions."
+  },
+  {
+    "score": 7.0,
+    "title": "Higher warming leads to a larger zero-emissions commitment",
+    "link": "https://www.nature.com/articles/s41558-026-02789-5",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:51.724751+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41558-026-02789-5\">doi:10.1038/s41558-026-02789-5</a></p>Scientific grounds for a net-zero policy assume near-zero committed warming over a few decades after CO2 emissions cease. A modelling study suggests that if prior peak temperatures rise above 2 °C before cessation of CO2 emissions, committed warming increases, making it harder to stabilize global warming."
+  },
+  {
+    "score": 9.0,
+    "title": "Coal power lives longer next to data centres",
+    "link": "https://www.nature.com/articles/s41558-026-02769-9",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:51.724696+00:00",
+    "feed_title": "Nature Climate Change",
+    "rss_url": "https://www.nature.com/nclimate.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Nature Climate Change, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41558-026-02769-9\">doi:10.1038/s41558-026-02769-9</a></p>Data centres are among the world’s fastest growing electricity consumers. An analysis of more than 9,000 facilities worldwide links the artificial intelligence-era expansion of data centres to delayed coal plant retirements and around 2 Gt of additional carbon dioxide emissions."
+  },
+  {
+    "score": 8.0,
+    "title": "A louder kind of belonging",
+    "link": "https://www.nature.com/articles/s44284-026-00545-6",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:50.677574+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "park",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s44284-026-00545-6\">doi:10.1038/s44284-026-00545-6</a></p>In a Beijing park, a dispute over square dancing versus basketball changed how Haiyun Xu heard the music of women dancers — and revealed unwritten rules that govern whose movements belong in public space."
+  },
+  {
+    "score": 5.0,
+    "title": "Daily briefing: The ‘overshoot COP’ kicks off",
+    "link": "https://www.nature.com/articles/d41586-026-03658-z",
+    "published": "2026-11-09",
+    "collected_at": "2026-11-11T09:28:49.625835+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03658-z\">doi:10.1038/d41586-026-03658-z</a></p>The COP31 climate conference begins, with ‘climate overshoot’ a key talking point. Plus, the surprising benefits of ‘pink noise’ and the role of AI chatbots to support men’s mental health."
+  },
+  {
+    "score": 3.0,
+    "title": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+    "link": "https://www.nature.com/articles/d41586-026-03589-9",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:49.625694+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03589-9\">doi:10.1038/d41586-026-03589-9</a></p>Clues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity."
+  },
+  {
+    "score": 19.0,
+    "title": "Understanding the role of rail transit in shaping urban population density models: A dual-level analysis of Chinese cities at city and station levels",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002380?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:49.534479+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 279</p><p>Author(s): Haoyu Hu, Jianfa Shen, Hengyu Gu, Jun Chu, Junwei Zhang</p>"
+  },
+  {
+    "score": 14.0,
+    "title": "The olfactory city: mapping urban smellscape perceptions through social sensing and spatial context",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002501?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:49.534437+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 279</p><p>Author(s): Chun Wang, Yihui Zhao, Bingtao Gao, Zezhou Hao, Le Li, Hongxiao Liu, Yuanke Liao, Wenhui Cai, Thami Croeser, Melanie Davern, Yazid Ninsalam, Nancai Pei, Qian (Chayn) Sun</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Empowerment or Burden? Gendered Transformations of Household Roles under Climate Mobilities in Eastern and Southern Ethiopia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526003255?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:49.157965+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Habitat International, Volume 179</p><p>Author(s): Jin-ho Chung, Fekadu Adugna Tufa, Valentina Montoya-Robledo</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Extreme cold–dry events in East Asia during glacials reflect insolation thresholds",
+    "link": "https://www.nature.com/articles/s43247-026-04060-3",
+    "published": "2026-11-10",
+    "collected_at": "2026-11-11T09:28:48.215284+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04060-3\">doi:10.1038/s43247-026-04060-3</a></p>“Proxy records providing simultaneous constraints on temperature and hydroclimate from the Chinese Loess Plateau reveal repeated extreme cold–dry events during glacial inceptions and pronounced droughts during glacial terminations, suggesting that threshold-like behavior may represent an important mode of continental climate response to orbital forcing”"
+  },
+  {
+    "score": 13.0,
+    "title": "Cascaded PCM Canister for Sequential Latent Heat Storage and Passive Cooling in Buildings: Field Evaluation of Concrete Roof Under Hot Weather Conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326013740?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:46.844898+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "buildings",
+        "score": 1.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): S. Muthulingam, Utkrista Pokharel, Shravya Raj Pandit, Chetan Jassal</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Weather-driven cooling-to-heating reversal and section-wise hygrothermal performance of a full-scale building-integrated underground ventilation corridor",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326013752?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:46.844872+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Lina Jiang, Yafeng Gao, Rui Guo, Zhixuan Fan, Ruiqi Xiang, Xin Liu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Fresh-air pre-cooling performance and thermo-mechanical response of PCM-EAHE system in confined underground pit trenches",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326013764?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:46.844847+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Haixia Cao, Chao Zeng, Jiajun He, Wei Xu, Yanping Yuan</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Characterization of human thermal plumes and associated exhaled aerosol transport under multiple interacting factors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326013715?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:46.844809+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "thermal",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 9 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Lina Hu, Huijuan Xu, Zhijian Liu, Chenxing Hu, Zirun Shi, Rui Rong, Zhao Jin, Yue Liu, Xinping Xu</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Accessible parks, unequal represented environmental quality? Child- and older-adult-related park-use contexts in Beijing through multimodal social media data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003565?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-11T09:28:46.735889+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "parks",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Applied Geography, Volume 198</p><p>Author(s): Jiaqi Zhang, Jin Rui, Zhiqiang Wu</p>"
+  },
+  {
     "score": 9.0,
     "title": "The urban dry island (UDI) effect under different PM<sub>2.5</sub> pollution levels in Nanjing Metropolis, China",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004487?dgcid=rss_sd_all",
