@@ -1,5 +1,593 @@
 [
   {
+    "score": 12.0,
+    "title": "Development and application of a high-resolution green infrastructure supply–demand model for urban heat wave assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726005303?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:18.074569+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "development",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 November 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Jiwoo Lee, Eun Joo Yoon</p>"
+  },
+  {
+    "score": 19.0,
+    "title": "Surface heat island exposure is becoming more spatially uniform within warming cities worldwide",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726010231?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:17.760371+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "warming",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Siwei Lou, Yu Huang, Haochen Shi, Yukai Zou, Ruijun Chen, Dawei Xia, Leyan Yang, Holly W. Samuelson</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "A sparse non-photosynthetic vegetation index and its RGB extension: Evaluation using Sentinel-2, SDGSAT-1, and UAV imagery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0034425726005663?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:17.064637+00:00",
+    "feed_title": "ScienceDirect Publication: Remote Sensing of Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00344257",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: 15 January 2027</p><p><b>Source:</b> Remote Sensing of Environment, Volume 349</p><p>Author(s): Cuicui Ji, Hao Yuan, Xiaosong Li, Fuyang Sun, Bin Sun, Xuemei Yang, Hengcong Yang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Unidirectional rolling of single-crystal graphene into nanoscrolls",
+    "link": "https://www.nature.com/articles/s41467-026-79818-6",
+    "published": "2026-11-24",
+    "collected_at": "2026-11-24T12:32:15.982462+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79818-6\">doi:10.1038/s41467-026-79818-6</a></p>Rolled-up nanoscrolls based on 2D materials exhibit interesting emerging properties, but their scalable synthesis remains challenging. Here, the authors report the fabrication of aligned graphene nanoscrolls with tunable thickness via deterministic rolling of wafer-scale single-crystal graphene films during post-growth cooling, showing enhanced photoresponse and high carrier mobility."
+  },
+  {
+    "score": 5.0,
+    "title": "Iso-Seq enables discovery of novel isoform variants in human retina at single-cell resolution",
+    "link": "https://www.nature.com/articles/s41467-026-78606-6",
+    "published": "2026-11-24",
+    "collected_at": "2026-11-24T12:32:15.982434+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78606-6\">doi:10.1038/s41467-026-78606-6</a></p>Iso-Seq enabled isoform discovery of human retina at single cell levels. This study revealed novel isoforms, splice junctions and alternative promoters across major retinal cell types, providing insights into the retinal transcriptomic landscape."
+  },
+  {
+    "score": 5.0,
+    "title": "Dissecting the root-fungal interface in 3D reveals spatially distinct signalling landscapes",
+    "link": "https://www.nature.com/articles/s41467-026-79701-4",
+    "published": "2026-11-24",
+    "collected_at": "2026-11-24T12:32:15.982327+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 24 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79701-4\">doi:10.1038/s41467-026-79701-4</a></p>Plant-fungal interactions in the rhizosphere influence plant health. Here the authors describe an optically transparent granular microgel matrix that mimics the mechanical properties of natural microenvironments to dissect fungal development and pathogenesis."
+  },
+  {
+    "score": 6.0,
+    "title": "Assessing public preferences for reforming water subsidy eligibility rules in Delhi",
+    "link": "https://www.nature.com/articles/s44284-026-00546-5",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:15.895431+00:00",
+    "feed_title": "Nature Cities",
+    "rss_url": "https://www.nature.com/natcities.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "population",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Cities, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s44284-026-00546-5\">doi:10.1038/s44284-026-00546-5</a></p>Sinha and co-authors survey 728 residents of Delhi about water subsidy design options to understand which eligibility rules people consider most acceptable and fair. Although the study finds support for subsidies when water use remains below a threshold as well as an income-based subsidy, preferences differ sharply across population groups, making reform politically and practically challenging."
+  },
+  {
+    "score": 3.0,
+    "title": "Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools",
+    "link": "https://www.nature.com/articles/d41586-026-03721-9",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:15.124396+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03721-9\">doi:10.1038/d41586-026-03721-9</a></p>The researcher and educator explains why she’s optimistic about the future of work and what individuals can do to thrive alongside artificial intelligence."
+  },
+  {
+    "score": 3.0,
+    "title": "How to make climate anxiety your superpower",
+    "link": "https://www.nature.com/articles/d41586-026-03818-1",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:15.124347+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03818-1\">doi:10.1038/d41586-026-03818-1</a></p>Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action."
+  },
+  {
+    "score": 3.0,
+    "title": "COP31 went down in flames over fossil fuels — it sends an important message",
+    "link": "https://www.nature.com/articles/d41586-026-03827-0",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:15.124257+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03827-0\">doi:10.1038/d41586-026-03827-0</a></p>Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009."
+  },
+  {
+    "score": 10.0,
+    "title": "Optimising soil provision for woodland creation in sustainable brownfield regeneration – A new online Decision Support Tool",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169204626002665?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:15.056171+00:00",
+    "feed_title": "ScienceDirect Publication: Landscape and Urban Planning",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692046",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "landscape",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Landscape and Urban Planning, Volume 279</p><p>Author(s): Andy J. Moffat, Anthony J. Schultz, Sally Crudge, Nigel A.D. Bending</p>"
+  },
+  {
+    "score": 12.0,
+    "title": "Coordinating ecological and recreational functions in urban green infrastructure: A multilayer network approach across spatial scales",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726005235?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:15.001158+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Land Use Policy, Volume 174</p><p>Author(s): Kaidan Hou, Ling Zhu, Rui Wang, Zehua Han</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Combustion-derived particulate matter is associated with inflammation and accelerated biological aging in women",
+    "link": "https://www.nature.com/articles/s43247-026-04240-1",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:12.757838+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04240-1\">doi:10.1038/s43247-026-04240-1</a></p>Mixed-source fine particulate matter exposure in eastern India was linked to higher metal pollutant burdens, increased inflammation and apoptosis, reduced cellular-energy pathways, and accelerated biological aging, with stronger effects in women according to chemical analysis, household surveys, and blood RNA sequencing."
+  },
+  {
+    "score": 8.0,
+    "title": "Arctic sea ice decline amplifies extreme wave exposure for the northernmost Canadian Inuit community",
+    "link": "https://www.nature.com/articles/s43247-026-04146-y",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:12.757808+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04146-y\">doi:10.1038/s43247-026-04146-y</a></p>The lengthening of the ice-free season in Northern Canada may increase the frequency of extreme wave events by up to 62% by mid-century, according to analysis of total water level data from Ausuittuq, Nunavut, combined with future projections."
+  },
+  {
+    "score": 8.0,
+    "title": "Adaptive responses to global food availability shocks can unintentionally amplify food inequality",
+    "link": "https://www.nature.com/articles/s43247-026-04164-w",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:12.757779+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "development",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "inequality",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04164-w\">doi:10.1038/s43247-026-04164-w</a></p>Food shortage responses can worsen inequality and amplify cascades; for example, an Indian rice shock raises losses by 6 percent in low human development countries and reduces them by 14 percent in high human development countries, while interacting shocks add up to 12 percent in global losses, according to a calibrated multilayer food trade network model."
+  },
+  {
+    "score": 4.0,
+    "title": "Fault morphology bounds the scaling of injection induced seismicity",
+    "link": "https://www.nature.com/articles/s43247-026-04242-z",
+    "published": "2026-11-23",
+    "collected_at": "2026-11-24T12:32:12.757744+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "morphology",
+        "score": 2.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04242-z\">doi:10.1038/s43247-026-04242-z</a></p>Fault morphology may influence the variability and style of injection-induced seismicity and could improve estimates of maximum seismic moment when considered alongside injected volume, according to controlled fluid-injection experiments on roughened faults."
+  },
+  {
+    "score": 6.0,
+    "title": "Probabilistic multi-horizon spatiotemporal forecasting of injection-induced seismicity in geothermal systems",
+    "link": "https://www.nature.com/articles/s43247-026-04200-9",
+    "published": "2026-11-24",
+    "collected_at": "2026-11-24T12:32:12.757704+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "spatiotemporal",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 24 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04200-9\">doi:10.1038/s43247-026-04200-9</a></p>QuakeCastNet forecasts seismicity rates and spatial distributions at two geothermal sites, where the network improves early forecasts, decay adaptation addresses shut-in conditions absent from network training, and the sites show contrasting temporal and spatial responses."
+  },
+  {
+    "score": 20.0,
+    "title": "Does urban green space spatial equity influence the respiratory health benefits of green exposure? An empirical study in Nanjing, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010826?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.862203+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      },
+      {
+        "keyword": "health",
+        "score": 2.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      },
+      {
+        "keyword": "equity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Yipei Mao, Ke Li, Yongjun Li, Tianyuan Shou, Jieling Xiao, Jiaxing Wei</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Decoding the spatial associations of public-building energy use: A neighborhood-scale perspective for low-carbon urban planning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126009248?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.862165+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "energy",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Jun Xiao, Dong Li, Borong Lin, Hao Zhou, Yang Zhao, Xiaosong Ma</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Spatial and temporal patterns of overheating across hospital wards with contrasting ventilation and cooling provision",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326014149?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.799310+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Claudia Kopic, Katalin Fülep, Luisa A. Denkel, Giovanni-Battista Fucini, Bruno Louis Otto Philip, Alexander Neubauer, Alexander Gropmann, Martin Kriegel</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Mitigating Urban Traffic-Related NO<sub>2</sub> Pollution through Outdoor Surface Photocatalysis and Vegetation Purification Based on CFD Numerical Simulation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326014216?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.799277+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Jingwen Chen, Jianqing Gao, Guanhua Qin, Kherbouche Fouad, Mohamed Osman Arnous, Zhuangbo Feng</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Ten questions concerning adaptive architecture for improving well-being",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326014204?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.799252+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 22 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Davide Schaumann, Alex Binh Vinh Duc Nguyen, Sara Arko, Marco Caffi, Panos Chatzitsakyris, Agnese Chiucchiù, Rania Christoforou, Thanasis Farangas, Sivan Grodsky, Marc Hoppermann, Veronica Martins Gnecco, Tomáš Ondráček, Ilaria Pigliautile, Benedetta Pioppi, Anna Laura Pisello, Anja Pogladič, Jakub Prochazka, Alena Safrova Drasilova, Marcel Schweiker, Adam Tarr</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Enhancing the prediction accuracy for sweating in human thermoregulation model: A multi-step body water loss prediction procedure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360132326014162?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.799197+00:00",
+    "feed_title": "ScienceDirect Publication: Building and Environment",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03601323",
+    "matched_keywords": [
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 23 November 2026</p><p><b>Source:</b> Building and Environment</p><p>Author(s): Xianzhun Zhong, Han Liu, Peiyang Du, Yongxin Xie, Huihui Zhao, Lihua Zhao, Qiong Li, Qinglin Meng, Jianlei Niu</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "From spatial linkages to cultural experience: Differentiated environmental drivers in peri-urban and exurban forest parks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0143622826003784?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-24T12:32:11.716773+00:00",
+    "feed_title": "ScienceDirect Publication: Applied Geography",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01436228",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      },
+      {
+        "keyword": "environmental",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Applied Geography, Volume 198</p><p>Author(s): Wenjie Liu, Shuai Zhang, Zhijun Chen, Yishu Xia, Dengkai Huang</p>"
+  },
+  {
     "score": 14.0,
     "title": "Spatial allocation of rooftop photovoltaics shapes urban thermal responses under a fixed deployment fraction: A WRF–BEP/BEM study of Singapore",
     "link": "https://www.sciencedirect.com/science/article/pii/S2210670726010188?dgcid=rss_sd_all",
