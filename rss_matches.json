@@ -1,6 +1,954 @@
 [
   {
     "score": 9.0,
+    "title": "Beyond Blue–Green Provision: Realized Exposure, Everyday Mobility, and Urban Vitality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726005340?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.795036+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "exposure",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 November 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yuwei Wu, Haoxuan Xu, Yuxuan Lyu, Xueying Zhang, Man Zhang</p>"
+  },
+  {
+    "score": 11.0,
+    "title": "Beyond green space extent: nonlinear microhabitat responses and the large-park paradox in winter soundscapes of a high-density subtropical city",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726005352?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.795009+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "space",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 27 November 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Yarong Yang, Decai Shen, Yongguang Luo, Haiqi Zhou, Songsong Liu, Chaodong Yan, Jiali Jin, Cheng Wang</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "Hidden in plain sight: Role of pocket parks as bird habitat in high-latitude cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1618866726005388?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.794969+00:00",
+    "feed_title": "ScienceDirect Publication: Urban Forestry & Urban Greening",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/16188667",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "parks",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 27 November 2026</p><p><b>Source:</b> Urban Forestry & Urban Greening</p><p>Author(s): Miguel A. Gómez-Martínez, Jonathan Morales-Contreras, Michelle García-Arroyo, Ida Litmanen, Ian MacGregor-Fors</p>"
+  },
+  {
+    "score": 10.0,
+    "title": "Scenario-based urban zoning analytics in a GIS Planning Support System: A parcel-level assessment framework using CommunityViz Pro",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726010383?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.486163+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Ersia Stylianou, Demetris Demetriou</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Estimating Building Electricity Consumption Using Occupant-Density Proxies: An XGBoost Approach with Mobile Telecommunication Big Data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726010401?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.486145+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "building",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Havva Elmali, Hyunseong Yun, Seung-Nam Kim</p>"
+  },
+  {
+    "score": 17.0,
+    "title": "An Integrated AI-GIS-MCDM Framework for Spatial Prioritization of Urban Heat Island Mitigation Strategies in Bengaluru",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221067072601036X?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.486124+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Syeda Nazneen Zahara, Udaya Kumara K N</p>"
+  },
+  {
+    "score": 22.0,
+    "title": "Higher circuit-theory-based ventilation connectivity is associated with weaker surface cooling across urban blue–green spaces in a subtropical city",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2210670726010164?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:16.486082+00:00",
+    "feed_title": "ScienceDirect Publication: Sustainable Cities and Society",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/22106707",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 27 November 2026</p><p><b>Source:</b> Sustainable Cities and Society</p><p>Author(s): Mingxiao Han, Zhen Si, Huixin Cheng</p>"
+  },
+  {
+    "score": 4.0,
+    "title": "Localized surface plasmon resonance-enhanced desorption dynamics drive ultrahigh negative photoconductivity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326014404?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:15.912678+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 November 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Lan Liu, Jinxu Qin, Shoulong Lai, Hang Liu, Wuyou Zhang, Yingjie Zhang, Xigui Yang, Chongxin Shan</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Giant surface-driven nonlinear Hall effect in BiTeCl at room temperature",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2095927326014428?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:15.912647+00:00",
+    "feed_title": "ScienceDirect Publication: Science Bulletin",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/20959273",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: Available online 26 November 2026</p><p><b>Source:</b> Science Bulletin</p><p>Author(s): Zhihua Liu, Ziheng Wang, Yongbo Lv, Hanru Feng, Zhiwei Zhang, Bo Zhang, Feng Liu, Guohua Wang, Shengwei Jiang, Hao Chu, Bo Liu, Hui Li, Dong Qian</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Meridional ocean temperature gradient drives climate stability in the Late Ordovician",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej0478?af=R",
+    "published": "2026-11-27T08:00:00Z",
+    "collected_at": "2026-11-28T10:30:15.812700+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 48, November 2026. <br />"
+  },
+  {
+    "score": 4.0,
+    "title": "Sinking cities: Latent flood risk in Africa’s coastal megacities",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6538?af=R",
+    "published": "2026-11-27T08:00:00Z",
+    "collected_at": "2026-11-28T10:30:15.812643+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "risk",
+        "score": 1.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 48, November 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "A spatial peroxisomal switch of AGPS drives ether lipid–induced ferroptosis in vascular calcification",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3708?af=R",
+    "published": "2026-11-27T08:00:00Z",
+    "collected_at": "2026-11-28T10:30:15.812607+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 48, November 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Heat flow in Mare Crisium: The first robotic measurement on the Moon",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej4551?af=R",
+    "published": "2026-11-27T08:00:00Z",
+    "collected_at": "2026-11-28T10:30:15.812466+00:00",
+    "feed_title": "AAAS: Science Advances: Table of Contents",
+    "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      }
+    ],
+    "summary": "Science Advances, Volume 12, Issue 48, November 2026. <br />"
+  },
+  {
+    "score": 3.0,
+    "title": "Z-TAC enables custom and combinatorial degradation of cell surface proteins",
+    "link": "https://www.nature.com/articles/s41467-026-79448-y",
+    "published": "2026-11-28",
+    "collected_at": "2026-11-28T10:30:13.986644+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "surface",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 28 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79448-y\">doi:10.1038/s41467-026-79448-y</a></p>Cell-surface protein degraders can eliminate disease-relevant proteins, but most require custom engineering for each target. Here, the authors develop Z-TAC, a plug-and-play platform that converts existing antibodies into degraders for diverse cell-surface proteins."
+  },
+  {
+    "score": 3.0,
+    "title": "Engineering electrolyte ion solvation structures for next-generation batteries",
+    "link": "https://www.nature.com/articles/s41467-026-79910-x",
+    "published": "2026-11-28",
+    "collected_at": "2026-11-28T10:30:13.986563+00:00",
+    "feed_title": "Nature Communications",
+    "rss_url": "http://feeds.nature.com/ncomms/rss/current",
+    "matched_keywords": [
+      {
+        "keyword": "temperature",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Nature Communications, Published online: 28 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79910-x\">doi:10.1038/s41467-026-79910-x</a></p>Battery performance strongly depends on the solvation structures of mobile ions within electrolytes. Here, the author explores how engineering these structures can guide electrolyte design for fast charging, operation across a wide temperature range and high-voltage stability."
+  },
+  {
+    "score": 4.0,
+    "title": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+    "link": "https://www.nature.com/articles/d41586-026-03900-8",
+    "published": "2026-11-27",
+    "collected_at": "2026-11-28T10:30:13.080124+00:00",
+    "feed_title": "Nature",
+    "rss_url": "https://www.nature.com/nature.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03900-8\">doi:10.1038/d41586-026-03900-8</a></p>Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment."
+  },
+  {
+    "score": 5.0,
+    "title": "State, distributional conflict, and land institutional change: A historical analysis of China’s rural land transfer rights reform for non-agricultural use",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726005260?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:12.881786+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "rural",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Land Use Policy, Volume 174</p><p>Author(s): Wenbo Zheng, Lei Feng</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Mobilizing private capital for forest ecological compensation: A carbon sink-based hybrid financing mechanism",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264837726005272?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:12.881747+00:00",
+    "feed_title": "ScienceDirect Publication: Land Use Policy",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02648377",
+    "matched_keywords": [
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Land Use Policy, Volume 174</p><p>Author(s): Yang Li, Qinjin Zhang</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Beyond Concrete and Canopy: What Drives Community Traffic Recovery after Extreme Snowfall?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0197397526003383?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:12.627020+00:00",
+    "feed_title": "ScienceDirect Publication: Habitat International",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01973975",
+    "matched_keywords": [
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: January 2027</p><p><b>Source:</b> Habitat International, Volume 179</p><p>Author(s): Shiwei Yu, Jianfei Chen, Jue Gong, Wente Pan</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Exploring human mobility responses to heatwaves in the United States using mobile location data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0198971526001675?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:10.753634+00:00",
+    "feed_title": "ScienceDirect Publication: Computers, Environment and Urban Systems",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01989715",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "human",
+        "score": 2.0
+      },
+      {
+        "keyword": "heatwaves",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: March 2027</p><p><b>Source:</b> Computers, Environment and Urban Systems, Volume 132</p><p>Author(s): Ruixiang Liu, Sooyoung Lim, M. Naser Lessani, Zhenlong Li</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Global assessment of solar encroachment on cropland and food production",
+    "link": "https://www.nature.com/articles/s43247-026-04221-4",
+    "published": "2026-11-27",
+    "collected_at": "2026-11-28T10:30:10.690795+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04221-4\">doi:10.1038/s43247-026-04221-4</a></p>Global photovoltaic expansion on cropland threatens food production, with losses projected to increase 12–22-fold by 2050, though mitigation measures could substantially reduce impacts, according to global photovoltaic mapping, crop-production estimation and future scenario modeling."
+  },
+  {
+    "score": 10.0,
+    "title": "Anthropogenic impacts shift carbon dioxide emissions from Chinese rivers from historical reductions to future increases",
+    "link": "https://www.nature.com/articles/s43247-026-04219-y",
+    "published": "2026-11-27",
+    "collected_at": "2026-11-28T10:30:10.690757+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "density",
+        "score": 2.0
+      },
+      {
+        "keyword": "carbon",
+        "score": 2.0
+      },
+      {
+        "keyword": "learning",
+        "score": 2.0
+      },
+      {
+        "keyword": "machine",
+        "score": 1.0
+      },
+      {
+        "keyword": "emissions",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04219-y\">doi:10.1038/s43247-026-04219-y</a></p>Riverine CO2 emissions from Chinese rivers declined historically but are projected to rise by 17% by 2100 due to longer ice-free seasons, expanding river areas and increasing emission density, suggests a study using explainable machine learning to reconstruct and project emissions from 1980 to 2100."
+  },
+  {
+    "score": 7.0,
+    "title": "Storyline attribution of fire weather during the 2025 Mediterranean summer",
+    "link": "https://www.nature.com/articles/s43247-026-04238-9",
+    "published": "2026-11-27",
+    "collected_at": "2026-11-28T10:30:10.690726+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "weather",
+        "score": 1.0
+      },
+      {
+        "keyword": "temperatures",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04238-9\">doi:10.1038/s43247-026-04238-9</a></p>Climate change substantially intensified fire-conducive weather across the Mediterranean in the summer of 2025, primarily through higher temperatures, based on a spectrally nudged storyline attribution framework."
+  },
+  {
+    "score": 3.0,
+    "title": "Heterogeneous cycling of molybdenum and other trace metals in oxic to suboxic Pacific pelagic sediments",
+    "link": "https://www.nature.com/articles/s43247-026-04210-7",
+    "published": "2026-11-28",
+    "collected_at": "2026-11-28T10:30:10.690701+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "heterogeneity",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 28 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04210-7\">doi:10.1038/s43247-026-04210-7</a></p>Different redox conditions and Mn-oxide mineral phases drive contrasting trace-metal cycling, particularly for molybdenum, in sediments underlying polymetallic nodule areas, according to analysis of trace metal heterogeneity of two exploration contract areas for polymetallic nodule mining in the Pacific."
+  },
+  {
+    "score": 15.0,
+    "title": "Subtropical island vegetation in southern Central Europe during Middle Miocene global cooling",
+    "link": "https://www.nature.com/articles/s43247-026-04228-x",
+    "published": "2026-11-28",
+    "collected_at": "2026-11-28T10:30:10.690670+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "climate",
+        "score": 3.0
+      },
+      {
+        "keyword": "island",
+        "score": 3.0
+      },
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "vegetation",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 28 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04228-x\">doi:10.1038/s43247-026-04228-x</a></p>Land-sea distribution is an important factor in modulating regional terrestrial climate and latitudinal gradients and has significant implications for understanding vegetation responses to climate change, as shown using plant and animal fossils of Miocene age from Croatia."
+  },
+  {
+    "score": 4.0,
+    "title": "Portuguese cave atmospheres reveal rich biosignatures of subterranean life",
+    "link": "https://www.nature.com/articles/s43247-026-04260-x",
+    "published": "2026-11-28",
+    "collected_at": "2026-11-28T10:30:10.690630+00:00",
+    "feed_title": "Communications Earth & Environment",
+    "rss_url": "https://www.nature.com/commsenv.rss",
+    "matched_keywords": [
+      {
+        "keyword": "environment",
+        "score": 2.0
+      },
+      {
+        "keyword": "air",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Communications Earth &amp; Environment, Published online: 28 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04260-x\">doi:10.1038/s43247-026-04260-x</a></p>Microbial degradation of plant matter and methanotrophic activity are key processes in cave atmospheric compositions, according to analyses of air chemical composition in two caves of the Algarve and Estremenho karst massifs in Portugal."
+  },
+  {
+    "score": 17.0,
+    "title": "From cooling potential to marginal benefits: A smart-city framework for equitable green infrastructure planning under extreme heat",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010139?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737149+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "heat",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "cooling",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "extreme",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Newaz Ibrahim Khan, Alessio Russo, Umberto Baresi</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "Is being happy with your city and connected to the neighborhood associated with increased wellbeing? Evidence from the panel study of income dynamics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010917?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737128+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "dynamics",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): William A.V. Clark</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "From silos to datapolis? Digital governance transformation in Warsaw",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126009984?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737106+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Mateusz Trochymiak, Anna Domaradzka</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Managing accessibility in public spaces for persons with disability: A thematic analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010310?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737092+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Elizabeth C. Mayland, Vanessa A.A. Huron, Carlo Caponecchia</p>"
+  },
+  {
+    "score": 9.0,
+    "title": "How does the spatial expansion of oasis cities affect the quality of habitats? A case study of the Heihe River Basin",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010395?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737075+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "expansion",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Wang Lucang, Fu Miao</p>"
+  },
+  {
+    "score": 13.0,
+    "title": "Towards subsidence-resilient cities: A systematic synthesis of land subsidence research for sustainable urban planning and design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010942?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737058+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "land",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Hadi Soltanifard, Marzieh Izi</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "From potential to realized accessibility: Revisiting accessibility theory in 15-Minute City research",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010607?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737041+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "city",
+        "score": 3.0
+      },
+      {
+        "keyword": "accessibility",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Saad AlQuhtani</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Pedestrian rights claim-making at street crossing: <em>Droit</em>, <em>praxis</em>, and the autonomous vehicle transition in Chinese cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010619?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737026+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Ho-Yin Chan, Hongyang Liu, Dianchen Zhu</p>"
+  },
+  {
+    "score": 3.0,
+    "title": "Nonlinear associations between perceived environments and life satisfaction: A comparison of workplaces and residences",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010097?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.737008+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Chun Yin, Yuanyuan Shi, Jing Wen, Senqi Tian, Bindong Sun</p>"
+  },
+  {
+    "score": 8.0,
+    "title": "Anticipating future incremental densification: A parcel-level modelling framework for urban planning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010036?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.736988+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "planning",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Denise Ehrhardt, Sebastian Eichhorn, Eric Koomen, Mathias Jehling</p>"
+  },
+  {
+    "score": 5.0,
+    "title": "Sustainable transportation assessment for European countries with smart cities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010887?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.736971+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "sustainable",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Sara Salehi, Neyre Tekbıyık-Ersoy</p>"
+  },
+  {
+    "score": 7.0,
+    "title": "The shadow of urban shrinkage: Evolution and drivers of land-use efficiency in shrinking cities of Chinese urban agglomerations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126011170?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.736949+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "shrinkage",
+        "score": 1.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Bo Niu, Zhitao Liu</p>"
+  },
+  {
+    "score": 16.0,
+    "title": "Encouraging community-led initiatives in urban spaces: Spatial distribution, installer profiles, and design of Vienna's “Green Parklets”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010711?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.736927+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "urban",
+        "score": 3.0
+      },
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      },
+      {
+        "keyword": "green",
+        "score": 3.0
+      },
+      {
+        "keyword": "spaces",
+        "score": 2.0
+      },
+      {
+        "keyword": "distribution",
+        "score": 2.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part A</p><p>Author(s): Naomi Shimpo, Naotaka Ota</p>"
+  },
+  {
+    "score": 6.0,
+    "title": "Designing inclusive cities: Professionally grounded spatial practices in India and Indonesia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0264275126010255?dgcid=rss_sd_all",
+    "published": "",
+    "collected_at": "2026-11-28T10:30:09.736873+00:00",
+    "feed_title": "ScienceDirect Publication: Cities",
+    "rss_url": "https://rss.sciencedirect.com/publication/science/02642751",
+    "matched_keywords": [
+      {
+        "keyword": "cities",
+        "score": 3.0
+      },
+      {
+        "keyword": "spatial",
+        "score": 3.0
+      }
+    ],
+    "summary": "<p>Publication date: December 2026</p><p><b>Source:</b> Cities, Volume 180, Part B</p><p>Author(s): Priyam Das, Ashok Das, Sandy Jiyoon Kim</p>"
+  },
+  {
+    "score": 9.0,
     "title": "Development of precision particulate emission inventory and emission hotspot mapping using a hybrid AI-ML methodology in Silicon Valley of India",
     "link": "https://www.sciencedirect.com/science/article/pii/S2212095526004736?dgcid=rss_sd_all",
     "published": "",
